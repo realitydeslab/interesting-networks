@@ -69,6 +69,14 @@ _(Things that seem to be pulling Amber's attention — update as you notice)_
 - Communities as research infrastructure (Future Observatory model)
 - The network itself as the research object (mapping who talks to whom)
 - Residency-based research (art × tech × place)
+- AI × theology × mysticism × erotics (via [[Bogna Konior]])
+- Eastern European + Chinese techno-philosophical traditions — non-Western tech theory
+- Speculative computation (via [[Antikythera]], [[Benjamin Bratton]])
+- Dark forest theory of the internet
+
+## Key Inspirations
+People Amber explicitly says inspire them:
+- **[[Bogna Konior]]** — "very close to me", "inspiring me a lot"
 
 ---
 *Last updated: 2026-02-26*
