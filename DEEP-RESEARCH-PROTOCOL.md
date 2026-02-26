@@ -82,3 +82,27 @@ For every fellowship, residency, award, programme the person was part of:
 - ⭐⭐⭐ person: 60-90 minutes
 - ⭐⭐ person: 30-45 minutes  
 - ⭐ person: 15-20 minutes
+
+---
+
+## GitHub Issue Rules
+
+### When completing a deep research:
+1. Create a GitHub issue with the checklist above: `Deep Research: [Name] — completeness check`
+2. Label it `deep-research` + `review` (for Amber to check)
+3. Check off items as you complete them
+4. Close the issue only when Amber approves
+
+### When discovering someone worth researching later:
+1. Create a GitHub issue: `Deep Research Queue: [Name] ⭐⭐`
+2. Label it `queue`
+3. Include: who discovered them, why they're interesting, what research is needed
+4. The daily scout picks from the queue
+
+### Labels
+- `deep-research` — active deep research task
+- `queue` — people/communities waiting for deep research
+- `review` — needs Amber's review before closing
+
+### Rule: Every ⭐⭐⭐ person MUST have an issue tracking completeness.
+### Rule: Every new interesting person discovered goes into the queue as an issue.
