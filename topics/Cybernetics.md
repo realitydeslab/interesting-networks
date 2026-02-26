@@ -1,31 +1,31 @@
 ---
 added: 2026-02-26
-tags: [critical-computing, more-than-human, alife]
+tags: [critical-computing, alife, more-than-human]
 ---
 
-# Cybernetics (Historical and Neo-)
+# Cybernetics
 
-The study of regulatory and purposive systems — feedback, control, communication in animals and machines (Wiener, 1948).
+The study of control and communication in animals and machines. Founded by Norbert Wiener (1948). Two waves: first-order (observer outside system) and second-order (observer inside system).
 
-## Historical Cybernetics
-- Norbert Wiener — *Cybernetics* (1948)
+## Historical Key Figures
+- Norbert Wiener — founder
+- W. Ross Ashby — variety, homeostasis
 - Gregory Bateson — cybernetics of mind, ecology
-- Heinz von Foerster — second-order cybernetics
 - Stafford Beer — management cybernetics, Cybersyn
 - Gordon Pask — conversation theory
-- Macy Conferences (1946–1953)
+- Heinz von Foerster — second-order cybernetics
 
 ## Neo-Cybernetics
 - [[Yuk Hui]] — *Recursivity and Contingency* (2019)
 - [[CCRU]] — cybernetic culture
-- Ranulph Glanville — design and cybernetics
-- Active inference / Karl Friston — new cybernetic framework
+- Andrew Pickering — *The Cybernetic Brain* (2010)
+- Antikythera's "planetary computation" has cybernetic roots
 
-## Connections
-- [[Antikythera]] — "planetary computation" is neo-cybernetic
-- [[Santa Fe Institute]] — complexity as cybernetics' successor
-- [[Donna Haraway]] — Cyborg Manifesto draws on cybernetics
-- [[Katherine Hayles]] — *How We Became Posthuman* critiques cybernetics
+## Related
+- [[Active Inference]] — cybernetic in spirit
+- [[Artificial Life]] — historical overlap
+- [[Machine Behavior]] — studying machines cybernetically
+- Stafford Beer's Cybersyn → Chilean socialism + computation
 
 ## Why Interesting
-The intellectual ancestor of ALife, machine behavior, systems thinking, and more-than-human design. Current revival through active inference, planetary computation, and design cybernetics.
+Cybernetics is having a renaissance. The original cybernetics was genuinely interdisciplinary in ways we've lost — it connected biology, computing, art, politics, and philosophy. Neo-cybernetics reconnects these. Yuk Hui's treatment is particularly interesting.

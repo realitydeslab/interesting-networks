@@ -1,32 +1,26 @@
 ---
 added: 2026-02-26
-tags: [cosmotechnics, critical-computing, posthuman]
+tags: [critical-computing, posthuman, cosmotechnics]
+coined_by: "[[Yuk Hui]]"
 ---
 
 # Cosmotechnics
 
-Concept originated by [[Yuk Hui]]. The unification of cosmic and moral orders through technical activities. Challenges the universality of Western technology concepts.
-
-## Core Idea
-Technology is not universal — different civilizations have different "cosmotechnics" reflecting their cosmological and moral frameworks. Western modernity imposed one particular cosmotechnics (Greek techne → modern technology) as universal.
+Concept originated by [[Yuk Hui]]. The unification of cosmic and moral orders through technical activities. Challenges the universality of Western technology concepts by showing that different civilizations have different "cosmotechnics" — different ways of unifying cosmology and technics.
 
 ## Key Texts
-- [[Yuk Hui]] — *The Question Concerning Technology in China* (2016)
-- [[Yuk Hui]] — *Art and Cosmotechnics* (2021)
-- Response to Heidegger's "Question Concerning Technology"
+- [[Yuk Hui]], *The Question Concerning Technology in China* (2016)
+- [[Yuk Hui]], *Art and Cosmotechnics* (2021)
 
 ## Related Concepts
 - Technodiversity — against technological monoculture
-- [[Sinofuturism]] — speculative Chinese technological futures
-- [[Accelerationism]] — in dialogue/tension
-- Non-Western philosophy of technology
+- [[Sinofuturism]] — Chinese technological futures
+- [[Accelerationism]] — cosmotechnics offers an alternative to Western accelerationism
 
-## People
+## Key People
 - [[Yuk Hui]] — originator
-- [[Bogna Konior]] — Chinese tech-philosophy
-- [[Chen Qiufan]] — Chinese speculative futures
-- [[Steve Goodman]] — coined sinofuturism
-- [[Benjamin Bratton]] — planetary computation (different but in dialogue)
+- [[Bogna Konior]] — Chinese tech philosophy
+- [[Benjamin Bratton]] — planetary computation (in dialogue)
 
 ## Why Interesting
-Fundamental challenge to technological universalism. Opens space for thinking about technology from Chinese, Indian, African, etc. philosophical traditions. Directly relevant to Amber's interest in non-Western tech theory.
+Directly challenges the assumption that there is one universal "technology." Opens space for non-Western technological thinking. Essential for anyone interested in Chinese tech philosophy or alternatives to Silicon Valley monoculture.
