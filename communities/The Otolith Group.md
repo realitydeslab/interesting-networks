@@ -52,7 +52,22 @@ Curation as artistic practice building intergenerational and cross-cultural plat
 ## Why Interesting
 Demonstrates how to maintain theoretical rigor while creating compelling moving-image works. 20+ year collaboration between [[Kodwo Eshun]] and [[Anjalika Sagar]] shows possibility of sustained research-artistic practice. Their concept of "otolith" — inner ear crystals that establish orientation — offers metaphor for how art can reorient our understanding of time, space, and posthuman conditions.
 
+## Key Works (Selected)
+- *The Otolith Trilogy* (2003–2009) — I, II, III. Speculative essay films exploring futurity, Third World cinema, and ecology.
+- *A Long Time Between Suns* (2009) — Turner Prize–nominated exhibition programme, Gasworks + The Showroom.
+- *Medium Earth* (2013) — Tectonic portrait of Southern California.
+- *In the Year of the Quiet Sun* (2013) — Ghana's independence, Pan-African history, postage stamps.
+- *Statecraft: An Incomplete Timeline of Independence* (2014–19) — 60-metre stamp installation.
+- *Anathema* (2011) — Smart screen speculative fiction. Capital sorcery.
+- *Sovereign Sisters* (2014) — LiDAR scan of Universal Postal Union monument. Imperial allegory.
+- *The Third Part of the Third Measure* (2017) — Julius Eastman performance restaging.
+- *O Horizon* (2018) — Tagore's Visva-Bharati University. Ecological pedagogy. 81 min.
+
+## Key Publications
+- *The Otolith Group: Xenogenesis* (2022) — Major catalogue. IMMA and Archive Books.
+
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Created during Kodwo Eshun deep research. Basic profile from Otolith Group website and Turner Prize archives. |
+| 2026-02-26 | Biber (agent) | Updated during Anjalika Sagar deep research. Added key works section, publications, expanded context. |
