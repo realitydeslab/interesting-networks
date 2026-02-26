@@ -399,16 +399,21 @@ Follow `DEEP-RESEARCH-PROTOCOL.md`. Seven phases:
 
 ---
 
-## 13. Daily Scout Rules
-- Runs daily at 10:00 UTC
-- Deep-dive **1-2 people/topics maximum** (depth > breadth)
-- Pick from `queue` issues
-- Follow DEEP-RESEARCH-PROTOCOL.md
-- Check `next_research` dates — refresh stale notes
-- Check for new CFPs, flag urgent deadlines (⚠️ if < 2 weeks)
-- Write reflective log in `logs/YYYY-MM-DD.md`
-- Git add, commit, push
-- Post summary in #venue
+## 13. Scout Cron Job (Daily, Lightweight)
+Runs daily at 10:00 UTC. The cron does NOT do deep research. It maintains the queue:
+1. Scan all notes for `deep_researched: false` → create queue issues if not already queued
+2. Scan all notes where `next_research` date has passed → flag for re-research
+3. Check for new CFPs, flag urgent deadlines (⚠️ if < 2 weeks)
+4. Post queue status summary to #venue
+
+## 13b. Deep Research Execution
+- **No daily limit.** Do as much research as tokens allow.
+- Monitor token usage. If tokens remain, keep working the queue.
+- Priority: ⭐⭐⭐ first → ⭐⭐ → ⭐. Within same rating: Amber's key people → topics → communities → venues.
+- Spawn sub-agents for parallel deep research when possible.
+- Follow DEEP-RESEARCH-PROTOCOL.md for each note.
+- Git add, commit, push after each completed note.
+- Write log in `logs/YYYY-MM-DD.md`.
 
 ---
 
