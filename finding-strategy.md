@@ -76,6 +76,20 @@ Search for new conferences, workshops, symposia adjacent to our topics.
 - Mega-conference that's too diffuse
 - Predictable — you can guess what they'll say
 
+## Depth Over Breadth
+One person done properly > 10 people done superficially. Wendi Yan's note took extensive research: scraping her full CV, clicking through every community/award/fellowship, creating 6 new community nodes, adding all URLs.
+
+**Rule: The daily scout should deep-dive 1-2 people per session, not skim 5.**
+
+For ⭐⭐⭐ people, spawn sub-agents to parallelize:
+- Agent 1: Scrape their website/CV completely
+- Agent 2: Search their exhibitions/events/talks
+- Agent 3: Research their communities/fellowships/awards
+- Agent 4: Find co-authors and collaborators
+- Then merge results into one comprehensive note + create community nodes
+
+This is how the graph grows properly — each person researched thoroughly generates multiple new community/venue/topic nodes.
+
 ## Meta-Strategy: Reflect and Improve
 After each research session, write a log entry in `logs/YYYY-MM-DD.md`:
 - What was found and why it's interesting
