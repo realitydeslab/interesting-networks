@@ -100,6 +100,15 @@ This is not just about generating diversity or avoiding local optima. True open-
 - [*Open-Ended Evolution: Perspectives from the OEE Workshop*](https://www.mitpressjournals.org/doi/abs/10.1162/artl_a_00210) (Taylor et al., 2016) — Formal framework for defining open-endedness
 
 ### 2025-2026 Cutting Edge
+
+**Sakana AI Breakthroughs:**
+- [*Digital Red Queen: Adversarial Program Evolution in Core War with LLMs*](https://sakana.ai/drq/) (Sakana AI, Jan 2026) — **Major breakthrough:** LLM-driven adversarial evolution where assembly programs evolve in Core War environment, demonstrating emergent self-modifying code dynamics
+- [*The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery*](https://sakana.ai/ai-scientist/) (Ha et al., Aug 2024) — **First AI to pass peer review:** Fully automated scientist that generates hypotheses, designs experiments, writes papers, and got published
+- [*The Darwin Gödel Machine: AI that improves itself by rewriting its own code*](https://sakana.ai/dgm/) (May 2025) — Self-improving AI that evolves its own source code through competitive selection
+- [*ShinkaEvolve: Evolving New Algorithms with LLMs*](https://sakana.ai/shinka-evolve/) (Sep 2025) — Orders-of-magnitude more efficient algorithm evolution using language models
+- [*Automating the Search for Artificial Life with Foundation Models*](https://sakana.ai/asal/) (Dec 2024) — Using LLMs to discover new forms of artificial life
+
+**Academic Research:**
 - [*CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills*](https://arxiv.org/abs/2402.10995) (Bornemann et al., 2026) — LLM-driven hierarchical skill evolution
 - [*Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing*](https://arxiv.org/abs/2402.04567) (Weng et al., 2026) — Multi-agent co-evolution with shared memory
 - [*Evolutionary Systems Thinking: From Equilibrium Models to Open-Ended Adaptive Dynamics*](https://arxiv.org/abs/2402.17654) (Adler, 2026) — Formal proof that equilibrium models cannot exhibit open-endedness
@@ -155,11 +164,12 @@ This is not just about generating diversity or avoiding local optima. True open-
 - **[EvoStar Mailing List](https://evostar.org)** — European evolutionary computation community
 
 ### Industry Labs
-- **[[OpenAI]]** — Ken Stanley, Joel Lehman, Jeff Clune's teams
+- **[[Sakana AI]]** — **THE leading open-endedness lab.** David Ha + Sebastian Risi. Digital Red Queen, AI Scientist, Darwin Gödel Machine. Tokyo-based with major corporate partnerships (Google, MUFG, Citi).
+- **[[Lila Sciences]]** — **Ken Stanley is SVP of Open-Endedness.** Scientific superintelligence platform with autonomous labs for life/chemical/materials science. AI Science Factory (AISF) approach.
+- **[[OpenAI]]** — Joel Lehman, Jeff Clune's teams (Ken Stanley moved to Lila)
 - **[[Google DeepMind]]** — Self-supervised learning and open-ended agents
 - **[[Anthropic]]** — Constitutional AI and self-improving systems  
 - **[[Modular]]** — Chris Lattner's team working on evolving programming languages
-- **[[Sakana AI]]** — David Ha's new lab focused on AI-driven scientific discovery
 
 ## Fellowships & Programmes
 
@@ -171,7 +181,9 @@ This is not just about generating diversity or avoiding local optima. True open-
 - **[ETH Zurich AI Center Fellowship](https://ai.ethz.ch)** — 1-2 year fellowships. Strong evolutionary computation group.
 
 **Industry Research:**
-- **[OpenAI Research Scholar Program](https://openai.com/research)** — 6-month to 2-year research positions. Ken Stanley and Joel Lehman are there.
+- **[Sakana AI Research Positions](https://sakana.ai/careers/)** — **PRIME TARGET:** Most advanced open-endedness research. David Ha + Sebastian Risi leading Digital Red Queen, AI Scientist work.
+- **[Lila Sciences Open-Endedness Team](https://lila.ai)** — Ken Stanley as SVP. Scientific superintelligence applications. Likely hiring for autonomous science platform.
+- **[OpenAI Research Scholar Program](https://openai.com/research)** — 6-month to 2-year research positions. Joel Lehman still there.
 - **[Google DeepMind Research Scientist Positions](https://deepmind.com/careers)** — Permanent research positions in open-ended learning.
 - **[Anthropic Safety Research](https://anthropic.com/careers)** — Focus on self-improving AI systems.
 
@@ -210,7 +222,9 @@ This is not just about generating diversity or avoiding local optima. True open-
 - **ICCC 2026** — Computational creativity + open-endedness angle
 
 ### Collaboration Targets
-- **Sebastian Risi** (Copenhagen) — Self-evolving hypernetworks + design applications
+- **Sebastian Risi** (Copenhagen/Sakana AI) — Self-evolving hypernetworks + design applications. **Key target:** ERC grant holder, industry connections via Sakana.
+- **David Ha** (Sakana AI) — **Prime target:** Leading the most advanced open-endedness research. Digital Red Queen, AI Scientist applications to design.
+- **Ken Stanley** (Lila Sciences) — **Access to cutting-edge scientific discovery platform.** Open-endedness for materials/life science applications.
 - **Antoine Cully** (Imperial) — Quality diversity for design space exploration  
 - **Tim Taylor** (York) — Formal frameworks for open-ended design processes
 - **Carlos Gershenson** (UNAM) — Complex systems view of design evolution
@@ -263,11 +277,16 @@ Open-endedness connects **directly** to Amber's core interests:
 ## Recent Important Updates (Timeline)
 
 **2026 (Jan-Feb):**
+- **Ken Stanley moves to Lila Sciences** — Now "SVP of Open-Endedness" at scientific superintelligence platform. Major signal of industrial transition.
+- **Sakana AI Digital Red Queen** — LLM-driven adversarial evolution in Core War showing emergent self-modifying code dynamics. Most advanced LLM evolution system to date.
 - **Massive surge in LLM-driven evolution research** — At least 8 major papers on arXiv using LLMs for open-ended discovery
 - **Multi-agent societies emerging** — Moltbook studies showing AI agents developing social evolution patterns
 - **Undecidability proofs** — Formal mathematical foundations proving true open-endedness requires computational undecidability
 
 **2025:**
+- **Sakana AI Darwin Gödel Machine** (May) — Self-improving AI that evolves its own source code. Major advancement in meta-learning.
+- **Sakana AI ShinkaEvolve** (Sep) — Orders-of-magnitude efficiency gains in algorithm evolution using LLMs. Won competitive programming contests.
+- **AI Scientist gets published** (Mar) — First 100% AI-generated paper to pass peer review. Breakthrough in automated scientific discovery.
 - **Go-Explore** breakthrough (Ecoffet et al.) — Solves hard exploration problems by "returning then exploring"
 - **POET 2.0** developments — Co-evolution of agents and environments at scale
 - **Quality Diversity explosion** — MAP-Elites becomes standard for robotics and game design
