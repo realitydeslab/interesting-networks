@@ -1,6 +1,7 @@
 ---
 url: https://tei.acm.org/
 frequency: annual
+rating: ⭐⭐
 added: 2026-02-26
 tags: [embodied, art-science]
 ---

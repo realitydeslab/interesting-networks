@@ -1,5 +1,6 @@
 ---
 url: https://eyebeam.org
+rating: ⭐⭐
 location: Brooklyn, New York
 frequency: Ongoing fellowships + exhibitions
 added: 2026-02-26

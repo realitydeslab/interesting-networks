@@ -1,5 +1,6 @@
 ---
 added: 2026-02-26
+rating: ⭐⭐
 tags: [critical-computing, speculative-design]
 ---
 

@@ -1,27 +1,32 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Independent (Berlin-based)
+affiliation: Independent artist / Spawning
 added: 2026-02-26
-tags: [art-science, computational-creativity, critical-computing]
+tags: [art-science, computational-creativity, more-than-human]
 ---
 
 # Holly Herndon
 
-American artist and composer. PhD from Stanford CCRMA. Pioneer of AI-collaborative music.
+American musician, artist, AI researcher. Pioneer of AI-human musical collaboration.
 
-## Key Works
-- *Proto* (2019) — album created with AI "baby" named Spawn
-- *Holly+* — AI voice model that anyone can use to create music
-- Collaborated with [[Reza Negarestani]], Jlin, [[Metahaven]]
+## Key Books/Papers
+- *PROTO* (2019) — album made with "Spawn," an AI baby trained on her voice
+- *Holly+* — AI model of her voice, open for anyone to use
+- Spawning — co-founded company for AI and data consent (haveibeentrained.com)
 
-## Key Collaborator
-- Mat Dryhurst — partner, works on AI music ethics, consent frameworks
+## Key Communities
+- Spawning — co-founded (AI consent/data rights platform)
+- Berlin art-tech scene
 
-## Connections
-- [[Reza Negarestani]] — collaborator
-- [[Metahaven]] — collaborator
+## Key Venues
 - [[Serpentine R&D Platform]] — connected
-- Stanford CCRMA — PhD
+- [[Ars Electronica]]
+- Barbican
+
+## Key Relationships
+- Mat Dryhurst — partner, collaborator on everything
+- Jlin — AI collaboration
+- → Explore: Mat Dryhurst (artist, technologist, Spawning co-founder)
 
 ## Why Interesting
-Pioneer of consent-based AI art. Holly+ is a radical experiment — giving your voice to an AI model for anyone to use. Collaborations with Negarestani and Metahaven bridge music, philosophy, and design. Mat Dryhurst's work on AI consent frameworks is important for AI ethics.
+PROTO is a landmark in AI-human creative collaboration — she treated "Spawn" as a member of her ensemble, not a tool. Holly+ (giving away her AI voice) raises profound questions about identity and consent. Spawning tackles the practical ethics of AI training data. She's where art, AI ethics, and creativity converge.

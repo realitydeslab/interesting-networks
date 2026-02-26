@@ -1,5 +1,6 @@
 ---
 url: https://hyperdub.com
+rating: ⭐⭐
 added: 2026-02-26
 tags: [art-science, accelerationism]
 ---

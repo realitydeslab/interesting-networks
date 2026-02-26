@@ -24,9 +24,29 @@ interesting-networks/
   - `#more-than-human` `#critical-computing` `#machine-behavior` `#speculative-design`
   - `#alife` `#embodied` `#participatory` `#computational-creativity`
   - `#art-science` `#feminist` `#posthuman` `#climate`
-- **Ratings:** ⭐⭐⭐ / ⭐⭐ / ⭐ in frontmatter
+- **Ratings:** ⭐⭐⭐ / ⭐⭐ / ⭐ in frontmatter — rate EVERYTHING (people, topics, venues, communities)
 - **Frontmatter:** YAML for structured data, body for free-form notes
 - **Dates:** ISO format (2026-02-26)
+
+## Rating Guide
+Everything gets rated in frontmatter (`rating: ⭐⭐⭐`):
+
+**People:**
+- ⭐⭐⭐ = essential node, Amber's direct inspiration, or bridges multiple key communities
+- ⭐⭐ = very interesting, strong work, worth following actively
+- ⭐ = worth watching, might become more central
+
+**Topics:**
+- ⭐⭐⭐ = edge of chaos, fast-evolving, core to Amber's taste
+- ⭐⭐ = important and relevant, but more established
+- ⭐ = adjacent, worth knowing about
+
+**Venues/Communities:**
+- ⭐⭐⭐ = must-attend / essential community, perfect fit for Amber
+- ⭐⭐ = very relevant, strong overlap with interests
+- ⭐ = worth tracking, occasionally interesting
+
+Ratings can change over time. Amber's reactions are the strongest signal for upgrades.
 
 ## People Note Template
 Every person note should include (when known):

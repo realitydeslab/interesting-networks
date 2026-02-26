@@ -1,5 +1,6 @@
 ---
 url: https://www.serpentinegalleries.org/whats-on/rd-platform/
+rating: ⭐⭐
 added: 2026-02-26
 tags: [art-science, speculative-design, computational-creativity]
 ---

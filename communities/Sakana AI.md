@@ -1,5 +1,6 @@
 ---
 url: https://sakana.ai
+rating: ⭐⭐
 added: 2026-02-26
 tags: [alife, computational-creativity, open-endedness]
 ---

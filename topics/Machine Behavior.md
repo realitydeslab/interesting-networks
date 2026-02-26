@@ -1,5 +1,6 @@
 ---
 added: 2026-02-26
+rating: ⭐⭐⭐
 tags: [machine-behavior, alife, more-than-human]
 ---
 

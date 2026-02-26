@@ -1,5 +1,6 @@
 ---
 url: https://santafe.edu
+rating: ⭐⭐⭐
 added: 2026-02-26
 tags: [alife, more-than-human, computational-creativity]
 ---

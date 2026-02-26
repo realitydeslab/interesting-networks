@@ -1,5 +1,6 @@
 ---
 url: https://isea-international.org
+rating: ⭐⭐
 frequency: Annual
 added: 2026-02-26
 tags: [art-science, computational-creativity, critical-computing]

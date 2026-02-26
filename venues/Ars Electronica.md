@@ -1,5 +1,6 @@
 ---
 url: https://ars.electronica.art
+rating: ⭐⭐⭐
 location: Linz, Austria
 frequency: Annual (September)
 added: 2026-02-26

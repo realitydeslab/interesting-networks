@@ -1,5 +1,6 @@
 ---
 url: https://transmediale.de
+rating: ⭐⭐⭐
 location: Berlin, Germany
 frequency: Annual (January/February)
 added: 2026-02-26

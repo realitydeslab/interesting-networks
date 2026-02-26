@@ -1,5 +1,6 @@
 ---
 url: https://strelka.com
+rating: ⭐⭐
 added: 2026-02-26
 tags: [speculative-design, critical-computing]
 location: Moscow (closed 2022)

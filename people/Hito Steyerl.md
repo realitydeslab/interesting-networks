@@ -1,31 +1,35 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Academy of Fine Arts Munich
+affiliation: UdK Berlin
 added: 2026-02-26
 tags: [art-science, critical-computing]
 ---
 
 # Hito Steyerl
 
-German filmmaker, artist, writer. Perhaps the most important living artist working on technology, images, and politics.
+German filmmaker, visual artist, and writer. One of the most influential contemporary artists working on technology, image politics, and AI.
 
-## Key Works
-- *How Not to Be Seen* (2013) — on visibility and surveillance
-- *Factory of the Sun* (2015)
-- "In Defense of the Poor Image" (2009, e-flux) — landmark essay
-- *Duty Free Art* (2017)
+## Key Books/Papers
+- "In Defense of the Poor Image" (e-flux, 2009) — landmark essay
+- *Duty Free Art: Art in the Age of Planetary Civil War* (2017)
+- "Mean Images" — on AI and image production
+- Research on machine vision, AI bias, digital images
 
-## Domains
-- Circulation of images, post-internet, surveillance, AI, labor
-- Essay documentary form
-- Co-founded Research Center for Proxy Politics at UdK Berlin
-
-## Connections
+## Key Communities
+- UdK Berlin — professor of New Media Art
 - e-flux — major platform
-- [[transmediale]] — connected
-- [[ZKM]] — exhibited
-- [[Serpentine R&D Platform]] — exhibited
-- Venice Biennale — exhibited
+
+## Key Venues
+- e-flux — publishes
+- Venice Biennale — major presentations
+- [[Serpentine R&D Platform|Serpentine]], MoMA, ICA London
+- documenta — exhibited
+
+## Key Relationships
+- [[Kodwo Eshun]] — Goldsmiths/art theory connection
+- [[Metahaven]] — shared intellectual orbit
+- e-flux community (Anton Vidokle, Julieta Aranda)
+- → Explore: Trevor Paglen (artist, geography of surveillance, AI training data)
 
 ## Why Interesting
-Defines the field of critical technology art. "In Defense of the Poor Image" is one of the most cited art-theory texts of the century. Her work on AI, surveillance, and image circulation is prescient and sharp. Essential reference.
+Arguably the most important living artist working on digital culture and AI. "In Defense of the Poor Image" is a canonical text. Her work on machine vision and AI bias is both artistically and theoretically groundbreaking. Major e-flux presence.

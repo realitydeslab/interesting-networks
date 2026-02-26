@@ -1,6 +1,7 @@
 ---
 url: https://www.researchthroughdesign.org/
 frequency: biennial
+rating: ⭐⭐
 added: 2026-02-26
 tags: [design-research, speculative-design]
 ---

@@ -1,5 +1,6 @@
 ---
 url: https://www.urbanomic.com
+rating: ⭐⭐⭐
 added: 2026-02-26
 tags: [accelerationism, speculative-design, critical-computing]
 ---

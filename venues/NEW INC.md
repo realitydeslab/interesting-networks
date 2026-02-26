@@ -1,5 +1,6 @@
 ---
 url: https://www.newinc.org
+rating: ⭐⭐
 location: New York (New Museum)
 frequency: Annual incubator cohort
 added: 2026-02-26

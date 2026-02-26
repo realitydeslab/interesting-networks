@@ -1,5 +1,6 @@
 ---
 url: https://zkm.de
+rating: ⭐⭐
 location: Karlsruhe, Germany
 frequency: Ongoing exhibitions + events
 added: 2026-02-26

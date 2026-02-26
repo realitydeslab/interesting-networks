@@ -1,25 +1,32 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Independent (Athens-based)
+affiliation: Independent artist/writer
 added: 2026-02-26
 tags: [more-than-human, art-science, critical-computing]
 ---
 
 # James Bridle
 
-Artist and author. Coined "New Aesthetic." Works on technology, ecology, and nonhuman intelligence.
+British artist and writer. Works on technology, ecology, and intelligence.
 
-## Key Works
+## Key Books/Papers
 - *New Dark Age: Technology and the End of the Future* (2018)
-- *Ways of Being* (2022) — nonhuman intelligence, ecology, computation
-- Coined the New Aesthetic (2011)
-- Art on drones, deportation systems, autonomous vehicles
+- *Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence* (2022) — essential more-than-human text
+- "Autonomous Trap 001" (2017) — art piece trapping self-driving car in a salt circle
 
-## Connections
+## Key Communities
+- [[Eyebeam]] — alumnus
+- Ignota Books — published by (Ben Vickers)
+
+## Key Venues
 - [[Serpentine R&D Platform]] — connected
-- [[Eyebeam]] — exhibited
-- Ignota Books — published by/connected to
-- [[transmediale]] — connected
+- Barbican — exhibited
+- [[Ars Electronica]]
+- Design Museum London
+
+## Key Relationships
+- Ben Vickers — publisher (Ignota Books), former Serpentine CTO
+- → Explore: Holly Herndon & Mat Dryhurst (AI music, art, Spawning)
 
 ## Why Interesting
-Ways of Being is essentially a book-length argument for more-than-human intelligence — directly relevant to Amber's interests. Bridges art, technology criticism, and ecological thinking. Accessible public intellectual voice for these ideas.
+*Ways of Being* is an extraordinary book — argues for recognizing intelligence in plants, animals, fungi, and machines. Bridges ecology, technology, and art in accessible but deep ways. The "Autonomous Trap" piece is iconic tech-critical art. Essential for more-than-human thinking.

@@ -1,5 +1,6 @@
 ---
 url: https://www.medialab-matadero.es/
+rating: ⭐⭐
 added: 2026-02-26
 tags: [art-science, speculative-design, computational-creativity]
 discovered_via: "[[Bogna Konior]]"

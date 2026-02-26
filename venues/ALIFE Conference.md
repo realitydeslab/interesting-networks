@@ -1,5 +1,6 @@
 ---
 url: https://alife.org
+rating: ⭐⭐⭐
 frequency: Annual
 added: 2026-02-26
 tags: [alife, open-endedness, computational-creativity, more-than-human]

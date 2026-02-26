@@ -1,6 +1,7 @@
 ---
 url: https://sites.uwasa.fi/nordichi2026/
 frequency: biennial
+rating: ⭐⭐
 added: 2026-02-26
 tags: [participatory, critical-computing]
 ---

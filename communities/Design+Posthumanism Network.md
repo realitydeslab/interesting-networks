@@ -1,30 +1,32 @@
 ---
-url: https://designandposthumanism.org
+url: https://designandposthumanism.org/
 added: 2026-02-26
-tags: [posthuman, more-than-human, speculative-design, feminist]
+tags: [more-than-human, posthuman, speculative-design]
+rating: ⭐⭐⭐
 ---
 
 # Design+Posthumanism Network
 
-Active research network exploring the intersection of design and critical posthumanism. Runs regular online sessions, workshops, and publishes resources.
+Active international research network exploring posthumanism and design. Very active blog/events — posted just this week (Feb 2026).
 
-## Current Activity (very active as of Feb 2026!)
-- "Tools & Methods" workshop series — Session 3 on multispecies time (Feb 2026)
-- Book announcements: *Interspecies* (architecture + posthumanism)
-- *Palgrave Handbook of Critical Posthumanism* (2022) — now open access
-- Methods workshops on more-than-human bodies and affective methodology
+## Recent Activity (Feb 2026)
+- "Tidal Time" workshop — participatory drawing on multispecies time (Katerina Inglezaki)
+- Monte Preti — posthuman place-based project
+- "Interspecies" book release — architecture and posthumanism
+- Tools & Methods workshop series — ongoing
+- Palgrave Handbook of Critical Posthumanism — now open access
 
-## Key Questions
-- How does design reinforce "normal" human embodiment?
-- How have nature-culture, mind-body, gender binaries shaped design?
-- What critiques develop at the nexus of design and posthumanism?
+## Key People
+- [[Ron Wakkary]] — key contributor
+- [[Elisa Giaccardi]] — key contributor
+- [[Iohanna Nicenboim]] — active contributor
+- Katerina Inglezaki — multispecies ethnography/cartography
+- Moniek Driesse — critical heritage, environmental justice (U Antwerp)
+- → Explore: full network members (many emerging researchers)
 
-## Connections
-- [[Donna Haraway]] — foundational influence
-- [[Ron Wakkary]] — more-than-human design
-- [[Elisa Giaccardi]] — connected
-- [[More-than-human Design]] — core topic
-- [[Multispecies Design]] — core topic
+## Key Venues Connected
+- DIS, DRS, [[RTD]] — overlapping community
+- HttF — overlapping
 
 ## Why Interesting
-Very active community doing exactly the kind of design-posthumanism intersection Amber works in. Regular online events are accessible. Good source for new people and ideas. Multispecies time workshop is fascinating.
+Very alive network — fast-evolving, producing new methods and tools, not just theory. The blog is a great signal source for emerging work in more-than-human design. Connects established researchers with emerging voices. Active workshop series means opportunities to participate.

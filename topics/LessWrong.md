@@ -1,6 +1,7 @@
 ---
 added: 2026-02-26
 url: https://www.lesswrong.com/
+rating: ⭐
 tags: [machine-behavior, critical-computing]
 ---
 
