@@ -1,33 +1,42 @@
 ---
 rating: ⭐⭐
-affiliation: Urbanomic
+url: https://www.urbanomic.com
 added: 2026-02-26
-tags: [speculative-realism, accelerationism, publishing, theory-fiction]
+tags: [philosophy, accelerationism, xenofeminism, posthuman]
 deep_researched: false
 last_researched: 2026-02-26
-revisit_weeks: 4
-next_research: 2026-03-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Maya B. Kronic
 
-Editor and collaborator in the speculative philosophy network. Co-editor of Nick Land's *Fanged Noumena* collection.
+## ⚡ Recent Updates
+- **2026-02-26:** Discovered/stub created during Urbanomic deep research.
 
-## Key Books/Papers
-- Co-editor (with Ray Brassier) of *Fanged Noumena: Collected Writings 1987–2007* by Nick Land (2011)
-- Regular contributor to **[[Urbanomic]]** publications and **[[Collapse]]** journal
-- Co-editor of *Sonic Faction* anthology (with Justin Barton and Steve Goodman)
+Philosopher and editor closely associated with [[Urbanomic]]. Co-author with [[Amy Ireland]] of *Cute Accelerationism* (Urbanomic, 2023). Central to the emerging "cute accelerationism" / xenofeminist current in contemporary philosophy. Co-editor of *Sonic Faction* (with Barton and Goodman). Forthcoming: co-editor of *The Phenoumenodelic Ark* (with Jean-Christophe Goddard).
 
-## Key Communities
-- **[[Urbanomic]]** — Close collaborator with Robin Mackay
-- **[[Collapse]]** journal network
-- Speculative realism publishing network
+## Key Work
+- *Cute Accelerationism* (Urbanomic, 2023, with Amy Ireland) — "We do not yet know what Cute can do." Extends accelerationism into aesthetic-philosophical territory combining cuteness aesthetics with accelerationist theory.
+- Co-editor: *Sonic Faction* (Urbanomic, 2024) — audio essay as medium and method; with Justin Barton and Steve Goodman
+- Forthcoming co-editor: *The Phenoumenodelic Ark* (Urbanomic) — "a veritable UFO in the philosophical skies"
 
-## Key Relationships
-- **[[Robin Mackay]]** — Publisher and frequent collaborator
-- **[[Ray Brassier]]** — Co-editor on *Fanged Noumena*
-- **[[Nick Land]]** — Edited collected writings
-- **[[Steve Goodman/Kode9]]** — Co-editor on *Sonic Faction*
+## Key Concepts
+- **Cute accelerationism** — the philosophical implications of cuteness as aesthetic force; connects to xenofeminist acceleration
+- **Audio essay as method** — *Sonic Faction* methodology
+
+## Connected People
+- [[Amy Ireland]] — co-author, *Cute Accelerationism*; close intellectual partner
+- [[Steve Goodman]] — co-editor, *Sonic Faction*
+- [[Robin Mackay]] — publisher
+
+## Connected Communities
+- [[Urbanomic]] — primary venue for work
 
 ## Why Interesting
-Important editorial figure in the speculative philosophy publishing network. Her work on *Fanged Noumena* was crucial in making Nick Land's scattered writings available as a coherent body of work, helping spark the resurgence of accelerationist thinking.
+Represents the contemporary generation of Urbanomic-associated philosophers working at the aesthetic-theoretical edge. The "cute accelerationism" project opens interesting questions about how aesthetic categories interact with technical and political acceleration — relevant to Amber's interest in speculative computing aesthetics.
+
+## 📋 Update Log
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-02-26 | Biber (subagent) | Stub created during Urbanomic deep research. |

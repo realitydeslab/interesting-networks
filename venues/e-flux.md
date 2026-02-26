@@ -1,32 +1,39 @@
 ---
 url: https://www.e-flux.com
-added: 2026-02-26
-tags: [art-science, critical-computing, speculative-design]
-deep_researched: false
-last_researched: 2026-02-26
-revisit_weeks: 8
-next_research: 2026-04-23
 rating: ⭐⭐⭐
-type: platform / journal / institution
-location: New York
+frequency: ongoing
+added: 2026-02-26
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
+tags: [art-science, critical-computing, speculative-design, posthuman]
+deep_researched: true
 ---
 
 # e-flux
 
-Art platform, journal, and institutional network. Founded by Anton Vidokle and Julieta Aranda. The most important online platform for art theory and critical discourse.
+> **Note:** e-flux is primarily a community/institution. The full deep-research note is in [[communities/e-flux]]. This entry here is a venue-perspective stub for e-flux's physical programming (Screening Room, events, Bar Laika).
+
+See → **[[e-flux]]** in `communities/` for full profile: history, publications, editors, key contributors, submission process, and For Amber analysis.
+
+## Physical Venue Summary
+**Address:** 172 Classon Avenue, Brooklyn, NY 11205, USA (since December 2021)
+
+- **e-flux Screening Room** — regular screenings of artist films at Classon Ave space
+- **Public lectures** — frequent at the space, [e-flux.com/live](https://www.e-flux.com/live/)
+- **Podcast series** — [e-flux.com/podcasts](https://www.e-flux.com/podcasts/)
+- **CineClub at [Bar Laika](https://laika.bar)** (affiliated) — every other Monday, Clinton Hill Brooklyn
 
 ## Key People
-- Anton Vidokle — founder
-- Julieta Aranda — founder
-- [[Hito Steyerl]] — major contributor
-- [[Bogna Konior]] — publishes here
-- [[Metahaven]] — publishes here
-- [[Gary Zhexi Zhang]] — publishes here
+- [[Anton Vidokle]] — founder, Artistic Director of Film
+- Lukas Brasiskis — Associate Curator of Video & Film
+- Sanna Almajedi — Performance Curator
 
-## Connections
-- [[Antikythera]] — many affiliates publish on e-flux
-- [[CCRU]] genealogy — many descendants publish here
-- [[transmediale]] — cross-promotion
+## Why Interesting (Venue Angle)
+If in NYC, attending e-flux Screening Room events and CineClub at Bar Laika is the lowest-friction entry point into the e-flux community. The physical space is where contributors and editors gather informally.
 
-## Why Interesting
-If you publish on e-flux, you're in the conversation. The journal is the most important venue for art theory online. Their announcements list is how the art world learns about exhibitions and events. Essential signal source for CFPs and open calls.
+## 📋 Update Log
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-02-26 | Biber (subagent) | Initial stub from scout. |
+| 2026-02-26 | Biber (subagent) | Updated: redirected to communities/e-flux.md as canonical note. Added venue-specific details. |
