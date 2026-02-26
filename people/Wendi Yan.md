@@ -47,9 +47,19 @@ Artist, writer, technologist. Constructs speculative epistemologies through rese
 - **Art Basel Hong Kong** (March 2026) — talk
 - **[ArtScience Museum](https://www.marinabaysands.com/museum.html) Singapore** (March 2026) — exhibition
 - **Kai Tak Art Week** (March 2026) — exhibition
-- **The Wythe**, New York (March 2026) — exhibition
+- **The Wythe**, New York (March 10, 2026) — exhibition
+- "Beyond a thermodynamic energy future" with Kelsey Chen — **Future Finds**, Oakland CA (Feb 7, 2026) — talk
+- [Interview with Interact Fellowship](https://interactfellowship.substack.com/p/in-conversation-with-wendi-yan) (Feb 5, 2026)
+- "The 6th VH Award" — **Artspace @ Helutrans Gallery 1, Singapore Art Week** (Jan 20, 2026) — exhibition
+- "New Earth" — **[BANK](http://www.bankgallery.com/)**, Shanghai (Jan 9, 2026) — exhibition
 
 ### 2025
+- **[A24 Labs](https://a24films.com/) Storyhacking Resident** (Dec 2025–Jan 2026) — residency. A24 (the film studio) doing art-tech residencies.
+- Guest artist talk — **Open Media Department, China Academy of Art** (Dec 4, 2025)
+- "Cafe.exe" curated by Alice Scope, co-presented with **[[Serpentine R&D Platform|Serpentine]] FAE** and **Artdao** — **Valerie's Factory**, Buenos Aires (Nov 2025)
+- "会见空腔" — **Numero Magazine** (China) interview (Oct 2025)
+- Essay: "Science in the Unhomely Clouds" — **Proxima Kosmos, Vol. II: Fictions & Futures**, edited by Claire Webb, **[Berggruen Press](https://www.berggruen.org/)** (Oct 2025)
+- **[Glitch](https://www.glitch.art/) art/tech residency** — Château du Feÿ, France (Oct–Nov 2025)
 - **[Ars Electronica Festival](https://ars.electronica.art/) 2025**, Linz — Deep Space 8K screening + Meet the Artist
 - **[Expanded Conference](https://expanded-conf.org/speaker/wendi-yan/)**, Linz (Sep 2025) — talk: "Enlightenment Fantasies: Archival Worlding with AI and Real-Time Engine"
 - **[HEK](https://www.hek.ch/) (Haus der Elektronischen Künste)**, Basel — VH Award exhibition (June 2025)
@@ -107,13 +117,20 @@ Artist, writer, technologist. Constructs speculative epistemologies through rese
 - **[Steve Jobs Archive](https://stevejobsarchive.com/)** — fellowship alumni network
 - **[VH Award](https://vhaward.com/)** network — connects to Korean/Asian media art scene
 
-## Key Relationships
-- **VH Award alumni/finalists** — Lena Bui (Vietnam), Huda × Mungomery (Indonesia/Australia), Tianyi Sun + Fiel Guhit (China/Philippines). Worth tracking.
-- **Kelsey Chen** — collaborator (thermodynamic futures talk)
+## Key Relationships & Collaborators
+- **[[Darren Zhu]]** ⭐⭐ — Biotopy co-creator. Synthetic biologist, Yale, Thiel Fellow, Berggruen + Ethereum Foundation + Gates Foundation. Very interesting.
+- **Will Freudenheim** — Biotopy co-creator. Experimental game designer, co-founded [Laser Days](https://laserdays.com/). Films, live performances, installations exploring collaboration among human, artificial, and biological participants. Worth tracking.
+- **Michelle Huang** — Biotopy co-creator. MESH Studio host. Developer/creative technologist.
+- **Kelsey Chen** — collaborator ("Beyond a thermodynamic energy future" talk)
+- **VH Award 6th finalists** — Lena Bui (Vietnam), Huda × Mungomery (Indonesia/Australia), Tianyi Sun + Fiel Guhit (China/Philippines). Worth tracking as cohort.
 - **Charles Yang** — Interact Fellowship interviewer
 - **Laurene Powell Jobs / [Steve Jobs Archive](https://stevejobsarchive.com/)** — tech-philanthropy × arts
 - **[Co-Matter](https://co-matter.com/)** — Networked Worlds
-- **Princeton History of Science faculty** — academic mentors
+- **[A24 Labs](https://a24films.com/)** — Storyhacking Resident (Dec 2025–Jan 2026). A24 doing art-tech residencies is itself interesting.
+- **[Claire Webb](https://www.berggruen.org/)** — editor of Proxima Kosmos (Berggruen Press) where Wendi published an essay
+- **[Serpentine](https://www.serpentinegalleries.org/) FAE** — co-presented "Cafe.exe" exhibition
+- **[Artdao](https://artdao.io/)** — co-presented "Cafe.exe". DAO × art.
+- **[Alice Scope](https://alicescope.com/)** — curator of "Cafe.exe" at Valerie's Factory
 
 ## Venue Choice Analysis
 Wendi deliberately moves between **four circuits**:
