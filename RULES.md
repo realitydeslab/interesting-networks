@@ -105,7 +105,7 @@ social:
   linkedin:
 born:        # optional
 education:   # optional
-based:       # optional
+based:       # REQUIRED — city, country. Amber is in London/Oxford/Cambridge; flag proximity.
 ---
 
 # Name
