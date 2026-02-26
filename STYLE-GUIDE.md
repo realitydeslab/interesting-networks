@@ -44,22 +44,37 @@ One-line description.
 ## Domains
 What they work on.
 
-## Key Books & Papers
-- [*Book Title*](https://link) (year) — brief note
-- [Paper Title](https://arxiv.org/abs/...) (year) — brief note
+## Background
+Education, origin, trajectory. The WHY behind their work.
+
+## Key Works
+- [*Title*](https://link) (year) — what it is, why it matters
+
+## Awards & Fellowships
+ALL of them. Every fellowship, award, prize. With links. Small ones matter — they chose them for a reason.
+
+## Exhibitions / Events / Talks
+List ALL. Date, venue, city. These reveal their circuit — where they move, who they're around.
 
 ## Key Communities
-- [[Community Name]] — their role (member, founder, etc.)
-
-## Key Venues
-- [[Venue Name]] — how they're involved (speaker, PC, regular)
+- [[Community Name]] — their role. Every lab, network, fellowship cohort, residency.
 
 ## Key Relationships
 - [[Person]] — relationship (co-author, advisor, student, collaborator)
-- [[Person]] — relationship
+
+## Venue Choice Analysis
+WHY do they show where they show? What circuits do they move in? What does their choice of small/niche venues reveal?
 
 ## Why Interesting
-What makes them worth following. Connect to Amber's taste.
+What makes them worth following. Connect to Amber's taste. Be specific — what's the unique angle?
+```
+
+### Depth Rule
+**⭐⭐⭐ people:** Write comprehensively. List ALL exhibitions, ALL awards, ALL fellowships, ALL talks. Analyze their venue choices. The note should replace their website — Amber should never need to visit it again.
+
+**⭐⭐ people:** Moderate detail. Key works, key venues, key relationships. Don't need every exhibition but cover the important ones.
+
+**⭐ people:** Brief. Domains, why interesting, key connections.
 ```
 
 ## Topic Notes

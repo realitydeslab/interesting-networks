@@ -13,9 +13,11 @@ tags: [speculative-design, art-science, posthuman, cosmotechnics, sinofuturism]
 Artist, writer, technologist. Constructs speculative epistemologies through research-driven worldbuilding and metafictional simulation. Uses CGI, game engines, and documentary practices to probe the artifice of knowledge. Collaborates with scientists (synthetic biology, astrophysics) to explore the frontier between science and entertainment.
 
 ## Background
-- **BA History of Science, Princeton University** — won the Horace H. Wilson '25 Senior Thesis Prize in History of Science, Medicine, and Technology
-- Born 1999, Beijing → Princeton → independent
-- Directs **Research Revival Fund** — experimental fund restoring illegible research to active circulation
+- Born 1999, Beijing. Grew up wanting to design game characters/environments.
+- **AB History of Science, Princeton University** — won the Horace H. Wilson '25 Senior Thesis Prize in History of Science, Medicine, and Technology. This background gives her speculative work unusual historical rigor.
+- **MS Fiction and Entertainment, SCI-Arc** (Southern California Institute of Architecture) — architecture school's experimental fiction programme. Explains her spatial/world-building sophistication.
+- Based in New York.
+- Directs **Research Revival Fund** — her own initiative, an experimental fund restoring illegible research to active circulation.
 
 ## Key Works
 - *Dream of Walnut Palaces* (2025) — CGI film following a fictional Daoist scholar through an imagined 1780, where Eastern and Western knowledge systems collide. Grand Prix, 6th VH Award.
@@ -28,12 +30,13 @@ Artist, writer, technologist. Constructs speculative epistemologies through rese
 
 ## Awards & Fellowships
 - **Grand Prix, 6th VH Award** by Hyundai Motor Group — major recognition, exhibited at HEK Basel, Hyundai Motorstudio Beijing, Vision Hall Seoul, [[Ars Electronica]] 2025
-- **Steve Jobs Archive Fellow** — inaugural cohort
-- **[[Interact Fellowship]]** — member (2026 interview on Substack)
+- **Steve Jobs Archive Fellow** (2023) — inaugural cohort, created by Laurene Powell Jobs to support young creators between technology and liberal arts
+- **[[NEW INC]]** Y11 member, Creative Science track — New Museum's art × tech incubator
+- **[[Interact Fellowship]]** — member ([2026 interview](https://interactfellowship.substack.com/p/in-conversation-with-wendi-yan))
 - **[[Eyebeam]]** — residency
-- **Arctic Circle Artist & Scientist Residency** — expedition-based art-science
+- **Arctic Circle Artist & Scientist Residency** — expedition-based art-science in the Arctic
 - **Glitch** — residency
-- Supported by Cosmos Ventures and Ethereum Foundation
+- Supported by **Cosmos Ventures** and **Ethereum Foundation** — crypto × culture funding
 
 ## Exhibitions & Screenings
 - [[Ars Electronica]] Festival 2025, Linz — screening + Meet the Artist
@@ -43,13 +46,18 @@ Artist, writer, technologist. Constructs speculative epistemologies through rese
 - **Ujazdowski Castle CCA**, Warsaw — IF/THEN group show (Oct 2025–Feb 2026)
 - **Hamburger Bahnhof**, Berlin — screening
 - **Art Basel Hong Kong** (March 2026) — talk
-- **ArtScience Museum Singapore** (March 2026) — exhibition
+- **Singapore Art Week / ArtScience Museum Singapore** (March 2026) — exhibition
 - **Kai Tak Art Week** (March 2026) — exhibition
 - **The Wythe**, New York (March 2026) — exhibition
+- **Berlin Art Week** — exhibition
+- **[[Expanded Conference]]**, Linz (Sep 2025) — talk: "Enlightenment Fantasies: Archival Worlding with AI and Real-Time Engine"
+- **SeedAI × SXSW** — speaker
 - **Gray Area Festival**, San Francisco — speaker
-- **New Inc Demo Festival** — speaker
+- **[[NEW INC]] Demo Festival** — speaker
 - **Rhizome World** — speaker
 - **Skywalker Ranch** — speaker
+- **X Museum** — speaker
+- **[[Trust]]**, Berlin — "Mammoth Technology: Worlding R&D Aesthetics" (2024)
 - **FWB Fest**, Idyllwild — screening
 - **Now Instant Image Hall**, Los Angeles — screening
 - **SV Studios**, Los Angeles — screening
@@ -70,20 +78,25 @@ Artist, writer, technologist. Constructs speculative epistemologies through rese
 - Biotopy presentation — Unfiguring Conference at Harvard (March 2024)
 
 ## Key Communities
-- **[[Interact Fellowship]]** — tech × culture fellowship
-- **[[Eyebeam]]** — art × technology
-- **Arctic Circle Residency** — art × science expeditions
-- **Asimov Press** — science writing
+- **[[NEW INC]]** (New Museum) — Y11 Creative Science. Art × tech incubator in NYC. Alumni network is very strong.
+- **[[Interact Fellowship]]** — tech × culture fellowship. Silicon Valley adjacent but intellectual.
+- **[[Eyebeam]]** — art × technology. NYC institution, strong alumni network.
+- **[[Ars Electronica]]** — VH Award network connects to Asian media art scene (Hyundai)
+- **Arctic Circle Residency** — art × science expeditions. Self-selecting group of artist-scientists.
+- **[Asimov Press](https://press.asimov.com/)** — serious science writing. Small publisher, high quality.
+- **[[Trust]]**, Berlin — tech-philosophy space. Where ideas get tested in conversation.
 - **Research Revival Fund** — her own initiative
-- [[Ars Electronica]] ecosystem — VH Award network
-- **Cosmos Ventures / Ethereum Foundation** — crypto × culture funding
+- **SCI-Arc** alumni — experimental architecture/fiction
+- **Princeton History of Science** — academic network
 
 ## Key Relationships
-- Connected to VH Award alumni network (Hyundai Motor Group)
-- [[Ars Electronica]] community
-- Princeton History of Science department (academic foundation)
-- Kelsey Chen — collaborator (thermodynamic futures talk)
-- Co-Matter — networked worlds
+- **VH Award alumni network** — Hyundai Motor Group's media art prize connects to Korean/Asian art-tech scene
+- **[[Ars Electronica]]** community — Expanded Conference speakers network
+- **Princeton History of Science dept** — academic foundation, unusual for an artist
+- **Kelsey Chen** — collaborator ("Beyond a thermodynamic energy future")
+- **Co-Matter** — Networked Worlds memo
+- **Charles Yang** — Interact Fellowship, interviewer
+- **Laurene Powell Jobs / Steve Jobs Archive** — tech-philanthropy × arts connection
 
 ## Why Interesting
 **[[Sinofuturism]]** angle: her work directly imagines what happens when Chinese and Western knowledge systems collide — not as a political project but as speculative epistemology. The Princeton History of Science background gives her work an unusual rigor — she's not just making sci-fi, she's doing actual historiography through fiction.

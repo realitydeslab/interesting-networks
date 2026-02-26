@@ -11,6 +11,8 @@ How we discover interesting things. Updated as we learn what works.
 ### 1. Follow Amber's Signals (highest yield)
 When Amber shares a link or says someone is interesting — that's the strongest signal. Drop everything and trace every thread from it: collaborators, publishers, venues, students, cited-by.
 
+**Deep dive rule:** For ⭐⭐⭐ people, scrape EVERYTHING from their website — every exhibition, every award, every fellowship, every talk. Small venues matter. When someone chooses to show at a tiny space, there's a reason. List it all, then analyze the pattern: what circuits do they move in? What communities overlap with Amber's?
+
 **Yield:** ⭐⭐⭐⭐⭐
 **When:** Every time Amber shares something
 
