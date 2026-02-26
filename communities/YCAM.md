@@ -12,13 +12,13 @@ deep_researched: false
 # YCAM — Yamaguchi Center for Arts and Media
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Created stub note via [[Kyle McDonald]] deep research.
+- **2026-02-26:** Created stub note via [[Kyle McDonald]] deep research; confirmed via Daito Manabe deep research.
 
 Art center in Yamaguchi, Japan. One of the world's leading institutions for art, technology, and research at their intersection. Known for commissioning ambitious new works combining performing arts, new media, and scientific research. Has an active interlab (research and development). **Residency programme** brings international artists to work with YCAM's technical staff.
 
 ## Key People
 - **[YCAM InterLab](https://www.ycam.jp/en/interlab/)** — research and development arm
-- [[Daito Manabe]] — frequent collaborator
+- [[Daito Manabe]] — workshop "Search'n Search" (2010); performed *border* here (February 2016 — an ELEVENPLAY piece)
 - [[Kyle McDonald]] — residencies 2011 (RAM Dance Toolkit), 2012 (Shadowplay / ProCamToolkit)
 
 ## Key Contributions
@@ -37,3 +37,4 @@ YCAM is arguably the world's most technically sophisticated art center — their
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Created stub note via Kyle McDonald deep research. |
+| 2026-02-26 | Biber (agent) | Added Daito Manabe workshop + performance details via Daito Manabe deep research. |
