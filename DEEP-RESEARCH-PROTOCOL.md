@@ -1,4 +1,9 @@
-# Deep Research Protocol — How to Research One Person
+# Deep Research Protocol
+
+## Model Strategy (Cost Efficiency)
+- **Sonnet** for data scraping: CV crawling, paper collection, link gathering, factual sections, institutional details
+- **Opus** for judgment: interestingness ratings, Amber-relevance analysis, engagement strategy, editorial voice, connection mapping
+- In practice: spawn scraping subagents with Sonnet, then do a final Opus pass for ratings + analysis — How to Research One Person
 
 Researching one person properly is a **multi-hour, multi-agent task**. This document defines the steps.
 
