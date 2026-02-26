@@ -1,6 +1,6 @@
 # 🗺️ Knowledge Graph Index
 
-> Auto-generated database of all notes. Use with [Obsidian Dataview](https://github.com/blackfountainco/obsidian-dataview) or read as-is.
+> Auto-generated database of all notes. Works with Obsidian's native Properties and search.
 
 **Stats:** 137 notes | 12 deep-researched | 68 ⭐⭐⭐ | 61 ⭐⭐ | 4 ⭐/unrated
 
