@@ -139,9 +139,18 @@ ALL of them. Date, venue, city.
 What circuits do they move in? Why those venues?
 
 ## For Amber
-- **Why interesting:** connection to Amber's taste
-- **Collaboration potential:** what could they work on together?
-- **Engagement paths:** specific ways to connect (events, people, submissions)
+Address as many of these as relevant (not all will apply to every note):
+
+1. **🤝 Cooperation** — potential collaboration projects or co-authorship
+2. **🏠 Residency** — residencies Amber could apply to through this person/community
+3. **🎓 Fellowship** — fellowships or funding opportunities
+4. **💡 Career inspiration** — what can Amber learn from their career choices, environment, experiences?
+5. **👋 Hangout potential** — someone Amber would want to meet and spend time with (proximity matters — flag London/Oxford/Cambridge)
+6. **🔧 Professional inspiration** — methods, tools, approaches to adopt
+7. **🌍 Areas to know** — interesting territories Amber should be aware of
+8. **🔮 Future involvement** — ways Amber could get involved longer-term
+9. **📚 Learning from their path** — specific career decisions, pivots, strategies worth studying
+10. **Engagement paths** — specific ways to connect (events, people, submissions)
 
 ## Why Interesting
 Connect to research-taste.md.
