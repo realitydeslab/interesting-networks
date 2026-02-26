@@ -2,24 +2,23 @@
 rating: ⭐⭐
 affiliation: NYU Shanghai
 added: 2026-02-26
-tags: [speculative-design, critical-computing]
+tags: [accelerationism, speculative-design]
 ---
 
 # Anna Greenspan
 
-Associate Professor of Contemporary Global Media at [[NYU Shanghai IMA]].
+Scholar at NYU Shanghai. Works on Shanghai urbanism, technology futures, Chinese modernity.
 
-## Domains
-- Contemporary global media, China's tech culture
-- Gardens — interested in garden as concept/practice
-- Co-editor with [[Benjamin Bratton]] and [[Bogna Konior]] of *Machine Decision is Not Final: China and the History and Future of AI* (Urbanomic/MIT Press, 2025)
+## Key Works
+- Co-editor: *Machine Decision is Not Final* with [[Benjamin Bratton]] and [[Bogna Konior]]
+- Research on Shanghai's urban futurity
 
 ## Connections
-- [[Nick Land]] — married. CCRU lineage.
-- [[Bogna Konior]] — colleague at NYU Shanghai, co-editor
-- [[Benjamin Bratton]] — co-editor, [[Antikythera]]
 - [[NYU Shanghai IMA]] — faculty
-- Urbanomic publishing — connected via books and CCRU history
+- [[Benjamin Bratton]] — co-editor, collaborator
+- [[Bogna Konior]] — NYU Shanghai colleague
+- [[CCRU]] — historical connection (was at Warwick)
+- [[Nick Land]] — connected through CCRU history
 
 ## Why Interesting
-Bridges CCRU/accelerationist philosophical history with contemporary China tech discourse. The garden interest adds an unexpected nature/culture dimension. Key node connecting [[Nick Land]] ↔ [[Bogna Konior]] ↔ [[Benjamin Bratton]] networks.
+Bridges the CCRU accelerationist genealogy with Chinese urban futurity. At NYU Shanghai — institutional connection to Konior and the Chinese tech-philosophy scene.
