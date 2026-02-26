@@ -1,0 +1,16 @@
+{
+  "name": "Venues Database",
+  "filter": { "conjunction": "and", "conditions": [] },
+  "formulas": [],
+  "order": [{ "name": "rating", "asc": false }],
+  "sources": [{ "type": "folder", "id": "venues" }],
+  "viewType": "table",
+  "columns": [
+    { "name": "File", "type": "file" },
+    { "name": "rating", "type": "text" },
+    { "name": "deep_researched", "type": "checkbox" },
+    { "name": "tags", "type": "tags" },
+    { "name": "last_researched", "type": "date" },
+    { "name": "next_research", "type": "date" }
+  ]
+}

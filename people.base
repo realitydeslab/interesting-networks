@@ -1,0 +1,30 @@
+{
+  "name": "People Database",
+  "filter": {
+    "conjunction": "and",
+    "conditions": []
+  },
+  "formulas": [],
+  "order": [
+    {
+      "name": "rating",
+      "asc": false
+    }
+  ],
+  "sources": [
+    {
+      "type": "folder",
+      "id": "people"
+    }
+  ],
+  "viewType": "table",
+  "columns": [
+    { "name": "File", "type": "file" },
+    { "name": "rating", "type": "text" },
+    { "name": "deep_researched", "type": "checkbox" },
+    { "name": "affiliation", "type": "text" },
+    { "name": "tags", "type": "tags" },
+    { "name": "last_researched", "type": "date" },
+    { "name": "next_research", "type": "date" }
+  ]
+}
