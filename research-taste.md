@@ -84,6 +84,7 @@ _(Things that seem to be pulling Amber's attention — update as you notice)_
 ## Key Inspirations
 People Amber explicitly says inspire them:
 - **[[Bogna Konior]]** — "very close to me", "inspiring me a lot"
+- **[[James Evans]]** — "definitely my key person". AI Societies, Computational Creativity, collective intelligence at UChicago/Santa Fe. Knowledge Lab.
 
 ---
 *Last updated: 2026-02-26*
