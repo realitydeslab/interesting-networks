@@ -1,29 +1,30 @@
 ---
 url: https://sakana.ai
-rating: ⭐⭐
+location: Tokyo, Japan
 added: 2026-02-26
 tags: [alife, computational-creativity, open-endedness]
+rating: ⭐⭐⭐
 ---
 
 # Sakana AI
 
-AI research lab founded by [[David Ha]] and Llion Jones (Transformer co-inventor) in Tokyo, 2023. Name means "fish" in Japanese — inspired by collective intelligence of fish schools.
+AI research company founded by [[David Ha]] and Llion Jones (Transformer paper co-author). Based in Tokyo. Explicitly nature-inspired approach to AI — ALife principles applied to commercial AI research.
 
 ## Key People
-- [[David Ha]] — co-founder (former Google Brain, Stability AI)
-- Llion Jones — co-founder (Transformer paper co-author)
+- [[David Ha]] — co-founder, CEO
+- Llion Jones — co-founder (co-author of "Attention Is All You Need")
 
-## Research Focus
-- Nature-inspired AI, evolutionary methods
-- Open-ended AI systems
-- Collective intelligence approaches
-- "The AI Scientist" — automated research system
+## Key Research
+- Nature-inspired AI architectures
+- Evolutionary approaches to neural network design
+- AI-Scientist — automated scientific discovery
+- Self-organizing AI systems
 
 ## Connections
-- [[David Ha]] — co-founder
-- [[Joel Lehman]] — open-endedness community overlap
-- [[Ken Stanley]] — intellectual lineage (novelty search, open-endedness)
-- Tokyo — Asian AI scene
+- [[ALIFE Conference]] — intellectual roots
+- [[Ken Stanley]] — novelty search influence
+- [[Joel Lehman]] — open-endedness influence
+- Japanese AI/tech scene
 
 ## Why Interesting
-ALife-inspired approach to AI from inside a well-funded lab. Founded on the premise that nature's intelligence (swarms, evolution) offers better models than scaling. Connects open-endedness research to commercial AI.
+A company explicitly built on ALife principles — nature-inspired AI at commercial scale. Having a Transformer co-author commit to ALife-inspired approaches gives the approach enormous credibility. Tokyo location connects to Asian tech scene. Their "AI Scientist" work on automated research is very hot.

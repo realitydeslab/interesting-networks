@@ -1,23 +1,32 @@
 ---
 rating: ⭐⭐⭐
 affiliation: Independent / Gnosis Guild
+url: https://www.ourmachine.net/bio/
 added: 2026-02-26
 tags: [critical-computing, speculative-design]
 ---
 
 # Kei Kreutler
 
-Writer and technologist. Works on decentralized governance, digital institutions, and network culture.
+Writer and technologist. Works on organizational design, DAOs, and governance.
 
-## Key Works
-- Writing on DAOs, digital institutions, and collective governance
-- Gnosis Guild — building decentralized governance tools
-- "A Prehistory of DAOs" — influential essay
+## Key Books/Papers
+- "A Prehistory of DAOs" — influential essay on decentralized organization history
+- Writing on governance, coordination, and institutional design
+- "Inventories, Not Identities" — on web3 and identity
 
-## Connections
+## Key Communities
 - [[Antikythera]] — affiliate researcher (2023)
-- Gnosis Guild — co-founder
-- Summer of Protocols — connected (Amber was also a researcher!)
+- Gnosis Guild — DAO/governance work
+- Ethereum/web3 ecosystem
+
+## Key Venues
+- e-flux — published
+- Antikythera events
+
+## Key Relationships
+- [[Benjamin Bratton]] — Antikythera colleague
+- → Explore: Gnosis Guild network (governance + computation)
 
 ## Why Interesting
-Bridges crypto/DAO culture with serious institutional theory. Not a crypto bro — a genuine thinker about collective governance in digital space. Summer of Protocols connection makes this a direct Amber overlap.
+Thinking seriously about how organizations could work differently using decentralized tech — not crypto-hype but genuine institutional design. "A Prehistory of DAOs" connects governance history to contemporary tech. Connects to Amber's protocol studies interest.

@@ -1,29 +1,24 @@
 ---
-deadline: 2026-03-04
 venue: "[[Ars Electronica]]"
-url: https://ars.electronica.art/prix/en/categories/interactive-art/
+type: award/open call
 added: 2026-02-26
 tags: [art-science, computational-creativity]
-status: ⚠️ URGENT (6 days!)
+status: check deadline
 ---
 
-# Prix Ars Electronica 2026 — Open Call
+# Prix Ars Electronica 2026 Open Call
 
-**⚠️ DEADLINE: March 4, 2026**
+The Prix Ars Electronica is the most prestigious award in media art. Annual open call with multiple categories.
 
-## Categories
-- **Interactive Art +** — installations, performances, AI/ML projects, VR/XR, network projects, human-nonhuman interaction
-- **New Animation Art** — animation × art × technology
-- **Digital Humanity** — social benefit, community, inclusion
+## Details
+- URL: https://ars.electronica.art/prix/en/
+- Categories typically include: Digital Musics & Sound Art, AI & Life Art, Digital Communities, etc.
+- **Check current categories and deadline** — Open Call 2026 page exists but URL needs verification
 
-## Prizes
-- Golden Nica: €10,000 + prominent appearance at Ars Electronica Festival
-- Awards of Distinction
-- Up to 12 Honorary Mentions
+## Relevance to Amber
+- AI & Life Art category directly aligns
+- Could submit work on agent ethology, machine behavior, or trust experience design
+- Prize winners get exhibited at Ars Electronica Festival
 
-## Why Relevant
-Interactive Art + explicitly welcomes "interaction designs that envision futures where humans and machines coexist autonomously" and "works that expand communication among humans as well as between human and non-human entities." This is directly Amber's territory.
-
-## Previous Winners
-- Lauren Lee McCarthy — *SOMEONE* (Golden Nica 2020)
-- Bi0film.net — bacterial resistance (Golden Nica 2022)
+## Action
+⚠️ Check https://ars.electronica.art/prix/ for exact 2026 categories and deadlines

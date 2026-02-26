@@ -1,24 +1,33 @@
 ---
 rating: ⭐⭐⭐
-affiliation: NYU
+affiliation: NYU / Independent artist
 added: 2026-02-26
-tags: [art-science, more-than-human, critical-computing]
+tags: [more-than-human, art-science, critical-computing, climate]
 ---
 
 # Tega Brain
 
-Australian artist and environmental engineer. Creates dysfunctional information systems examining digital networks and natural phenomena.
+Australian artist and environmental engineer. Art about ecology, infrastructure, and more-than-human systems.
 
-## Key Works
-- *Unfit Bits* (2015) — spoofing fitness data, with Surya Mattu
-- *Code as Creative Medium* (2021) — textbook with Golan Levin
-- Environmental engineering → art practice
+## Key Books/Papers
+- *Eccentric Engineering* — framework for designing with environmental systems
+- "The Environment is Not a System" (2018) — influential critique
+- Co-editor: *Code as Creative Medium* (MIT Press, 2021)
 
-## Connections
-- NYU — assistant professor, Integrated Digital Media
-- [[Eyebeam]] — connected
-- Whitney Museum — exhibited
-- Haus der Kulturen der Welt — exhibited
+## Key Communities
+- [[Eyebeam]] — alumnus
+- NYU ITP/IMA — faculty
+- Processing Foundation
+
+## Key Venues
+- [[Ars Electronica]]
+- [[Eyebeam]]
+- [[transmediale]]
+
+## Key Relationships
+- [[Lauren Lee McCarthy]] — NYU colleague, Processing community
+- Sam Lavigne — collaborator (Smell Pittsburgh, data art)
+- → Explore: Sam Lavigne (data art, computational culture)
 
 ## Why Interesting
-Environmental engineer turned artist — rare background. Her "eccentric engineering" approach (building deliberately dysfunctional systems) is a powerful design research method. Connects environmental science and critical computing.
+"The Environment is Not a System" is a crucial critique — argues against treating ecology as engineering problem. Her art practice embodies more-than-human design without calling it that. Environmental engineering background gives her work technical depth.
