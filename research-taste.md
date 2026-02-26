@@ -54,6 +54,13 @@ Soma, body, movement, touch, materiality. Computing that's felt, not just seen. 
 - **Practice-based** — values making, building, designing as forms of knowing
 - **Critically engaged** — not neutral; design as a way to take a position
 
+## The Edge of Chaos Principle
+Interestingness = edge of chaos. The most interesting areas are:
+- **Fast-evolving** — the field is actively reshaping itself
+- **Fast-shaping** — new ideas are crystallizing, new communities forming
+- **Unstable in a productive way** — not settled, not dead, but churning with possibility
+- Stop researching a thread when it becomes predictable or static. Double down when it feels alive.
+
 ## Anti-patterns (less interesting)
 
 - Pure engineering/systems papers with no critical lens
