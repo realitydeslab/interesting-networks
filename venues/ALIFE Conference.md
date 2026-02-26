@@ -1,31 +1,32 @@
 ---
 url: https://alife.org
-rating: ⭐⭐⭐
-frequency: Annual
+type: conference
+frequency: annual
 added: 2026-02-26
-tags: [alife, open-endedness, computational-creativity, more-than-human]
+tags: [alife, computational-creativity, open-endedness, more-than-human]
+rating: ⭐⭐⭐
 ---
 
 # ALIFE Conference
 
-Annual international conference on artificial life. Since 1987. The central venue for ALife research.
+International Conference on Artificial Life. The primary venue for ALife research.
+
+## Upcoming
+- **ALIFE 2026** — Waterloo, Canada, Aug 17-21. [[ALIFE 2026|CFP OPEN — papers due March 30!]]
+- ALIFE 2025 was in Kyoto, Japan (Cross Labs)
 
 ## Key People
-- [[Ken Stanley]] — contributor
-- [[Joel Lehman]] — contributor
-- [[David Ha]] — contributor
-- [[Sara Imari Walker]] — connected
-
-## Topics
-- Open-endedness, emergence, evolution
-- Artificial chemistry, artificial ecosystems
-- Robot ecosystems, swarm intelligence
-- Origins of life, autopoiesis
+- [[Ken Stanley]] — regular contributor
+- [[Joel Lehman]] — regular contributor
+- [[David Ha]] — connected
+- Susan Stepney — organizer
+- Tim Taylor — open-endedness
+- [[Jeff Clune]] — regular contributor
 
 ## Connections
-- [[Santa Fe Institute]] — intellectual overlap
-- [[Sakana AI]] — ALife-inspired approach
-- ICCC — creativity conference overlap
+- [[Santa Fe Institute]] — overlapping community
+- [[Sakana AI]] — intellectual roots
+- [[Artificial Life]] topic
 
 ## Why Interesting
-Where the ALife community gathers. Open-endedness, emergence, and evolution are core topics. Directly connects to Amber's interests in artificial life, machine behavior, and more-than-human systems.
+The mothership for artificial life research. Where open-endedness, emergent behavior, and life-as-it-could-be are studied. Directly relevant to Amber's ALife and machine behavior interests. **ALIFE 2026 CFP is OPEN — papers due March 30.**
