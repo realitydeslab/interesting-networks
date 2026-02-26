@@ -140,25 +140,45 @@ What circuits do they move in? Why those venues?
 
 ## Research Taste Analysis (⭐⭐⭐ only)
 Analyze HOW this person builds their research, not just WHAT they research.
-This section should let Amber quickly understand the meta-strategy she can learn from.
+This section should let Amber quickly understand the meta-strategies she can learn from.
 
-Required sub-sections:
-### The Formula
-Identify the repeating pattern. Examples:
-- **Seed paper strategy**: write conceptual framework → spend years filling empirical slots
-- **Research franchise model**: each paper creates demand for the next
-- **Framework multiplication**: take two established ideas from different fields → multiply into new concept
-- **Field declaration**: zoom out from specific results → declare an entire field exists
+**Most researchers operate on MULTIPLE axes simultaneously.** Don't flatten them into one formula.
+Analyze from as many angles as are genuinely present:
+
+### Possible Angles (use all that apply, add others if needed):
+
+**Conceptual Strategy** — how they generate ideas:
+- Framework multiplication (combine two fields → new concept)
+- Seed paper strategy (conceptual map first → empirical work fills slots)
+- Two-word concept coining (memorable labels that become citeable)
+- Provocation-first (controversial framing that forces response)
+
+**Career Architecture** — how they build institutional power:
+- Field declaration (zoom out from results → declare a discipline)
+- Coalition papers (multi-author manifestos as territorial claims)
+- Platform building (labs, journals, conferences as infrastructure)
+- Strategic migration (institution hopping at the right moments)
+
+**Methodology Signature** — how they DO the work:
+- Scale play (massive experiments like Moral Machine's 40M responses)
+- Art-science bridging (using exhibitions as research intuition)
+- Public engagement (media, TED, policy as amplification)
+- Cross-discipline poaching (importing methods from unexpected fields)
+
+**Network Strategy** — how they build influence:
+- Collaborator selection (who they co-author with and why)
+- Mentorship patterns (what kind of students/postdocs they produce)
+- Conference circuit (which stages they choose)
 
 ### Key Moves (chronological)
-List the 3-5 career-defining moves with dates:
+List the 3-7 career-defining moves with dates:
 1. What they did
 2. WHY it worked (timing, framing, positioning)
 3. What it enabled next
 
 ### What Amber Can Learn
-Not "collaboration potential" — what STRATEGY or PATTERN can Amber extract and adapt?
-Be specific: "Write a 'seed paper' that defines agent ethology's conceptual territory before doing empirical work"
+Not "collaboration potential" — what STRATEGIES or PATTERNS can Amber extract and adapt?
+Be specific and actionable. Multiple lessons are expected.
 
 ## For Amber
 - **Why interesting:** connection to Amber's taste
