@@ -13,7 +13,8 @@ deep_researched: true
 # Stanford HCI Group
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Deep research completed. Expanded from stub to full profile with history, faculty, alumni, key contributions, and connections to Amber's interests.
+- **2026-02-26:** Deep research completed (retry pass). Verified all faculty/alumni against live hci.stanford.edu. Added Bernstein's Sloan Fellowship + Computer History Museum prize. Added CSCW 2026 paper. Confirmed Simile.ai enterprise clients (CVS Health, Wealthfront, Suntory, Banco Itau). Updated Joon Sung Park post-PhD status. Added Center for Computational Social Science to connected institutions.
+- **2026-02-26:** Initial deep research. Full profile created with history from Winograd 1970s through Generative Agents 2023. All key faculty, notable alumni, key contributions, events, and Amber-specific engagement paths.
 
 The world's most influential human-computer interaction research group, operating out of Stanford University's Gates Computer Science Building. Founded in the 1980s around Terry Winograd's vision of designing computing technology that genuinely serves human needs, the group defined what HCI *is* as a field — and is now redefining what it becomes in the era of LLMs and social AI. The birthplace of Generative Agents, Flash Teams, Street-Level Algorithms, and dozens of other field-defining concepts. If you want to understand the dominant US paradigm for human-centered AI, this is the center of gravity.
 
@@ -51,7 +52,7 @@ The world's most influential human-computer interaction research group, operatin
 
 ### Current Faculty
 
-**[[Michael Bernstein]]** ⭐⭐⭐ — Professor of Computer Science, Bass University Fellow, Senior Fellow at [[Stanford HAI]]. The current intellectual center of the group. Three career arcs: crowd computing → critical algorithms → LLM social simulation. Co-author of Generative Agents (2023), Flash Teams bestselling book (MIT Press 2025), Science paper on political polarization (2025). Currently on leave as co-founder of [Simile.ai](https://simile.ai/) (applying Generative Agents to enterprise synthetic user research). Returns Fall 2026. See full note for comprehensive profile.
+**[[Michael Bernstein]]** ⭐⭐⭐ — Professor of Computer Science, Bass University Fellow, Senior Fellow at [[Stanford HAI]]. The current intellectual center of the group. Three career arcs: crowd computing → critical algorithms → LLM social simulation. Co-author of Generative Agents (2023), Flash Teams bestselling book (MIT Press 2025), Science paper on political polarization (2025). Awards: Alfred P. Sloan Fellowship, Computer History Museum Tech for Humanity Prize. **Note:** Bernstein did his BS at Stanford (Symbolic Systems — the same interdisciplinary CS+philosophy+linguistics degree) before his MIT PhD — he's a Stanford alumnus like Amber, giving an additional personal connection. Currently on leave as co-founder of [Simile.ai](https://simile.ai/) (enterprise synthetic user research; clients include CVS Health, Wealthfront, Suntory, Banco Itau). Returns Fall 2026. See full note for comprehensive profile.
 
 **[James Landay](https://www.landay.org/)** ⭐⭐ — Professor of Computer Science. HCI systems, health technology, design tools, ubiquitous computing. Career arc: UC Berkeley (1997–2003) → Intel Labs Seattle (2003–2006, Lab Director) → UW (2003–2013) → Cornell Tech (2013–14) → Stanford (2014–). PhD from Carnegie Mellon (1996) — dissertation was the first to demonstrate sketching in UI design tools. ACM SIGCHI Academy (2011), ACM Fellow (2017). Research themes: smart built environments, educational technology, mobile health. Co-authors frequently with Bernstein on social computing and design tools.
 
@@ -79,13 +80,13 @@ The world's most influential human-computer interaction research group, operatin
 
 ### Key PhD Alumni (Notable)
 
-- **[Joon Sung Park](https://www.joonsungpark.com/)** ⭐⭐⭐ — Created Generative Agents (Best Paper, UIST 2023 + CHI Best Paper). Founded the LLM agent simulation field. Microsoft Research PhD Fellowship, Terry Winograd Fellowship, Siebel Scholar. Full deep research note available.
+- **[[Joon Sung Park]]** ⭐⭐⭐ — Created Generative Agents (Best Paper, UIST 2023 + additional CHI Best Paper). Founded the LLM agent simulation field. Post-PhD, running population-scale societal simulations with agents grounded in real-world data and validated against ground truth behavior. Still co-authoring with Stanford HCI (EMNLP 2025, UIST 2025 with Bernstein, Diyi Yang, Horvitz). Featured in NYT, The Guardian, New Yorker, WIRED. Awards: Microsoft Research PhD Fellowship, Terry Winograd Fellowship, Siebel Scholar. Full deep research note available.
 - **[Ali Alkhatib](https://ali-alkhatib.com/)** ⭐⭐ — Street-Level Algorithms (CHI 2019 Best Paper), critical computing researcher. Now at UCSF / independent. Sharp political voice in HCI.
 - **[Niloufar Salehi](https://niloufar.org/)** — Crowd work labor research, Dynamo (organizing Mechanical Turk workers), social computing. Now Assistant Professor at UC Berkeley.
 - **[Scott Klemmer](https://d.ucsd.edu/scott/)** ⭐⭐ — Now UCSD. Co-founded [Coursera](https://www.coursera.org/) (with Daphne Koller), democratizing online education. HCI tools, sketching interfaces.
 - **[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)** — PhD student of Terry Winograd. Now Principal Researcher at Microsoft Research (Ability Group), Affiliate Professor at UW. Specializes in accessibility, social media, and HCI for AGI. Still speaking at Stanford HCI seminars (Feb 27, 2026: "HCI for AGI").
 - **[Amy X. Zhang](https://homes.cs.washington.edu/~axz/)** ⭐⭐ — Now UW. Platform governance, social computing. PolicyKit co-author with Bernstein.
-- **Michael Bernstein himself** — PhD at MIT, came back as faculty. His own PhD alumni include Joy Kim (Adobe Research), Niloufar Salehi (Berkeley), Ali Alkhatib.
+- **Michael Bernstein himself** — PhD at MIT, came back as faculty. His own PhD alumni include Joy Kim (Senior Research Scientist, Adobe), Niloufar Salehi (UC Berkeley), Ali Alkhatib. Postdoc alumni: [Chenyan Jia](https://www.jiachenyan.com/) (now Assistant Professor at Northeastern University).
 - **[Melissa Valentine](https://profiles.stanford.edu/melissa-valentine)** — Now Stanford Management Science & Engineering (former HCI affiliate). Organizational behavior, crowd work, flash organizations. Co-authored the national bestselling *Flash Teams* book (MIT Press 2025) with Bernstein.
 - **[Arvind Satyanarayan](https://arvindsatyanarayan.com/)** — Now MIT CSAIL. Created the [Vega](https://vega.github.io/) visualization grammar, widely used in data visualization. 
 - **[Justin Cheng](https://www.justincheng.info/)** — Now Facebook/Meta AI. Trolling behavior research (CSCW 2017 Best Paper), cascading behavior in social networks.
@@ -107,6 +108,15 @@ The group produces consistently at the top HCI venues plus increasingly in Scien
 - **CSCW** (Computer-Supported Cooperative Work) — social computing flagship
 - **UIST** (User Interface Software and Technology) — systems and tools flagship
 - **ICWSM** (International Conference on Weblogs and Social Media) — social media analysis
+
+### Select Recent Papers (2025–2026)
+- [Finetuning LLMs for Human Behavior Prediction in Social Science Experiments](https://aclanthology.org/2025.emnlp-main.1530.pdf) (Kolluri, Wu, Park, Bernstein — EMNLP 2025) — [Socrates system](https://stanfordhci.github.io/socrates/), grounding LLMs in social science data
+- [Creating General User Models from Computer Use](https://arxiv.org/abs/2505.10831) (Shaikh, Sapkota, Rizvi, Horvitz, Park, Yang, Bernstein — UIST 2025, Best Paper Honorable Mention) — generalized behavioral user models from interaction traces
+- [Reranking Partisan Animosity in Algorithmic Social Media Feeds Alters Affective Polarization](https://www.science.org/doi/10.1126/science.adu5584) (Piccardi, Saveski, Jia, Hancock, Tsai, Bernstein — *Science* 2025) — landmark result: algorithmic reranking reduces polarization
+- [LLM Social Simulations Are a Promising Research Method](https://arxiv.org/abs/2504.02234) (Anthis, Liu, Richardson, Kozlowski, Koch, Evans, Brynjolfsson, Bernstein — ICML Position Papers 2025) — formal methodological legitimation
+- [Aligning Language Models with Demonstrated Feedback](https://arxiv.org/abs/2406.00888) (Shaikh, Lam, Hejna, Shao, Cho, Bernstein, Yang — ICLR 2025) — RLHF alternatives
+- [Alexandria: A Library of Pluralistic Values for Realtime Re-Ranking of Social Media Feeds](https://arxiv.org/abs/2505.10839) (ICWSM 2026) — democratic values embedded in feed algorithms
+- [People Can Accurately Predict Behavior of Complex Algorithms That Are Available, Compact, and Aligned](https://arxiv.org/abs/2601.18966) (Popowski, Vasconcelos, Fernandez, Mgbahurike, Herbrich, Hancock, Bernstein — CSCW 2026) — algorithmic transparency research
 
 ## Key Contributions
 
@@ -195,7 +205,7 @@ The Stanford HCI Group's intellectual contributions are large enough to constitu
 
 ### Who Should Amber Know
 1. **[[Michael Bernstein]]** ⭐⭐⭐ — The center of gravity. LLM social simulation, social computing, future of work. Warm entry via James Evans.
-2. **[[Joon Sung Park]]** ⭐⭐⭐ — Creator of Generative Agents. Now faculty somewhere (leaving Stanford post-PhD). Working on population-scale simulations.
+2. **[[Joon Sung Park]]** ⭐⭐⭐ — Creator of Generative Agents. Post-PhD, running population-scale societal simulations. Still co-authoring with Stanford HCI in 2025-26. Covered in NYT, New Yorker, WIRED, Science.
 3. **[[Diyi Yang]]** ⭐⭐ — Fast-rising NLP/HCI. Human-AI alignment, socially aware AI systems.
 4. **James Landay** — Senior HCI faculty. Design tools, health tech, accessible systems.
 5. **Meredith Ringel Morris** — Microsoft Research, HCI for AGI. Speaking Feb 27, 2026 at Stanford HCI on "HCI for AGI" — talks she gives become YouTube videos.
@@ -232,6 +242,8 @@ The Stanford HCI Group's intellectual contributions are large enough to constitu
 - **ICML 2025 Position Paper with James Evans:** Formal argument that LLM social simulation is a legitimate social science research method. This is the intellectual legitimation of the whole program.
 - **Terry Winograd's Feb 2026 HCI seminar talk:** "What's up with AI?" — the group's founding father weighing in on the current AI moment. Must-watch.
 - **Meredith Ringel Morris Feb 27, 2026 seminar:** "HCI for AGI" — where HCI and AGI planning intersect.
+- **Socrates system (EMNLP 2025):** Park + Bernstein's system for finetuning LLMs on social science experimental data to predict human behavior in controlled settings. Validates the generative agent paradigm with empirical grounding.
+- **Simile.ai enterprise traction:** Bernstein's startup is now working with CVS Health, Wealthfront, Suntory Beverages & Food, Banco Itau, and Telstra-Accenture JV. Biggest test of whether Generative Agents translate to real-world value creation.
 
 ## Connected Institutions
 
@@ -242,6 +254,8 @@ The Stanford HCI Group's intellectual contributions are large enough to constitu
 - **[d.school](https://dschool.stanford.edu/)** — Design school co-founded by Winograd. Listed as HCI Group "co-conspirator." Design + HCI intersection.
 - **[Microsoft Research](https://www.microsoft.com/en-us/research/)** — Key partners: Meredith Ringel Morris (social computing, accessibility), Eric Horvitz (Chief Scientist, co-author). Strong Microsoft/Stanford pipeline.
 - **[ACM SIGCHI](https://sigchi.org/)** — Professional community hosting CHI, CSCW, UIST. The Stanford HCI Group is deeply institutionalized here.
+- **[Center for Computational Social Science (IRISS)](https://iriss.stanford.edu/css)** — Stanford-internal "co-conspirator" listed on HCI Group website. Connects computational methods to social science questions, overlaps with the group's LLM social simulation agenda.
+- **[Xerox PARC](https://www.parc.com/)** — Historical roots. Stuart K. Card came from PARC; the CHI tradition was co-developed between Stanford and PARC in the 1980s-90s. The Mouse, the GUI, Information Visualization — all emerged from this tight Stanford-PARC corridor.
 
 ## Why Interesting
 
@@ -260,3 +274,4 @@ The Stanford HCI Group's intellectual contributions are large enough to constitu
 |------|-----------|--------|
 | 2026-02-26 | Biber (subagent) | Initial stub created with key people and why interesting. |
 | 2026-02-26 | Biber (subagent) | Deep research completed. Full rewrite to gold standard. History from Winograd 1970s through Generative Agents 2023. All key faculty, notable alumni, key contributions, events, and Amber-specific engagement paths. |
+| 2026-02-26 | Biber (subagent) | Retry pass. Live verification against hci.stanford.edu. Added: Bernstein's Sloan Fellowship + Computer History Museum Tech for Humanity Prize + BS-at-Stanford note; Simile.ai enterprise clients; Joon Sung Park updated post-PhD status + CHI Best Paper note; Chenyan Jia postdoc → Northeastern; CSCW 2026 paper + EMNLP 2025 Socrates; Center for Computational Social Science + Xerox PARC to Connected Institutions; Select Recent Papers (2025–2026) section added. |

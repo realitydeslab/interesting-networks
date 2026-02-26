@@ -223,3 +223,4 @@ IRI is **edge of chaos adjacent**: the Stiegler-founded institutions are in prod
 |------|-----------|--------|
 | 2026-02-26 | Biber (subagent) | Created stub during Bernard Stiegler deep research. Needed full investigation. |
 | 2026-02-26 | Biber (subagent) | Full deep research completed. Expanded to gold standard with full history (2006–present), key people (Scientific College), theoretical frameworks (pharmakon, organology, amateur), Centre Pompidou connection, TAC project, Digital Studies network, Amber-specific analysis. Added "based:" field: Paris, France (Centre Pompidou). |
+| 2026-02-26 | Biber (subagent) | RETRY pass: verified all content, deleted duplicate stub (`Institut de recherche et d'innovation.md`), created stub notes for all linked entities: [[Antoinette Rouvroy]] ⭐⭐⭐, [[Maël Montévil]] ⭐⭐⭐, [[Digital Studies Network]] ⭐⭐, [[Territoire Apprenant Contributif (TAC)]] ⭐⭐. Note confirmed at gold standard. |
