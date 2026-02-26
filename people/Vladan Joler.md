@@ -1,8 +1,10 @@
 ---
 rating: ⭐⭐⭐
-affiliation: University of Novi Sad, Serbia / SHARE Foundation
+affiliation: Academy of Arts, University of Novi Sad / SHARE Foundation
+website: https://joler.org
+based: Novi Sad, Serbia
 added: 2026-02-26
-tags: [art-science, critical-computing]
+tags: [art-science, critical-computing, data-visualization]
 deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
@@ -11,26 +13,29 @@ next_research: 2026-03-26
 
 # Vladan Joler
 
-Artist and researcher. Extraordinary data visualizations mapping AI infrastructure and exploitation.
+## ⚡ Recent Updates
+- **2026-02-26:** Initial note created during Kate Crawford deep research. Key collaborator on major art-science projects.
 
-## Key Books/Papers
-- "Anatomy of an AI System" (2018) — with [[Kate Crawford]]. Maps the entire supply chain of an Amazon Echo.
-- "New Extractivism" — mapping data extraction and exploitation
-- "Calculating Empires" (2023) — with Kate Crawford, massive map of technology and power since 1500
+Professor at Academy of Arts, University of Novi Sad. Founder of SHARE Foundation and leader of SHARE Lab. Artist-researcher creating extraordinary data visualizations and critical technology investigations.
+
+## Key Works
+- **"Calculating Empires: A Genealogy of Technology and Power Since 1500"** (2023, with **[[Kate Crawford]]**) — Silver Lion at Venice Architecture Biennale 2025
+- **"Anatomy of an AI System"** (2018, with **[[Kate Crawford]]**) — Design of the Year Award 2019, permanent collection MoMA, V&A
 
 ## Key Communities
-- SHARE Foundation — co-founder (digital rights, Serbia)
-- SHARE Lab — investigative data research
-
-## Key Venues
-- [[Ars Electronica]] — Prix Ars Electronica winner
-- MoMA — exhibited
-- Vienna Biennale
-- [[Eyebeam]] — connected
+- **SHARE Foundation** — Founder
+- **SHARE Lab** — Leading research and data investigation lab exploring algorithmic transparency, digital labor exploitation, invisible infrastructures
+- **Academy of Arts, University of Novi Sad** — Professor
 
 ## Key Relationships
-- [[Kate Crawford]] — primary collaborator
-- → Explore: Serbian media art scene (SHARE Foundation network)
+- **[[Kate Crawford]]** ⭐⭐⭐ — Primary collaborator on major art-science projects
+- Eastern European critical tech research network
 
 ## Why Interesting
-"Anatomy of an AI System" is one of the most important artworks about AI ever made — a massive diagram mapping the entire material and human supply chain behind a single Amazon Echo command. "Calculating Empires" extends this to 500 years of technology and power. Eastern European perspective on tech critique is rare and valuable.
+Creates some of the most sophisticated critical data visualizations in contemporary art. "Anatomy of an AI System" fundamentally changed how people visualize technological infrastructure. Brings Eastern European perspective to critical technology studies.
+
+## 📋 Update Log
+
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-02-26 | Biber (agent) | Initial stub created. Needs deep research on SHARE Lab work, visualization methods, and broader Eastern European critical tech scene. |
