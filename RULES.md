@@ -568,3 +568,10 @@ A new agent joining this project should:
 
 *Last updated: 2026-02-26*
 *This is a living document. Update it as the project evolves.*
+
+## §20 GitHub Issue Workflow
+
+Every deep research completion MUST:
+1. Close any existing open issue for that entity with `@botaohu` mention
+2. Comment on master queue issue #12 if it's a ⭐⭐⭐ completion
+3. Subagents should run: `gh issue list --repo realitydeslab/interesting-networks --search "ENTITY_NAME" --state open` and close matching issues
