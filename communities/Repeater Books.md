@@ -1,367 +1,311 @@
 ---
 rating: ⭐⭐⭐
 url: https://repeaterbooks.com/
-based: London, UK
 added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 4
-next_research: 2026-03-26
-tags: [critical-computing, accelerationism, hauntology, art-science, posthuman, speculative-design]
+tags: [critical-theory, accelerationism, xenofeminism, left-culture, publishing, gothic-marxism, hauntology, music-criticism, horror-philosophy, technology-criticism]
 deep_researched: true
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-26
 ---
 
 # Repeater Books
 
+Independent publishing imprint launched 2014 by the former [[Zero Books]] team. Co-founded by [[Mark Fisher]], Tariq Goddard, Etan Ilfeld, Phil Jourdan, Matteo Mandarini, Alex Niven, and Tamar Shlaim. Part of [Watkins Media](https://watkinsmedia.com/). Tagline: "We are alive and we don't agree."
+
+Carries forward Zero Books' mission — accessible critical theory, cultural criticism, left politics — but with stronger editorial autonomy. Since its founding it has become the de facto home of British cultural theory publishing. Mark Fisher's final books were Repeater titles; the imprint now stewards his literary estate and cultural legacy.
+
+**⚠️ Note (July 2024):** Tariq Goddard, the main editorial personality, departed in July 2024. The imprint is now run by a new team under Etan Ilfeld.
+
+---
+
 ## ⚡ Recent Updates
-- **2026-02-26:** Deep research completed. Expanded from stub to full profile: history, Mark Fisher legacy, CCRU genealogy, hauntology/accelerationism connections, key authors and titles, Watkins Media structure, and Amber engagement paths.
-
-The UK's most significant independent radical theory publisher. Launched 2014 as imprint of Watkins Media. Described as "the love child of Verso and Faber." Strapline: **"We're alive and we don't agree."** Direct continuation of the cultural theory publishing tradition that Mark Fisher and Tariq Goddard built at Zero Books — but with broader scope: fiction, music criticism, psychogeography, feminist politics, horror philosophy, and more. The institutional home of the CCRU → hauntology → capitalist realism intellectual lineage.
-
----
-
-## Mission & Objectives
-
-**Founding mission:** To gather together "isolated voices from across the political left and the counterculture in every sphere and genre." Not a party line — a spectrum. Publish work that is "intellectual without being academic, and popular without being populist." (The original brief for Zero Books, carried forward and extended.)
-
-**Key distinction from Zero Books:** Repeater consciously expanded beyond pure cultural theory. Under Goddard's direction, the list grew to include: fiction (Carl Neville's *Resolution Way*), music biography (Chris O'Leary's *Rebel Rebel*), feminist politics (Dawn Foster), economics (Grace Blakeley), horror philosophy (Eugene Thacker), architecture criticism (Owen Hatherley), literary memoir, psychogeography, and occult studies.
-
-**Vibe:** Where Zero Books was ideologically tighter (post-punk Marxist critical theory), Repeater was more eclectic — united by the ethos of genuine intellectual risk-taking and a rejection of the "po-faced, dry Marxist ideology" that alienated readers from the left.
-
-**Tagline origin:** A "repeater" is an electronic device that receives a signal and retransmits it — extending reach over longer distances or around obstacles. Signal-boosting radical writing.
-
-**Distribution:**
-- UK: GBS (Grantham Book Services)
-- US: Random House
+- **2026-02-26:** Deep research completed. Full profile created.
+- **2024-07-16:** Tariq Goddard posted leaving statement — co-founder exits after 17 years (both Repeater and Zero Books).
+- **2021:** Watkins Media re-acquired the Zero Books imprint from Collective Ink, reuniting both imprints under Etan Ilfeld.
 
 ---
 
-## History
+## History & Origin
 
-### The Zero Books Foundation (2007/2009-2014)
+Repeater was launched in **2014** when a group of editors and authors associated with Zero Books — which had been sold to Collective Ink — decided to start fresh with greater editorial control. The break was amicable in form but ideological in substance: the founders wanted to build something without commercial compromises.
 
-The Repeater story begins with Zero Books. In 2007 (formally launched around 2009), **Tariq Goddard** and **Mark Fisher** co-founded Zero Books as an imprint of John Hunt Publishing, with the intention of publishing works that were "intellectual without being academic, and popular without being populist."
+Zero Books had been the paradigm case for the early-internet era of accessible critical theory — pop philosophy that didn't talk down to readers, launched by Tariq Goddard and John Hunt in 2007. Mark Fisher's *Capitalist Realism* (2009, Zero Books) was the defining book of that era, changing the terms of how young people talked about capitalism and culture. When Zero was sold, the core team walked.
 
-Zero Books achieved genuine cultural impact — most famously with Fisher's *Capitalist Realism: Is There No Alternative?* (2009), which became a generation-defining text. The press also published Eugene Thacker, Owen Hatherley, Laurie Penny, and others working at the interface of critical theory and accessible cultural analysis.
+**At Repeater:** Tariq Goddard served as publisher/editor from 2014–2024. He was the editorial engine — bringing in authors, setting the tone, commissioning across fiction, theory, politics, and music. Mark Fisher was a co-founder and published his final full book (*The Weird and the Eerie*, 2017) here before his death in January 2017.
 
-By 2014, Goddard, Fisher, and key colleagues had grown frustrated with the editorial direction imposed by parent company John Hunt Publishing (now Collective Ink). The precise nature of the "disagreements" was never fully detailed in public, but the tension between intellectual ambition and commercial pressures within a multi-imprint operation was clear.
-
-### The Founding Split (2014)
-
-In late 2014, Goddard, Fisher, Matteo Mandarini (editor), Alex Niven (editor, cultural critic), and Tamar Shlaim (publicist) resigned from Zero Books. They were joined by **Etan Ilfeld** — the American entrepreneur who owned Watkins Books (London's oldest esoteric bookshop, established 1897 in Cecil Court). Ilfeld had earlier launched Watkins Media, acquiring Watkins Publishing, Nourish, and Angry Robot from Osprey Publishing. He agreed to launch Repeater as a new imprint within Watkins Media.
-
-**Phil Jourdan** was also listed as a founding member on the official About page.
-
-Key founding team:
-- **Mark Fisher** — Co-founder (died January 2017)
-- **Tariq Goddard** — Co-founder and publisher (until July 2024)
-- **Etan Ilfeld** — Owner/managing director of Watkins Media
-- **Alex Niven** — Editor, cultural critic
-- **Matteo Mandarini** — Editor
-- **Tamar Shlaim** — Publicist
-- **Phil Jourdan** — Editor
-
-The Bookseller announced the launch in late 2014 with the headline "WN [Watkins] Acquires New Imprint After Fall-Out at Zero Books."
-
-### First Publications (2015)
-
-Repeater published its first two titles in 2015:
-1. **The Isle of Minimus** — experimental novel by M. K. L. Murphy
-2. **Lean Out** — feminist polemic by journalist Dawn Foster. First major Repeater success, establishing the press's willingness to publish politically pointed short books quickly.
-
-### Mark Fisher's Final Years (2015-2017)
-
-Fisher's time at Repeater was brief but consequential. He co-edited *Post-Punk Then and Now* (with Kodwo Eshun and Gavin Butt, 2016) and was working on multiple projects, including the unfinished *Acid Communism*, when he died by suicide on 13 January 2017. *The Weird and the Eerie* was published weeks later.
-
-Fisher's death transformed Repeater's mission retroactively — the press became a permanent steward of his intellectual legacy, publishing the massive *k-punk: The Collected and Unpublished Writings* (2018) and *Postcapitalist Desire: The Final Lectures* (2020).
-
-### Expansion and Growth (2016-2021)
-
-Repeater grew rapidly, expanding its roster to include Grace Blakeley (economics), Brad Evans (violence studies), Owen Hatherley (architecture), Graham Harman (OOO philosophy), Steven Shaviro (film/philosophy), Eugene Thacker (horror philosophy), Todd McGowan (Lacanian criticism), Mat Osman (fiction), Cynthia Cruz (poetry/memoir), and many others.
-
-The list maintained a distinctive character: genuinely interdisciplinary, politically engaged without being doctrinaire, taking popular culture as seriously as academic theory.
-
-### Reacquiring Zero Books (October 2021)
-
-In October 2021, Etan Ilfeld purchased John Hunt Publishing (now Collective Ink), bringing Zero Books and Repeater Books under the same ownership umbrella within Watkins Media. This allowed some Zero Books assets to transfer back to their originators. On October 23, 2021, Repeater officially announced they had bought the Zero Books imprint — a symbolic homecoming after seven years.
-
-The reunification was not entirely clean: as of 2024, Zero Books was still listed on Collective Ink's website as its imprint, suggesting the reacquisition was more complex than the announcement implied.
-
-### Tariq Goddard's Departure (July 2024)
-
-After seventeen years of building Zero Books and Repeater, Tariq Goddard announced his departure in July 2024. His leaving statement was characteristically measured: *"Repeater and Zero Books are publishing imprints that have become a culture. That culture will endure longer than the individuals that helped bring it about, and although I will be leaving the imprints, it is impossible to leave what they have created."*
-
-He expressed gratitude to "the friends that contributed to that process" and to authors who thanked him for "taking a chance on them." Since his departure, the current editorial team (Christopher DeVeau, Carl Neville as commissioning editor) continues operations.
-
-**Current Team (2026):**
-- **Etan Ilfeld** — Owner and managing director of Watkins Media
-- **Vicky Hartley** — Deputy managing director and interim publisher
-- **Christopher DeVeau** — Editorial manager
-- **Carl Neville** — Commissioning editor (novelist, film critic for Tribune)
-- **Micky Wierda** — Head of global publicity/campaign manager
-- **Phoebe Matthews** — Marketing executive
-- **Melody Travers** — Head of rights, Watkins Media
-
----
-
-## The CCRU Legacy and Intellectual Genealogy
-
-Repeater Books is impossible to understand without its genealogy: **CCRU → k-punk → Zero Books → Repeater Books**.
-
-**The chain:**
-1. **CCRU (1995-2003):** Mark Fisher, Nick Land, Sadie Plant, Kodwo Eshun, Steve Goodman (Kode9) at University of Warwick. Pioneered theory-fiction, accelerationism, hyperstition. Dissolved into diaspora.
-2. **k-punk blog (2003-2015):** Fisher's post-CCRU platform. Simon Reynolds called it "a one-man magazine superior to most magazines in Britain." Gradually shed CCRU's "aggressive rhetoric and pro-capitalist politics for a more forgiving, more left-leaning take on modernity."
-3. **Zero Books (2007-2014):** Fisher and Goddard institutionalized the k-punk ethos as a publishing imprint. *Capitalist Realism* was the ur-text.
-4. **Repeater Books (2014-present):** The continuation, now explicitly pluralist — the whole political left, not just theory-Marxism.
-
-**Key concepts carried from CCRU through Repeater's catalog:**
-
-- **Hauntology** — Derrida's term, repurposed by Fisher to describe culture haunted by lost futures of modernity. Permeates Repeater's entire aesthetic. *The Weird and the Eerie* is its final statement.
-
-- **Capitalist realism** — The ideological condition in which capitalism appears as the only possible reality. Fisher's *Capitalist Realism* was published by Zero Books; his final lectures, published by Repeater as *Postcapitalist Desire*, tried to imagine what might come after.
-
-- **Acid communism** — Fisher's unfinished project: a post-capitalist consciousness drawing on psychedelia, collective joy, utopian imagination. The fragment survives as the introduction to *k-punk: Collected Writings*.
-
-- **The weird and the eerie** — Narrative modes that expose the arbitrary forces shaping social reality, decenter the human subject. Fisher's final completed book.
-
-- **Theory-fiction** — CCRU's hybrid writing mode. Continues in Repeater's willingness to publish fiction (Carl Neville, Tariq Goddard's own novels) alongside theory.
-
-**The accelerationism question:** Fisher broke with accelerationism after CCRU. The k-punk blog documented his gradual turn away from Land's pro-capitalist acceleration toward what he called "acid communism" and collective left politics. Repeater Books as an institution represents this post-CCRU maturation — it's not an accelerationist press, but it carries the intellectual seriousness and cultural promiscuity of the CCRU legacy without the extremist politics.
+The imprint now runs about 30-40 titles per year, covering philosophy, cultural studies, music, politics, gender studies, horror theory, psychogeography, and experimental fiction. In 2021, Watkins bought back Zero Books, so both imprints now sit under the same roof — and share marketing infrastructure (Phoebe Matthews works across both).
 
 ---
 
 ## Key People
 
-### Founders
+### Current Team (2024–present)
 
-- **[[Mark Fisher]]** ⭐⭐⭐ — Co-founder (2014-2017, d. 2017). The intellectual heart of Repeater's founding identity. CCRU veteran, k-punk blogger, author of *Capitalist Realism*. Goldsmiths lecturer. Defined hauntology as cultural criticism. Legacy continues to shape the press.
+**[Etan Ilfeld](https://watkinsmedia.com/)** ⭐⭐ — Owner and Managing Director of Watkins Media. Provides the infrastructure and owns both Repeater and Zero Books. Not an editorial figure; the business brain.
 
-- **[[Tariq Goddard]]** ⭐⭐ — Co-founder and publisher (2014-2024). Born 1975, London. Read philosophy at King's College London and Continental Philosophy at Warwick and Surrey. Novelist (7 novels; debut *Homage to a Firing Squad* shortlisted Whitbread 2002; *Dynamo* cited as one of 10 best sports novels). Frequent Quietus contributor. Lives on farm in Wiltshire. Left Repeater/Zero Books July 2024 after 17 years.
+**Vicky Hartley** — Deputy Managing Director and Interim Publisher. Post-Goddard, she holds the publisher role.
 
-- **[[Etan Ilfeld]]** ⭐⭐ — Owner/managing director, Watkins Media. Born Los Angeles, CA. Physics BSc Stanford (top of undergraduate class, David Levine Award, Phi Beta Kappa). MA Film Studies USC; MA Interactive Media Goldsmiths. Owns Watkins Books (London's oldest esoteric bookshop, Cecil Court, since 1897). Founded Tenderbooks, Tenderpixel Gallery (2007). Inventor of Diving Chess. Author of *Beyond Contemporary Art* (2012). Co-author of *Duchamp versus Einstein* (Angry Robot, 2019). Acquired John Hunt Publishing (Collective Ink) October 2021.
+**[Carl Neville](https://repeaterbooks.com/authors/carl-neville/)** ⭐⭐ — Commissioning Editor. Novelist (*Resolution Way*, *Classless*, *England's Hidden Reverse: The Last Bohemians*) and film critic for [Tribune](https://tribunemag.co.uk/) magazine. The key editorial contact for new manuscripts. Neville's own books show the taste: British music/subculture, psychogeography, left politics, cultural history. His novel *Resolution Way* is in the Fisher tradition — music criticism wrapped in political analysis.
 
-- **[[Alex Niven]]** ⭐⭐ — Editor, cultural critic. Author of *Folk Opposition* (Zero Books, 2012) and other works. Co-edited *The Repeater Book of Heroism* with Goddard (2022).
+**Christopher DeVeau** — Editorial Manager. Writer and editor based in the Netherlands.
 
-- **Matteo Mandarini** — Editor, philosopher. Came from Zero Books team.
+**Micky Wierda** — Head of Global Publicity. Contact: publicity via website form.
 
-- **Tamar Shlaim** — Publicist. Described Repeater as "the love child of Verso and Faber."
+**Phoebe Matthews** — Marketing Executive. Works across Repeater and sister imprint Zero Books.
 
-- **Phil Jourdan** — Editor (listed in 2024 About page as founder).
+**Melody Travers** — Head of Rights (Watkins Media).
 
-### Notable Authors (Key Figures)
+### Former Founders (departed or moved on)
 
-- **[[Kodwo Eshun]]** ⭐⭐⭐ — Cultural theorist, Afrofuturist, founder of The Otolith Group. CCRU veteran. Co-edited *Post-Punk Then and Now* with Fisher.
+**[[Mark Fisher]]** ⭐⭐⭐ — Co-founder. Died January 2017. His shadow looms over everything Repeater publishes. Goldsmiths lecturer, blogger (k-punk), and arguably the most influential British cultural theorist of his generation. Published *The Weird and the Eerie* (2017) at Repeater; *Capitalist Realism* (2009) and *Ghosts of My Life* (2014) were Zero Books titles. Posthumously: *k-punk: The Collected and Unpublished Writings* (2018), *Postcapitalist Desire: The Final Lectures* (2021).
 
-- **[[Grace Blakeley]]** ⭐⭐ — Economist, journalist. *Stolen: How to Save the World from Financialisation* (2019); *The Corona Crash* (2020); *Vulture Capitalism* (2024). Staff writer Tribune, former New Statesman. Oxford PPE + African Studies.
+**[[Tariq Goddard]]** ⭐⭐ — Co-founder, departed July 2024. Ran both Repeater and Zero Books for 17 years (from Zero's 2007 founding). Novelist (*Homage to a Firing Squad*, *High John the Conqueror*) as well as editor. Co-edited *The Repeater Book of Heroism* with Alex Niven. His departure is a genuine generational transition for the imprint.
 
-- **[[Owen Hatherley]]** ⭐⭐ — Architecture and urban culture critic. *Adventures in the Post-Soviet Space*. Guardian architecture correspondent.
+**Alex Niven** — Founding editor, cultural critic. Co-edited *The Repeater Book of Heroism*. Writer on music, culture, and left politics.
 
-- **[[Eugene Thacker]]** ⭐⭐ — Horror philosopher. *In the Dust of This Planet* (Zero Books), *Tentacles Longer Than Night*, *Infinite Resignation* (Repeater). Professor of Media Studies at The New School.
+**Phil Jourdan** — Founding editor. Now runs his own publishing work.
 
-- **[[Steven Shaviro]]** ⭐⭐ — Film theorist, Whitehead scholar. *Post Cinematic Affect* (Zero Books). DeRoy Professor of English, Wayne State University.
-
-- **[[Graham Harman]]** ⭐⭐ — Philosopher, founder of Object-Oriented Ontology (OOO). *The Neurotic Turn* (Repeater). Distinguished Professor of Philosophy, Southern California Institute of Architecture.
-
-- **[[Todd McGowan]]** ⭐⭐ — Lacanian cultural critic. *Emancipation After Hegel* (Repeater). Professor at University of Vermont.
-
-- **[[Dawn Foster]]** ⭐⭐ — Journalist, feminist critic. *Lean Out* (2015, Repeater's first major title). Guardian contributor. Died 2021.
-
-- **[[Simon Reynolds]]** ⭐⭐⭐ — Music critic. Wrote foreword to Fisher's *k-punk* collection. Coined "hauntology" as music genre term with Fisher in mid-2000s. Author of *Retromania*, *Rip It Up and Start Again*.
-
-- **[[Mat Osman]]** ⭐ — Musician (Suede bassist), novelist. *The Ruins* (Repeater).
-
-- **[[Brad Evans]]** ⭐⭐ — Political philosopher, violence studies scholar. Chair in Political Violence & Aesthetics, University of Bath.
-
-- **[[David Stubbs]]** ⭐⭐ — Music critic. *1996 and the End of History* (Repeater). Wire magazine contributor.
-
-- **[[Carl Neville]]** ⭐⭐ — Novelist, film critic, now commissioning editor at Repeater. *Resolution Way* (dystopian fiction, Repeater); *Classless* (cultural criticism, Zero Books). Film critic for Tribune.
-
-- **[[Cynthia Cruz]]** ⭐ — Poet and memoirist.
-
-- **[[Claire Cronin]]** ⭐ — Musician (guitarist, Grouper collaborator), author.
-
-- **[[Gavin Butt]]** ⭐⭐ — Cultural theorist, professor at Goldsmiths. Co-edited *Post-Punk Then and Now*.
-
-- **[[Grafton Tanner]]** ⭐ — Cultural critic, writes on hauntology, YouTube, digital media. Author of *The Circle of the Snake* (Repeater), *Babbling Corpse* (Zero Books), *Purging the Devil* (Repeater, 2025).
-
-- **[[Anna Minton]]** ⭐⭐ — Urban journalist, architecture writer. *Big Capital: Who Is London For?*
-
-- **[[Roy Christopher]]** ⭐ — Cultural critic, *Post-Self: Journeys Beyond the Human Body* (Repeater, 2025).
+**Matteo Mandarini** — Founding editor. Academic translator and philosopher (Negri, etc.).
 
 ---
 
-## Key Publications & Output
+## Mark Fisher's Legacy at Repeater
 
-### Mark Fisher Legacy (Stewardship Role)
+Fisher is the north star. Every decision about taste, tone, and cultural alignment traces back to his influence. What he stood for: refusing the split between "serious" academic theory and accessible writing; taking popular culture (music, film, TV) as philosophically serious objects; insisting on the political dimensions of everyday affect (depression, anxiety, precarity).
 
-- **[*The Weird and the Eerie*](https://repeaterbooks.com/product/the-weird-and-the-eerie/)** (Mark Fisher, 2017) — Final completed book. Published weeks after Fisher's death. On Lovecraft, Dick, Lynch, Eno, Kubrick, Tarkovsky — "weird" and "eerie" as modes of exposing forces beyond human comprehension or control.
+**Repeater titles directly by/about Fisher:**
+- **[The Weird and the Eerie](https://repeaterbooks.com/product/the-weird-and-the-eerie/)** (2017) — Fisher's final completed book. Analyses the "weird" and "eerie" as aesthetic modes in literature and film (Lovecraft, Daphne du Maurier, Stanley Kubrick, etc.). Core concept: these modes concern the "outside" — what lies beyond human comprehension. 136 pages. Lean, rigorous, beautiful.
+- **[k-punk: The Collected and Unpublished Writings of Mark Fisher (2004–2016)](https://repeaterbooks.com/product/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2004-2016/)** (2018) — Edited by Darren Ambrose. Foreword by Simon Reynolds. The definitive collection of his blog writing. Shows how k-punk functioned as a laboratory for ideas that became books.
+- **[Postcapitalist Desire: The Final Lectures](https://repeaterbooks.com/product/postcapitalist-desire-the-final-lectures/)** (2021) — Edited by Matt Colquhoun. Transcripts of Fisher's final CCRU-inflected seminar at Goldsmiths. About desire, capitalism, and left-accelerationism. His most explicitly hopeful work. Key quote: "Do we really want what we say we want?"
+- **The Complete k-punk Collection** — Later digital edition collecting all Fisher at Repeater.
 
-- **[*Post-Punk Then and Now*](https://repeaterbooks.com/product/post-punk-then-and-now/)** (Fisher, Eshun, Butt eds., 2016) — Critical anthology co-edited by Fisher, published by Repeater.
+**Books about Fisher (Repeater):**
+- **[Egress: On Mourning, Melancholy and Mark Fisher](https://repeaterbooks.com/product/egress-on-mourning-melancholy-and-mark-fisher/)** (2020) by Matt Colquhoun — A theoretical/personal memoir about Fisher's death and its afterlife. Colquhoun was Fisher's student at Goldsmiths.
 
-- **[*k-punk: The Collected and Unpublished Writings of Mark Fisher (2004–2016)*](https://repeaterbooks.com/product/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2004-2016/)** (ed. Darren Ambrose, 2018) — 800-page doorstopper. Blog entries, essays, reviews, plus the unfinished *Acid Communism* introduction.
-
-- **[*Postcapitalist Desire: The Final Lectures*](https://repeaterbooks.com/product/postcapitalist-desire-the-final-lectures/)** (ed. Matt Colquhoun, 2020) — Transcripts of Fisher's final lecture series at Goldsmiths. What comes after capitalist realism? Fisher's answer: reclaiming desire for collective, post-capitalist ends.
-
-### Founding Texts
-
-- **[*Lean Out*](https://repeaterbooks.com/product/lean-out/)** (Dawn Foster, 2015) — First Repeater publication. Feminist critique of Sheryl Sandberg's *Lean In*. "1% feminism" and the defanging of feminist politics.
-
-- **[*Resolution Way*](https://repeaterbooks.com/product/resolution-way/)** (Carl Neville, 2016) — Dystopian fiction on British employment culture, rave culture, affective labour. Ranges from Deptford to Margate.
-
-### Critical Theory / Philosophy
-
-- **[*Stolen: How to Save the World from Financialisation*](https://repeaterbooks.com/product/stolen-how-to-save-the-world-from-financialisation/)** (Grace Blakeley, 2019) — Major left economics text. 
-
-- **[*The Neurotic Turn: Inter-Disciplinary Correspondences on Neurosis*](https://repeaterbooks.com/product/the-neurotic-turn-inter-disciplinary-correspondences-on-neurosis/)** (Graham Harman, 2017) — OOO meets psychoanalysis.
-
-- **[*Emancipation After Hegel*](https://repeaterbooks.com/product/)** (Todd McGowan, 2019) — Lacanian Hegel.
-
-### Music Criticism
-
-- **[*Rebel Rebel: The Songs of David Bowie, 1963-1976*](https://repeaterbooks.com/product/rebel-rebel-the-songs-of-david-bowie-1963-1976/)** (Chris O'Leary, Repeater Classics) — Song-by-song study. Originally a blog, expanded to essential reference.
-
-- **[*1996 and the End of History*](https://repeaterbooks.com/product/1996-and-the-end-of-history/)** (David Stubbs) — Cultural history of mid-90s UK.
-
-- **[*Body of Work: How the Album Outplayed the Algorithm and Survived Playlist Culture*](https://repeaterbooks.com/product/body-of-work-how-the-album-outplayed-the-algorithm-and-survived-playlist-culture/)** (Keith Jopling, 2025) — Against streaming culture.
-
-- **[*Tough Breaks: The Story of Baltimore Club Music*](https://repeaterbooks.com/product/tough-breaks-the-story-of-baltimore-club-music/)** (Al Shipley, 2025)
-
-### Horror / Philosophy / Occult
-
-- **[*The Repeater Book of the Occult*](https://repeaterbooks.com/product/the-repeater-book-of-the-occult/)** (eds. Tariq Goddard and Eugene Thacker, 2021) — Anthology.
-
-- **[*Purging the Devil: Exorcism and Possession After the Death of God*](https://repeaterbooks.com/product/purging-the-devil-exorcism-and-possession-after-the-death-of-god/)** (Grafton Tanner, 2025) — Horror philosophy meets secularism.
-
-- **[*Late-Stage Babylon: Navigating the Post-Secular Spiritual Crisis*](https://repeaterbooks.com/product/late-stage-babylon-navigating-the-post-secular-spiritual-crisis/)** (Angie Speaks, 2025)
-
-### Technology / Culture
-
-- **[*Stealing the Future: Sam Bankman-Fried, Elite Fraud, and the Cult of Techno-Utopia*](https://repeaterbooks.com/product/stealing-the-future-sam-bankman-fried-elite-fraud-and-the-cult-of-techno-utopia/)** (David Z. Morris, 2025)
-
-- **[*Post-Self: Journeys Beyond the Human Body*](https://repeaterbooks.com/product/post-self-journeys-beyond-the-human-body/)** (Roy Christopher, 2025) — Posthuman body philosophy.
-
-### Book Categories (Full Range)
-
-Architecture, Art, Biography, Cultural Studies, Economics, Fiction, Film Studies, Gender Studies, History, Literary Essays, Mark Fisher (dedicated category), Memoir, Music, Occult, Philosophy, Poetry, Politics, Psychogeography, Psychology, Repeater Classics, Science, Sport, Technology.
+**Connected anthology:**
+- **[Futures and Fictions](https://repeaterbooks.com/product/futures-and-fictions/)** (2017) — Ed. Ayesha Hameed, Henriette Gunkel, Simon O'Sullivan. Speculative essays on fiction and the political imagination. Fisher-adjacent in its concerns.
 
 ---
 
-## Key Contributions
+## Editorial Taste — What Repeater Publishes
 
-**To critical theory culture:**
-- Institutionalized the Fisher/Goddard model of accessible intellectual publishing outside academia. Proved the market for rigorous cultural criticism.
-- Kept Mark Fisher's work in print and growing in influence after his death. The *k-punk* collection (2018) introduced a new generation to his thought.
-- Created sustainable infrastructure for left cultural theory that Zero Books could not maintain under John Hunt Publishing.
+Repeater is the UK's primary home for **left cultural theory written for people who read**. The house voice is: serious but not academic, political but not preachy, grounded in popular culture (music, film, horror, games) but theoretically ambitious.
 
-**To music criticism:**
-- Positioned music criticism as genuine cultural theory. Simon Reynolds, David Stubbs, Chris O'Leary represent the Wire/music press tradition elevated to book form.
+### Core intellectual threads:
 
-**To independent publishing:**
-- The Repeater model: small team, eclectic list, strong editorial voice, fast turnaround, accessible price points. Demonstrated that "intellectual without being academic, popular without being populist" was commercially viable.
+**1. Hauntology & the Gothic**
+Fisher's concept of "hauntology" — culture haunted by lost futures, the past refusing to die — runs through everything. Horror philosophy, Gothic Marxism, the occult as political metaphor.
+- *The Weird and the Eerie* (Fisher) — the definitive text
+- *Capitalism: A Horror Story* (Jon Greenaway) — Gothic Marxism explicitly
+- *Sick Houses: Haunted Homes and the Architecture of Dread* (Leila Taylor) — horror architecture
+- *Purging the Devil: Exorcism and Possession After the Death of God* (Grafton Tanner) — occult/religion/culture
+- *The English Heretic Collection: Ritual Histories, Magickal Geography* (Andy Sharp)
 
-**Signal-boosting model:**
-- A genuine "repeater" — extending signals from the counterculture into wider public discourse. Grace Blakeley's mainstream political profile grew directly from Repeater platform.
+**2. Post-Internet & Nostalgia Politics**
+How the internet reshapes subjectivity, attention, and political affect.
+- *Narcissus in Bloom: An Alternative History of the Selfie* (Matt Colquhoun)
+- *The Hours Have Lost Their Clock: The Politics of Nostalgia* (Grafton Tanner)
+- *Seeking Attention: 30 Ways of Being Present* (Dominic Pettman)
+- *After the Fact?: The Truth About Fake News* (Marcus Gilroy-Ware)
+- *Post-Self: Journeys Beyond the Human Body* (Roy Christopher, 2025) — posthumanism/transhumanism
+
+**3. Technology Criticism (Anti-Capitalist)**
+Not libertarian tech; left critique of Silicon Valley and techno-utopianism.
+- *Abolish Silicon Valley: How to Liberate Technology from Capitalism* (Wendy Liu) — former Google engineer's critique
+- *Stealing the Future: Sam Bankman-Fried, Elite Fraud, and the Cult of Techno-Utopia* (David Z. Morris) — crypto collapse
+- *Blockchain Radicals: How Capitalism Ruined Crypto and How to Fix It* (Joshua Dávila)
+- *The Limits of Control: Experiments in Mediation and Virulence* (Ryan Diduck)
+- *Empire of Deterrence: Nuclear Weapons and the Containment of Politics* (Michael Gardiner)
+
+**4. Music Criticism with Political Theory**
+Music as primary material for cultural analysis — not music journalism.
+- *Rebel Rebel: The Songs of David Bowie, 1963–1976* (Chris O'Leary)
+- *Tough Breaks: The Story of Baltimore Club Music* (Al Shipley)
+- *Body of Work: How the Album Outplayed the Algorithm and Survived Playlist Culture* (Keith Jopling)
+- *The Great Psychic Outdoors: Lo-Fi Music and Escaping Capitalism* (Enrico Monacelli)
+- *You're History: The Twelve Strangest Women in Music* (Lesley Chow)
+- *Justify My Love: Sex, Subversion, and Music Video* (Ryann Donnelly)
+
+**5. Left Politics & Economics**
+- *Against Ambition* (Bill Peel)
+- *How the Railways Will Fix the Future* (Gareth Dennis) — infrastructure politics
+- *Walking the Streets/Walking the Projects: Adventures in Social Democracy in NYC and DC* (Owen Hatherley)
+- *The Garden: Visionary Growers and Farmers of the Counterculture* (Matthew Ingram)
+
+**6. Gender & Queer Theory**
+Feminist and queer writing with theoretical weight, not just identity politics.
+- *Collapse Feminism: The Online Battle for Feminism's Future* (Alice Cappelle) — online feminist culture war
+- *Corpses, Fools and Monsters: The History and Future of Transness in Cinema* (Caden Mark Gardner & Willow Catelyn Maclay) — trans film studies
+- *Deep Sniff: A History of Poppers and Queer Futures* (Adam Zmith)
+- *Which As You Know Means Violence: On Self-Injury as Art and Entertainment* (Philippa Snow)
+- *From a Whisper to a Shout: Abortion Activism and Social Media* (Elizabeth Kissling)
+- *Your Body of Water* (Siouxzi Connor)
+
+**7. Continental Philosophy (Accessible)**
+The Repeater house style for philosophy: not academic, not pop-sci — somewhere between theory-blog and essay collection.
+- *Embracing Alienation: Why We Shouldn't Try to Find Ourselves* (Todd McGowan) — Lacanian cultural theory
+- *Fluid Futures: Science Fiction and Potentiality* (Steven Shaviro) — posthumanism + SF
+- *Quit Everything: Interpreting Depression* (Franco Berardi "Bifo") — existentialist left analysis
+- *Anti-Oculus: A Philosophy of Escape* (Acid Horizon collective) — YouTube philosophy podcast turned book
+- *How to Read Like a Parasite: Why the Left Got High on Nietzsche* (Daniel Tutt)
+- *Mimesis, Expression, Construction: Fredric Jameson's Seminar on Aesthetic Theory* (Fredric Jameson) — late Jameson!
+- *Code: Damp: An Esoteric Guide to British Sitcoms* (Sophie Sleigh-Johnson)
+- *Late-Stage Babylon: Navigating the Post-Secular Spiritual Crisis* (Angie Speaks)
+
+**8. Repeater Classics** — Canonical texts with new critical introductions:
+- Herbert Marcuse *Psychoanalysis, Politics, and Utopia* — intro by Ray Brassier
+- Karl Marx & Friedrich Engels *The German Ideology: A New Abridgement* — intro by Tom Whyman
+- Arthur Schopenhauer *On the Suffering of the World* — intro by Eugene Thacker
+- Francis Bacon *New Atlantis and Selections from the Sylva Sylvarum* — intro by Robert Barry
+- Carl von Clausewitz *On War* — intro by Graham Harman
+
+**9. Art & Pop Culture**
+- *Body High: Death, Drugs, and Eva Hesse* (Ryann Donnelly) — art writing
+- *The Sea View Has Me Again: Uwe Johnson in Sheerness* (Patrick Wright) — literary geography
+- *Spirit Behind the Lens: The Making of a Hip-Hop Photographer* (Eddie Otchere)
 
 ---
 
-## Events & Programmes
+## Key Authors (Notable Roster)
 
-- **Book launches** — Regular London events, typically at venues like the ICA, Goldsmiths, Foyles, or similar cultural spaces.
-- **Academic connections** — Many authors hold Goldsmiths, New School, or other affiliations; the press intersects with the London theory academic circuit.
-- **Music/Culture connections** — Strong ties to The Wire magazine network, Quietus, and the London independent music scene.
-- **The Quietus** — Key media partner; Goddard was a regular Quietus contributor; many Repeater authors publish there.
+| Author | Key Repeater Title | Why Interesting |
+|--------|-------------------|-----------------|
+| **[[Mark Fisher]]** | *The Weird and the Eerie* | Co-founder, paradigm-setting theorist |
+| **Matt Colquhoun** | *Egress*; *Narcissus in Bloom* | Fisher's student, continues k-punk tradition |
+| **[[Steven Shaviro]]** | *Fluid Futures* | Process philosophy, posthumanism, SF theory |
+| **[[Eugene Thacker]]** | Repeater Classics intros; related titles | Horror philosophy, pessimism, "In the Dust of This Planet" |
+| **Franco Berardi (Bifo)** | *Quit Everything* | Italian autonomist, media theory, depression/capitalism |
+| **[[Todd McGowan]]** | *Embracing Alienation* | Lacanian theory, very readable |
+| **Wendy Liu** | *Abolish Silicon Valley* | Tech worker turned radical critic. Google/DeepMind alumni |
+| **[[Owen Hatherley]]** | *Walking the Streets/Projects* | Architecture critic, socialist aesthetics |
+| **Grafton Tanner** | *The Hours Have Lost Their Clock*; *Purging the Devil* | Digital culture, nostalgia, occult |
+| **Dominic Pettman** | *Seeking Attention* | Media theory, posthumanism, animal studies |
+| **Fredric Jameson** | *Mimesis, Expression, Construction* | Late Jameson — being published here is significant |
+| **Roy Christopher** | *Post-Self: Journeys Beyond the Human Body* | Posthumanism, technology, the body |
+| **Alice Cappelle** | *Collapse Feminism* | Online feminist discourse, YouTube essayist |
+
+---
+
+## Connected Publications & Networks
+
+- **[Zero Books](https://www.zero-books.net/)** — Sister imprint, also under Watkins Media. More academic, more explicitly radical. Bought back by Watkins 2021.
+- **[The Quietus](https://thequietus.com/)** — UK music/culture publication, heavily overlapping author network. Many Repeater authors write for The Quietus.
+- **[Tribune](https://tribunemag.co.uk/)** — UK left magazine. Carl Neville (commissioning editor) is their film critic.
+- **[[Goldsmiths University]]** — Mark Fisher's institutional home, Visual Cultures department. Many authors and editors are Goldsmiths-adjacent.
+- **k-punk blog** — Fisher's blog (2003–2017) was the seedbed for much of the Repeater aesthetic. The collected writings are now Repeater's bestseller.
+- **Hyperdub / The Wire** — Electronic music network overlapping with Repeater. Kodwo Eshun (Afrofuturist theorist) is part of this network.
+- **CCRU (Cybernetic Culture Research Unit)** — Legacy of the late-90s Warwick theory collective (Fisher, Nick Land, etc.). Repeater carries this inheritance without endorsing Land's reactionary turn.
+- **[Acid Horizon](https://www.youtube.com/acidhorizonpodcast)** — Philosophy YouTube/podcast collective who published *Anti-Oculus* at Repeater. Bridge to online philosophy community.
+- **[The Philosopher's Tarot](https://repeaterbooks.com/product/the-philosophers-tarot/)** (Sereptie) — Tarot deck collab, shows Repeater's willingness to do occult/esoteric adjacent work.
+
+---
+
+## Submission Guidelines
+
+**How to submit:** Via [Submittable](https://repeater.submittable.com/submit). Note: the specific form may open/close seasonally — check the contact page.
+
+**Contact:** https://repeaterbooks.com/contact/ (form on page)
+**Key editorial contact:** Carl Neville (commissioning editor) — reach via website form or through known authors.
+
+**What Repeater wants:**
+From the catalogue and their history, the editorial brief is:
+- Accessible but intellectually rigorous
+- Not academic jargon — write for a reader who reads widely but isn't in the academy
+- Strong voice, opinionated
+- Grounded in specific cultural objects (films, albums, books, technologies)
+- Political perspective (left of center, not neutral)
+- Willing to take unusual or "difficult" positions
+- Length: typically 30,000–80,000 words for nonfiction; their books run short-to-medium length
+
+**What they DON'T publish:**
+- Pure academic monographs
+- "Balanced" journalism or neutral analysis
+- Genre fiction (they do some experimental literary fiction)
+- Straight political memoir without theoretical weight
+
+**Amber's opportunity:** Repeater would be a natural home for a book on AI/machine behavior from a critical, cultural-theory angle — especially if it connects to themes like: desire and computation, hauntology of AI (past futures), the political economy of attention, or posthuman subjectivity. The technology section is growing. *Abolish Silicon Valley* and *Post-Self* show they're willing to engage with tech critically.
 
 ---
 
 ## For Amber
 
 ### Why Interesting
+Repeater sits at the intersection of three things Amber cares about:
+1. **Critical theory that matters** — not academic, not populist, but actually doing something
+2. **Technology/culture writing** — their tech criticism section is where Amber could contribute
+3. **The Fisher legacy** — if Amber is interested in hauntology, desire, capitalism, this is the publishing house
 
-Repeater Books is relevant to Amber's interests on several levels:
+Their author roster includes people like **Dominic Pettman** (posthumanism, media theory), **Steven Shaviro** (process philosophy, SF, posthumanism), **Roy Christopher** (*Post-Self* on posthumanism) — these are direct intellectual neighbors.
 
-1. **Direct intellectual lineage to her key thinkers:** The CCRU → Mark Fisher → Repeater Books chain passes through figures already in Amber's network (Kodwo Eshun, Anna Greenspan's CCRU connections, the accelerationism literature she engages with).
+### How Amber Could Engage
 
-2. **Theory-fiction and speculative methodology:** Repeater continues the CCRU tradition of treating cultural criticism, fiction, and philosophy as continuous. This is the published form of the speculative design thinking Amber values.
+**1. Submit a manuscript** (highest leverage)
+- Via Submittable: https://repeater.submittable.com/submit
+- Best angle: a book on AI behavior/machine agency through a critical theory lens — something in the tradition of Fisher's cultural theory but for the AI era
+- Could also be a book connecting Eastern techno-philosophy to Western critical theory (there's no book like that at Repeater yet)
+- Length: 40,000–80,000 words works well for them
 
-3. **The "weird and eerie" aesthetic:** Fisher's final frameworks are directly relevant to Amber's work on non-human agency, machine behavior, and more-than-human computing. The weird as that which invades from outside; the eerie as absence-where-there-should-be-presence — both map onto AI and computational aesthetics.
+**2. Connect through Carl Neville** (commissioning editor)
+- Neville's taste: left politics, psychogeography, British subculture, music theory, speculative fiction
+- Reach via the website contact form or through mutual acquaintances in London critical theory scene
 
-4. **Hauntology for technology criticism:** Fisher's hauntology (culture haunted by lost futures) is a powerful lens for technology criticism — especially for AI's relationship to imagined technological futures that didn't happen.
+**3. Blog/essay commission**
+- Repeater runs a blog at https://repeaterbooks.com/blog/ and commissions essays
+- Lower barrier than a book — good way to establish a relationship before pitching a manuscript
 
-5. **Publishing model insight:** Repeater demonstrates how to build sustainable infrastructure for rigorous theory publishing. Relevant if Amber ever wants to publish in accessible theory form rather than exclusively academic venues.
+**4. Attend events**
+- Regular London book launches with author talks
+- Also collaborate with Goldsmiths-adjacent events
 
-6. **London cultural circuit:** Repeater is embedded in the London cultural circuit Amber moves in (Goldsmiths, ICA, Wire magazine network, Quietus). Understanding the press means understanding key nodes in that circuit.
+**5. Review / contribute to The Quietus**
+- The Quietus (https://thequietus.com/) is the adjacent publication. Writing for The Quietus builds cultural credibility with the Repeater orbit
 
-### How Can Amber Engage
+### Who Amber Should Know
+- **Carl Neville** — commissioning editor; key person for submissions
+- **Vicky Hartley** — interim publisher; overall editorial direction
+- **Matt Colquhoun** — Fisher's student; active Repeater author (Egress, Narcissus in Bloom); part of the network that keeps Fisher's legacy alive
+- **Grafton Tanner** — author working on technology/nostalgia/culture — intellectual neighbor
+- **Dominic Pettman** — posthumanism + media theory; based in New York; Amber would likely find him interesting
 
-- **Attend Repeater book launches** in London — these are sites where the theory-culture-music network meets in person. Prime networking/community opportunity.
-- **Submit manuscript** — If Amber has a project that bridges critical theory and technology culture, Repeater is a plausible home. Carl Neville as commissioning editor is receptive to experimental cultural criticism.
-- **The Grafton Tanner / Roy Christopher direction** — Recent Repeater titles on posthuman body, digital culture, and spiritual crisis suggest openings for Amber-adjacent work on AI, consciousness, and non-human agency.
-- **Connect through shared networks:** Kodwo Eshun (already in Amber's network), Simon Reynolds (connected to Wire/music theory circuit), Goldsmiths Visual Cultures (where Fisher taught) are all connection points.
-- **Read for methodology:** k-punk as practice — how to do rigorous cultural criticism at velocity, connecting multiple domains without losing intellectual seriousness.
-
-### Opening Opportunities
-
-- **Book proposal:** Repeater actively seeks proposals. Carl Neville (commissioning editor) has a background in both fiction and cultural criticism, and is receptive to work bridging philosophy, technology, and culture.
-- **Events:** Regular London book launches are open public events — direct access to the Repeater author network.
-- **Academic crossover:** Many Repeater authors hold academic positions; the press is respected in the theory-adjacent academic world without being purely academic.
-
-### Who Should Amber Know
-
-- **Carl Neville** — Commissioning editor (post-Goddard). Novelist (*Resolution Way*, *Classless*), film critic. Direct editorial contact for manuscript submissions.
-- **Christopher DeVeau** — Editorial manager. Based in Netherlands but editorially central.
-- **Grafton Tanner** — Author working on hauntology, digital culture, AI aesthetics (hauntological reading of YouTube, vaporwave). Directly relevant to Amber's interests.
-- **Roy Christopher** — *Post-Self* author, working on posthuman body theory.
-- **Simon Reynolds** — Connected to both Repeater (foreword to Fisher collection) and Wire magazine. Important node in music-theory circuit.
-- **Grace Blakeley** — For political economy / tech-capitalism criticism angle.
-
-### Key Publications for Amber to Read
-
-1. [*The Weird and the Eerie*](https://repeaterbooks.com/product/the-weird-and-the-eerie/) (Fisher, 2017) — Essential methodology text for non-human aesthetics
-2. [*Postcapitalist Desire*](https://repeaterbooks.com/product/postcapitalist-desire-the-final-lectures/) (Fisher/Colquhoun, 2020) — Fisher's final thought on what comes after capitalist realism
-3. [*k-punk: Collected Writings*](https://repeaterbooks.com/product/k-punk-the-collected-and-unpublished-writings-of-mark-fisher-2004-2016/) (2018) — Full archive including *Acid Communism* fragment
-4. [*Post-Self*](https://repeaterbooks.com/product/post-self-journeys-beyond-the-human-body/) (Roy Christopher, 2025) — Posthuman body
-5. [*Purging the Devil*](https://repeaterbooks.com/product/purging-the-devil-exorcism-and-possession-after-the-death-of-god/) (Grafton Tanner, 2025) — Horror philosophy / post-secular spirituality
+### Alignment with Research Taste
+Repeater's intellectual DNA maps onto several of Amber's threads:
+- **Speculative & Design Futures**: the Fisher tradition of speculative left theory
+- **Critical Computing**: technology criticism section
+- **Posthumanism**: Shaviro, Pettman, Roy Christopher, and the wider OOO/speculative realism network
+- **Cultural politics of AI**: no one has written this book for Repeater yet — genuine gap
 
 ---
 
 ## Recent Events That Matter
 
-- **2024:** Tariq Goddard's departure after 17 years. Major transition in editorial direction — Carl Neville (novelist/film critic) as commissioning editor represents a new chapter. The press continues under Etan Ilfeld's Watkins Media ownership.
-- **2024-2025:** Recent catalog shows expanded interest in: technology criticism (*Stealing the Future*), posthuman body (*Post-Self*), post-secular spirituality (*Late-Stage Babylon*, *Purging the Devil*), digital music culture (*Body of Work*). These are growing Amber-adjacent territories.
-- **2021:** Reacquisition of Zero Books brought the whole Fisher/Goddard publishing legacy under one roof. Symbolic and practical consolidation.
-- **2020:** *Postcapitalist Desire* — Fisher's final lectures, edited by Matt Colquhoun. Significant posthumous publication completing the arc of his work.
-- **Ongoing:** Fisher's influence continues to grow internationally. His concepts (capitalist realism, hauntology) are now standard vocabulary in cultural studies, design criticism, and technology criticism.
+- **July 2024:** Tariq Goddard's departure marks a significant generational shift. The imprint is now under new editorial leadership. What Carl Neville and Christopher DeVeau build next is worth watching.
+- **2021:** Watkins bought back Zero Books from Collective Ink, reuniting the original team's ecosystem under one house.
+- **2020:** *Egress* and *Postcapitalist Desire* published — Fisher's posthumous legacy secured. These books cemented Repeater as the steward of British cultural theory.
+- **Ongoing:** The Acid Horizon collective's *Anti-Oculus* (2023) shows Repeater is actively courting the online philosophy/YouTube essayist community — a new generation of left theory.
 
 ---
 
 ## Connected Institutions
 
-- **[[Watkins Media]]** — Parent company. Also owns Zero Books, Watkins Publishing, Angry Robot, Nourish, Datura Books, and (since Oct 2021) Collective Ink/John Hunt Publishing.
-- **[[Zero Books]]** — Sister imprint, now also under Watkins Media. Original home of Mark Fisher's work.
-- **[[CCRU (Cybernetic Culture Research Unit)]]** — Intellectual origin. Fisher and Goddard came from the Warwick milieu.
-- **[[Goldsmiths, University of London]]** — Key institutional partner. Fisher's employer; many authors affiliated.
-- **[[The Wire]]** — Magazine. Shared author networks; Fisher was acting deputy editor; Kodwo Eshun connections.
-- **[[The Quietus]]** — Media partner. Goddard regular contributor; Repeater authors featured extensively.
-- **[[Hyperdub]]** — Electronic music label. CCRU legacy through Kode9/Steve Goodman. Fisher's audio work released here posthumously.
-- **[[Urbanomic]]** — Robin Mackay's press. Sibling publisher in the accelerationism/speculative realism space.
-- **[[Ghost Box Records]]** — Hauntological music label. Shares aesthetic territory with Fisher's cultural criticism.
+- **[Watkins Media](https://watkinsmedia.com/)** — Parent company. Also publishes Watkins Books (spirituality/wellness) as distinct business
+- **[[Zero Books]]** — Sister imprint, now back under Watkins
+- **[[Goldsmiths University]]** — Many authors, Mark Fisher's department (Visual Cultures)
+- **[The Quietus](https://thequietus.com/)** — Cultural journalism, overlapping network
+- **[Tribune](https://tribunemag.co.uk/)** — UK left magazine (Carl Neville's home)
+- **[Verso Books](https://www.versobooks.com/)** — Larger competitor/companion in radical publishing. Repeater is more culturally adventurous, Verso more academically credentialed
+- **[Pluto Press](https://www.plutobooks.com/)** — Another radical publisher; similar ecosystem
+- **CCRU legacy network** — Warwick philosophy connections (Fisher, Mackay, Brassier)
 
 ---
 
 ## Why Interesting
 
-Repeater Books is the **published form of the intellectual tradition most immediately upstream of Amber's research interests**. The CCRU → k-punk → Zero Books → Repeater chain is the genealogy of British critical theory engaging with technology, capitalism, culture, and futurity over 30 years.
+Repeater is *the* independent publisher in the UK doing critical theory that actually matters to people under 40. They've built a real culture — not just an imprint. The Fisher legacy alone makes them historically significant. But what's interesting now is: with Goddard's departure, there's a gap. A new generation of editorial vision is being formed. This is the moment to pay attention.
 
-More specifically:
+For Amber specifically: Repeater's technology section is underdeveloped compared to the rest of their catalogue. Their strongest critics (Fisher, Berardi, Wendy Liu) look at capitalism through technology but rarely look at the specific behaviors of AI systems, or at Eastern techno-philosophy. Amber's work at that intersection — machine behavior, posthumanism, non-Western computing theory — could find a genuine home here.
 
-**For speculative design methodology:** Fisher's theory-fiction approach, the CCRU's hyperstition concept, the weird and the eerie as aesthetic categories — these are all powerful tools for speculative design practice.
-
-**For AI criticism:** Capitalist realism as analytical framework applies directly to AI development. The haunting of AI by its imagined futures is a hauntological structure. Fisher's frameworks are being widely adopted in AI ethics and critical computing.
-
-**For more-than-human thinking:** The weird and the eerie systematize encounters with non-human agency — exactly the territory of Amber's research. Fisher's non-anthropocentric aesthetics complement the design-focused posthumanism of her other intellectual communities.
-
-**For publishing strategy:** Repeater demonstrates the viability of accessible theory publishing for a general audience. If Amber wants her research to reach beyond academic journals, Repeater is a model and a potential venue.
-
-**For network access:** The Repeater orbit — Goldsmiths, Wire magazine, Quietus, London theory circuit — overlaps directly with the communities Amber already moves in. Understanding Repeater means understanding a key node in that network.
+The tagline "We are alive and we don't agree" is a real editorial philosophy. They publish dissent.
 
 ---
 
@@ -369,5 +313,5 @@ More specifically:
 
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Created stub during Mark Fisher deep research. |
-| 2026-02-26 | Biber (subagent) | Deep research completed. Expanded from stub to full profile: full history, Mark Fisher/CCRU genealogy, hauntology/accelerationism connections, key authors, Watkins Media structure, Amber engagement paths, connected institutions. |
+| 2026-02-26 | Biber (subagent) | Created stub during Mark Fisher research |
+| 2026-02-26 | Biber (subagent) | Full deep research. Website scraped (about, catalogue categories, key titles, blog, contact). Tariq Goddard's departure (July 2024) documented. Current team verified. Key catalogue compiled. Submission path identified. |
