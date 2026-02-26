@@ -1,26 +1,33 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Independent (Guangzhou/Beijing)
+affiliation: Independent artist (Beijing/Guangzhou)
 added: 2026-02-26
 tags: [art-science, speculative-design]
 ---
 
 # Cao Fei (曹斐)
 
-Chinese multimedia artist. Video, performance, digital media exploring contemporary Chinese life, internet culture, and the borders between dreams and reality.
+Chinese multimedia artist. Examines daily life, internet culture, and rapid transformation in contemporary China.
 
-## Key Works
-- *RMB City* (2007–2011) — virtual city in Second Life
-- *Whose Utopia?* (2006) — factory workers' dreams
-- *Asia One* (2018) — automated logistics
-- *Nova* (2019) — dystopian Beijing
-- Hugo Boss Prize finalist (2010), Deutsche Börse Prize winner (2021)
+## Key Books/Papers
+- *RMB City* (2007-2011) — virtual city in Second Life, exploring Chinese urbanization
+- *Nova* (2019) — solo exhibition at UCCA Beijing
+- *Blueprints* (2020) — Serpentine commission
+- Deutsche Börse Photography Foundation Prize (2021)
 
-## Connections
-- Guggenheim — collected
-- Venice Biennale, Serpentine — exhibited
-- Guangzhou Academy of Fine Arts — BFA
-- Chinese contemporary art scene — major figure
+## Key Communities
+- Chinese contemporary art scene
+- Vitamin Creative Space — early gallery
+
+## Key Venues
+- Venice Biennale — multiple presentations
+- Serpentine, MoMA PS1, Pompidou, Tate Modern
+- UCCA Beijing
+
+## Key Relationships
+- Zhang Peili — teacher (China Academy of Art, new media pioneer)
+- [[Lu Yang]] — Chinese new media art peer
+- → Explore: Zhang Peili (father of Chinese video art, China Academy of Art)
 
 ## Why Interesting
-The most important Chinese media artist working today. RMB City was a virtual world art project years before the "metaverse" hype. Her work on Chinese factory life, automation, and virtual worlds directly connects to Amber's interests in Chinese tech culture and speculative design.
+The most internationally prominent Chinese new media artist. RMB City was visionary — a virtual Chinese city in Second Life exploring urbanization, labor, and digital existence. Her work directly engages with the transformation of Chinese society through technology. Connection to China's art scene is invaluable.

@@ -1,32 +1,28 @@
 ---
 url: https://www.e-flux.com
-type: platform / journal / exhibition space
-location: New York (global)
 added: 2026-02-26
 tags: [art-science, critical-computing, speculative-design]
 rating: ⭐⭐⭐
+type: platform / journal / institution
+location: New York
 ---
 
 # e-flux
 
-Art platform combining journal, announcements, exhibitions, and conversations. Perhaps the most important venue for critical art-technology writing.
+Art platform, journal, and institutional network. Founded by Anton Vidokle and Julieta Aranda. The most important online platform for art theory and critical discourse.
 
-## Components
-- **e-flux journal** — peer-reviewed-ish essays (Hito Steyerl, Metahaven, etc.)
-- **e-flux announcements** — the art world's mailing list
-- **e-flux conversations**
-- **e-flux architecture**
-- Physical exhibition space in NYC
+## Key People
+- Anton Vidokle — founder
+- Julieta Aranda — founder
+- [[Hito Steyerl]] — major contributor
+- [[Bogna Konior]] — publishes here
+- [[Metahaven]] — publishes here
+- [[Gary Zhexi Zhang]] — publishes here
 
-## Key Contributors
-- [[Hito Steyerl]] — "In Defense of the Poor Image"
-- [[Metahaven]] — regular contributor
-- [[Bogna Konior]] — presents/publishes
-- [[Benjamin Bratton]] — contributor
-- [[Gary Zhexi Zhang]] — contributor
+## Connections
+- [[Antikythera]] — many affiliates publish on e-flux
+- [[CCRU]] genealogy — many descendants publish here
+- [[transmediale]] — cross-promotion
 
 ## Why Interesting
-Where the most important critical art-theory gets published. If someone publishes in e-flux, they're serious. Essential reading and submission venue.
-
-## Community Function
-Not just a platform — a community/network connecting critical art-theory practitioners globally. Co-founded by Anton Vidokle and Julieta Aranda. The mailing list and journal function as community infrastructure for the entire contemporary art world.
+If you publish on e-flux, you're in the conversation. The journal is the most important venue for art theory online. Their announcements list is how the art world learns about exhibitions and events. Essential signal source for CFPs and open calls.
