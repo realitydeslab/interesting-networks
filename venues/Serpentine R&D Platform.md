@@ -1,25 +1,29 @@
 ---
-url: https://www.serpentinegalleries.org/art-and-ideas/serpentine-rd-platform/
-location: London
-type: research platform
+url: https://www.serpentinegalleries.org/whats-on/rd-platform/
 added: 2026-02-26
 tags: [art-science, speculative-design, computational-creativity]
-rating: ⭐⭐⭐
 ---
 
 # Serpentine R&D Platform
 
-Research arm of Serpentine Galleries, London. Focuses on art × emerging technologies.
+Research and development initiative of Serpentine Galleries, London. Bridges contemporary art and emerging technologies.
 
 ## Key People
-- Hans Ulrich Obrist — artistic director (Serpentine)
-- Kay Watson — head of arts technologies
-- Ben Vickers — former CTO (now at Ignota Books)
+- Hans Ulrich Obrist — Serpentine artistic director
+- [[Metahaven]] — exhibited
+- Ben Vickers — former CTO (now elsewhere)
+- Kay Watson — arts technologies curator
+- Holly Herndon & Mat Dryhurst — collaborated
+
+## Focus
+- Art × AI × blockchain × emerging tech
+- Commissions bridging art and technology
+- "Future Art Ecosystems" reports
 
 ## Connections
-- [[Metahaven]] — exhibited at Serpentine
-- Holly Herndon & Mat Dryhurst — connected
-- Ian Cheng — connected (simulations, worlding)
+- [[Antikythera]] — intellectual overlap
+- [[Ars Electronica]] — peer institution
+- Serpentine Galleries — parent institution
 
 ## Why Interesting
-Major art institution taking technology seriously at a research level — not just exhibiting tech art but building R&D. Ben Vickers connection to Ignota Books (publishes James Bridle, etc.) creates a publishing-gallery-tech nexus.
+One of the most prestigious art institutions actively engaging with technology. Their Future Art Ecosystems reports are excellent. High-profile but genuinely experimental.

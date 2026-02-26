@@ -6,19 +6,32 @@ tags: [accelerationism, speculative-design]
 
 # Nick Land
 
-Philosopher. Co-founded CCRU (Cybernetic Culture Research Unit) at Warwick with Sadie Plant in the 90s. Originator of [[Accelerationism]].
+British philosopher. Co-founded [[CCRU]] at Warwick with [[Sadie Plant]]. Originator of [[Accelerationism]]. Later turned to Dark Enlightenment/NRx (controversial).
 
-## Domains
-- Unconditional accelerationism, dark enlightenment, machinic desire
-- *Fanged Noumena*, CCRU writings
+## Key Books/Papers
+- *Fanged Noumena: Collected Writings 1987–2007* ([[Urbanomic]], 2011)
+- *The Thirst for Annihilation* (1992) — on Bataille
+- CCRU collective writings
+- "Meltdown" (1994) — canonical accelerationist text
 
-## Connections
-- [[Anna Greenspan]] — married
-- [[Benjamin Bratton]] — in dialogue (The Stack, Antikythera)
-- Sadie Plant — CCRU co-founder
-- [[Accelerationism]] → [[Effective Accelerationism]] → [[LessWrong]]
-- Urbanomic publishing — associated
-- [[NYU Shanghai IMA]] — connected via Anna Greenspan
+## Key Communities
+- [[CCRU]] — co-founder
+- [[Urbanomic]] — published by
+- Shanghai tech-philosophy scene (lives in Shanghai)
+
+## Key Venues
+- [[Urbanomic]] Collapse journal
+- e-flux (historical)
+
+## Key Relationships
+- [[Sadie Plant]] — co-founded CCRU
+- [[Mark Fisher]] — CCRU, later diverged politically
+- [[Anna Greenspan]] — married, NYU Shanghai
+- [[Kodwo Eshun]] — CCRU colleague
+- [[Steve Goodman]] — CCRU colleague
+- [[Reza Negarestani]] — in dialogue
+- Robin Mackay — CCRU, [[Urbanomic]] founder
+- [[Benjamin Bratton]] — intellectual interlocutor
 
 ## Why Interesting
-Controversial but genealogically essential. The CCRU lineage runs through almost everything in speculative tech-philosophy.
+Genealogically essential — CCRU lineage runs through almost everything in speculative tech-philosophy. His Shanghai location connects to the Chinese tech-philosophy scene. Controversial later politics but undeniable intellectual influence.

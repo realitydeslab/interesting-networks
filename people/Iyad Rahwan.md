@@ -1,8 +1,7 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Max Planck Institute for Human Development
+affiliation: Max Planck Institute for Human Development, Berlin
 role: Director, Center for Humans & Machines
-website: https://www.rahwan.me/
 social:
   x: "@iaborahwan"
   linkedin: iyadrahwan
@@ -12,18 +11,32 @@ tags: [machine-behavior, art-science, alife]
 
 # Iyad Rahwan
 
-"Science fiction science" — anticipates AI impact on how we think, learn, cooperate, govern.
+Director of Center for Humans & Machines. Coined "machine behavior" as a field.
 
-## Domains
-- Machine behavior, moral machine, AI governance, human-AI cooperation
-- Published in Nature, Science
-- Art shown at [[Ars Electronica]], [[Cooper Hewitt]], [[Science Museum London]]
+## Key Books/Papers
+- "Machine Behaviour" (Nature, 2019) — landmark paper defining the field
+- "The Moral Machine Experiment" (Nature, 2018) — global survey on autonomous vehicle ethics
+- "Cooperation in the Age of Machine Learning" — AI and game theory
+
+## Key Communities
+- Center for Humans and Machines (Max Planck) — his lab
+- [[Machine+Behavior]] community
+- MIT Media Lab — former faculty
+
+## Key Venues
+- Nature, Science — publishes here
+- [[Ars Electronica]] — art shown here
+- Cooper Hewitt, Science Museum London — exhibited
+- FAccT — connected
+
+## Key Relationships
+- Manuel Cebrian — close collaborator (computational social science) → already has note potential
+- [[Kate Crawford]] — adjacent (AI governance)
+- [[Blaise Agüera y Arcas]] — adjacent (AI + society)
+- Azim Shariff — Moral Machine collaborator
+- Jean-François Bonnefon — Moral Machine collaborator
+- Amber (Botao Hu) — machine behavior / agent ethology overlap!
+- → Explore: Jacob Sherson (quantum + collective intelligence, Aarhus)
 
 ## Why Interesting
-Bridges hard science (Nature/Science) with cultural institutions (museums, art festivals). Founded [[Machine+Behavior Conference]]. Key node connecting AI research to behavioral science and art.
-
-## Connections
-- [[Manuel Cebrian]] — collaborator at Max Planck
-- [[Blaise Agüera y Arcas]] — adjacent (AI + society space)
-- [[Machine+Behavior Conference]] — founded this
-- [[Center for Humans and Machines]] — his lab
+Bridges hard science (Nature/Science) with cultural institutions (museums, art festivals). The "machine behavior" framing is exactly Amber's territory — studying AI as behavioral science. His lab at Max Planck is the institutional home for this field.

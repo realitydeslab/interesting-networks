@@ -1,7 +1,6 @@
 ---
 rating: ⭐⭐⭐
 affiliation: Sakana AI (CEO/co-founder)
-website: https://scholar.google.com/citations?user=N7X-kbUAAAAJ
 social:
   x: "@hardmaru"
 added: 2026-02-26
@@ -10,17 +9,32 @@ tags: [alife, computational-creativity, machine-behavior]
 
 # David Ha
 
-ALife-meets-deep-learning bridge. Now building Sakana AI (nature-inspired AI).
+ALife-meets-deep-learning researcher. Co-founder and CEO of [[Sakana AI]].
 
-## Domains
-- Neural network evolution, world models, creative AI, neuroevolution
-- "World Models" paper, sketch-rnn, weight agnostic neural networks
+## Key Books/Papers
+- "World Models" (2018) — with Jürgen Schmidhuber
+- "Weight Agnostic Neural Networks" (NeurIPS 2019)
+- "Sketch-RNN" — neural network that draws
+- "Collective Intelligence for Deep Learning" — survey
+
+## Key Communities
+- [[Sakana AI]] — co-founded (nature-inspired AI, Tokyo)
+- Google Brain — former researcher
+- ALife community
+
+## Key Venues
+- [[ALIFE Conference]]
+- NeurIPS, ICML — ML venues
+- X/Twitter — very active signal source
+
+## Key Relationships
+- [[Joel Lehman]] — co-author on open-endedness
+- Jürgen Schmidhuber — World Models collaborator (IDSIA)
+- Llion Jones — Sakana AI co-founder (Transformer paper co-author!)
+- [[Ken Stanley]] — intellectual kinship (novelty, open-endedness)
+- [[Blaise Agüera y Arcas]] — adjacent (ALife-inspired ML)
+- Jeff Clune — co-author, open-endedness
+- → Explore: Llion Jones (Transformer co-author now doing ALife-inspired AI)
 
 ## Why Interesting
-Key bridge between ALife thinking and modern deep learning. Very active on X — great signal source for emerging work.
-
-## Connections
-- [[Joel Lehman]] — co-author, open-endedness
-- [[Blaise Agüera y Arcas]] — adjacent
-- [[ALIFE]] — community
-- Sakana AI — his company
+Key bridge: ALife thinking → modern deep learning. Sakana AI is fascinating — a company explicitly built on ALife principles (nature-inspired, Tokyo-based). Very active on X — great signal source.
