@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Royal College of Art / Hong Kong PolyU
 added: 2026-02-26
 tags: [art-science, alife, computational-creativity, posthuman]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Sonia Bernaciak

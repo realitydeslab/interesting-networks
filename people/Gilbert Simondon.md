@@ -3,6 +3,9 @@ rating: ⭐⭐
 affiliation: University of Paris (d. 1989)
 added: 2026-02-26
 tags: [critical-computing, more-than-human]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Gilbert Simondon

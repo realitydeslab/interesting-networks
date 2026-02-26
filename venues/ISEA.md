@@ -4,6 +4,9 @@ rating: ⭐⭐
 frequency: Annual
 added: 2026-02-26
 tags: [art-science, computational-creativity, critical-computing]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # ISEA (International Symposium on Electronic Art)

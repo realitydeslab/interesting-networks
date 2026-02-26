@@ -4,6 +4,9 @@ rating: ⭐⭐
 affiliation: University of Texas at Austin
 added: 2026-02-26
 tags: [more-than-human, art-science, climate, embodied]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Ecocentric Future Lab

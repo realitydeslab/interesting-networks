@@ -4,6 +4,9 @@ affiliation: Artist / Writer / Antikythera studio researcher
 url: https://www.zhexi.info/
 added: 2026-02-26
 tags: [art-science, critical-computing, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Gary Zhexi Zhang

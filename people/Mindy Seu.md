@@ -4,6 +4,9 @@ affiliation: Independent / Rutgers
 url: https://mindyseu.com/
 added: 2026-02-26
 tags: [art-science, feminist, critical-computing, computational-creativity]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Mindy Seu

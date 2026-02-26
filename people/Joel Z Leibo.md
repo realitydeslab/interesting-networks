@@ -4,6 +4,9 @@ affiliation: Google DeepMind / King's College London (visiting)
 website: https://www.jzleibo.com/
 added: 2026-02-26
 tags: [machine-behavior, alife, social-simulation]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Joel Z. Leibo

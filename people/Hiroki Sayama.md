@@ -4,6 +4,9 @@ affiliation: Binghamton University (SUNY)
 website: https://bingweb.binghamton.edu/~sayama/
 added: 2026-02-26
 tags: [alife, social-simulation]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Hiroki Sayama

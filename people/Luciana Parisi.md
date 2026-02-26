@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Duke University (prev Goldsmiths)
 added: 2026-02-26
 tags: [critical-computing, posthuman, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Luciana Parisi

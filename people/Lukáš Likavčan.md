@@ -4,6 +4,9 @@ affiliation: Antikythera (researcher)
 url: https://www.likavcan.com
 added: 2026-02-26
 tags: [speculative-design, critical-computing, posthuman, more-than-human]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Lukáš Likavčan

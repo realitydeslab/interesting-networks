@@ -4,6 +4,9 @@ affiliation: NYU Shanghai, Interactive Media and Business / AI & Culture Researc
 email: hr2703@nyu.edu
 added: 2026-02-26
 tags: [critical-computing, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Helena Rong

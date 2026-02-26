@@ -4,6 +4,9 @@ affiliation: Consumer therapeutics startup (founding)
 education: Yale
 added: 2026-02-26
 tags: [alife, art-science, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 discovered_via: "[[Wendi Yan]] — Biotopy collaborator"
 needs_deep_research: true
 ---

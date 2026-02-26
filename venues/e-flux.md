@@ -2,6 +2,9 @@
 url: https://www.e-flux.com
 added: 2026-02-26
 tags: [art-science, critical-computing, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 rating: ⭐⭐⭐
 type: platform / journal / institution
 location: New York

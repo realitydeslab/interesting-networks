@@ -2,6 +2,9 @@
 added: 2026-02-26
 rating: ⭐⭐⭐
 tags: [critical-computing, posthuman, cosmotechnics]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 coined_by: "[[Yuk Hui]]"
 ---
 

@@ -4,6 +4,9 @@ affiliation: Independent artist
 url: https://iancheng.com/
 added: 2026-02-26
 tags: [alife, art-science, computational-creativity]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Ian Cheng

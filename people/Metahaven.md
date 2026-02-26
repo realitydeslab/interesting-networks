@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Independent design studio / Antikythera affiliate
 added: 2026-02-26
 tags: [speculative-design, art-science, critical-computing]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Metahaven

@@ -2,6 +2,9 @@
 added: 2026-02-26
 rating: ⭐⭐
 tags: [computational-creativity, alife, art-science]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Computational Creativity

@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Duke University (emerita)
 added: 2026-02-26
 tags: [posthuman, critical-computing, computational-creativity]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # N. Katherine Hayles

@@ -4,6 +4,9 @@ affiliation: Stanford (was PhD, likely faculty/postdoc now)
 website: https://www.joonsungpark.com/
 added: 2026-02-26
 tags: [machine-behavior, social-simulation, alife]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Joon Sung Park

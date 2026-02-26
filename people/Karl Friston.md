@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: UCL / Wellcome Centre for Human Neuroimaging
 added: 2026-02-26
 tags: [active-inference, alife, more-than-human]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Karl Friston

@@ -4,6 +4,9 @@ affiliation: Independent artist
 url: https://deweyhagborg.com
 added: 2026-02-26
 tags: [art-science, critical-computing, more-than-human]
+last_researched: 2026-02-26
+revisit_weeks: 8
+next_research: 2026-04-23
 ---
 
 # Heather Dewey-Hagborg

@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Independent artist (Beijing/Guangzhou)
 added: 2026-02-26
 tags: [art-science, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Cao Fei (曹斐)

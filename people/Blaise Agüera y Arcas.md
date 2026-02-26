@@ -6,6 +6,9 @@ social:
   linkedin: watch
 added: 2026-02-26
 tags: [alife, machine-behavior, art-science, active-inference]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Blaise Agüera y Arcas

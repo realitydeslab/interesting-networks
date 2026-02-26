@@ -5,6 +5,9 @@ social:
   x: "@hardmaru"
 added: 2026-02-26
 tags: [alife, computational-creativity, machine-behavior]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # David Ha

@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Independent (London-based)
 added: 2026-02-26
 tags: [art-science, speculative-design, computational-creativity]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Lawrence Lek

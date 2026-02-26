@@ -4,6 +4,9 @@ affiliation: Independent / Gnosis Guild
 url: https://www.ourmachine.net/bio/
 added: 2026-02-26
 tags: [critical-computing, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Kei Kreutler

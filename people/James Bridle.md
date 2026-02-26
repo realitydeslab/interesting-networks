@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Independent artist/writer
 added: 2026-02-26
 tags: [more-than-human, art-science, critical-computing]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # James Bridle

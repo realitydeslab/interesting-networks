@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: Arizona State University / Santa Fe Institute
 added: 2026-02-26
 tags: [alife, more-than-human, art-science]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Sara Imari Walker

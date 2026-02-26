@@ -3,6 +3,9 @@ url: https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit
 rating: ⭐⭐⭐
 added: 2026-02-26
 tags: [accelerationism, speculative-design]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # CCRU (Cybernetic Culture Research Unit)

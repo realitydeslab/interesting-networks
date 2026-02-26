@@ -10,6 +10,9 @@ social:
   ted: https://www.ted.com/speakers/jiabao_li
 added: 2026-02-26
 tags: [more-than-human, speculative-design, art-science, feminist, climate, embodied, computational-creativity]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Jiabao Li 李佳宝

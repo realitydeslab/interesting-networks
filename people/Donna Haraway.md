@@ -3,6 +3,9 @@ rating: ⭐⭐⭐
 affiliation: UC Santa Cruz (emerita)
 added: 2026-02-26
 tags: [more-than-human, posthuman, feminist]
+last_researched: 2026-02-26
+revisit_weeks: 4
+next_research: 2026-03-26
 ---
 
 # Donna Haraway
