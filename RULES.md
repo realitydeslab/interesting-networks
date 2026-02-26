@@ -189,6 +189,12 @@ Be specific and actionable. Multiple lessons are expected.
 Connect to research-taste.md.
 
 ## 📋 Update Log
+
+---
+
+## GitHub Issue Workflow
+- When closing a deep-research issue, **mention `@botaohu`** in the closing comment so Amber gets notified
+- Comment format: `@botaohu Deep research complete for [Name]. [1-line summary of key finding].`
 ```
 
 ### Depth by Rating
