@@ -50,118 +50,6 @@ Born 1978 in Aleppo, Syria. Syrian-Australian. Earned PhD in Information Systems
 - Science fiction science (anticipatory behavioral science)
 - AI art (oil painting + digital art/science projects)
 
-## Research Taste Analysis
-
-### The Formula: The Rahwan Research Franchise Model
-
-Amber's hypothesis is correct and can be traced with surgical precision across Rahwan's entire career. The pattern is a **seven-step franchise model** where each output creates demand for the next:
-
-1. **Take two established frameworks from different fields** and multiply them into a new concept
-2. **Coin a memorable two-word term** that maps unexplored conceptual territory
-3. **Write a "seed paper"** in the highest-prestige journal possible that defines the territory so clearly everyone must cite you
-4. **Build a massive empirical project** that fills the conceptual space (often crowd-sourced, often viral)
-5. **Zoom out** and declare that your specific results reveal an entire field
-6. **Zoom in** to specific sub-domains of your declared field
-7. **Repeat** with new two-word concepts that branch from the parent field
-
-**What makes this strategically brilliant:** Each step is *necessary preparation* for the next. You can't declare "Machine Behaviour" without Moral Machine as proof-of-concept. You can't build Moral Machine without first establishing that autonomous vehicles pose genuine "Social Dilemmas." And you can't claim the dilemma without the earlier DARPA challenges proving that you can run massive-scale social experiments online.
-
-### Key Moves (Chronological)
-
-**Move 0: Argumentation Frameworks (PhD, 2000–2005)**
-- **What:** PhD on argumentation-based negotiation in multi-agent systems. Published the book [*Argumentation in Artificial Intelligence*](https://link.springer.com/book/10.1007/978-0-387-98197-0) (Springer, 2009, co-edited with Guillermo Simari) — a foundational text.
-- **Two-word concept:** *Argumentation Frameworks* (building on Dung's abstract argumentation)
-- **Why it matters for the pattern:** This is where Rahwan learned to think about *agents as autonomous reasoners with strategies*, not just optimization functions. The multi-agent systems lens → treating machines as behavioral actors → Machine Behaviour. The seed was planted here.
-
-**Move 1: Scalable Cooperation / Social Mobilization (2009–2014)**
-- **What:** Won/placed in the DARPA Network Challenge (2009), DARPA Shredder Challenge (2011), and US State Department Tag Challenge (2012). These were crowd-sourced competitions that became natural experiments in large-scale cooperation.
-- **Two-word concept:** *Social Mobilization* (from the 2011 Science paper: ["Time-Critical Social Mobilization"](https://doi.org/10.1126/science.1205869))
-- **Seed paper:** Pickard, Pan, Rahwan, Cebrian, et al. (2011), Science 334: 509–512
-- **Why brilliant:** Turned competitive challenges into publishable Science papers. Demonstrated that you could study human cooperation at internet scale. Established credibility in *both* CS and social science. Also: first collaboration with **Manuel Cebrian** — his most important long-term collaborator.
-- **What it enabled:** Proof that massive online experiments are scientifically valid → paved the way for Moral Machine.
-
-**Move 2: The Social Dilemma of Autonomous Vehicles (2016)**
-- **Two-word concept:** *Social Dilemma* (applied to AVs)
-- **Framework multiplication:** Trolley Problem (philosophy) × Autonomous Vehicles (engineering) × Social Dilemma (game theory) = a new ethical framework
-- **Seed paper:** Bonnefon, Shariff & Rahwan (2016), ["The Social Dilemma of Autonomous Vehicles"](https://doi.org/10.1126/science.aaf2654), Science 352: 1573–1576
-- **Why brilliant:** Framed the AV ethics problem not as a philosophy thought experiment but as an *empirical social science question* with measurable preferences. The key insight: people *want* utilitarian cars but *won't buy one themselves*. This is a genuine social dilemma, not just an ethics puzzle. Published in **Science**.
-- **What it enabled:** Created the conceptual space that Moral Machine would fill with data.
-- **Key collaborators:** **Jean-François Bonnefon** (Toulouse School of Economics, behavioral economist) and **Azim Shariff** (UBC, moral psychology). This trio — Rahwan/Bonnefon/Shariff — became the "Moral Machine team."
-
-**Move 3: The Moral Machine (2016–2018)**
-- **Two-word concept:** *Moral Machine*
-- **What:** Built [moralmachine.net](http://moralmachine.net), an online platform generating trolley-problem-style scenarios for autonomous vehicles. Collected **40+ million decisions** from millions of visitors in 233 countries.
-- **Seed paper → Empirical megapaper:** Awad, Dsouza, Kim, Schulz, Henrich, Shariff, Bonnefon & Rahwan (2018), ["The Moral Machine Experiment"](https://doi.org/10.1038/s41586-018-0637-6), Nature 563: 59–64
-- **Why brilliant:** This is peak Rahwan strategy. The platform is simultaneously: (a) a research instrument collecting unprecedented data, (b) a viral public engagement tool generating massive media coverage (New Yorker, NYT, Economist, BBC), and (c) a *proof of concept* for studying machine behaviour at global scale. The Nature paper revealed systematic cross-cultural variation in moral preferences — generating an entirely new research agenda.
-- **What it enabled:** The empirical authority to declare "Machine Behaviour" as a field. If you can study how 40 million people *want* machines to behave, you've proven that machine behaviour is a legitimate object of study.
-
-**Move 4: Machine Behaviour — Declaring the Field (2019)**
-- **Two-word concept:** *Machine Behaviour*
-- **Framework multiplication:** Ethology/Behavioural Ecology (biology) × Artificial Intelligence (CS) = Machine Behaviour
-- **Seed paper:** Rahwan, Cebrian, Obradovich, Bongard, Bonnefon, Breazeal, Crandall, Christakis, Couzin, Jackson, Jennings, Kamar, Kloumann, Larochelle, Lazer, McElreath, Mislove, Parkes, Pentland, Roberts, Shariff, Tenenbaum & Wellman (2019), ["Machine Behaviour"](https://doi.org/10.1038/s41586-019-1138-y), Nature 568: 477–486
-- **Why THIS is the masterstroke:** 
-  - **23 co-authors** from across computational and behavioral sciences — this is coalition-building as academic strategy. By getting luminaries from biology (Couzin), economics (Jackson), cognitive science (Tenenbaum), AI (Larochelle), and social science (Lazer, Pentland) to co-sign, he made the field declaration *unfalsifiable by disciplinary gatekeepers*.
-  - Published in **Nature** — the highest-prestige generalist journal. Not a CS venue, not a social science journal — Nature. This signals: "this is bigger than any one discipline."
-  - The paper doesn't report new data. It's a **conceptual manifesto** — it maps a territory. It says: study AI the way biologists study animals — observe behaviour, ecology, evolution. This framing is so intuitive that once stated, it seems obvious.
-  - **The name itself** — "Machine Behaviour" — is a stroke of genius. Two familiar words, zero jargon, instantly legible to anyone. It sounds like a field that *already exists* and you just hadn't heard of.
-- **What it enabled:** An entire research programme at Max Planck, a conference, a community, a website ([machinebehavior.science](https://machinebehavior.science/)), and Rahwan's move to directorship at MPI.
-
-**Move 5: Machine Culture (2023)**
-- **Two-word concept:** *Machine Culture*
-- **Framework multiplication:** Cultural Evolution (anthropology/biology) × AI = Machine Culture
-- **Seed paper:** Brinkmann, Baumann, Bonnefon, Derex, Müller, Nussberger, ... & Rahwan (2023), ["Machine Culture"](https://doi.org/10.1038/s41562-023-01742-2), Nature Human Behaviour 7: 1855–1868
-- **Why brilliant:** Zooms into one specific aspect of Machine Behaviour — how machines participate in cultural transmission and creation. Sets up a research programme around AI as cultural agent, not just tool.
-- **Guiding concept #3** of CHM: "The future will be determined by evolutionary dynamics among superminds: groups of humans and AI systems jointly building and refining cultural artefacts."
-
-**Move 6: Science Fiction Science (2025)**
-- **Two-word concept:** *Science Fiction Science*
-- **Framework multiplication:** Science Fiction (literature/imagination) × Behavioral Science (empirical method) = a method for studying the impact of technologies *before they exist*
-- **Seed paper:** Rahwan, Shariff & Bonnefon (2025), ["The Science Fiction Science Method"](https://doi.org/10.1038/s41586-025-09194-6), Nature 644: 51–58
-- **Why brilliant:** This is meta-level — it's a paper about *the method itself*. Rahwan is now not just doing research; he's defining a methodology. Science Fiction Science says: use fictional scenarios as experimental stimuli to study real human reactions to future technologies. This retroactively reframes Moral Machine, Nightmare Machine, and all his earlier work as instances of this method.
-- **What it enables next:** Any future technology can now be studied "before it arrives" using the SFS method. This is an infinitely expandable research programme.
-
-**Move 7: Delegation (2025)**
-- **Two-word concept:** *AI Delegation* (specifically, delegating unethical behaviour)
-- **Seed paper:** Köbis, Rahwan, Rilla, et al. (2025), ["Delegation to AI Can Increase Dishonest Behaviour"](https://doi.org/10.1038/s41586-025-09505-x), Nature 646: 126–134
-- **Why it matters:** Opens a new sub-domain within Machine Behaviour — the moral hazard of AI delegation. Another two-word concept, another Nature paper.
-
-### The Two-Word Concept Inventory
-
-| Concept | Year | Paper Venue | Type |
-|---------|------|-------------|------|
-| Social Mobilization | 2011 | Science | Empirical seed |
-| Social Dilemma (of AVs) | 2016 | Science | Conceptual seed |
-| Moral Machine | 2016/2018 | Nature | Platform + empirical megapaper |
-| Machine Behaviour | 2019 | Nature | Field declaration (manifesto) |
-| Bad Machines | 2021 | Nature Human Behaviour | Sub-domain seed |
-| Machine Culture | 2023 | Nature Human Behaviour | Sub-domain seed |
-| Science Fiction Science | 2025 | Nature | Methodology manifesto |
-| AI Delegation | 2025 | Nature | Sub-domain seed |
-
-### What's His Next Move?
-
-Based on the pattern, Rahwan is likely:
-1. **"Machine Governance"** or **"Machine Politics"** — the CHM already works on AI governance; declaring it as a behavioural sub-field in Nature is the natural next step
-2. **"Machine Relationships"** — he's hinted at studying how AI alters human relationships (from the Aesthetica interview: "I am interested in studying how AI can alter or replace certain kinds of human relationships")
-3. **Scaling Science Fiction Science** — turning SFS into a methodological platform (like Moral Machine was a platform), potentially with a large-scale public tool
-4. **"Machine Creativity"** — the art/science connection is deepening; a systematic study of machine creativity as behavioural phenomenon
-
-### What Amber Can Learn
-
-This is not just "interesting research." This is a **masterclass in academic strategy** that Amber can directly replicate:
-
-1. **Write the manifesto FIRST.** Rahwan's "Machine Behaviour" paper came *after* he had empirical proof (Moral Machine), but the manifesto is what created the field. Amber should consider writing a "seed paper" that defines **Agent Ethology** or **Machine Ethology** as conceptual territory — with the same strategy: prestigious venue, many co-authors from different disciplines, intuitive two-word name.
-
-2. **Build the platform, not just the paper.** Moral Machine wasn't a paper — it was an *instrument* that also happened to be viral. What's the equivalent for agent ethology? An observational platform for AI behaviour in the wild?
-
-3. **The two-word concept is the brand.** Every Rahwan concept is two words, no jargon, instantly legible. "Machine Behaviour" sounds like it already exists. Amber should coin with the same clarity.
-
-4. **Coalition papers as territorial claims.** The 23-author Nature paper wasn't collaborative research — it was *diplomatic alliance*. Getting senior people from adjacent fields to co-sign makes your field declaration unopposable.
-
-5. **The franchise model.** Each paper creates demand for the next. If Amber defines the conceptual space, the empirical papers write themselves — and others will fill the gaps, citing you.
-
-6. **Art as research intuition.** Rahwan explicitly says his art "guides intuition towards the next scientific project." This is not a side hobby — it's a research methodology. Amber's creative practice could serve the same function.
-
 ## Key Works
 
 ### Books
@@ -344,6 +232,112 @@ Rahwan is the rare scientist who operates simultaneously as:
 - **Policy advisor** (WEF, UN, UAE)
 
 He bridges hard science (Nature/Science), cultural institutions (museums, art festivals), and policy (WEF, UN). His "research franchise model" — coining two-word concepts, writing seed papers, then filling the space — is the most strategically brilliant approach to field-building in contemporary AI studies. And his field is *exactly* Amber's territory.
+
+## Research Taste Analysis
+
+### The Formula: The Rahwan Research Franchise Model
+
+Amber's hypothesis is correct and can be traced with surgical precision across Rahwan's entire career. The pattern is a **seven-step franchise model** where each output creates demand for the next:
+
+1. **Take two established frameworks from different fields** and multiply them into a new concept
+2. **Coin a memorable two-word term** that maps unexplored conceptual territory
+3. **Write a "seed paper"** in the highest-prestige journal possible that defines the territory so clearly everyone must cite you
+4. **Build a massive empirical project** that fills the conceptual space (often crowd-sourced, often viral)
+5. **Zoom out** and declare that your specific results reveal an entire field
+6. **Zoom in** to specific sub-domains of your declared field
+7. **Repeat** with new two-word concepts that branch from the parent field
+
+**What makes this strategically brilliant:** Each step is *necessary preparation* for the next. You can't declare "Machine Behaviour" without Moral Machine as proof-of-concept. You can't build Moral Machine without first establishing that autonomous vehicles pose genuine "Social Dilemmas." And you can't claim the dilemma without the earlier DARPA challenges proving that you can run massive-scale social experiments online.
+
+### Key Moves (Chronological)
+
+**Move 0: Argumentation Frameworks (PhD, 2000–2005)**
+- **What:** PhD on argumentation-based negotiation in multi-agent systems. Published the book [*Argumentation in Artificial Intelligence*](https://link.springer.com/book/10.1007/978-0-387-98197-0) (Springer, 2009, co-edited with Guillermo Simari) — a foundational text.
+- **Two-word concept:** *Argumentation Frameworks* (building on Dung's abstract argumentation)
+- **Why it matters for the pattern:** This is where Rahwan learned to think about *agents as autonomous reasoners with strategies*, not just optimization functions. The multi-agent systems lens → treating machines as behavioral actors → Machine Behaviour. The seed was planted here.
+
+**Move 1: Scalable Cooperation / Social Mobilization (2009–2014)**
+- **What:** Won/placed in the DARPA Network Challenge (2009), DARPA Shredder Challenge (2011), and US State Department Tag Challenge (2012). These were crowd-sourced competitions that became natural experiments in large-scale cooperation.
+- **Two-word concept:** *Social Mobilization* (from the 2011 Science paper: ["Time-Critical Social Mobilization"](https://doi.org/10.1126/science.1205869))
+- **Seed paper:** Pickard, Pan, Rahwan, Cebrian, et al. (2011), Science 334: 509–512
+- **Why brilliant:** Turned competitive challenges into publishable Science papers. Demonstrated that you could study human cooperation at internet scale. Established credibility in *both* CS and social science. Also: first collaboration with **Manuel Cebrian** — his most important long-term collaborator.
+- **What it enabled:** Proof that massive online experiments are scientifically valid → paved the way for Moral Machine.
+
+**Move 2: The Social Dilemma of Autonomous Vehicles (2016)**
+- **Two-word concept:** *Social Dilemma* (applied to AVs)
+- **Framework multiplication:** Trolley Problem (philosophy) × Autonomous Vehicles (engineering) × Social Dilemma (game theory) = a new ethical framework
+- **Seed paper:** Bonnefon, Shariff & Rahwan (2016), ["The Social Dilemma of Autonomous Vehicles"](https://doi.org/10.1126/science.aaf2654), Science 352: 1573–1576
+- **Why brilliant:** Framed the AV ethics problem not as a philosophy thought experiment but as an *empirical social science question* with measurable preferences. The key insight: people *want* utilitarian cars but *won't buy one themselves*. This is a genuine social dilemma, not just an ethics puzzle. Published in **Science**.
+- **What it enabled:** Created the conceptual space that Moral Machine would fill with data.
+- **Key collaborators:** **Jean-François Bonnefon** (Toulouse School of Economics, behavioral economist) and **Azim Shariff** (UBC, moral psychology). This trio — Rahwan/Bonnefon/Shariff — became the "Moral Machine team."
+
+**Move 3: The Moral Machine (2016–2018)**
+- **Two-word concept:** *Moral Machine*
+- **What:** Built [moralmachine.net](http://moralmachine.net), an online platform generating trolley-problem-style scenarios for autonomous vehicles. Collected **40+ million decisions** from millions of visitors in 233 countries.
+- **Seed paper → Empirical megapaper:** Awad, Dsouza, Kim, Schulz, Henrich, Shariff, Bonnefon & Rahwan (2018), ["The Moral Machine Experiment"](https://doi.org/10.1038/s41586-018-0637-6), Nature 563: 59–64
+- **Why brilliant:** This is peak Rahwan strategy. The platform is simultaneously: (a) a research instrument collecting unprecedented data, (b) a viral public engagement tool generating massive media coverage (New Yorker, NYT, Economist, BBC), and (c) a *proof of concept* for studying machine behaviour at global scale. The Nature paper revealed systematic cross-cultural variation in moral preferences — generating an entirely new research agenda.
+- **What it enabled:** The empirical authority to declare "Machine Behaviour" as a field. If you can study how 40 million people *want* machines to behave, you've proven that machine behaviour is a legitimate object of study.
+
+**Move 4: Machine Behaviour — Declaring the Field (2019)**
+- **Two-word concept:** *Machine Behaviour*
+- **Framework multiplication:** Ethology/Behavioural Ecology (biology) × Artificial Intelligence (CS) = Machine Behaviour
+- **Seed paper:** Rahwan, Cebrian, Obradovich, Bongard, Bonnefon, Breazeal, Crandall, Christakis, Couzin, Jackson, Jennings, Kamar, Kloumann, Larochelle, Lazer, McElreath, Mislove, Parkes, Pentland, Roberts, Shariff, Tenenbaum & Wellman (2019), ["Machine Behaviour"](https://doi.org/10.1038/s41586-019-1138-y), Nature 568: 477–486
+- **Why THIS is the masterstroke:** 
+  - **23 co-authors** from across computational and behavioral sciences — this is coalition-building as academic strategy. By getting luminaries from biology (Couzin), economics (Jackson), cognitive science (Tenenbaum), AI (Larochelle), and social science (Lazer, Pentland) to co-sign, he made the field declaration *unfalsifiable by disciplinary gatekeepers*.
+  - Published in **Nature** — the highest-prestige generalist journal. Not a CS venue, not a social science journal — Nature. This signals: "this is bigger than any one discipline."
+  - The paper doesn't report new data. It's a **conceptual manifesto** — it maps a territory. It says: study AI the way biologists study animals — observe behaviour, ecology, evolution. This framing is so intuitive that once stated, it seems obvious.
+  - **The name itself** — "Machine Behaviour" — is a stroke of genius. Two familiar words, zero jargon, instantly legible to anyone. It sounds like a field that *already exists* and you just hadn't heard of.
+- **What it enabled:** An entire research programme at Max Planck, a conference, a community, a website ([machinebehavior.science](https://machinebehavior.science/)), and Rahwan's move to directorship at MPI.
+
+**Move 5: Machine Culture (2023)**
+- **Two-word concept:** *Machine Culture*
+- **Framework multiplication:** Cultural Evolution (anthropology/biology) × AI = Machine Culture
+- **Seed paper:** Brinkmann, Baumann, Bonnefon, Derex, Müller, Nussberger, ... & Rahwan (2023), ["Machine Culture"](https://doi.org/10.1038/s41562-023-01742-2), Nature Human Behaviour 7: 1855–1868
+- **Why brilliant:** Zooms into one specific aspect of Machine Behaviour — how machines participate in cultural transmission and creation. Sets up a research programme around AI as cultural agent, not just tool.
+
+**Move 6: Science Fiction Science (2025)**
+- **Two-word concept:** *Science Fiction Science*
+- **Framework multiplication:** Science Fiction (literature/imagination) × Behavioral Science (empirical method) = a method for studying the impact of technologies *before they exist*
+- **Seed paper:** Rahwan, Shariff & Bonnefon (2025), ["The Science Fiction Science Method"](https://doi.org/10.1038/s41586-025-09194-6), Nature 644: 51–58
+- **Why brilliant:** This is meta-level — it's a paper about *the method itself*. Rahwan is now not just doing research; he's defining a methodology. Science Fiction Science says: use fictional scenarios as experimental stimuli to study real human reactions to future technologies. This retroactively reframes Moral Machine, Nightmare Machine, and all his earlier work as instances of this method.
+
+**Move 7: Delegation (2025)**
+- **Two-word concept:** *AI Delegation* (specifically, delegating unethical behaviour)
+- **Seed paper:** Köbis, Rahwan, Rilla, et al. (2025), ["Delegation to AI Can Increase Dishonest Behaviour"](https://doi.org/10.1038/s41586-025-09505-x), Nature 646: 126–134
+- **Why it matters:** Opens a new sub-domain within Machine Behaviour — the moral hazard of AI delegation. Another two-word concept, another Nature paper.
+
+### The Two-Word Concept Inventory
+
+- **Social Mobilization** (2011, Science) — Empirical seed
+- **Social Dilemma** of AVs (2016, Science) — Conceptual seed
+- **Moral Machine** (2016/2018, Nature) — Platform + empirical megapaper
+- **Machine Behaviour** (2019, Nature) — Field declaration (manifesto)
+- **Bad Machines** (2021, Nature Human Behaviour) — Sub-domain seed
+- **Machine Culture** (2023, Nature Human Behaviour) — Sub-domain seed
+- **Science Fiction Science** (2025, Nature) — Methodology manifesto
+- **AI Delegation** (2025, Nature) — Sub-domain seed
+
+### What's His Next Move?
+
+Based on the pattern, Rahwan is likely:
+1. **"Machine Governance"** or **"Machine Politics"** — the CHM already works on AI governance; declaring it as a behavioural sub-field in Nature is the natural next step
+2. **"Machine Relationships"** — he's hinted at studying how AI alters human relationships
+3. **Scaling Science Fiction Science** — turning SFS into a methodological platform
+4. **"Machine Creativity"** — the art/science connection is deepening
+
+### What Amber Can Learn
+
+1. **Write the manifesto FIRST.** Rahwan's "Machine Behaviour" paper came *after* he had empirical proof (Moral Machine), but the manifesto is what created the field. Amber should consider writing a "seed paper" that defines **Agent Ethology** as conceptual territory — prestigious venue, many co-authors, intuitive two-word name.
+
+2. **Build the platform, not just the paper.** Moral Machine wasn't a paper — it was an *instrument* that also happened to be viral. What's the equivalent for agent ethology?
+
+3. **The two-word concept is the brand.** Every Rahwan concept is two words, no jargon, instantly legible. Amber should coin with the same clarity.
+
+4. **Coalition papers as territorial claims.** The 23-author Nature paper wasn't collaborative research — it was *diplomatic alliance*. Getting senior people from adjacent fields to co-sign makes your field declaration unopposable.
+
+5. **The franchise model.** Each paper creates demand for the next. If Amber defines the conceptual space, the empirical papers write themselves.
+
+6. **Art as research intuition.** Rahwan explicitly says his art "guides intuition towards the next scientific project." This is not a side hobby — it's a research methodology.
 
 ## 📋 Update Log
 
