@@ -5,13 +5,16 @@ An Obsidian-compatible knowledge graph of the interestingness network.
 ## Structure
 
 ```
-venue-graph/
-├── people/          # One note per person
-├── communities/     # One note per community/network
-├── venues/          # One note per venue/conference
-├── cfps/            # One note per active call
+interesting-networks/
+├── people/            # One note per person
+├── communities/       # One note per community/network
+├── venues/            # One note per venue/conference
+├── topics/            # One note per intellectual topic/thread
+├── cfps/              # One note per active call
+├── logs/              # Daily scout logs with reflections
 ├── research-taste.md  # Navigator — what's interesting to Amber
-└── README.md        # This file
+├── finding-strategy.md # How we discover things + what works
+└── README.md          # This file
 ```
 
 ## Conventions
