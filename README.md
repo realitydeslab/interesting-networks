@@ -25,6 +25,15 @@ venue-graph/
 - **Frontmatter:** YAML for structured data, body for free-form notes
 - **Dates:** ISO format (2026-02-26)
 
+## People Note Template
+Every person note should include (when known):
+- **Domains** — what they work on
+- **Key Books/Papers** — their essential works, linked
+- **Key Communities** — labs, networks, institutions they belong to
+- **Key Venues** — where they present/publish
+- **Key Relationships** — co-authors, advisors, students, collaborators (use [[links]])
+- **Why Interesting** — what makes them worth following
+
 ## How It Grows
 
 Every node is an entry point. Follow any thread:
