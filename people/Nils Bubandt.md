@@ -1,15 +1,15 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Aarhus University
-website: 
+affiliation: Aarhus University Research on the Anthropocene (AURA)
+website: https://anthropocene.au.dk/
 social:
   x: ""
   linkedin: ""
-born: 
+born:
 education: 
 based: Aarhus, Denmark
 added: 2026-02-26
-tags: [anthropocene, more-than-human, anthropology]
+tags: [anthropology, more-than-human, anthropocene, multispecies]
 deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
@@ -19,27 +19,44 @@ next_research: 2026-03-26
 # Nils Bubandt
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Stub created during Anna Tsing deep research. Co-director of AURA with Anna Tsing.
+- **2026-02-26:** Initial discovery through Anna Tsing research. Created stub note.
 
-Danish anthropologist. Co-director of [[AURA]] (Aarhus University Research on the Anthropocene) with [[Anna Tsing]].
+Co-director of Aarhus University Research on the Anthropocene (AURA). Danish anthropologist working on Anthropocene studies and multispecies ethnography. Key collaborator with Anna Tsing on multispecies approaches to environmental crisis.
 
-**Key Danish academic connection.**
+## Background
+[To be researched]
+
+## Domains
+- Anthropocene studies
+- Multispecies ethnography
+- Environmental anthropology
+
+## Key Works
+[To be researched]
+
+## Awards & Fellowships
+[To be researched]
+
+## Exhibitions / Events / Talks
+[To be researched]
+
+## Key Communities
+- **[[Aarhus University Research on the Anthropocene (AURA)]]** — Co-director
+- **[[Society for Cultural Anthropology]]**
 
 ## Key Relationships & Collaborators
-- [[Anna Tsing]] — Co-director of AURA, frequent collaborator
-- [[Elaine Gan]] — Co-editor of *Arts of Living on a Damaged Planet*
+- **[[Anna Tsing]]** ⭐⭐⭐ — Co-director of AURA, frequent collaborator on multispecies projects
 
 ## For Amber
-- **Direct Danish connection** through major research institution
-- **Anthropocene studies expertise** 
-- **Potential gateway** to Danish academic networks
-- **Copenhagen proximity** - geographically accessible from London/Oxford/Cambridge
+1. **🏠 Direct Denmark Connection** — Based in Aarhus, ideal for Amber's Danish positioning
+2. **🤝 Collaboration Potential** — AURA represents major European center for Anthropocene studies
+3. **🎓 Fellowship Opportunities** — AURA likely has visiting fellowships and research positions
 
 ## Why Interesting
-Co-directs major European research center with Anna Tsing, representing important transatlantic academic collaboration. Based in Denmark, potentially accessible for Amber's European positioning.
+Direct institutional connection to Denmark through AURA. Co-directorship with Anna Tsing suggests major figure in European Anthropocene studies network.
 
 ## 📋 Update Log
 
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Stub created during Anna Tsing research. Rated ⭐⭐⭐ due to Danish institutional position and Anna Tsing collaboration. |
+| 2026-02-26 | Biber (subagent) | Initial stub created during Anna Tsing deep research. |
