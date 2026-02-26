@@ -576,11 +576,17 @@ Every deep research completion MUST:
 2. Comment on master queue issue #12 if it's a ⭐⭐⭐ completion
 3. Subagents should run: `gh issue list --repo realitydeslab/interesting-networks --search "ENTITY_NAME" --state open` and close matching issues
 
-## §21 API Quota Management
+## §21 API Quota Management & Model Strategy
 
-**Rule:** Monitor Anthropic subscription weekly quota before spawning subagents.
+**Quota Rule:** Monitor Anthropic subscription weekly quota before spawning subagents.
 
-- **< 80% weekly quota used** → use direct Anthropic: `anthropic/claude-sonnet-4-20250514`
-- **≥ 80% weekly quota used** → switch to OpenRouter: `openrouter/anthropic/claude-sonnet-4-20250514`
+- **< 80% weekly quota used** → use direct Anthropic (`anthropic/claude-sonnet-4-20250514`)
+- **≥ 80% weekly quota used** → switch to OpenRouter
 
-This applies to both manual spawns and the hourly cron job. Check quota via `session_status` before each batch.
+**Two-Tier Model Strategy (via OpenRouter):**
+
+- **Sonnet** (`openrouter/anthropic/claude-sonnet-4-20250514`) → data scraping, CV crawling, web research, filling in facts
+- **Opus** (`openrouter/anthropic/claude-opus-4-6`) → importance/interest judgment, Research Taste Analysis, rating decisions, Amber's most important people
+
+**When to use Opus:** ⭐⭐⭐ people that Amber personally flagged, Research Taste Analysis sections, rating/judgment passes, strategic analysis.
+**Everything else:** Sonnet.
