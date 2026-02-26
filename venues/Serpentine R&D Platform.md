@@ -1,34 +1,32 @@
 ---
-url: https://www.serpentinegalleries.org/whats-on/rd-platform/
+url: https://www.serpentinegalleries.org/arts-technologies/rd-platform/
 rating: ⭐⭐
 added: 2026-02-26
-tags: [art-science, speculative-design, computational-creativity]
-deep_researched: false
+tags: [art-science, speculative-design, computational-creativity, critical-computing]
+deep_researched: true
 last_researched: 2026-02-26
 revisit_weeks: 8
 next_research: 2026-04-23
 ---
 
-# Serpentine R&D Platform
+# Serpentine Arts Technologies / R&D Platform
 
-Research and development initiative of Serpentine Galleries, London. Bridges contemporary art and emerging technologies.
+> **Note:** This note has been merged into [[Serpentine Galleries]] which now contains full coverage of the R&D Platform, FAE briefings, Arts Technologies arm, and all associated programmes. See that note for comprehensive research.
 
-## Key People
-- Hans Ulrich Obrist — Serpentine artistic director
-- [[Metahaven]] — exhibited
-- Ben Vickers — former CTO (now elsewhere)
-- Kay Watson — arts technologies curator
-- Holly Herndon & Mat Dryhurst — collaborated
+The R&D Platform is a programme led by Serpentine Arts Technologies that supports interdisciplinary creative research and development, prototype projects, cultural policy and digital strategy.
 
-## Focus
-- Art × AI × blockchain × emerging tech
-- Commissions bridging art and technology
-- "Future Art Ecosystems" reports
+**Key outputs:**
+- [Future Art Ecosystems (FAE)](https://futureartecosystems.org/) — annual strategic briefings (5 published, 2020–2025)
+- Digital Commissions (Ian Cheng, Jakob Kudsk Steensen, Hito Steyerl, etc.)
+- Cultural policy advocacy
 
-## Connections
-- [[Antikythera]] — intellectual overlap
-- [[Ars Electronica]] — peer institution
-- Serpentine Galleries — parent institution
+**Current head:** Kay Watson (Head of Arts Technologies)
+**Founder/builder:** Ben Vickers (former CTO, 2013–2019)
 
-## Why Interesting
-One of the most prestigious art institutions actively engaging with technology. Their Future Art Ecosystems reports are excellent. High-profile but genuinely experimental.
+→ See [[Serpentine Galleries]] for full coverage.
+
+## 📋 Update Log
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-02-26 | Biber (agent) | Initial stub created. |
+| 2026-02-26 | Biber (subagent) | Merged into main Serpentine Galleries note. This note now serves as redirect. |
