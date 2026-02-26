@@ -16,7 +16,9 @@ based: (Scandinavia — research needed)
 PhD candidate in feminist posthumanist design. "Leaky and Tactful Design" thesis — feminist sensing, designing technologies for menstruating bodies and beyond. Active [[Design+Posthumanism Network]] member.
 
 ## ⚡ Recent Updates
+- **2026-02-26:** Updated — confirmed as core member of [[Soma Design Research Community]] at KTH. SIGCHI Special Recognition 2025.
 - **2026-02-26:** Discovered via D+PH Network. Stub created.
+- **2025:** ACM SIGCHI Special Recognition "for early-career research in intimate body-sensing technologies, developing open-source methods for studying intimate care, and creating inclusive maker spaces that support feminist HCI."
 - **2025-11-27:** Presented Network Session #2: "Leaky and Tactful Design – Feminist and Posthuman Ways of Sensing the Menstruating Body"
 
 ## Domains
@@ -33,8 +35,10 @@ PhD candidate in feminist posthumanist design. "Leaky and Tactful Design" thesis
 - **Network Session #2 presentation** (Nov 27, 2025): [Leaky and Tactful Design](https://designandposthumanism.org/2025/10/31/network-session-2-leaky-and-tactful-design/)
 
 ## Key Communities
+- [[Soma Design Research Community]] — core member (KTH); 2025 SIGCHI Special Recognition from within this community
 - [[Design+Posthumanism Network]] — core member
 - CHI / HCI research community
+- [[KTH Royal Institute of Technology]] — institutional base
 
 ## Why Interesting
 Her critique of self-tracking technologies as perpetuating stigma through distancing + quantification is a sharp provocation. "Feminist sensing" as a design concept — foregrounding tactile, sensory, material knowledge — is exactly the kind of methodological contribution Amber's network appreciates. The move from "measuring bodies" to "feeling/thinking with bodies" is a specific contribution to HCI that has broader implications for posthumanist computing.
