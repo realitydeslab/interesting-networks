@@ -3,7 +3,7 @@ rating: ⭐⭐⭐
 added: 2026-02-26
 updated: 2026-02-26
 tags: [alife, computational-creativity, open-endedness, machine-behavior, more-than-human, social-simulation]
-deep_researched: false
+deep_researched: true
 last_researched: 2026-02-26
 revisit_weeks: 3
 next_research: 2026-03-19
