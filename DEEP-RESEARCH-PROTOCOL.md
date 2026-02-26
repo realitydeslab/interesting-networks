@@ -13,6 +13,16 @@ See `people/Wendi Yan.md` as the gold standard (11KB, 6 community nodes generate
 
 ---
 
+## Discovery Rule: Create Notes for New Finds
+During any deep research, if you discover a community, venue, or person that is interesting and doesn't have a note yet:
+1. **Create a stub note** with frontmatter (rating, tags, added date, deep_researched: false)
+2. **Add it to the queue** — it will be picked up in future batches
+3. Don't stop your current research to deep-dive the new find — just plant the seed
+
+This is how the graph grows organically through people-first discovery.
+
+---
+
 ## Phase 1: Full Website Scrape (~15 min)
 - Fetch their homepage, CV/about page, exhibitions page, writing page
 - Extract EVERYTHING: every exhibition, talk, publication, award, residency, fellowship
