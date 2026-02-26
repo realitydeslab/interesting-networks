@@ -1,24 +1,35 @@
 ---
 rating: ⭐⭐⭐
-affiliation: SCI-Arc / Independent
+affiliation: SCI-Arc, Los Angeles
+url: https://liamyoung.org/
 added: 2026-02-26
-tags: [speculative-design, art-science]
+tags: [speculative-design, art-science, climate]
 ---
 
 # Liam Young
 
-Australian speculative architect. Creates fiction-as-architecture — films, installations, and speculative scenarios about technological futures.
+Speculative architect and filmmaker. Uses film, VR, and installation to imagine future cities and landscapes.
 
-## Key Works
-- *Planet City* (2021) — speculative project: all humans live in one city
-- *In the Robot Skies* (2016) — first film shot entirely by autonomous drones
-- Tomorrow's Thoughts Today — design fiction studio
+## Key Books/Papers
+- *Planet City* (2020) — speculative proposal for all humans in one city
+- *Where the City Can't See* (2016) — film shot entirely with laser scanners
+- Tomorrow's Thoughts Today — his studio/platform
 
-## Connections
+## Key Communities
 - [[Antikythera]] — affiliate researcher (2023)
-- [[Strelka Institute]] — connected
-- SCI-Arc — faculty
-- [[Ars Electronica]] — exhibited
+- [[Strelka Institute]] — participated
+- SCI-Arc — teaches speculative design
+
+## Key Venues
+- Venice Architecture Biennale
+- [[Ars Electronica]]
+- MoMA, V&A — exhibited
+
+## Key Relationships
+- [[Benjamin Bratton]] — Strelka/Antikythera connection
+- Kate Davies — Tomorrow's Thoughts Today co-founder
+- Geoff Manaugh — BLDGBLOG, Antikythera colleague
+- → Explore: Keller Easterling (Yale, infrastructure space)
 
 ## Why Interesting
-Speculative design at its most ambitious — imagining entire civilizational alternatives. Planet City is a radical thought experiment about voluntary urban concentration. Film + architecture + speculation.
+Makes speculative design visceral through film and architecture. Planet City is an extraordinary provocation — what if we concentrated all humanity in one city and rewilded the rest? Uses autonomous vehicle LIDAR data as a filmmaking medium. The most cinematic speculative designer working today.

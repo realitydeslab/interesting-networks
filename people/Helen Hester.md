@@ -1,22 +1,32 @@
 ---
-rating: ⭐⭐
+rating: ⭐⭐⭐
 affiliation: University of West London
 added: 2026-02-26
-tags: [feminist, accelerationism, posthuman]
+tags: [feminist, critical-computing, speculative-design]
 ---
 
 # Helen Hester
 
-Writer and academic. Xenofeminism. Technology and gender politics.
+Feminist theorist. Member of Laboria Cuboniks (xenofeminism collective).
 
-## Key Works
-- *Xenofeminism* (2018) — technomaterialist feminist politics
-- Member of Laboria Cuboniks collective
+## Key Books/Papers
+- *Xenofeminism* (Polity, 2018)
+- *After Work: A History of the Home and the Fight for Free Time* (2023) — with [[Nick Srnicek]]
+- Laboria Cuboniks, "Xenofeminist Manifesto" (2015) — collective text
 
-## Connections
+## Key Communities
 - [[Antikythera]] — affiliate researcher (2023)
-- [[Nick Srnicek]] — left accelerationism orbit
-- Laboria Cuboniks — xenofeminist collective
+- Laboria Cuboniks — xenofeminism collective
+
+## Key Venues
+- e-flux — published
+- Verso, Polity — books
+
+## Key Relationships
+- [[Nick Srnicek]] — partner, co-author
+- Laboria Cuboniks collective — co-member
+- [[Sadie Plant]] — intellectual ancestor (cyberfeminism → xenofeminism)
+- → Explore: Luciana Parisi (computation, feminism, Goldsmiths)
 
 ## Why Interesting
-Xenofeminism is a fascinating update to cyberfeminism — using technology for feminist liberation, not rejecting it. Connects Sadie Plant's cyberfeminism to contemporary accelerationism.
+Xenofeminism is a fascinating update on cyberfeminism for the 21st century — technology as tool for feminist liberation, not as inherently patriarchal. Connects accelerationism's futurism with feminist politics. The manifesto is powerful.

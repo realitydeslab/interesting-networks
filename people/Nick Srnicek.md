@@ -1,23 +1,33 @@
 ---
 rating: ⭐⭐
-affiliation: King's College London
+affiliation: King's College London, Digital Humanities
 added: 2026-02-26
 tags: [accelerationism, critical-computing]
 ---
 
 # Nick Srnicek
 
-Canadian writer and academic. Left accelerationism. Platform capitalism theorist.
+Canadian writer and academic. Left accelerationism, platform capitalism.
 
-## Key Works
-- *Platform Capitalism* (2016) — anatomy of tech platforms as economic form
-- *Inventing the Future* (2015) — with Alex Williams, left accelerationist manifesto
-- *#ACCELERATE: Manifesto for an Accelerationist Politics* (2013) — with Alex Williams
+## Key Books/Papers
+- *Inventing the Future: Postcapitalism and a World Without Work* (2015) — with Alex Williams
+- *Platform Capitalism* (Polity, 2016) — essential text on platform economics
+- "#Accelerate: Manifesto for an Accelerationist Politics" (2013) — with Alex Williams
 
-## Connections
+## Key Communities
 - [[Antikythera]] — affiliate researcher (2023)
-- [[Accelerationism]] — left accelerationism branch
-- King's College London — Digital Humanities
+- King's College London Digital Humanities
+
+## Key Venues
+- e-flux — publishes
+- Verso Books — published by
+
+## Key Relationships
+- Alex Williams — co-author (#Accelerate Manifesto, Inventing the Future)
+- Helen Hester — partner, collaborator (xenofeminism)
+- [[Mark Fisher]] — influenced by, Goldsmiths connection
+- [[Benjamin Bratton]] — Antikythera colleague
+- [[Ray Brassier]] — speculative realism connection
 
 ## Why Interesting
-Platform Capitalism is essential reading on tech economics. Represents the "productive" branch of accelerationism — trying to redirect technological acceleration toward leftist goals rather than just celebrating it.
+Authored the left accelerationist manifesto — key text in the genealogy. Platform Capitalism remains the clearest analysis of how platforms work as economic entities. Bridges continental philosophy and digital economy analysis.

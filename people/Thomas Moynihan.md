@@ -3,20 +3,30 @@ rating: ⭐⭐⭐
 affiliation: Antikythera
 url: https://thomasmoynihan.xyz/
 added: 2026-02-26
-tags: [speculative-design, critical-computing]
+tags: [speculative-design, critical-computing, alife]
 ---
 
 # Thomas Moynihan
 
-Writer and researcher. History of existential risk, future-thinking, and the emergence of the concept of extinction.
+Writer and intellectual historian. Research on existential risk, the history of future-thinking, and intelligence.
 
-## Key Works
-- *X-Risk: How Humanity Discovered Its Own Extinction* (2020) — history of existential risk thinking
+## Key Books/Papers
+- *X-Risk: How Humanity Discovered Its Own Extinction* (Urbanomic, 2020)
+- Research on history of existential risk discourse, futurism
 
-## Connections
+## Key Communities
 - [[Antikythera]] — affiliate researcher (2023, 2024)
+- [[Urbanomic]] — published by
+
+## Key Venues
+- [[Urbanomic]] publications
+- Antikythera Journal
+
+## Key Relationships
 - [[Benjamin Bratton]] — Antikythera colleague
-- CSER Cambridge — connected
+- Robin Mackay — Urbanomic publisher
+- [[Reza Negarestani]] — intellectual orbit
+- → Explore: Toby Ord (Oxford, existential risk — different approach)
 
 ## Why Interesting
-Unique angle — the intellectual history of how humans learned to think about their own extinction. Connects to existential risk, speculative futures, and deep time. Young researcher at the Antikythera core.
+X-Risk traces how humanity came to understand its own potential extinction — a history of future-thinking. Published by Urbanomic, affiliated with Antikythera — sits at the intersection of speculative philosophy and existential risk. Young, active, producing work.
