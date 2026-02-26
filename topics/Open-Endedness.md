@@ -29,19 +29,19 @@ This is not just about generating diversity or avoiding local optima. True open-
 **Open-endedness is THE edge-of-chaos phenomenon in AI/ALife.** The field is experiencing explosive growth (2025-2026):
 
 **What's driving the surge:**
+- **Industry adoption**: Major labs (Sakana AI, Lila Sciences) betting on open-endedness for scientific discovery and self-improving systems
 - **LLM-driven evolution**: Large language models as mutation operators, fitness evaluators, and environment designers
 - **Multi-agent societies**: AI agents that evolve socially, sharing experiences and co-evolving behaviors
-- **Formal foundations**: Mathematical frameworks for characterizing true vs. pseudo open-endedness
-- **Quality diversity**: Moving beyond pure novelty to novelty + utility + evolvability
+- **Proven results**: AI Scientist passing peer review, ShinkaEvolve winning programming contests, Digital Red Queen showing emergent complexity
+- **Capital investment**: Sakana AI's $30M+ funding specifically for nature-inspired AI and open-ended systems
 
-**Why it's hot now:**
-- AGI safety concerns about self-improving systems
-- Computational creativity needs for genuinely creative AI
-- Scientific discovery applications (drug design, materials science)
-- Game design and procedural content generation
-- Understanding biological evolution computationally
+**Why it's exploding now:**
+- **Industrial validation**: Open-endedness moving from academic curiosity to billion-dollar industry applications
+- **AGI scaling**: As AI capabilities plateau, open-endedness offers path to continued improvement
+- **Scientific discovery**: Autonomous science platforms (Lila Sciences) using open-ended discovery for materials/life sciences
+- **Self-improving AI**: Companies racing to build AI that improves itself (Darwin Gödel Machine approach)
 
-**Next 2-3 years**: This will be central to AI research as capabilities plateau and we need systems that continue learning/discovering indefinitely.
+**Next 2-3 years**: Open-endedness will be THE differentiator between static AI and genuinely creative, self-improving systems. Industrial labs are betting their existence on it.
 
 ## Sub-topics & Trends (Last 3-5 Years)
 
@@ -347,4 +347,4 @@ For Amber specifically, this bridges her interests in:
 
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Complete intellectual history research. Comprehensive rewrite with full paper collection, community analysis, current research surge documentation, and fellowship opportunities for Amber. |
+| 2026-02-26 | Biber (subagent) | **MAJOR UPDATE:** Discovered Ken Stanley now SVP at Lila Sciences, Sakana AI breakthrough research (Digital Red Queen, AI Scientist, Darwin Gödel Machine), industry transition. Added comprehensive Sakana AI research, updated collaboration targets, industry opportunities. Field status: academic → industrial. |
