@@ -7,23 +7,27 @@ tags: [more-than-human, posthuman]
 
 # Anna Tsing
 
-Chinese-American anthropologist. Pioneer of multispecies ethnography.
+Anthropologist. Leading voice in multispecies ethnography.
 
-## Key Works
-- *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins* (2015)
-- *Friction: An Ethnography of Global Connection* (2004)
+## Key Books/Papers
+- *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins* (2015) — extraordinary book following matsutake mushrooms through global supply chains
 - *Arts of Living on a Damaged Planet* (2017) — co-edited
+- "Unruly Edges: Mushrooms as Companion Species" (2012)
 
-## Key Concepts
-- Multispecies entanglement
-- Ruins as sites of possibility
-- "Contamination as collaboration"
+## Key Communities
+- UC Santa Cruz — feminist studies, anthropology
+- Aarhus University Research on the Anthropocene (AURA) — co-leads!
+- Multispecies Salon — co-founded
 
-## Connections
-- [[Donna Haraway]] — UC Santa Cruz colleague, intellectual ally
-- [[Multispecies Design]] — foundational influence
-- Aarhus University — connected (AURA research group)
-- Gregory Bateson Prize winner
+## Key Venues
+- Academic anthropology journals
+- Cross-disciplinary — art, ecology, anthropology
+
+## Key Relationships
+- [[Donna Haraway]] — UC Santa Cruz colleague, intellectual kinship
+- Nils Bubandt — AURA co-lead (Aarhus!) → **deserves own note**
+- Elaine Gan — multispecies collaborator
+- → Explore: AURA at Aarhus — direct institutional connection
 
 ## Why Interesting
-The Mushroom at the End of the World is one of the most beautiful and important books of the decade. Shows how multispecies thinking works in practice — through matsutake mushrooms. Foundational for more-than-human design. Aarhus connection adds to the network.
+*The Mushroom at the End of the World* is one of the best books of the 2010s — follows a mushroom to tell a story about capitalism, ecology, and survival. **Co-leads AURA at Aarhus University** — direct institutional connection to Denmark/Amber's network. Multispecies Salon connects art and anthropology.
