@@ -36,7 +36,7 @@ Japan's most intensely serious graduate institution for art × technology. Found
 
 **2001:** **Institute of Advanced Media Arts and Sciences** formally established as a graduate university — one major, one graduate school. The Cultural Media Center (CMC) established as subsidiary organization for publishing and exhibitions. The IAMAS acronym deliberately captures both schools: "Institute of Advanced Media Arts and Sciences" and "International Academy of Media Arts and Sciences."
 
-**2002:** Multimedia Laboratory Department of the original vocational school closed. **[[Daito Manabe]]** and **[[Motoi Ishibashi]]** study here around this time — they meet at IAMAS and later co-found Rhizomatiks (2006).
+**2002:** Multimedia Laboratory Department of the original vocational school closed. **[[Daito Manabe]]** and **[[Motoi Ishibashi]]** are among the early cohorts of the new graduate program — they meet at IAMAS and later co-found Rhizomatiks (2006). Manabe began part-time lecturing elsewhere from 2004, suggesting he completed his IAMAS program ~2002–2004.
 
 **2003:** Tadashi Yokoyama appointed 2nd President.
 
