@@ -22,6 +22,8 @@ Advancing artist consent and data rights in AI development. Provides tools for a
 ## Key People
 - **[[Holly Herndon]]** ⭐⭐⭐ — Co-founder, artist, AI-human collaboration pioneer
 - **[[Mat Dryhurst]]** ⭐⭐⭐ — Co-founder, writer, technologist
+- **Jordan Meyer** ⭐⭐ — Co-founder (technical lead). Worth tracking separately.
+- **Patrick Hoepner** ⭐⭐ — Co-founder. Worth tracking separately.
 
 ## Key Publications & Output
 - **[Have I Been Trained?](https://haveibeentrained.com/)** — Database allowing artists to search if their work appears in popular AI training datasets

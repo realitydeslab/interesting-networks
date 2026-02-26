@@ -202,7 +202,7 @@ Artist working with code. Crafts interactive installations, sneaky interventions
 - **[Daito Manabe](https://daito.ws/)** ⭐⭐⭐ — Tokyo collaborator. Rhizomatiks. Transcranial, The Janus Machine, Transformirror, Generative MV, discrete figures. The Japan connection is significant — he bridges the US creative coding world and the Tokyo/Rhizomatiks scene.
 - **[Jonas Jongejan](http://halfdanj.dk/)** ⭐⭐ — Danish creative developer. Built *Exhausting a Crowd* together (site development), *Light Leaks*. Long-running collaboration.
 - **[Chris Sugrue](http://csugrue.com/)** ⭐⭐ — *Augmented Hand Series* co-creator. Creative technologist, educator.
-- **[Zach Lieberman](https://www.instagram.com/zach.lieberman/)** ⭐⭐⭐ — F.A.T. Lab + openFrameworks co-founder. *The Janus Machine* collaboration, 3D scanning workshops together. One of the key nodes in creative coding. **Existing stub?** Check.
+- **[[Zachary Lieberman]]** ⭐⭐⭐ — F.A.T. Lab + openFrameworks co-founder. *The Janus Machine* collaboration, 3D scanning workshops together. One of the key nodes in creative coding.
 - **[Theo Watson](http://www.theowatson.com/)** ⭐⭐ — F.A.T. Lab + openFrameworks co-founder. *The Janus Machine*, *Portrait Machine*.
 - **Matt Mets** — *Blind Self Portrait* collaboration. Hardware/electronics.
 - **[Klaus Obermaier](http://www.exile.at/ko/)** ⭐⭐ — Austrian media artist. *Transcranial* at Scopitone/STRP/Resonate.
