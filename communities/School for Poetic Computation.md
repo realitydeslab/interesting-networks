@@ -16,17 +16,19 @@ deep_researched: false
 ## ⚡ Recent Updates
 - **2026-02-26:** Created stub note. Discovered through **[[Golan Levin]]** research (workshop organizer there) and **[[Zachary Lieberman]]** research (co-founder).
 
-Hybrid school/residency/research group in New York City, founded 2013 by **[[Zachary Lieberman]]**, Taeyoon Choi, Morehshin Allahyari, and Jen Lowe. Runs intensive programs that approach computation from an artistic, critical, and poetic angle — explicitly NOT a tech school. "A school where technical and artistic education collide and collude." Small cohorts, intensive immersion, strong community.
+Hybrid school/residency/research group in New York City, founded 2013 by **[[Zachary Lieberman]]**, Taeyoon Choi, Amit Pitaru, and Jen Lowe. Runs intensive programs that approach computation from an artistic, critical, and poetic angle — explicitly NOT a tech school. "A school where technical and artistic education collide and collude." Small cohorts, intensive immersion, strong community. Motto: "More poems, less demos."
 
 ## Mission
 "To explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention and critical analysis of emerging technologies."
 
 ## Key People
-- **[[Zachary Lieberman]]** — Co-founder
+- **[[Zachary Lieberman]]** — Co-founder (stepped down 2021)
 - Taeyoon Choi — Co-founder, artist and activist
-- Morehshin Allahyari — Co-founder, artist
-- Lauren Lee McCarthy — Affiliated faculty
+- Amit Pitaru — Co-founder
+- Jen Lowe — Co-founder; also co-wrote *The Book of Shaders* with Patricio González Vivo
+- **[[Lauren Lee McCarthy]]** — Affiliated faculty
 - **[[Golan Levin]]** — Workshop organizer (alt-AI workshop 2016)
+- Current stewards (from 2021): Zainab Aliyu, Todd Anderson, American Artist, Neta Bomani, Melanie Hoff, Galen Macdonald — centered BIPOC, disabled, and queer makers
 
 ## Programs
 - Intensive sessions (10 weeks); short workshops; online programs
@@ -44,3 +46,4 @@ SFPC occupies a unique position: technically rigorous (students learn C++, circu
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Biber (subagent) | Created stub. Discovered via [[Golan Levin]] and [[Zachary Lieberman]] research. |
+| 2026-02-26 | Biber (subagent) | Corrected founders: Zachary Lieberman, Taeyoon Choi, Amit Pitaru, Jen Lowe (not Morehshin Allahyari). Added current stewards. Linked via Processing Foundation deep research. |
