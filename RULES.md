@@ -123,15 +123,41 @@ Follow `DEEP-RESEARCH-PROTOCOL.md` for every person. Seven phases:
 
 ## 9. Topic Note Rules
 Every topic note must include (when known):
-- Key people
-- Key texts (with links!)
-- Key venues
-- Key communities
+- **Domain summary** — what it is, scope, history, key theories/results, key challenges
+- **Edge of chaos analysis** — is it fast-evolving? Will it be hot in 1-3 years? Why?
+- **Sub-topics & trends** (last 3-5 years) — what's active, what's churning
+- **Key people** — with [[links]], for each: who, what, why interesting to Amber
+- **Key texts** — must-read books and papers (with clickable URLs!)
+- **Key venues** — where to present/attend
+- **Key communities** — labs, discords, forums, institutions (with URLs!)
 - **Fellowships & programmes** — what Amber can APPLY for (URLs required)
+- **How can Amber engage?** — CFPs, residencies, online communities, fun events
+- **Recent important updates** (timeline, last 3-5 years)
+- **For Amber specifically:**
+  - Who should Amber know?
+  - Who might like Amber's work?
+  - Who can Amber collaborate with?
+  - What publications should Amber target?
 - Adjacent topics (with [[links]])
 - Open questions
 - Why interesting (connect to research-taste.md)
 - `edge_of_chaos: true/false` in frontmatter
+- **`last_researched:` date in frontmatter**
+- **`research_period:` in frontmatter** (e.g., "monthly", "quarterly") — how often to re-research
+- **`next_research:` date in frontmatter** — when to check again
+
+### Topic Depth Levels
+- ⭐⭐⭐ topics: comprehensive deep dive (like Wendi Yan for people). 60-90 min research. Gold standard.
+- ⭐⭐ topics: solid coverage. 30-45 min.
+- ⭐ topics: brief overview. 15-20 min.
+
+### Community Note Rules (for institutions)
+Same depth as topics, plus:
+- **Every person in the community** assessed for Amber's interests
+- **Why interesting to Amber** (collaboration, future work, visit)
+- **How can Amber engage** (visiting, guest lectures, research, positions)
+- **Openings** (jobs, fellowships, residencies, visiting positions)
+- **Key people for Amber:** who to know, who might like Amber, who to learn from, who to collaborate with, who inspires
 
 ## 10. CFP Note Rules
 - One note per active call in `cfps/`
@@ -185,7 +211,26 @@ Stop researching a thread when it becomes predictable. Double down when it's ali
 - Public professional info is fine (institutional email, public social handles)
 - Don't include Amber's personal information
 
-## 15. Updating Rules
+## 15. Re-Research Schedule
+Topics and communities go stale. Each note must track when it was last researched and when to check again.
+
+**Frontmatter fields:**
+```yaml
+last_researched: 2026-02-26
+research_period: monthly
+next_research: 2026-03-26
+```
+
+**Suggested periods:**
+- `edge_of_chaos: true` topics → **monthly** (fast-evolving)
+- Established topics → **quarterly**
+- Active communities → **monthly**
+- Stable communities → **quarterly**
+- People notes → **update when new work appears** (scout checks social media daily)
+
+The daily scout should check `next_research` dates and flag topics/communities due for refresh.
+
+## 16. Updating Rules
 - When Amber says something is interesting → update research-taste.md + upgrade ratings
 - When Amber says something is boring → note in research-taste.md anti-patterns
 - When a strategy works well → document in finding-strategy.md
