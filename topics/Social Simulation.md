@@ -42,3 +42,10 @@ This field barely existed 2 years ago. Joon Sung Park's generative agents paper 
 - NeurIPS, ICML — ML angle  
 - ALIFE — emergence angle
 - FAccT — ethics angle
+
+## Fellowships & Programmes
+- **MATS** — some streams touch on multi-agent safety. <https://www.matsprogram.org/>
+- **Google DeepMind internships** — multi-agent team ([[Joel Z Leibo]])
+- **Stanford HAI fellowships** — human-centered AI, social computing. <https://hai.stanford.edu/>
+- **MBZUAI AI × Arts Fellowship** — AI and artistic creation in Abu Dhabi. <https://academy.mbzuai.ac.ae/>
+- **Villa Albertine AI & Artistic Creation Residency** — 2-month in the US, art × AI. <https://villa-albertine.org/>

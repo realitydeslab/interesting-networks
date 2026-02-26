@@ -57,6 +57,16 @@ Every person note should include (when known):
 - **Key Relationships** — co-authors, advisors, students, collaborators (use [[links]])
 - **Why Interesting** — what makes them worth following
 
+## Topic Note Template
+Every topic note should include (when known):
+- **Key People** — who's driving this area
+- **Key Venues** — where to present/attend
+- **Key Communities** — networks, labs, institutions
+- **Fellowships & Programmes** — what Amber can APPLY for (residencies, fellowships, grants, programmes)
+- **Key Texts** — essential reading
+- **Open Questions** — what's unresolved
+- **Adjacent Topics** — links to related areas
+
 ## How It Grows
 
 Every node is an entry point. Follow any thread:

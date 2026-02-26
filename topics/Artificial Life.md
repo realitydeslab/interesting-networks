@@ -26,5 +26,12 @@ Life-as-it-could-be. Emergence, self-organization, open-ended evolution, autopoi
 - [[Emergence]]
 - [[Active Inference]]
 
+## Fellowships & Programmes
+- **Santa Fe Institute Complexity Fellowships** — postdoc programme in complexity science. <https://www.santafe.edu/>
+- **Center for Humans & Machines Artist Residency** (Max Planck / [[Iyad Rahwan]]) — Artist & AI residency, e.g. Helena Nikonole (2026). <https://www.mpib-berlin.mpg.de/>
+- **LACMA Art + Technology Lab** — Grants for artists working with tech. Open RFP 2026. <https://www.lacma.org/>
+- **Google Artists + Machine Intelligence** — founded by [[Blaise Agüera y Arcas]]. Commissions for artists using AI/ML.
+- **ALIFE conference workshops** — open calls annually
+
 ## Why It Matters
 ALife asks the deepest questions about what life, creativity, and intelligence actually are. Not engineering intelligence — growing it. Strong overlap with art practice (generative, evolutionary, emergent).
