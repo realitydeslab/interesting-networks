@@ -1,222 +1,271 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Lancaster University (Professor Emerita), Xerox PARC (former)
+affiliation: Lancaster University (Professor Emerita of Anthropology of Science and Technology)
 website: https://www.lancaster.ac.uk/humanities-arts-and-social-sciences/people/lucy-suchman
 social:
-  blog: "http://robotfutures.wordpress.com"
+  blog: "https://robotfutures.wordpress.com"
 born: Ithaca, New York
 education:
-  - BA, University of California Berkeley, 1972
-  - MA, University of California Berkeley, 1977
-  - PhD Social and Cultural Anthropology, University of California Berkeley, 1984
-based: Lancaster, UK
+  - BA Social and Cultural Anthropology, University of California Berkeley, 1972
+  - MA Social and Cultural Anthropology, UC Berkeley, 1977
+  - PhD Social and Cultural Anthropology, UC Berkeley, 1984
+based: Lancaster, UK (accessible from London/Oxford by train ~2.5h). Periodically visits King's College London (WIT group).
 added: 2026-02-26
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26
-tags: [critical-computing, feminist, participatory, more-than-human, embodied]
+tags: [critical-computing, HCI, feminist, participatory, more-than-human, social-simulation]
 deep_researched: true
 ---
 
 # Lucy Suchman
 
-Professor Emerita of Anthropology of Science and Technology, Lancaster University. Former Principal Scientist and manager of the Work Practice and Technology group at Xerox PARC (22 years). Author of *Plans and Situated Actions* (1987) — one of the foundational texts of HCI. Vice-Chair, International Committee for Robot Arms Control. 2010 ACM SIGCHI Lifetime Research Award. 2014 John Desmond Bernal Prize (4S). One of the founders of the Participatory Design tradition and a defining voice in feminist STS.
+Professor Emerita of the Anthropology of Science and Technology, Lancaster University. One of the foundational scholars of human-computer interaction — her 1987 book *Plans and Situated Actions* dismantled the AI planning paradigm and established that human action is always locally produced from dynamic material and social contexts. Spent 22 years at Xerox PARC where she co-founded the Work Practice and Technology research area. Today: feminist STS, AI militarism critique, autonomous weapons, drone warfare — consistently on the wrong side of defense contracts in the most principled way possible.
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Full deep research completed. Expanded from stub; comprehensive profile written.
-- **2026-02-26:** Stub created — discovered as keynote speaker at Aarhus 2025.
+- **2026-02-26:** Full deep research complete. Created from stub.
+- **2025 (August):** Keynote speaker at [Aarhus 2025](https://aarhus2025.org/) "Computing (X) Crisis" — the decennial critical computing conference. One of three keynotes, alongside Kristoffer Ørum and Michael Bang Petersen.
+- **2024 (January):** Published ["The algorithmically accelerated killing machine"](https://robotfutures.wordpress.com/2024/01/21/the-algorithmically-accelerated-killing-machine/) on her blog — analysis of Israel's AI-enabled targeting system Habsora ("The Gospel") in Gaza. One of the most cited critical analyses of the conflict's AI dimension.
+- **2021:** "Imaginaries of Omniscience: Automating intelligence in the US Department of Defence." *Social Studies of Science*. Continues the military AI critique.
+- **2021:** "Six Unexamined Premises Regarding Artificial Intelligence and National Security." Published via [AI Now Institute](https://ainowinstitute.org/).
+- **2018:** Honorary Doctorate, Maastricht University. Lecture: "The Future of a Data-Driven Society."
+- **2016–2017:** President of the Society for Social Studies of Science (4S).
 
 ## Background
 
-Born in Ithaca, New York. Trained entirely as an anthropologist — BA (1972), MA (1977), and PhD in Social and Cultural Anthropology (1984) all at UC Berkeley. Her dissertation critiqued the AI planning model as a basis for interactive interface design — a completely unusual intervention at the time, coming from anthropology into AI.
+Born in Ithaca, New York. Arrived at [Xerox PARC](https://www.parc.com/) in 1979 from UC Berkeley, becoming the first anthropologist embedded in what was then the world's most innovative computing research lab. She came to study everyday life in a big company — and ended up changing how the entire field of HCI thinks about human action.
 
-At Berkeley she encountered **ethnomethodology** (the sociology of how people accomplish ordinary social actions), which became the intellectual backbone of everything she'd do. Harold Garfinkel's core question — how do people recognizably accomplish "doing work," "having a conversation," "following a procedure" — became the lens through which she'd analyze human-computer interaction.
+Her dissertation (1984) critiqued the AI planning model as a basis for interactive interface design — the core of what would become *Plans and Situated Actions* three years later. She studied procedural office work to understand how it differed from computational models — and found that clerks did not follow linear procedures but constantly improvised in parallel, responding to the actual situation as it unfolded.
 
-After her PhD she spent **22 years at Xerox PARC** (roughly 1979–2002), eventually becoming a Principal Scientist and manager of the **Work Practice and Technology research group**. At PARC she conducted what became her signature empirical move: a video ethnography of office workers struggling to use a copy machine. The video footage showed that people didn't act from pre-formed plans — they improvised, read contextual cues, and constructed coherent action as they went. This became the empirical heart of *Plans and Situated Actions*.
+At PARC she spent 22 years working as principal scientist and manager of the **Work Practice and Technology** research group. Her collaborative video studies of workers attempting to use a Xerox 8200 copier (made with Austin Henderson, 1979-1981) are legendary — the films showed computer scientists, including AI pioneer Allen Newell, completely defeated by the machine, and sparked Xerox's commitment to ethnographic workplace studies. The subsequent redesign of copier interfaces cut the average paper jam clearing time from 28 minutes to under a minute.
 
-In the early 2000s she moved to **Lancaster University** (Department of Sociology), joining one of the UK's strongest STS groups. She is now Professor Emerita. Lancaster placed her in the tradition of British social studies of technology alongside colleagues like John Urry, Mike Michael, and the broader ESRC-funded STS community.
+She left PARC in 2000 to take up her Chair at Lancaster University's Department of Sociology, where she became a leading figure in UK feminist STS, and has remained there since as Emerita.
 
-Her research has evolved in a clear arc: from HCI/workplace studies (PARC era) → feminist STS and human-like machines (Lancaster, 2000s–2010s) → AI and militarism, drone warfare, autonomous weapons (current focus). The thread across all of it: whose bodies, whose labor, and whose lives get incorporated into technological systems — and with what consequences for justice.
+**Why anthropology at PARC mattered:** Suchman's contribution was to bring ethnographic methods into engineering environments — not to "translate" between cultures, but to show that the assumptions embedded in machine design were wrong about how humans actually work. She demonstrated, against the grain of 1980s AI optimism, that human intelligence is not planning-based but *situated* — arising from continuous, embodied, contextual interaction. This wasn't just an academic claim; she proved it in industrial fieldwork.
 
 ## Domains
-- **Situated action and human-computer interaction** — the foundational contribution: human action is contextual, embodied, and improvised, not plan-driven
-- **Feminist Science and Technology Studies (STS)** — technoscience as political, gendered, racialized practice
-- **Work practice and workplace studies** — ethnomethodological analysis of how work is actually done
-- **AI and militarism** — drone warfare, autonomous weapons systems, "situational awareness" in military targeting
-- **Participatory Design** — design as democratic practice, involving those affected
-- **Human-like machines** — critical examination of anthropomorphism in AI/robotics
+
+- **Human-Computer Interaction (HCI)** — foundational critique and reconstruction
+- **Ethnomethodology applied to technology** — studying how people make sense of and with machines
+- **Workplace studies** — ethnographic analysis of knowledge work and organizational practices
+- **Feminist Science and Technology Studies (STS)** — gendering of computational systems; feminist design
+- **AI critique** — challenging planning models, anthropomorphism, machine "intelligence"
+- **Military AI / autonomous weapons** — current principal focus: drone warfare, algorithmic targeting, lethal autonomous weapons systems (LAWS), situational awareness in military contexts
+- **Participatory Design** — co-designing with users, democratic technology development
+- **Computer-Supported Cooperative Work (CSCW)**
 
 ## Key Works
 
 ### Books
-- [*Plans and Situated Actions: The Problem of Human-Machine Communication*](https://www.cambridge.org/core/books/plans-and-situated-actions/4F4E6003B9B41E4B1EB90571CB4E040C) (Cambridge University Press, 1987) — THE book. Using video ethnography of people using a Xerox copier, Suchman demolished the AI planning paradigm's assumption that human action is pre-planned. Instead: action is "situated" — constantly assembled from available resources in context. Became foundational for HCI, CSCW, PD, and fed directly into the linguistic/ethnomethodological turn in sociology of technology.
-- [*Human-Machine Reconfigurations: Plans and Situated Actions* (2nd ed.)](https://www.cambridge.org/us/academic/subjects/psychology/developmental-psychology/human-machine-reconfigurations-plans-and-situated-actions-2nd-edition) (Cambridge University Press, 2007) — Updated edition with 5 new chapters addressing developments since the 1980s, especially the new wave of "human-like machines" (robots, intelligent agents). Added a feminist STS framing to the original ethnomethodological argument. The new title signals her expanded scope: not just situated action, but the reconfiguration of what it means to be human in relation to machines.
+- [*Plans and Situated Actions: The Problem of Human-Machine Communication*](https://www.cambridge.org/core/books/plans-and-situated-actions/4F4E6003B9B41E4B1EB90571CB4E040C) (Cambridge University Press, 1987) — **THE foundational text.** Argues that human action is not the execution of pre-formed plans but is produced situationally through continuous adaptation to concrete circumstances. Demolished the AI planning paradigm. Based on her video ethnographies at PARC.
+- [*Human-Machine Reconfigurations: Plans and Situated Actions, 2nd edition*](https://www.cambridge.org/core/books/humanmachine-reconfigurations/E9898F3DBCB1754DB4A27A4B9E4DE89E) (Cambridge University Press, 2007) — Updated edition with five new chapters addressing developments in computing and social studies of technology since the mid-1980s. Addresses the "humanlike machines" turn in AI — robots, avatars, affective computing — with the same critical lens.
 
-### Key Papers & Essays
-- ["Making Work Visible"](https://doi.org/10.1145/223248.223263) (Communications of the ACM, 1995) — manifesto for work practice studies; how visibility/invisibility of labor shapes technological design
-- ["Affiliative Objects"](https://doi.org/10.1177/1350508405051268) (*Organization*, 2005) — how objects in workplaces affiliate with human activity; objects as actants
-- ["Feminist STS and the Sciences of the Artificial"](https://mitpress.mit.edu/books/handbook-science-and-technology-studies) — in the *New Handbook of Science and Technology Studies* (MIT Press, 2007); her programmatic statement linking feminist theory to AI critique
-- ["Wajcman confronts cyberfeminism"](https://doi.org/10.1177/0306312706072186) (*Social Studies of Science*, 2006) — intervention in feminist debates about technology
-- ["Embodied Practices of Engineering Work"](https://doi.org/10.1207/S15327884MCA07-12_2) (*Mind, Culture and Activity*, 2000)
-- ["Reconstructing Technologies as Social Practice"](https://doi.org/10.1177/0002764299043003009) (with Blomberg and Orr, *American Behavioral Scientist*, 1999)
-- ["Unpriming the pump: Remystifications of AI at the UN's Convention on Certain Conventional Weapons"](https://www.icrac.net/unpriming-the-pump-remystifications-of-ai-at-the-uns-convention-on-certain-conventional-weapons/) — blog post/ICRAC piece; her sharpest analysis of how AI is narratively weaponized in weapons policy
-- ["The vagaries of 'precision' in targeted killing"](https://www.icrac.net/the-vagaries-of-precision-in-targeted-killing/) — on drone warfare and the fiction of precision
+### Key Papers & Essays (selection)
+- "Situational Awareness: Deadly bioconvergence at the boundaries of bodies and machines." *Media Tropes* V(1): 1–24. (2015) — bridges the workplace ethnography work with military AI critique
+- "Configuring the Other: Sensing War through Immersive Simulation." *Catalyst: Feminism, Theory, Technoscience* 2(1). (2016) — military simulation, drone warfare, who gets "othered"
+- "Human-Machine Autonomies" (with Jutta Weber). In *Autonomous Weapons Systems*, eds. N. Bhuta et al. Cambridge UP. (2016) — the legal/political/technical stakes of LAWS
+- "Imaginaries of Omniscience: Automating intelligence in the US Department of Defence." *Social Studies of Science* (2021) — the epistemological fantasies behind military AI
+- "Six Unexamined Premises Regarding Artificial Intelligence and National Security." [Medium / AI Now Institute](https://medium.com/@AINowInstitute/six-unexamined-premises-regarding-artificial-intelligence-and-national-security-eff9f06eea0) (2021)
+- ["The algorithmically accelerated killing machine."](https://robotfutures.wordpress.com/2024/01/21/the-algorithmically-accelerated-killing-machine/) *Robot Futures* blog (January 2024) — analysis of Israel's AI-enabled targeting system "The Gospel" (Habsora) in Gaza. Widely circulated.
+- "Feminist STS and the Sciences of the Artificial." In *New Handbook of Science and Technology Studies*. MIT Press. (2007)
+- "Subject Objects." *Feminist Theory* 12(2): 119–145. (2011)
+- "Anthropological Relocations and the Limits of Design." *Annual Review of Anthropology* 40: 1–18. (2011)
+- "Making Work Visible." *Communications of the ACM* 38(9): 56–61. (1995)
+- "Reconstructing Technologies as Social Practice" (with J. Blomberg and J. Orr). *American Behavioral Scientist* 43(3): 392–408. (1999)
+- "Lucy Suchman in Conversation with Ana Gross." *Sociologica* 15(2): 179–185. (2021) — excellent overview of her career arc
 
 ### Blog
-- [Robot Futures](http://robotfutures.wordpress.com) — ongoing commentary on AI, robotics, autonomous weapons. Includes her analyses of CCW meetings, ICRAC publications, and critical takes on AI discourse. Essential reading for her current politics.
+- **[Robot Futures](https://robotfutures.wordpress.com/)** — her blog on "technocultures of humanlike machines." Active since 2018. Long-form critical analyses of AI militarism, drone warfare, autonomous vehicles, corporate AI ethics statements. High quality, essayistic, uncompromising.
 
 ## Awards & Fellowships
+- **1988 Xerox Corporate Research Group Excellence in Science and Technology Award** — for the video ethnography work and its impact on copier redesign
+- **[2002 Benjamin Franklin Medal in Computer and Cognitive Science](https://www.fi.edu/en/awards)**, The Franklin Institute, Philadelphia — for her foundational contributions to HCI
+- **2005 Outstanding Contribution to Research Award**, Communication and Information Technologies Section, American Sociological Association
+- **[2010 ACM SIGCHI Lifetime Research Award](https://sigchi.org/awards/)** — the highest honor in human-computer interaction. Recognized for lifelong contributions that have shaped the field.
+- **2011 Honorary Doctorate, [Malmö University](https://mau.se/en/)** — recognizing her work in critical computing and participatory design (MEDEA research group there)
+- **[2014 John Desmond Bernal Prize](https://www.4sonline.org/prizes)**, Society for Social Studies of Science (4S) — the discipline's highest honor for "distinguished contributions to the field." Previous winners: Donna Haraway (2000), Bruno Latour (2013).
+- **2018 Honorary Doctorate, [Maastricht University](https://www.maastrichtuniversity.nl/)** — honorary promoter: Sally Wyatt; lecture: "The Future of a Data-Driven Society"
+- **Social Studies of Science** — Collaborating Editor (longstanding)
 
-- **1988 Xerox Corporate Research Group Excellence in Science and Technology Award** — internal recognition at PARC
-- **[2002 Benjamin Franklin Medal in Computer and Cognitive Science](https://www.fi.edu/en/awards/franklin-institute-awards/benjamin-franklin-medals)**, The Franklin Institute — one of the most prestigious American science prizes; recognizes her work as foundational to the field
-- **2005 Outstanding Contribution to Research Award**, Communication and Information Technologies Section, [American Sociological Association](https://www.asanet.org/)
-- **[2010 ACM SIGCHI Lifetime Research Award](https://sigchi.org/awards/sigchi-award-recipients/2010-sigchi-award-recipients/)** — the highest honor in human-computer interaction. Recognizes career-defining contributions to the HCI research field.
-- **2011 Honorary Doctorate**, [Malmö University](https://mau.se/en/) (Sweden) — strong Scandinavian PD tradition; this is a recognition from the Nordic design-democracy community
-- **[2014 John Desmond Bernal Prize](https://www.4sonline.org/about/awards/bernal-prize/)**, [Society for Social Studies of Science (4S)](https://www.4sonline.org/) — 4S's most prestigious award, for distinguished contributions to the field of STS
-- **2018 Honorary Doctorate**, [Maastricht University](https://www.maastrichtuniversity.nl/) (Netherlands) — European STS circuit
+## Talks & Conferences
 
-## Talks & Conference Roles (Selected)
-
-- **Keynote, Aarhus 2025** — the Scandinavian computing + democracy conference, marking her continued relevance to the critical computing tradition she helped define
-- **Expert Panelist, UN Convention on Certain Conventional Weapons (CCW)** (Geneva, April 2016) — representing ICRAC on autonomous weapons policy. One of very few HCI/STS scholars at the UN arms control table.
-- **Program Chair, 2nd CSCW Conference** (1988) — helped set the agenda for Computer-Supported Cooperative Work as a field
-- **Program Chair, 1st Participatory Design Conference** (1990) — helped found the PD field's institutional infrastructure
-- **[4S](https://www.4sonline.org/) Presidential Address** (2016–2017) — as President of the Society for Social Studies of Science
+### Key Invited Talks / Keynotes
+- **Keynote, [Aarhus 2025](https://aarhus2025.org/keynote-speakers) "Computing (X) Crisis"** — August 2025, Aarhus, Denmark. The decennial critical computing conference. Her keynote topic: extending her AI/HCI critique to contemporary militarism. One of the most prestigious invitations in critical computing.
+- **Keynote, [Malmö University MEDEA](https://mau.se/en/research/research-areas/communication-media-information-technology/medea/)** — 2011. Inaugural lecture series; given at the time of her honorary doctorate.
+- **Panelist, [UN Convention on Certain Conventional Weapons (CCW)](https://www.unog.ch/ccw)**, Geneva — April 2016. Expert panelist on autonomous weapons, representing ICRAC at the UN.
+- **[MIT Media Lab Colloquium](http://www.media.mit.edu/events/2009/05/11/agencies-interface-colloquium-lucy-suchman)** — "Agencies at the Interface" — 2009.
+- **CHI 2010 Lifetime Research Award acceptance speech** — [YouTube](https://www.youtube.com/watch?v=nwHxMWtP_-M). Required viewing.
+- Program Chair, **[2nd CSCW Conference](https://cscw.acm.org/)** (Computer-Supported Cooperative Work) — 1988. One of the founding organizing moments of CSCW.
+- Program Chair, **[1st Participatory Design Conference (PDC)](https://pdcconference.org/)** — 1990.
 
 ## Key Communities
 
-- **[[International Committee for Robot Arms Control (ICRAC)]]** ([icrac.net](https://www.icrac.net/)) — **Vice-Chair**. Co-founded with Peter Asaro and Noel Sharkey. Advocates for international prohibition on autonomous weapons. Suchman is one of ICRAC's most prominent voices, linking her HCI expertise to weapons policy.
-- **[[Computer Professionals for Social Responsibility (CPSR)]]** ([cpsr.org](https://www.cpsr.org/)) — co-founder; Board of Directors 1982–1990. One of the earliest organizations linking technical computing to political responsibility. This was her first move to translate HCI expertise into political action.
-- **[[4S Society for Social Studies of Science]]** ([4sonline.org](https://www.4sonline.org/)) — President 2016–2017. Home community for STS. Bernal Prize 2014.
-- **[[Participatory Design Conference (PDC)]]** ([pdc2024.org](https://pdc2024.org/)) — founding figure. Program Chair of the 1st conference (1990). The PD tradition she helped shape is now a major track within design research and CHI.
-- **[[Aarhus Conference]]** — keynoted 2025. The Scandinavian critical computing tradition (democracy + computing) she has shaped and been shaped by.
-- **[[DIS Community]]** ([dis.acm.org](https://dis.acm.org/)) — her work on situated action is fundamental to the DIS (Designing Interactive Systems) intellectual tradition.
-- **Lancaster University Sociology** — Department home. One of UK's strongest STS groups, connecting to ESRC funding networks and British STS tradition.
-- **Work, Interaction and Technology Research Group, King's College London** ([kcl.ac.uk](https://www.kcl.ac.uk/)) — Visiting Senior Research Fellow. This group works at the intersection of CSCW, workplace studies, and STS.
-- **Interaction Design and Work Practice Laboratory, University of Technology Sydney** — Adjunct Professor. Australian STS and HCI connection.
-- **IT University of Copenhagen** — Adjunct Professor. Nordic HCI connection.
-- **[Xerox PARC](https://www.parc.com/)** — 22 years as Principal Scientist. Managed the Work Practice and Technology research group. Her empirical home where *Plans and Situated Actions* was born.
+- **[Xerox PARC](https://www.parc.com/)** — 22 years (1979–2000). Principal Scientist. Co-founded the Work Practice and Technology research area. The most important research lab of the late 20th century; where she did all her formative empirical work.
+- **[Lancaster University Department of Sociology](https://www.lancaster.ac.uk/social-sciences/sociology/)** — Chair (2000–present); Professor Emerita. Home to strong STS and feminist technology studies tradition.
+- **[[4S Society for Social Studies of Science]]** — President 2016–2017. Recipient of the Bernal Prize 2014 (discipline's highest award). Core home community.
+- **[[Participatory Design Conference (PDC)]]** — Program Chair at first PDC (1990); foundational figure in PD community.
+- **[International Committee for Robot Arms Control (ICRAC)](https://www.icrac.net/)** — founding and current member. The civil society organization of experts campaigning for a ban on lethal autonomous weapon systems. Actively presents at UN CCW meetings.
+- **[Computer Professionals for Social Responsibility (CPSR)](https://cpsr.org/)** — founding member; Board of Directors 1982–1990. The original tech accountability organization.
+- **[AI Now Institute](https://ainowinstitute.org/)** — affiliated with (published her "Six Unexamined Premises" essay). The most important policy-oriented AI critique organization in the US.
+- **[King's College London WIT Group](https://www.kcl.ac.uk/research/wit)** (Work, Interaction and Technology) — visiting senior research fellow.
+- **[IT University of Copenhagen](https://en.itu.dk/)** — former adjunct professor.
+- **[University of Technology Sydney](https://www.uts.edu.au/)** Interaction Design and Work Practice Laboratory — former adjunct professor.
+- **[*Catalyst: Feminism, Theory, Technoscience*](https://catalystjournal.org/)** — key publication venue; published her military simulation paper here (2016). The premier feminist STS journal.
+- **[*Social Studies of Science*](https://journals.sagepub.com/home/sss)** — Collaborating Editor; major publication venue.
 
 ## Key Relationships & Collaborators
 
-- **[[Paul Dourish]]** ⭐⭐⭐ — HCI scholar, wrote *Where the Action Is* (2001), the key bridge from Suchman's situated action to embodied interaction and phenomenology. Direct intellectual descendant. Worth deep research.
-- **[[Terry Winograd]]** ⭐⭐ — AI/HCI foundational figure; like Suchman, moved from AI optimism to critique. They circle the same intellectual territory from different directions (Winograd from AI, Suchman from anthropology).
-- **Jeanette Blomberg** ⭐ — PARC colleague and frequent co-author (reconstructing technologies as social practice, working artifacts). Ethnographer of work practice.
-- **Randy Trigg** — PARC colleague; co-authored "Working Artefacts: Ethnomethods of the prototype" (*British Journal of Sociology*, 2002).
-- **Peter Asaro** ⭐⭐ — ICRAC Chair and Co-Founder. New School media scholar. Co-leads ICRAC with Suchman and Noel Sharkey. Key figure in autonomous weapons debate.
-- **Noel Sharkey** ⭐⭐ — ICRAC Emeritus Chair and Co-Founder. Sheffield roboticist turned disarmament advocate. 
-- **[[Donna Haraway]]** ⭐⭐⭐ — Feminist STS founding figure. Different but parallel trajectory: both feminist, both at the intersection of biology/technology and politics. Both shaped by the 1980s PARC/Berkeley scene.
-- **[[Karen Barad]]** ⭐⭐⭐ — Feminist new materialist philosopher. Barad's "agential realism" (from *Meeting the Universe Halfway*, 2007) is in deep conversation with Suchman's situated action — both argue for the mutual constitution of subjects and objects.
-- **Vera and Simon** — who she critiqued in 1993 ("Response to Vera and Simon's Situated Action: A Symbolic Interpretation") — this debate defined situated cognition vs. symbolic AI.
-- **[[Lily Irani]]** ⭐⭐ — current critical computing/HCI scholar who explicitly builds on Suchman's feminist STS tradition. Suchman is a key intellectual ancestor.
+- **Austin Henderson** — computer scientist at Xerox PARC; co-made the famous copier video studies with Suchman (1979–1981). The collaborator on the original empirical work that launched her career.
+- **[John Seely Brown](https://en.wikipedia.org/wiki/John_Seely_Brown)** ⭐⭐ — Director of Xerox PARC from 1990; championed her anthropology work and made it central to PARC's innovation strategy. JSB is himself a significant figure in learning and innovation theory (*The Social Life of Information*).
+- **[Jeanette Blomberg](https://en.wikipedia.org/wiki/Jeanette_Blomberg)** — Xerox PARC colleague; co-authored multiple papers on workplace studies and participatory design. Continued collaborating after both moved on from PARC.
+- **[Randy Trigg](https://en.wikipedia.org/wiki/Randy_Trigg)** — computer scientist at Xerox PARC; co-researcher on the Caltrans bridge design study and law firm case studies. Long-term collaborator.
+- **[Julian Orr](https://en.wikipedia.org/wiki/Julian_Orr)** — Xerox PARC anthropologist; studied Xerox service technicians (his *Talking About Machines* became as influential in its own right as Suchman's book). Colleague and fellow practitioner in workplace ethnography.
+- **Jutta Weber** — co-author of "Human-Machine Autonomies" in the Cambridge UP volume on autonomous weapons (2016). German feminist STS scholar specializing in military tech.
+- **[Bonnie Jordan (née Bishop)](https://scholar.google.com/citations?user=bjordan)** — co-authored 1988 paper "Computerization and Women's Knowledge." Early feminist technology studies collaborator.
+- **Sally Wyatt** — Maastricht University; honorary promoter at Suchman's 2018 honorary doctorate; feminist STS scholar; director at Netherlands eScience Center. Intellectual ally.
+- **[Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)** ⭐⭐⭐ — overlapping intellectual community (feminist STS, science studies); both received the 4S Bernal Prize; Haraway's "situated knowledges" (1988) and Suchman's "situated action" (1987) are parallel formulations with different empirical bases. They don't collaborate directly but are the two central feminist voices in STS of their generation.
+- **[Peter Asaro](https://peterasaro.org/)** — ICRAC colleague; philosopher of technology specializing in drone warfare and autonomous weapons ethics. Most active ICRAC spokesperson at UN.
+- **Ana Gross** — conducted a published interview with Suchman in *Sociologica* (2021) — useful gateway text.
 
 ## Venue Circuit Analysis
 
-Suchman moves in **three distinct circuits**:
+Suchman's circuit is unusually coherent and political:
 
-1. **Critical computing/HCI circuit:** ACM SIGCHI, CSCW, PDC, DIS, Aarhus Conference. These are the venues where she shaped a field. She remains a keynote/elder-stateesperson here.
+1. **Academic STS / HCI:** 4S annual meetings, CSCW, CHI, Aarhus (foundational figure). These are her home venues where she contributes to canon-formation.
+2. **Feminist technoscience:** *Catalyst* journal, *Social Studies of Science*. Publishes long-form analytical pieces.
+3. **Policy and arms control:** UN CCW (Geneva), ICRAC events, AI Now Institute. She is one of the few senior academic voices who actually shows up at UN disarmament proceedings.
+4. **European visiting scholar circuit:** Malmö, Maastricht, IT University Copenhagen, King's College London — where she receives honorary recognition and gives landmark lectures.
+5. **Lancaster / UK:** Her home base; she works in the UK STS tradition alongside scholars like Steve Woolgar, John Law, etc.
 
-2. **STS/sociology circuit:** 4S (Society for Social Studies of Science), Lancaster Sociology, Social Studies of Science journal, American Sociological Association. Her second home discipline.
+**Small venues she chooses:** MEDEA at Malmö (participatory design lab), King's WIT group (small research unit). These are community-building moves, not prestige plays.
 
-3. **Arms control/policy circuit:** UN CCW, ICRAC conferences, policy events on autonomous weapons. This is her most politically urgent work — connecting academic HCI critique to actual weapons law.
-
-What's notable: she does **not** move in the art-tech circuit (no Ars Electronica, no transmediale, no residencies). She's an academic/political activist, not an art-science practitioner. Her critique travels through institutions, not aesthetic practice.
-
-The Scandinavian connection (PDC, Malmö honorary doctorate, Aarhus) is significant: she shares with the Nordic tradition a commitment to **democratic design** — computing as a political project involving affected workers.
+**Notable absence:** She doesn't do corporate events, TED-adjacent stages, or "AI ethics" industry summits. When Google published its AI principles in 2018, she wrote a critical analysis on her blog, not a collaborating essay. This is a deliberate ethical stance.
 
 ## For Amber
 
-1. **🤝 Cooperation** — Suchman's situated action theory is directly foundational for anything Amber does on agent behavior, AI ethnology, or human-AI interaction. Citing her properly positions work in a well-respected lineage. There's also a possible collaboration angle around autonomous systems critique + design futures: Suchman provides the political framework, Amber provides the speculative design methodology.
+### 🤝 Cooperation
+- Co-authorship on situated AI / agent design — Suchman's situated action critique is the theoretical ancestor of what Amber is developing in agent ethology. A paper connecting *Plans and Situated Actions* to contemporary multiagent systems or Amber's specific work would be extremely well positioned.
+- Joint piece for *Catalyst* or *Social Studies of Science* on feminist perspectives on AI agency would fit both their research profiles.
 
-2. **🎓 Fellowship** — The **4S community** (which Suchman led) has annual conferences where Amber could present critical AI work. The STS framing opens fellowship opportunities at Lancaster, King's College, and Sydney (all Suchman-affiliated institutions).
+### 🏠 Residency / Fellowship
+- Lancaster University visiting researcher programme (£50/week bench fee — cheap). Direct email to Suchman or Sociology department is the route. Lancaster is 2.5h from London by train.
+- Maastricht University STS visiting positions — accessible via Sally Wyatt connection.
 
-3. **💡 Career inspiration** — The PARC → Academia transition is a model: build empirical authority inside industry, then move to academia for critical freedom. Amber might think about strategic stints at labs (Microsoft Research, Google PAIR, etc.) to build that kind of institutional credibility.
+### 🎓 Fellowship
+- ICRAC membership (civil society experts on autonomous weapons) — open to academics working in related areas. Amber's agent ethology work + interest in machine behavior would qualify.
 
-4. **👋 Hangout potential** — Lancaster is accessible from London (2 hours by train). As Professor Emerita, Suchman is likely less busy than active faculty. Lancaster Sociology hosts events worth attending.
+### 💡 Career Inspiration
+- Suchman's career shows what it means to do deeply committed, empirically grounded critical work that also matters politically. She's not a polemicist — she builds careful ethnographic studies and then derives uncompromising conclusions. The blog is a model: use it to speak to current events with scholarly precision, without waiting for peer review.
+- The PARC chapter shows that working *inside* a powerful institution (22 years!) can be done without capitulating to its logic — if you're rigorous enough about the critique.
 
-5. **🔧 Professional inspiration** — Suchman's **video ethnography method**: watching people use technology to understand the gap between designed intent and actual use. This could be a method Amber deploys in her own research on human-AI interaction.
+### 👋 Hangout Potential
+**HIGH.** Lancaster is ~2.5h by train from London. She speaks at venues accessible from the UK regularly (King's College London WIT group). The Aarhus network is a natural point of connection. Amber's agent ethology work + feminist STS perspective would resonate strongly.
 
-6. **🌍 Areas to know** — **Robot arms control** is an emerging policy domain where Amber's speculative design skills would be unusual and valuable. ICRAC's work connects AI governance to actual international law. This is a high-stakes arena.
+### 🔧 Professional Inspiration
+- **Video ethnography as research method:** Suchman's entire early career was built on careful video analysis of humans-with-technology. This is a methodology Amber could deploy: document how people actually interact with agents/robots, vs. how designers assume they do.
+- **The situated/planned dichotomy** as a design heuristic: design not for plan-execution but for situated response.
+- **Blog as intellectual space:** *Robot Futures* is a model for maintaining public intellectual presence between publications.
+- **Critical engagement with military AI:** The field needs more voices; Suchman's combination of technical literacy + ethical clarity is a model.
 
-7. **🔮 Future involvement** — The critical computing/feminist STS tradition Suchman represents is the intellectual home for Amber's agenda. Engaging with PDC, CSCW, and DIS (as well as CHI) would position Amber in this lineage.
+### 🌍 Areas to Know
+- **ICRAC / Stop Killer Robots campaign** — the civil society infrastructure for autonomous weapons policy. Real policy impact, not just academic critique.
+- **Participatory Design Conference (PDC)** — Suchman was program chair at the first one (1990). The PD tradition is relevant to Amber's participatory/more-than-human design interests.
+- **Lancaster STS** — a rich academic environment with John Law (actor-network theory), historically important.
 
-8. **📚 Learning from their path** — Suchman's career shows the power of **a single, devastating empirical intervention** (the copier video study) to establish a paradigm-shifting claim. The lesson: find the moment when you can catch the dominant paradigm with its assumptions exposed, and film it.
+### 🔮 Future Involvement
+- As Amber's work on agent behavior matures, connecting it explicitly to the Suchman tradition (situated action, ethnomethodology applied to AI) would be theoretically powerful and open access to the critical HCI/STS community.
+- A paper at **Aarhus 2035** framed through Suchman's situated action lens would be a strong entry into this community.
 
-9. **Engagement paths** — Attend or submit to [[Aarhus Conference]] or [[Participatory Design Conference (PDC)]]. These are Suchman's home turf and exactly the right size (small, critical, agenda-setting). Read *Plans and Situated Actions* if not already done — it's short and essential. Follow [Robot Futures blog](http://robotfutures.wordpress.com) for her current political writing.
+### 📚 Learning from Her Path
+- **Credibility through specificity:** Suchman's critique landed because she had done the empirical work — the video studies, the workplace ethnographies. The analysis followed from evidence, not from position. Amber should build similarly — field studies of actual agent behavior, not just theoretical critiques.
+- **The 22-year institutional bet:** Suchman stayed at PARC for 22 years, long enough to see her ideas become foundational. Then she moved to Lancaster. The long game inside an institution is possible, and sometimes necessary for real influence.
+- **Moving from HCI to militarism:** The career arc of extending a foundational insight (situated action) into increasingly urgent political domains (military AI) is exemplary. Amber's agent ethology could similarly migrate from theoretical observation into policy-relevant critique.
+
+### Engagement Paths
+- **Read *Plans and Situated Actions* (1987)** — essential. Also the 2007 edition's new chapters.
+- **Follow the *Robot Futures* blog** — best ongoing source for her current thinking.
+- **Contact via Lancaster Department of Sociology** — she's listed as Emerita; email is public.
+- **Aarhus / CSCW / 4S community** — natural shared venues.
+- **Cite her work in agent ethology research** — citation is the most respectful form of engagement.
 
 ## Why Interesting
 
-Suchman is interesting to Amber for several converging reasons:
+**Three reasons, all compelling:**
 
-**Intellectual lineage:** *Plans and Situated Actions* (1987) is the ur-text of the critique of AI planning models. If Amber is thinking about agent ethology — how AI agents actually behave vs. how they're imagined to behave — Suchman did the original version of this argument with a different technology (expert systems, early AI). The basic move is identical: go watch the machine in use, observe the gap between the model and the reality, theorize the gap.
+1. **Theoretical: Situated action is the foundation of any honest theory of AI agency.** Suchman showed in 1987 that the planning model — the idea that intelligent action = executing pre-formed plans — is empirically wrong for humans, and therefore the wrong model for designing interactive systems. Every critique of LLM "reasoning", every debate about whether AI systems "understand", every question about embodied intelligence — goes back to Suchman's core insight. Agent ethology without Suchman is building on sand.
 
-**Feminist STS connection:** Suchman links directly to [[Donna Haraway]], [[Karen Barad]], and the feminist technoscience tradition. This is a fully theorized, empirically grounded, politically committed way of doing HCI/STS. It connects Amber's critical computing interest with a body of theory she likely already engages.
+2. **Political: She is doing the most important critical AI work on the most urgent problem.** Military AI — autonomous weapons, algorithmic targeting, drone warfare — is where the stakes are literally life and death. Suchman has been doing this work since 2015, with ICRAC at the UN since 2016, and her Gaza analysis (2024) is among the sharpest public criticisms of AI-enabled mass targeting written by anyone. This is urgent.
 
-**Urgency escalation:** Suchman's career arc has escalated in urgency: copier → AI → autonomous weapons. Each domain is a higher-stakes version of the same question. This is a model for how to make critique matter — keep applying it to higher-stakes domains.
+3. **Proximity: She is in Lancaster, accessible.** Among the foundational critical HCI scholars, she is the most physically accessible to Amber (London/Oxford). The intellectual proximity (Lancaster STS + Amber's work) is matched by geographic proximity.
 
-**Small-venue signal:** Her investment in PDC (small, agenda-setting, democratic) over the mega-conferences (CHI with 4000+ people) maps perfectly to Amber's taste for intimate, critical venues.
+Connects to research-taste: critical computing, feminist STS, more-than-human, participatory — Suchman is one of the intellectual ancestors of everything in Amber's taste profile. Not a trend-chaser, not an industry AI-ethicist. The real thing.
 
-## Research Taste Analysis
+## Research Taste Analysis (⭐⭐⭐)
 
 ### Conceptual Strategy
 
-**The Inversion Move:** Suchman's core strategy is to take a dominant paradigm's central assumption, falsify it empirically with a concrete case study, and name the alternative. *Plans and Situated Actions* did this precisely: AI's core assumption was that humans act from pre-formed plans. She showed (through video ethnography of a copier) that they don't — action is constructed situationally. Then she named the alternative: "situated action." This became a field-defining concept because it was empirically grounded AND philosophically clear.
+**The single-point expansion:** Suchman's career is built on expanding one foundational insight across ever-wider domains. The insight: *human action is situated, not planned.* She first demonstrated this in the HCI context (1987). Then in CSCW (workplace studies). Then in feminist STS (how gender shapes AI design). Now in military AI (how the planning model enables drone warfare). Each expansion finds new evidence for the same core claim — and makes the claim more politically urgent.
 
-This is one of the most powerful moves in academic discourse: don't build an alternative from scratch, identify the crack in the dominant paradigm and pry it open. The empirical case is the lever; the conceptual coinage is the fulcrum.
+This is different from framework multiplication. It's more like: find the deepest possible criticism, then follow it wherever it leads.
 
-**Two-word concept coining:** "Situated action," "work practice," "human-machine reconfigurations" — Suchman consistently generates memorable, citable two-to-three word phrases that capture her arguments. This is deliberate and consequential: it's how ideas travel.
+**Ethnomethodological precision:** Suchman grounds everything in careful observation. She does not speculate; she documents and analyzes. When she says human action is situated, she has the video to prove it. When she says military AI systems fail, she has the policy documents and targeting records. The theoretical claims are always underwritten by empirical specificity. This is unusual and powerful.
 
-**Scope escalation:** Each decade, she takes her core concepts and applies them to higher-stakes domains: workplace design → AI theory → robot ethics → autonomous weapons. The intellectual core stays constant (situated, embodied, political); the application escalates in urgency. This keeps her work fresh and relevant without abandoning her intellectual identity.
+**Naming the problem, not solving it:** Suchman rarely proposes design solutions. She problematizes. *Plans and Situated Actions* doesn't tell you how to build better interfaces; it shows why the dominant approach is wrong, and invites the field to rethink from first principles. This creates a different kind of intellectual impact — not a technique to adopt but a way of seeing to internalize.
 
 ### Career Architecture
 
-**Unusual institutional base:** Spending 22 years at an industrial research lab (PARC) rather than academia gave her access to actual systems, actual users, and actual corporate contexts — unusually rich empirical material. Then moving to academia gave her freedom to be fully critical. Very few people can claim this combination.
+**The long institutional embedding:** 22 years at PARC was not passivity — it was strategic. By being inside the most important computing research institution of the era, she could do empirical work that would have been impossible from a conventional academic position. She used the institution's resources (video equipment, access to workers, engineers as colleagues) while maintaining intellectual independence.
 
-**Community founding as field-making:** Co-founding CPSR (1982) and chairing the first PDC conference (1990) weren't just organizational contributions — they constituted the communities in which her ideas would circulate and be tested. Field-making = being there at the beginning.
+**Field declaration through the Bernal Prize:** The 2014 Bernal Prize (4S's highest honor) formally positioned her as a leading figure of STS, not just HCI. This broadened her community and gave her standing in policy debates she couldn't have accessed as an HCI researcher alone.
 
-**Strategic discipline migration:** She moved from anthropology → HCI → STS → policy. Each migration brought her ideas to a new audience without abandoning the previous one. She's now simultaneously cited in anthropology, HCI, STS, feminist theory, and international law/arms control. This is rare cross-disciplinary citation reach.
+**The UN gambit:** Going to the CCW at the UN in 2016 was a deliberate move into policy — academia → civil society → international law. Very few STS scholars do this. It requires both credibility (provided by the Bernal Prize, the Benjamin Franklin Medal) and a specific kind of political commitment.
+
+**Blog as public intellectual infrastructure:** *Robot Futures* lets her respond to breaking events with academic precision but without waiting for peer review. This is increasingly how ideas get into circulation. Her Gaza analysis (January 2024, four months into the conflict) reached audiences no journal article could.
 
 ### Methodology Signature
 
-**Video ethnography of use:** Not surveys, not interviews, not think-aloud protocols — she filmed people actually using technology and watched what happened. This is a methodological identity: the video is the argument. It takes longer, requires more skill, and is harder to do at scale, but it's irrefutable when done well.
+**Video ethnography → publication:** The copier videos are not just anecdotes — they're method. Suchman's key insight was that recording human-technology interaction on video, then analyzing it carefully, reveals what neither the user nor the designer could articulate. This is scalable.
 
-**Ethnomethodology imports:** Garfinkel's sociology was almost unknown in HCI when Suchman deployed it. She imported a method from a different field, translated it for a new audience, and it stuck. This kind of cross-discipline method import is a powerful move when done with genuine expertise (not just name-dropping).
+**Close reading of technical documents:** Her military AI work is not based on fieldwork but on close reading of military doctrines, policy papers, technical specifications. She applies the same analytical rigor she used for workplace ethnography to official documents. Unusual and effective.
 
-**Practice-based design:** Articulating "work practice" as the unit of analysis for design created a research programme — others could follow her method, produce studies, build a literature.
+**Cross-sector poaching:** Moving between corporate R&D (PARC), academic STS, feminist theory, and international law — each domain provides tools that illuminate the others. The legal framework for autonomous weapons (International Humanitarian Law) + feminist STS critique of whose bodies matter + ethnomethodology of actual decision-making = a critique no single discipline could produce.
+
+### Network Strategy
+
+**Legitimacy stacking:** Xerox PARC credibility → ACM SIGCHI award → 4S Bernal Prize → UN panelist. Each stage builds on the previous and opens doors to new communities. The sequence matters: she had to establish HCI credibility before STS credibility before policy credibility.
+
+**Feminist STS community:** Her alignment with Donna Haraway, Karen Barad (*Meeting the Universe Halfway* is cited in her 2021 Sociologica interview), and the *Catalyst* journal editors positions her within a specific intellectual genealogy. This is not accidental — it's a deliberate community of practice that supports one another's work.
+
+**ICRAC as activist infrastructure:** By joining ICRAC (which brings academics to UN proceedings), she gained access to policy venues that pure academics usually cannot reach. This is the most unusual element of her career architecture.
 
 ### Key Moves (Chronological)
 
-1. **PhD in anthropology at Berkeley, not CS (1984)** — trained with ethnomethodologists, not AI researchers. This gave her a completely alien lens on AI, which turned out to be exactly the right one. The oddness of her disciplinary position was her advantage.
+1. **1979–1981: The copier videos at PARC.** Co-producing the famous films of computer scientists defeated by a Xerox copier. Made with Austin Henderson. The empirical foundation for everything that followed. *Why it worked:* undeniable evidence, impossible to dismiss. *What it enabled:* credibility to challenge the AI planning paradigm from within the most prestigious AI research institution.
 
-2. **The copier video study and *Plans and Situated Actions* (1987)** — the foundational inversion. Short book (~200 pages), concrete empirical case, devastating argument. Set her career. The lesson: a tight empirical argument with clear theoretical implications beats a sprawling survey.
+2. **1987: *Plans and Situated Actions*.** Publishing the dissertation as a Cambridge University Press book. *Why it worked:* right time — HCI was exploding as a field, desperate for theoretical grounding; Suchman provided the foundational critique AND the constructive alternative (ethnomethodological analysis). *What it enabled:* career-defining text that the field kept citing for decades.
 
-3. **PARC Work Practice and Technology group (1980s–2000s)** — built a legitimate empirical research program inside the world's most famous technology research institution. This gave her claims about technology a kind of authority that purely academic researchers lack.
+3. **1988–1990: Program chair at CSCW and first PDC.** Moving from individual researcher to field-shaper. *Why it worked:* leveraged the book's credibility into institutional power at exactly the moment both communities were being founded. *What it enabled:* embedded her into the organizing infrastructure of HCI/CSCW.
 
-4. **Co-founding CPSR and chairing PDC (1982, 1990)** — community infrastructure. She wasn't just writing papers; she was building the institutions that would define critical computing as a field.
+4. **2000: Move from PARC to Lancaster.** Leaving industry for academia when the empirical fieldwork phase was complete and the theoretical / political work could expand. *Why it worked:* PARC had given her everything she needed empirically; Lancaster gave her freedom to follow the critique into politics. *What it enabled:* the military AI turn would have been very difficult from inside a corporate lab.
 
-5. **Move to Lancaster Sociology (early 2000s)** — left industry for academia. This enabled the full feminist STS framing that was harder to do inside Xerox.
+5. **2014: The 4S Bernal Prize.** Being officially recognized as a major figure in STS, not just HCI. *Why it worked:* she had consistently published in STS venues and participated in 4S for two decades — the recognition followed from sustained community engagement. *What it enabled:* standing in policy debates, presidential role at 4S.
 
-6. ***Human-Machine Reconfigurations* (2007)** — re-released the foundational book with 5 new chapters. The title change signals the new framing: from human-computer interaction to the mutual reconfiguration of humans and machines. This is how you refresh a foundational text without abandoning it.
+6. **2016: UN CCW panelist.** Taking ICRAC's work to the United Nations Convention on Certain Conventional Weapons — the actual treaty negotiation process for autonomous weapons. *Why it worked:* very few academics combine technical credibility + legal knowledge + political commitment to do this. ICRAC provided the organizational infrastructure. *What it enabled:* direct access to policy-making processes; her subsequent writing on military AI has real-world stakes, not just academic ones.
 
-7. **ICRAC Vice-Chair (ongoing)** — applied situated action thinking to the most politically urgent domain: autonomous weapons. UN expert panelist 2016. Robot Futures blog. This is the final escalation: from copiers to cruise missiles. The same argument about situated embodiment, human judgment, and contextual action becomes an argument against autonomous kill decisions.
+7. **2024: Gaza / Habsora analysis.** Writing about Israel's AI targeting system on her blog within weeks of revelations about it. *Why it worked:* she had spent a decade building expertise in exactly this domain; she was the most qualified person to analyze this publicly; and her blog let her publish immediately. *What it enabled:* positioned her as the go-to critical voice on AI-enabled warfare at the exact moment the world needed one.
 
 ### What Amber Can Learn
 
-1. **The Inversion Move:** Find the dominant paradigm's unexamined assumption in your domain. Design an empirical study that exposes it. Name the alternative in two words. This is a reproducible strategy. For Amber: what is the core assumption of AI agent design that an empirical observation could falsify?
-
-2. **Film the use, not the design:** Suchman's evidence was video of people using things. For Amber's work on AI agents and human-AI interaction: what would it mean to video-ethnograph an AI agent "in use"? The observation method may be the conceptual contribution.
-
-3. **Tight empirical case > sprawling survey:** *Plans and Situated Actions* is ~200 pages. One case study (the copier), one argument (action is situated, not planned). The precision of the intervention is the power. Amber should think about what her equivalent tight-case argument is.
-
-4. **Escalate to urgency:** Suchman kept applying her ideas to higher-stakes domains. What is Amber's escalation path? From agent ethology → AI governance? From speculative design → policy?
-
-5. **Name your concepts:** "Situated action" travels because it names something real in two words. Amber should be naming her theoretical contributions, not just doing them.
-
-6. **Industry + academia as strategy:** The PARC credibility made her academic critique harder to dismiss. Amber might think about short stints at industry research labs as a way to access empirical richness while maintaining critical independence.
+- **Find your foundational insight and follow it everywhere.** Suchman's one insight — situated action — has driven 40 years of work. It deepens rather than exhausts itself. What is Amber's equivalent? Agent ethology as a method? Embodied machine behavior? Find it and commit.
+- **Empirical grounding makes critique unassailable.** You cannot argue with video of Allen Newell failing to operate a copier. Build Amber's critical work on fieldwork/observation/documentation, not just theoretical argument.
+- **Leverage institutional resources while maintaining independence.** PARC gave Suchman everything she needed empirically; she used it while developing critique of its assumptions. Amber can do this too — inside any institution that gives access to interesting phenomena.
+- **Blog as first publication:** *Robot Futures* is not a supplement to Suchman's academic career — it's how she stays in the public conversation between publications. Amber should develop this infrastructure now.
+- **Move toward policy at the right moment.** Suchman didn't go to the UN until she had the Benjamin Franklin Medal, the SIGCHI Lifetime Award, and the 4S Bernal Prize. Build the credentials first; then convert them into policy access.
+- **The feminist STS community is a real support network.** Suchman's involvement in *Catalyst*, 4S, and the feminist STS intellectual genealogy provides mutual support, citation networks, and community. Find your community early.
 
 ## 📋 Update Log
 
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Stub created during Aarhus Conference deep research. Amber: queue for full research. |
-| 2026-02-26 | Biber (subagent, deep-research-lucy-suchman-v3) | Full deep research. Expanded to comprehensive ⭐⭐⭐ profile. Set deep_researched: true. Sources: Wikipedia, ICRAC membership page, Lancaster University page. |
+| 2026-02-26 | Biber (subagent) | Stub created during Aarhus Conference deep research. |
+| 2026-02-26 | Biber (subagent) | Full deep research. Rewrote to gold standard: full biography, all awards, key works, key relationships, blog analysis, Research Taste Analysis, For Amber section. Based on Wikipedia, ICRAC page, Robot Futures blog, Lancaster University profile, Aarhus 2025 keynote page, MIT Technology Review 1998 article, Sociologica 2021 interview. |

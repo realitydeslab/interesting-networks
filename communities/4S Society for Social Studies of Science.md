@@ -21,7 +21,8 @@ Studies how science and technology are shaped by social, cultural, economic, and
 
 ## Key People
 - **[[Donna Haraway]]** ⭐⭐⭐ — J.D. Bernal Prize 2000, Ludwik Fleck Prize 1999
-- **[[Bruno Latour]]** ⭐⭐⭐ — Major contributor; actor-network theory
+- **[[Lucy Suchman]]** ⭐⭐⭐ — J.D. Bernal Prize 2014, President 2016–2017. The HCI-to-STS crossover figure.
+- **[[Bruno Latour]]** ⭐⭐⭐ — Major contributor; actor-network theory; Bernal Prize 2013
 - **[[Isabelle Stengers]]** ⭐⭐⭐ — Cosmopolitics; frequent presence
 - **Sheila Jasanoff** — Harvard; science/democracy; major figure
 - **Langdon Winner** — *Do Artifacts Have Politics?* — foundational
