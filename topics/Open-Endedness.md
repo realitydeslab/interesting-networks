@@ -12,7 +12,7 @@ deep_researched: true
 # Open-Endedness
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Complete intellectual history research. Field is exploding with activity—huge surge in 2025-2026 with LLM-driven evolution systems, multi-agent societies, and formal undecidability mechanisms. Added comprehensive paper collection, community analysis, and fellowship opportunities for Amber.
+- **2026-02-26:** MAJOR INDUSTRY DEVELOPMENTS discovered. Ken Stanley now "SVP of Open-Endedness" at Lila Sciences (scientific superintelligence platform). Sakana AI (David Ha + Sebastian Risi) producing cutting-edge open-endedness research including Digital Red Queen, AI Scientist, and Darwin Gödel Machine. Field transitioning from academic curiosity to industrial application for scientific discovery and self-improving AI systems.
 
 ## Domain Summary
 
@@ -68,15 +68,15 @@ This is not just about generating diversity or avoiding local optima. True open-
 ## Key People
 
 ### Foundational Figures
-- **[[Ken Stanley]]** (OpenAI) — Creator of NEAT, novelty search, and "Why Greatness Cannot Be Planned". The intellectual father of modern open-endedness research.
+- **[[Ken Stanley]]** (Lila Sciences) — **NOW: SVP of Open-Endedness at Lila Sciences** (scientific superintelligence platform). Creator of NEAT, novelty search, and "Why Greatness Cannot Be Planned". The intellectual father of modern open-endedness research.
 - **[[Joel Lehman]]** (Uber/OpenAI) — Co-inventor of novelty search. Key theorist of objective-free evolution.
 - **[[Jeff Clune]]** (UVM/OpenAI) — Deep neuroevolution, Go-Explore, and AI-Generating Algorithms (AGA).
 - **[[Tim Taylor]]** (University of York) — OEE workshops, formal definitions of open-ended evolution.
 - **[[Susan Stepney]]** (University of York) — Complex systems approach to open-endedness.
 
 ### Rising Stars & Current Leaders  
-- **[[David Ha]]** (Google/OpenAI) — LLM-driven evolution, evolutionary strategies for neural architectures.
-- **[[Sebastian Risi]]** (Copenhagen) — Hypernetworks that evolve themselves, self-referential neural networks.
+- **[[David Ha]]** (Sakana AI) — **Leading industrial open-endedness research.** Founder of Sakana AI, pursuing AI Scientist, Digital Red Queen evolution, and Darwin Gödel Machines.
+- **[[Sebastian Risi]]** (Copenhagen/Sakana AI) — **ERC Consolidator Grant for GROW-AI.** Self-assembling neural networks, hypernetworks, now Research Scientist at Sakana AI.
 - **[[Antoine Cully]]** (Imperial College) — MAP-Elites, quality diversity, robotics applications.
 - **[[Yujin Tang]]** (Salesforce) — Core War evolution with LLMs, digital ecosystem research.
 - **[[Carlos Gershenson]]** (UNAM) — Complex systems, random Boolean networks for open-endedness.
