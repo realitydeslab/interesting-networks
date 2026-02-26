@@ -8,7 +8,7 @@ social:
 added: 2026-02-26
 updated: 2026-02-26
 tags: [critical-computing, speculative-design, art-science, posthuman, cosmotechnics, sinofuturism]
-deep_researched: true
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26
