@@ -3,6 +3,7 @@ rating: ⭐⭐⭐
 affiliation: NYU / Independent artist
 added: 2026-02-26
 tags: [more-than-human, art-science, critical-computing, climate]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

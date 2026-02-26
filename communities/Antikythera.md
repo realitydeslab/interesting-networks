@@ -2,6 +2,7 @@
 url: https://antikythera.org/
 added: 2026-02-26
 tags: [speculative-design, critical-computing, alife]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

@@ -6,6 +6,7 @@ social:
   x: "@olaborobot"
 added: 2026-02-26
 tags: [alife, open-endedness, computational-creativity, social-simulation]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

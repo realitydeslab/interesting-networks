@@ -4,6 +4,7 @@ affiliation: NYU Shanghai, Interactive Media Arts
 email: sd163@nyu.edu
 added: 2026-02-26
 tags: [speculative-design, art-science, computational-creativity, posthuman]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 8
 next_research: 2026-04-23

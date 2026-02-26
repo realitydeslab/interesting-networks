@@ -2,6 +2,7 @@
 url: https://summerofprotocols.com/
 added: 2026-02-26
 tags: [critical-computing, speculative-design]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

@@ -4,6 +4,7 @@ affiliation: University of Glasgow
 website: https://www.chem.gla.ac.uk/cronin/
 added: 2026-02-26
 tags: [alife, more-than-human]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 8
 next_research: 2026-04-23

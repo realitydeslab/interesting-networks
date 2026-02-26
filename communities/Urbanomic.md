@@ -3,6 +3,7 @@ url: https://www.urbanomic.com
 rating: ⭐⭐⭐
 added: 2026-02-26
 tags: [accelerationism, speculative-design, critical-computing]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

@@ -5,6 +5,7 @@ location: Linz, Austria
 frequency: Annual (September)
 added: 2026-02-26
 tags: [art-science, computational-creativity, more-than-human]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 8
 next_research: 2026-04-23

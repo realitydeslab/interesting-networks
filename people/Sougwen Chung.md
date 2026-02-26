@@ -4,6 +4,7 @@ affiliation: Independent artist (London)
 url: https://sougwen.com/
 added: 2026-02-26
 tags: [art-science, computational-creativity, more-than-human]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

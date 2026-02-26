@@ -4,6 +4,7 @@ affiliation: Independent (prev OpenAI, Uber AI Labs)
 url: https://joellehman.com/
 added: 2026-02-26
 tags: [alife, computational-creativity, open-endedness]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

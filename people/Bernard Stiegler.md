@@ -3,6 +3,7 @@ rating: ⭐⭐⭐
 affiliation: IRI, Centre Pompidou (d. 2020)
 added: 2026-02-26
 tags: [critical-computing, posthuman]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26

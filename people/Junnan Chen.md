@@ -4,6 +4,7 @@ affiliation: NYU Shanghai, Interactive Media Arts / AI & Culture Research Center
 email: jc4561@nyu.edu
 added: 2026-02-26
 tags: [critical-computing, speculative-design, posthuman, cosmotechnics]
+deep_researched: false
 last_researched: 2026-02-26
 revisit_weeks: 8
 next_research: 2026-04-23

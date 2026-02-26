@@ -2,6 +2,7 @@
 added: 2026-02-26
 rating: ⭐⭐⭐
 tags: [more-than-human, posthuman, speculative-design]
+deep_researched: true
 last_researched: 2026-02-26
 revisit_weeks: 4
 next_research: 2026-03-26
