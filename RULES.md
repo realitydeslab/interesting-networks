@@ -138,7 +138,17 @@ ALL of them. Date, venue, city.
 ## Venue Circuit Analysis (⭐⭐⭐ only)
 What circuits do they move in? Why those venues?
 
+## For Amber
+- **Why interesting:** connection to Amber's taste
+- **Collaboration potential:** what could they work on together?
+- **Engagement paths:** specific ways to connect (events, people, submissions)
+
+## Why Interesting
+Connect to research-taste.md.
+
 ## Research Taste Analysis (⭐⭐⭐ only)
+**This section goes AFTER facts and AFTER "Why Interesting" — it's about learning from this person's meta-strategy, not describing their work.**
+
 Analyze HOW this person builds their research, not just WHAT they research.
 This section should let Amber quickly understand the meta-strategies she can learn from.
 
@@ -179,14 +189,6 @@ List the 3-7 career-defining moves with dates:
 ### What Amber Can Learn
 Not "collaboration potential" — what STRATEGIES or PATTERNS can Amber extract and adapt?
 Be specific and actionable. Multiple lessons are expected.
-
-## For Amber
-- **Why interesting:** connection to Amber's taste
-- **Collaboration potential:** what could they work on together?
-- **Engagement paths:** specific ways to connect (events, people, submissions)
-
-## Why Interesting
-Connect to research-taste.md.
 
 ## 📋 Update Log
 
