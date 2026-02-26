@@ -27,3 +27,6 @@ Art platform combining journal, announcements, exhibitions, and conversations. P
 
 ## Why Interesting
 Where the most important critical art-theory gets published. If someone publishes in e-flux, they're serious. Essential reading and submission venue.
+
+## Community Function
+Not just a platform — a community/network connecting critical art-theory practitioners globally. Co-founded by Anton Vidokle and Julieta Aranda. The mailing list and journal function as community infrastructure for the entire contemporary art world.
