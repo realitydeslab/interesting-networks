@@ -1,48 +1,41 @@
 ---
-rating: ⭐⭐
-affiliation: University of Liège & Université libre de Bruxelles
-website: https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u182264
-social:
-  x: ""
-  linkedin: ""
-born: 1959-11-12
-based: Brussels / Liège, Belgium
-added: 2026-02-26
-tags: [more-than-human, feminist, science-studies, multispecies]
-deep_researched: false
-last_researched: 2026-02-26
+rating: ⭐⭐⭐
+affiliation: Université de Liège (Belgium)
+website: https://www.uliege.be/vinciane-despret
+based: Belgium
+added: 2026-02-27
+last_researched: 2026-02-27
 revisit_weeks: 8
-next_research: 2026-04-23
+next_research: 2026-04-27
+tags: [more-than-human, posthuman, embodied, machine-behavior]
+deep_researched: false
 ---
 
 # Vinciane Despret
 
-## ⚡ Recent Updates
-- **2026-02-26:** Stub created during Isabelle Stengers deep research.
+Belgian philosopher and ethologist. Studies how animals think, how humans study animals, and how the two are entangled. Her central insight: *the questions we ask shape the animals we see*. Animals behave differently when researchers genuinely care about them vs. treat them as objects. Science as a form of relation.
 
-Belgian philosopher of science, born November 12, 1959, Brussels. Associate professor at the [University of Liège](https://www.uliege.be/) and also teaches at [ULB](https://www.ulb.be/). Considered a foundational thinker in animal studies. Works at the intersection of ethology, feminist philosophy of science, and the question of how observers and the observed relate during scientific research. Affiliates herself to [[Isabelle Stengers]], [[Donna Haraway]], and [[Bruno Latour]]. Co-authored *Les faiseuses d'histoires* (2011) with Stengers.
+Key books:
+- *What Would Animals Say If We Asked the Right Questions?* (Univ. of Minnesota Press, 2016) — translated from French by Brett Buchanan
+- *Our Grateful Dead: Stories of Those Left Behind* (Univ. of Minnesota Press, 2021)
+- *Habiter en oiseau* (Actes Sud, 2019; English: *Autobiography of a Practice*)
 
-## Domains
-- Animal studies (foundational thinker)
-- Feminist philosophy of science / ethology
-- The relationship between observers and the observed in scientific research
-- How asking the right question transforms what animals "say"
-
-## Key Works
-- *Our Emotional Makeup: Ethnopsychology and Selfhood* (Other Press, 2004)
-- *What Would Animals Say If We Asked the Right Questions?* (Minnesota, 2016)
-- *Living As A Bird* (Polity, 2022)
-- *Les faiseuses d'histoires: Que font les femmes à la pensée?* (with [[Isabelle Stengers]], La Découverte, 2011)
-
-## Key Relationships
-- [[Isabelle Stengers]] — close intellectual companion, co-author
-- [[Donna Haraway]] — part of the same "string figures" network
-- [[Bruno Latour]] — contributed to his *Making Things Public* volume
+Collaborates with: Donna Haraway (cited as key peer), Bruno Latour circle, Isabelle Stengers.
 
 ## Why Interesting
-Despret extends Stengers' ecology of practices into animal studies: her work on ethology asks how scientific encounters with animals can be reorganized to allow animals more agency in what gets known about them. Directly relevant to more-than-human design. Geographically close to Amber (Brussels/Liège, 2-3 hrs from London).
+
+Vinciane Despret is one of the most important thinkers for Amber's "more-than-human" and "agent ethology" threads. She studies *animal behavior as a form of knowledge about relations* — exactly what Amber does with AI agents. Her method: observe carefully, let the subject surprise you, acknowledge that the researcher changes the animal. This maps directly onto observing AI agents in the wild.
+
+Was visiting artist-professor at [[Le Fresnoy — Studio national des arts contemporains]] in 2024-25 (Panorama 27 cohort) — suggesting her work is understood as producing artistic knowledge, not just academic knowledge.
+
+## Key Communities
+
+- [[Le Fresnoy — Studio national des arts contemporains]] — visiting professor 2024-25
+- Science and Technology Studies (STS) community
+- Donna Haraway's extended network
 
 ## 📋 Update Log
+
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (deep-research subagent) | Stub created during Isabelle Stengers deep research. |
+| 2026-02-27 | Biber (subagent, deep-research-le-fresnoy) | Stub created. Discovered as Le Fresnoy visiting professor 2024-25 (Panorama 27). Direct relevance to Amber's more-than-human/agent ethology research. ⭐⭐⭐. |
