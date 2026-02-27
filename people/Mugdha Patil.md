@@ -1,47 +1,36 @@
 ---
 rating: ⭐⭐
-affiliation: TU Delft (PhD student)
-added: 2026-02-26
-tags: [decolonial-design, hauntology, speculative-design, ai-ethics]
-deep_researched: false
-last_researched: 2026-02-26
-revisit_weeks: 8
-next_research: 2026-04-23
+affiliation: TU Delft, Connected Everyday Lab
+website: https://www.tudelft.nl/en/staff/ms.patil/
 based: Delft, Netherlands
+added: 2026-02-27
+last_researched: 2026-02-27
+revisit_weeks: 8
+next_research: 2026-04-24
+tags: [more-than-human, decolonial-design, posthuman, speculative-design, feminist]
+deep_researched: false
 ---
 
 # Mugdha Patil
 
-PhD researcher at TU Delft working on decolonial design approaches. Co-author with [[Elisa Giaccardi]] on influential hauntological approach to decolonial design for/with AI practices.
-
-## ⚡ Recent Updates
-- **2026-02-26:** Initial discovery through Elisa Giaccardi collaboration research.
-
-## Background
-*[Research needed]*
-
-## Key Works
-- **[In conversation with ghosts: Towards a hauntological approach to decolonial design for/with AI practices](https://doi.org/10.1080/15710882.2024.2320269)** (CoDesign 2024) — with [[Elisa Giaccardi]], [[Nazli Cila]], [[Johan Redström]]
+PhD researcher at [[TU Delft Connected Everyday Lab]], supervised by [[Elisa Giaccardi]] and [[Nazli Cila]]. Works on decolonial design approaches to AI, bringing postcolonial theory (hauntology, Spivak, Derrida) into HCI and design research. Represents an emerging move to connect decolonial theory with AI design practice.
 
 ## Domains
-- Decolonial design theory and practice
-- Hauntology and speculative temporalities
-- AI ethics and decolonial perspectives
-- Socio-technological imaginaries
+- Decolonial design research
+- Hauntological approaches to AI
+- Postcolonial theory applied to design
+- More-than-human design
+
+## Key Works
+- [In conversation with ghosts: Towards a hauntological approach to decolonial design for/with AI practices](https://research.tudelft.nl/en/publications/be4a1816-1e91-412d-95fa-a4f7ddf76394) (CoDesign 2024, with Cila, Redström, Giaccardi) — applies hauntology to decolonial AI design. 183 downloads, 2 citations already.
 
 ## Key Communities
-- **[[TU Delft Connected Everyday Lab]]**
-- TU Delft Industrial Design Engineering PhD program
-
-## Key Relationships
-- **[[Elisa Giaccardi]]** — PhD supervisor/collaborator
-- **[[Nazli Cila]]** — research collaborator
-- **[[Johan Redström]]** — theoretical collaborator
+- [[TU Delft Connected Everyday Lab]]
 
 ## Why Interesting
-Emerging voice in decolonial design research. The hauntology paper represents sophisticated theoretical work challenging colonial temporalities in speculative design and AI. Worth tracking as PhD work develops.
+Rare voice connecting decolonial/postcolonial theory directly to design practice and AI. The CoDesign 2024 paper is one of very few papers doing this rigorously. Connects to Amber's global/non-Western perspective on AI design.
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (agent) | Initial discovery through Elisa Giaccardi research. Created stub note. |
+| 2026-02-27 | Biber (agent) | Stub created during TU Delft CEL deep research. |
