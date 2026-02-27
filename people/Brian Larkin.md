@@ -6,6 +6,9 @@ website: https://barnard.edu/profiles/brian-larkin
 social:
   x: ""
   linkedin: ""
+education:
+  - BA, University of Birmingham, 1987
+  - PhD (Anthropology), New York University, 1998
 based: New York, USA
 added: 2026-02-27
 last_researched: 2026-02-27
@@ -21,7 +24,9 @@ Professor of Anthropology at Barnard College / Columbia University; one of the f
 
 ## Background
 
-Larkin came to infrastructure through Nigeria. His fieldwork in Kano — northern Nigeria's major Hausa-speaking city — put him in contact with informal video piracy networks, itinerant cinema halls, colonial radio infrastructure, and Bollywood films circulating through West Africa. This empirical richness led to a theoretical realization: you can't understand media in the Global South by focusing on content. You have to look at the *infrastructure* through which media travels — the cables, projectors, tape dubbing circuits, loudspeaker systems, pirate distribution networks. Infrastructure is not neutral background; it is itself a site of meaning-making, power, and aesthetics.
+Larkin studied at the University of Birmingham (BA, 1987) before completing his PhD in Anthropology at New York University in 1998. His fieldwork was in Kano, northern Nigeria's major Hausa-speaking city.
+
+He came to infrastructure through Nigeria. His fieldwork in Kano — northern Nigeria's major Hausa-speaking city — put him in contact with informal video piracy networks, itinerant cinema halls, colonial radio infrastructure, and Bollywood films circulating through West Africa. This empirical richness led to a theoretical realization: you can't understand media in the Global South by focusing on content. You have to look at the *infrastructure* through which media travels — the cables, projectors, tape dubbing circuits, loudspeaker systems, pirate distribution networks. Infrastructure is not neutral background; it is itself a site of meaning-making, power, and aesthetics.
 
 This insight — that infrastructure has both a *politics* (it organizes power, excludes, enables) and a *poetics* (it carries aesthetic and affective charges, it promises, it symbolizes) — became his signature theoretical contribution.
 
@@ -207,4 +212,5 @@ Larkin's signature move is the **double-concept paper**: taking an object everyo
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Stub created via IKKM Weimar deep research |
-| 2026-02-27 | Biber (subagent) | Full deep research. Barnard CV scraped. All publications mapped. Collaborators identified. Stubs queued. |
+| 2026-02-27 | Biber (subagent) | Partial deep research. Education (BA Birmingham 1987, PhD NYU 1998) added. |
+| 2026-02-27 | Biber (subagent) | Full deep research. Barnard CV scraped. All publications mapped. Collaborators analyzed. Research Taste Analysis written. Stubs for Charles Hirschkind, Gabrielle Hecht, Lisa Gitelman created. |
