@@ -1,5 +1,6 @@
 ---
 rating: ⭐⭐
+<<<<<<< HEAD
 added: 2026-02-27
 last_researched: 2026-02-27
 revisit_weeks: 12
@@ -35,8 +36,49 @@ A bridge between Italian autonomism and media/communication theory. His analysis
 - [[Antonio Negri]] — fellow Potere Operaio comrade
 - Félix Guattari — worked with him in Paris exile
 - *Derive Approdi* journal — contributes to this Italian left publication
+=======
+affiliation: Independent (based in Bologna/Milan)
+website: https://www.bifo.it/
+born: 1949, Bologna, Italy
+based: Bologna/Milan, Italy
+added: 2026-02-27
+deep_researched: false
+last_researched: 2026-02-27
+revisit_weeks: 8
+next_research: 2026-04-24
+tags: [political-philosophy, autonomism, critical-computing, accelerationism]
+---
+
+# Franco Berardi (Bifo)
+
+Italian autonomist theorist, media activist, and writer. Known universally as "Bifo." Co-founder of Radio Alice (Bologna, 1976) — one of the first pirate free radio stations, a model for autonomous media. Member of Potere Operaio and Autonomia Operaia alongside [[Antonio Negri]], [[Paolo Virno]], and others. Went into exile (Paris, London, New York) after 1979. Developed the concept of the "cognitariat" (cognitive proletariat) and "semiocapitalism." Prolific writer, still active. Major voice on technology, media, and mental health in the digital age.
+
+## Domains
+- Autonomist political theory
+- Media theory and activism
+- Cognitariat / cognitive labor
+- Semiocapitalism (capitalism of signs and meanings)
+- Mental health and the digital economy
+- Accelerationism (critical variant)
+
+## Key Works
+- *The Soul at Work: From Alienation to Autonomy* (2009, Semiotext(e))
+- *Precarious Rhapsody* (2009, Minor Compositions)
+- *After the Future* (2011, AK Press)
+- *The Uprising: On Poetry and Finance* (2012, Semiotext(e))
+- *Heroes: Mass Murder and Suicide* (2015, Verso)
+- *Futurability: The Age of Impotence and the Horizon of Possibility* (2017, Verso)
+- *And Phenomenology of the End: Senility and Connectedness* (2015, Semiotext(e))
+
+## Why Interesting
+One of the key voices on the pathology of digital capitalism — attention economy, mental health, exhaustion, "infosphere." His concept of semiocapitalism (capitalism extracts value from semiotic production — signs, meanings, communications) directly addresses how social media and AI extract value. Less rigorous than Negri but more attuned to affective and psychological dimensions.
+>>>>>>> ec1ad42 (Deep research: Alexander Galloway ⭐⭐⭐)
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+<<<<<<< HEAD
 | 2026-02-27 | Biber (agent) | Stub created during Antonio Negri deep research. |
+=======
+| 2026-02-27 | Biber (deep-research subagent) | Stub created during Antonio Negri deep research. |
+>>>>>>> ec1ad42 (Deep research: Alexander Galloway ⭐⭐⭐)
