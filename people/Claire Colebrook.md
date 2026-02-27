@@ -26,6 +26,16 @@ Won the **inaugural Hugh J. Silverman Book Prize in Philosophy and Literature** 
 
 ---
 
+## ⚡ Recent Updates
+- **2026-02-27:** Full deep research. Expanded to comprehensive ⭐⭐⭐ profile. Confirmed move to Monash University (Cecile Parrish Memorial Chair). Complete bibliography, CCC/CCC2 full series maps, Research Taste Analysis, For Amber section added.
+- **2025:** Published "The Counter-Oceanic Sea" in *Angelaki* — Freud's "oceanic feeling" and Rivers Solomon's *The Deep*; feminist counter-oceanic aesthetics.
+- **2025:** *Hypatia* Vol. 40 No. 4 published interview "A Conversation on 'Ecology, Extinction, and Posthumanism' with Claire Colebrook."
+- **2024:** Moved from Penn State (Edwin Erle Sparks Professor) to Monash University (Cecile Parrish Memorial Chair of English Literature).
+- **2024:** Won **inaugural Hugh J. Silverman Book Prize in Philosophy and Literature** from the Association for Philosophy and Literature for *Who Would You Kill to Save the World?* (Nebraska, 2023).
+- **2023:** Published *Who Would You Kill to Save the World?* (University of Nebraska Press).
+
+---
+
 ## Domains
 
 - **Extinction studies** — the philosophically serious version: not grief tourism but what extinction *means* for categories like "posthumanism" and "life"
@@ -116,22 +126,43 @@ Scope: the Anthropocene not as political messaging but as ontological event; add
 
 Advisory board: [[Rosi Braidotti]] (Utrecht), Eduardo Cadava (Princeton), Timothy Clark (Durham), Carrie Hritz, J. Hillis Miller (UC Irvine), [[Timothy Morton]] (UC Davis), Jami Weinstein (Linköping), Min Zhou, Richard Doyle
 
-Key titles in the series:
-- *Death of the PostHuman* — Colebrook
-- *Sex After Life* — Colebrook  
-- *Twilight of the Anthropocene Idols* — Cohen, Colebrook, Miller
-- *Minimal Ethics for the Anthropocene* — [[Joanna Zylinska]]
-- *In Catastrophic Times* — [[Isabelle Stengers]]
-- *Art in the Anthropocene* — Davis & Turpin
-- *The Chernobyl Herbarium* — Marder & Tondeur
+Full title list ([openhumanitiespress.org/books/series/critical-climate-change/](https://openhumanitiespress.org/books/series/critical-climate-change/)):
+- [*Architecture in the Anthropocene*](https://openhumanitiespress.org/books/titles/architecture-in-the-anthropocene/) — Etienne Turpin (ed.) — FREE OA
+- [*Art in the Anthropocene*](https://openhumanitiespress.org/books/titles/art-in-the-anthropocene/) — Heather Davis & Etienne Turpin (eds.) — FREE OA
+- *Capital at the Brink* — Jeffrey R. Di Leo & Uppinder Mehan
+- [*Death of the PostHuman*](https://openhumanitiespress.org/books/titles/death-of-the-posthuman/) — **Colebrook** — FREE OA ← start here
+- *Deterritorializing the Future* — Rodney Harrison & Colin Sterling
+- *Immersion Into Noise* — Joseph Nechvatal
+- *Impasses of the Post-Global* — Henry Sussman
+- [*In Catastrophic Times*](https://openhumanitiespress.org/books/titles/in-catastrophic-times/) — **[[Isabelle Stengers]]** — FREE OA
+- [*Minimal Ethics for the Anthropocene*](https://openhumanitiespress.org/books/titles/minimal-ethics-for-the-anthropocene/) — **[[Joanna Zylinska]]** — FREE OA
+- *Occupy* — Andrew Conio
+- *Practicing Relativism in the Anthropocene* — Barbara Herrnstein Smith
+- [*Sex After Life*](https://openhumanitiespress.org/books/titles/sex-after-life/) — **Colebrook** — FREE OA ← read with Vol. 1
+- *Stolen Future, Broken Present* — David A. Collings
+- [*Telemorphosis*](https://openhumanitiespress.org/books/titles/telemorphosis/) — ed. Tom Cohen — essays by J. Hillis Miller, Bernard Stiegler, Timothy Clark, Colebrook, Zylinska, Malabou, Cadava — FREE OA
+- *Terror, Theory and the Humanities* — Jeffrey R. Di Leo & Uppinder Mehan
+- [*The Chernobyl Herbarium*](https://openhumanitiespress.org/books/titles/the-chernobyl-herbarium/) — Michael Marder & Anaïs Tondeur
+- *The Philosophical Salon* — Michael Marder & Patricia Vieira
+- [*Twilight of the Anthropocene Idols*](https://openhumanitiespress.org/books/titles/twilight-of-the-anthropocene-idols/) — **Cohen, Colebrook & Miller** — FREE OA
 
 ### [[Open Humanities Press]] — CCC2 Irreversibility
 **Co-editor with [[Tom Cohen]]**  
-The "second phase" after Critical Climate Change — premise: we are now in managed extinction, the speculative window of Anthropocene talk has closed. Sub-series: *The Nethercene: Ecocide and Inscription*.
+The "second phase" after Critical Climate Change — premise: we are now in managed extinction, the speculative window of Anthropocene talk has closed. Welcome to the Trumpocene: managed extinction events, financially engineered species splits, digital mnemotechnics as pacification. Sub-series: *The Nethercene: Ecocide and Inscription* (AI as competing "singularity" against ecological collapse).
 
-Advisory board includes [[Yuk Hui]] (Leuphana), Nick Mirzoeff (NYU), Daniel Ross
+Advisory board: [[Yuk Hui]] (Leuphana), Sigi Jöttkandt (UNSW), Nick Mirzoeff (NYU), Daniel Ross (Ars Industrialis), Arun Saldana (Minnesota), Jared Sexton (UC Irvine), Oxana Timofeeva (European University at St Petersburg), Stephanie Wakefield (The New School)
 
-Key titles: *The Neganthropocene* — [[Bernard Stiegler]]; *Hyposubjects* — [[Timothy Morton]] & Dominic Boyer; *Anthropocene Back Loop* — Stephanie Wakefield; *Nanjing Lectures* — Stiegler
+Full title list ([openhumanitiespress.org/books/series/ccc2-irreversibility/](https://openhumanitiespress.org/books/series/ccc2-irreversibility/)):
+- *Anthropocene Back Loop* — Stephanie Wakefield
+- [*Bifurcate: There Is No Alternative*](https://openhumanitiespress.org/books/titles/bifurcate/) — **[[Bernard Stiegler]]** & the Internation Collective — FREE OA; final call for economic bifurcation
+- *Ecocide and Inscription vol. 1 Black Ops* — Tom Cohen
+- *Exology* — Martin Savransky
+- [*hyposubjects: On Becoming Human*](https://openhumanitiespress.org/books/titles/hyposubjects/) — **[[Timothy Morton]]** & Dominic Boyer — FREE OA; what is ecological subjectivity below the human?
+- [*Nanjing Lectures (2016-2019)*](https://openhumanitiespress.org/books/titles/nanjing-lectures/) — **[[Bernard Stiegler]]** — FREE OA
+- *Psychopolitical Anaphylaxis* — Daniel Ross
+- *The Nabokov Effect* — Sigi Jöttkandt
+- [*The Neganthropocene*](https://openhumanitiespress.org/books/titles/the-neganthropocene/) — **[[Bernard Stiegler]]** — FREE OA; his political ecology; Derrida + Simondon
+- *The Rubble of Culture* — David A. Collings
 
 ### Columbia University Press — Critical Life Studies
 **Co-editor with Jami Weinstein & Myra Hird**  
@@ -177,10 +208,22 @@ Examines the boundaries and significance of life in natural sciences, humanities
 
 **Publishers:** Edinburgh University Press (multiple), Routledge (multiple), Bloomsbury/Continuum (multiple), Manchester University Press, Allen & Unwin, University of Nebraska Press, Columbia University Press, Polity Press, Open Humanities Press (3 titles free OA)
 
-**Key journals:**
-- *Hypatia* — leading feminist philosophy journal; interview published 2025
-- *New Literary History* — literary theory, historicism
-- Chapters in major edited collections across Deleuze studies, queer theory, posthumanism
+**Key journals (publishing her work):**
+- [*Angelaki: Journal of Theoretical Humanities*](https://www.tandfonline.com/toc/cang20/current) — continental philosophy, Routledge; her primary experimental theory venue; "The Counter-Oceanic Sea" (2025) among recent pieces
+- *Hypatia* — feminist philosophy; interview on ecology/extinction (2025)
+- *New Literary History* — literary theory and historicism
+- *New Formations* — cultural theory
+- *Thesis Eleven* — critical theory
+- *Theory & Event* — political theory (Johns Hopkins)
+- *Deleuze and Guattari Studies* — Edinburgh UP; her Deleuze scholarship venue
+- *Textual Practice* — literary theory
+- *Oxford Literary Review* — deconstruction tradition
+- *Journal of Bioethical Inquiry* — bioethics + extinction thinking
+- *Contemporary Political Theory* — political theory
+- *19: Interdisciplinary Studies in the Long Nineteenth Century* — Victorian studies / Anthropocene
+- *Philosophia* — feminist philosophy (special issue: Anthropocene Feminisms)
+- *philoSOPHIA: A Journal of Continental Feminism*
+- Chapters in major edited collections across Deleuze studies, queer theory, posthumanism, extinction studies
 
 **Fellowships/Visiting:** Huntington Library (2007), Free University Berlin (2010), Goldsmiths (2008) — British-German-US triangle before eventual US base
 
@@ -211,8 +254,59 @@ Colebrook represents the rigorous, uncomfortable wing of posthumanism — the on
 
 ---
 
+## For Amber
+
+1. **🌍 Theoretical foundation for more-than-human design** — Colebrook is the rigorous philosophical edge of posthumanism. Most more-than-human design in the art/HCI world trends warm and affirmative (more stakeholders, more inclusion, expanded circles of care). Colebrook provides the necessary dark mirror: what is the logical limit of this move? If we genuinely de-center the human, who is left to do the designing? This is not nihilism but philosophical precision. Essential background for any serious more-than-human design practice.
+
+2. **📚 Learning from their path** — *Platform building as primary career move*: the CCC series is her most important intellectual contribution — more than any single book. By co-editing with Tom Cohen (who brings de Manian deconstruction to bear), she created infrastructure that *shaped a field* (climate/extinction humanities) rather than just writing within it. For Amber: if she wants to shape a field (critical computing, more-than-human design), building a platform (series, journal, reading group, edited volume) matters as much as publishing individual papers.
+
+3. **💡 The "extension by inversion" intellectual strategy** — She took Deleuzian vitalism (affirm life!) and pushed it to its own logical limit (what if affirming life entails confronting its extinction?). This is more powerful than critique or affirmation — it finds the point where a tradition undermines itself and thinks from there. For Amber: what is the limit-case of critical computing? Of more-than-human design? Where does the tradition undermine itself?
+
+4. **🔧 OHP publishing model** — Her OHP books (*Death of the PostHuman*, *Sex After Life*, *Twilight of the Anthropocene Idols*) are **FREE**. This is a publishing strategy and a political statement simultaneously. The short-form monograph (150-200 pages) is itself a format choice. For Amber thinking about publishing: OHP and punctum books are alternatives to ACM/IEEE that reach art world, humanities scholars, design theorists — a completely different readership.
+
+5. **🤝 Potential publishing path** — The CCC2 series accepts submissions. If Amber develops work at the intersection of AI/computing and extinction, or critical computing and the Anthropocene: this is a natural publication home. Contact: ccolebrook@me.com. The series runs the full gamut from philosophy to art theory to speculative writing.
+
+6. **👋 Collaboration potential** — Now at Monash, Melbourne. The Critical Life Studies series at Columbia UP (*Posthumous Life* model) publishes edited volumes at this intersection. If Amber ever organizes a workshop/symposium on more-than-human computing, Colebrook is a potential keynote.
+
+7. **🎯 Read these NOW (all free):**
+   - [*Death of the PostHuman*](https://openhumanitiespress.org/books/titles/death-of-the-posthuman/) — start here; the foundational text
+   - [*Sex After Life*](https://openhumanitiespress.org/books/titles/sex-after-life/) — the sequel; queer theory and extinction
+   - [*Twilight of the Anthropocene Idols*](https://openhumanitiespress.org/books/titles/twilight-of-the-anthropocene-idols/) — the tripartite political argument with Cohen & Miller
+   - *Who Would You Kill to Save the World?* (Nebraska, 2023) — buy this; most accessible, most political
+
+---
+
+## Research Taste Analysis
+
+### What Makes Her Career Distinctive
+
+**The uncomfortable position**: Colebrook consistently occupies the role of critical interruptor in posthumanist discourse. When everyone moves toward affirmation (make kin, multispecies solidarity, agential matter), she asks: whose affirmation? When a new theory (OOO, new materialism, speculative realism) claims to exit anthropocentrism, she asks: did it actually exit, or did it reproduce the same normative logic in new vocabulary? This is intellectually costly — it means constant opposition to the dominant move in your field — but it's also what makes her indispensable.
+
+**De Manian thread throughout**: The irony and close reading approach isn't incidental to her climate work. De Man's central claim — that all texts have a constitutive blindness, that the performative and constative dimensions of language never align — is her primary theoretical tool from 1999 through 2023. She is the most consistent de Manian in contemporary humanities, which makes her work unusual in an era when de Man has been largely abandoned.
+
+**Platform building before field consolidation**: The CCC series launched in 2011-2012, when "climate humanities" was barely a term. Colebrook and Cohen built the series before the field existed in its current form. This is the right moment to build platforms — before the field becomes institutionalized and competitive. For Amber: the analogous window for "critical AI art" or "more-than-human computing" may be right now.
+
+**The race-theory integration (late career)**: *Who Would You Kill to Save the World?* (2023) integrates anti-Blackness and colonial critique into extinction studies. This is not "add diversity and stir" but a philosophical claim: the concept of "humanity worth saving" has always been racialized. The integration happens at the level of philosophical argument, not political gesture. This is the move that keeps her relevant as extinction studies risks becoming a white-dominated field.
+
+### Career Architecture Lessons
+
+1. **Name a problem before it has a name**: "Extinction studies" as a field she co-constituted, not just worked in
+2. **Trilogy structure**: The Cohen-Colebrook-Miller books create cross-institutional legitimacy and are harder to dismiss than solo work
+3. **Free OA at the right moment**: Publishing *Death of the PostHuman* and *Sex After Life* on OHP (free) when these were unusual choices meant they became widely cited quickly
+4. **Named chair to named chair**: Edwin Erle Sparks (Penn State) → Cecile Parrish (Monash) — the named chair track; sustained scholarly focus over decades is rewarded
+
+### For Critical Computing / AI Context
+
+Colebrook's framework is directly applicable to AI criticism:
+- **"Not Now" argument**: The Anthropogenic change happening now is not on a timescale that symbiosis-thinking, slow co-evolution thinking, or "AI for the good" can address. The urgency is different. Analogously: AI development is not on a timescale that allows for gradual accommodation.
+- **Who "saves the world" in AI discourse?**: The postapocalyptic cinema critique maps directly onto AI safety discourse — "saving humanity from AI" assumes a version of humanity already encoded as worth saving (wealthy, Western, technologically literate). Extinction thinking meets AI safety.
+- **Deconstruction of "alignment"**: The de Manian method applied to AI alignment discourse would ask: what does alignment *occlude*? What is the performative dimension of the alignment claim? What must it not say in order to say what it says?
+
+---
+
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-27 | Biber (deep-research subagent) | Stub created via Open Humanities Press deep research |
-| 2026-02-27 | Biber (deep-research subagent) | Full deep research completed. Wikipedia, OHP author bios, Cambridge Press search, Columbia UP, Hypatia, Penn State news all consulted. Major update: moved to Monash University. Hugh J. Silverman Book Prize 2023 confirmed. Full publication list, awards, collaborator network documented. |
+| 2026-02-27 | Biber (deep-research subagent) | Full deep research completed (first pass). Wikipedia, OHP author bios, Columbia UP, Hypatia, Penn State news all consulted. Major update: moved to Monash University. Hugh J. Silverman Book Prize 2023 confirmed. Full publication list, awards, collaborator network documented. |
+| 2026-02-27 | Biber (deep-research subagent) | Second pass: Added ⚡ Recent Updates, complete CCC/CCC2 full title lists (18+10 titles), expanded venue journal list, For Amber section, Research Taste Analysis. Final comprehensive profile. New stubs: Heather Davis, Etienne Turpin, Michael Marder (adds to earlier Tom Cohen, J. Hillis Miller, Jami Weinstein stubs). |
