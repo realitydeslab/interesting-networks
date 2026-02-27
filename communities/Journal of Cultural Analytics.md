@@ -1,43 +1,37 @@
 ---
-url: https://culturalanalytics.org
 rating: ⭐⭐
-based: online (peer-reviewed journal)
-frequency: ongoing
-added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 16
-next_research: 2026-06-25
-tags: [cultural-analytics, computational-creativity, critical-computing, digital-humanities]
+type: journal
+url: https://culturalanalytics.org/
+based: online (open access)
+added: 2026-02-27
+last_researched: 2026-02-27
+revisit_weeks: 12
+next_research: 2026-05-27
+tags: [cultural-analytics, computational-humanities, digital-humanities, open-access, publishing]
 deep_researched: false
 ---
 
 # Journal of Cultural Analytics
 
-Peer-reviewed academic journal at the intersection of humanities, social sciences, and computer science. Founded **2016** by [[Lev Manovich]] and colleagues. Primary publication venue for the cultural analytics field.
-
-> "Publishing peer-reviewed articles that combine computational insight and grounding in a particular humanistic field... The articles we are most interested in will craft thought-provoking and original arguments about how culture works at significantly larger scales than traditional research."
-
-## Topics
-- Computational analysis of cultural data
-- Literature, film, art, music analyzed at scale
-- Digital humanities methods
-- Cultural analytics methodology
-- Intersection of humanistic interpretation + computational methods
-
-## Notable Papers by Manovich
-- "The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics" (2016, Vol. 1, Issue 1) — 307 citations
-
-## Submission Guidelines
-- Open access journal
-- Combines computational insight + humanistic grounding
-- Seeks original arguments about culture at large scales
-- Values theoretical sophistication AND methodological innovation
-- Also requires contribution to new knowledge and diverse perspectives
+The flagship open-access journal for the field of Cultural Data Analytics / Computational Humanities. Publishes quantitative and computational approaches to cultural questions — covering literature, film, art, music, media, and history.
 
 ## Why Interesting
-This is the **canonical peer-reviewed venue for computational creativity / cultural analytics research**. If Amber wants to publish quantitative or computational work about art and culture (e.g., analyzing City of Sparkles reception, machine aesthetics studies), this is the primary target. Manovich founded it; there's natural alignment between the journal's scope and Amber's AI art + computational creativity work.
+Primary publication venue for [[CUDAN Open Lab]] and the broader cultural analytics community. High-quality peer review with rigorous methodology expectations. Open access with data/code requirements — aligned with open science principles. Would be a natural venue for Amber's work if it involves computational analysis of cultural or behavioral data.
+
+## Key Publications
+- CUDAN's Soviet newsreel analysis
+- Compression ensembles for aesthetic complexity (Karjus et al.)
+- Film festival circuit networks (Zemaityte et al.)
+
+## Connected
+- [[CUDAN Open Lab]]
+- [[Cultural Analytics Lab]] (Lev Manovich)
+- [[Lev Manovich]]
+
+## For Amber
+Potential publication venue for computational work on agent behavior, cultural dynamics, or network analysis of art/design communities.
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Stub created from Lev Manovich deep research. |
+| 2026-02-27 | Biber (subagent) | Stub created via CUDAN deep research |
