@@ -6,7 +6,7 @@ social:
   # Need to find social media handles
 born: 1978
 education:
-  - China Academy of Art (formerly Zhejiang Academy of Fine Arts), Hangzhou
+  - BFA, Guangzhou Academy of Fine Arts, 2001
 based: Beijing, China
 added: 2026-02-26
 tags: [art-science, speculative-design, chinese-digital-art, more-than-human, virtual-worlds]
@@ -25,7 +25,7 @@ Multi-media artist and filmmaker exploring the intersection of virtuality, techn
 
 ## Background
 
-Born in Guangzhou in 1978, Cao Fei emerged during China's period of rapid economic transformation. Studied at the China Academy of Art (formerly Zhejiang Academy of Fine Arts) in Hangzhou, where she worked under [[Zhang Peili]] — considered the father of Chinese video art and maker of China's first video artwork "30x30" (1988). Currently based in Beijing, where she has conducted extensive research in the Jiuxianqiao ('Hong Xia') district where she lives and works.
+Born in Guangzhou in 1978, Cao Fei emerged during China's period of rapid economic transformation. Studied at the **[Guangzhou Academy of Fine Arts](https://www.gzarts.edu.cn/)**, receiving her BFA in 2001. (Note: She studied in Guangzhou, not at the China Academy of Art in Hangzhou — a common misconception. However, she belongs to the generation profoundly shaped by [[Zhang Peili]]'s pioneering Chinese video art, and her career traces directly from that milieu.) Currently based in Beijing, where she has conducted extensive research in the Jiuxianqiao ('Hong Xia') district where she lives and works.
 
 Her sister Cao Xiaoyun was also an artist who immigrated to Sydney, Australia before her death two years ago — an experience that deeply influences Cao Fei's current work examining migration, identity, and cultural displacement.
 
@@ -94,14 +94,14 @@ Her sister Cao Xiaoyun was also an artist who immigrated to Sydney, Australia be
 
 - **[[Vitamin Creative Space]]** — Beijing gallery, early representation and ongoing support
 - **[[Sprüth Magers]]** — Major international gallery representation
-- **[[China Academy of Art]]** — Alumni network, studied under Zhang Peili
+- **[Guangzhou Academy of Fine Arts](https://www.gzarts.edu.cn/)** — Alma mater (BFA 2001)
 - **[[Acute Art]]** — VR/AR art production company, collaboration on "The Eternal Wave"
 - **Chinese contemporary art scene** — Pioneer generation of digital/new media artists
 - **[[Serpentine Galleries]]** — Recurring institutional relationship (2006, 2008, 2020)
 
 ## Key Relationships & Collaborators
 
-- **[[Zhang Peili]]** ⭐⭐⭐ — Teacher at China Academy of Art. Father of Chinese video art, made first Chinese video artwork "30x30" (1988). Dean of New Media Department. Critical influence on Cao Fei's artistic formation.
+- **[[Zhang Peili]]** ⭐⭐⭐ — Not her teacher directly (she studied in Guangzhou), but the founding figure of Chinese video art whose work profoundly shaped her artistic context. Father of Chinese video art, made first Chinese video artwork "30x30" (1988). Dean of New Media Department at [[China Academy of Art]]. Critical generational influence.
 - **[[Lu Yang]]** ⭐⭐ — Peer in Chinese new media art scene
 - **Cao Xiaoyun** — Sister, also an artist who immigrated to Sydney and died two years ago. Her experience as immigrant deeply influences Cao Fei's current work.
 - **Hans Ulrich Obrist** — Artistic Director at Serpentine, curated "Blueprints" exhibition
