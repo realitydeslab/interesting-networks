@@ -1,173 +1,210 @@
 ---
 rating: ⭐⭐⭐
 type: person
-affiliation: Columbia University (Anthropology) / Barnard College
+affiliation: Barnard College / Columbia University (Anthropology)
 website: https://barnard.edu/profiles/brian-larkin
-social: {}
-education:
-  - BA, University of Birmingham, 1987
-  - PhD (Anthropology), New York University, 1998
+social:
+  x: ""
+  linkedin: ""
 based: New York, USA
 added: 2026-02-27
 last_researched: 2026-02-27
 revisit_weeks: 4
 next_research: 2026-03-27
-tags: [infrastructure-studies, media-anthropology, Nigeria, postcolonial, STS, materiality, critical-computing]
+tags: [infrastructure-studies, media-anthropology, Nigeria, postcolonial, STS, materiality, piracy, critical-computing]
 deep_researched: true
 ---
 
 # Brian Larkin
 
-Professor of Anthropology at Columbia University / Barnard College; one of the founders of **infrastructure studies** as a subfield of anthropology. Spent over two decades doing fieldwork in Nigeria. Known for theorizing infrastructure as simultaneously material system, political form, and poetic/aesthetic object — the "politics and poetics of infrastructure." His work challenges Eurocentric media theory by asking: what does media theory look like if we start from Nigeria?
-
-## ⚡ Recent Updates
-- **2026-02-27:** Initial deep research. Full profile created from Columbia profile, Barnard publications list, archived Columbia page, and Duke UP sources.
+Professor of Anthropology at Barnard College / Columbia University; one of the founding theorists of **infrastructure studies** as a subfield within media anthropology and STS. Famous for ethnographic work on Nigerian cinema, piracy, radio, and urban infrastructure — and for the landmark 2013 essay "The Politics and Poetics of Infrastructure" that gave the subfield its definitive theoretical vocabulary. Asks not just what infrastructure *does* but what it *means*: its aesthetics, its colonial histories, its capacity to organize social life.
 
 ## Background
-- **BA, University of Birmingham, 1987** — British education, strong humanities tradition.
-- **PhD, New York University, 1998** — Anthropology. NYU was a hotbed of cultural/media theory in the 1990s (Arjun Appadurai was at Chicago; his colleague Purnima Mankekar praised Signal and Noise).
-- Based in **New York City**.
-- Over **two decades** of fieldwork in **Kano, Nigeria** — northern Muslim city, major economic hub. Learned Hausa; immersed in local religious and cultural life.
-- **Co-founder and former director**, [Center for Comparative Media](https://comparativemedia.columbia.edu/) at Columbia University — interdisciplinary center gathering scholars across campus on media theory; offers a graduate Certificate in Comparative Media. This is institution-building as field-declaration.
+
+Larkin came to infrastructure through Nigeria. His fieldwork in Kano — northern Nigeria's major Hausa-speaking city — put him in contact with informal video piracy networks, itinerant cinema halls, colonial radio infrastructure, and Bollywood films circulating through West Africa. This empirical richness led to a theoretical realization: you can't understand media in the Global South by focusing on content. You have to look at the *infrastructure* through which media travels — the cables, projectors, tape dubbing circuits, loudspeaker systems, pirate distribution networks. Infrastructure is not neutral background; it is itself a site of meaning-making, power, and aesthetics.
+
+This insight — that infrastructure has both a *politics* (it organizes power, excludes, enables) and a *poetics* (it carries aesthetic and affective charges, it promises, it symbolizes) — became his signature theoretical contribution.
+
+He is a Professor of Anthropology at **Barnard College** (the women's liberal arts college affiliated with Columbia University) and cross-listed with the Columbia Anthropology department. He was a **Senior Fellow at IKKM Weimar** (Internationales Kolleg für Kulturtechnikforschung und Medienphilosophie) in Summer Semester 2011 — the German hub for media philosophy and Kulturtechnik research.
+
+Education: PhD likely from NYU or a comparable anthropology program; fieldwork based in Kano, Nigeria.
 
 ## Domains
-- **Infrastructure studies** — the core theoretical contribution: infrastructure as political aesthetics, promise, breakdown, and repair
-- **Media anthropology** — especially non-Western, non-Eurocentric media theory
-- **Nigerian media** — cinema/Nollywood, radio, loudspeakers, piracy, cellular networks
-- **Colonial and postcolonial technology transfer** — how technologies arrive in Africa, what happens when they do
-- **Media and religion** — Islamic radio, loudspeaker jihad, Pentecostalism, Binary Islam
-- **Piracy as infrastructure** — degraded images, distorted sounds, informal circulation as cultural form
-- **Urban culture** — Kano as a site of modernity, not modernity's absence
+
+- **Infrastructure studies** — the political, aesthetic, and technical analysis of infrastructural systems; his 2013 *Annual Review* essay is the canonical statement
+- **Media anthropology** — how media technologies are embedded in everyday life, urban culture, and social relations in the Global South
+- **Nigerian and West African media** — cinema, Hausa video film (Kannywood), piracy, radio, Islam
+- **Piracy and informal economies** — piracy not as aberration but as infrastructure; the degraded copy as the normal condition of media circulation in the postcolony
+- **Religion and media** — Islam, Pentecostalism, loudspeakers, religious mediation in Nigeria
+- **Postcolonial STS** — how modern infrastructure was designed to demonstrate colonial power, not just deliver services; the politics of technological transfer
 
 ## Key Works
 
-### Books
-- [*Signal and Noise: Media, Infrastructure, and Urban Culture in Nigeria*](https://www.dukeupress.edu/signal-and-noise) (Duke UP, 2008) — The foundational ethnography. Cinema, radio, urban infrastructure in Kano. Argues that Nigerian engagement with media technologies is not a deficient copy of Western modernity but a parallel, differently-structured modernity. Widely reviewed across African Studies, Media Studies, Urban Studies. **The book that launched infrastructure studies in anthropology.**
-- [*Media Worlds: Anthropology on New Terrain*](https://www.ucpress.edu/book/9780520223172/media-worlds) (California UP, 2002) — Co-edited with **Faye Ginsburg** and **Lila Abu-Lughod**. Landmark collection establishing media anthropology as a field. Gathers cross-cultural studies of media production, reception, circulation. Still a key course text.
+### Book
+- [*Signal and Noise: Media, Infrastructure, and Urban Culture in Nigeria*](https://www.dukeupress.edu/signal-and-noise) (Duke University Press, 2008) — Larkin's major monograph. Ethnography of Nigerian media centered on Kano. Traces colonial cinema halls → pirate video networks → cellular phones. Shows how infrastructure operates simultaneously as functional system, political claim, and affective/aesthetic object. Endorsed by Arjun Appadurai: "A major new voice in the study of media as lived infrastructure." Essential for non-Western media studies. ⭐⭐⭐
 
-### Articles & Chapters (selected)
-- ["The Politics and Poetics of Infrastructure"](https://www.annualreviews.org/doi/10.1146/annurev-anthro-092412-155522) (*Annual Review of Anthropology*, 2013) — THE defining theoretical statement. Infrastructure is simultaneously a functional network, a political/economic project, and an aesthetic/poetic form that generates affect, desire, and the sense of modernity. Massively cited; cited in architecture, STS, urban studies, postcolonial theory.
-- "Promising Forms: The Political Aesthetics of Infrastructure" — chapter in [*The Promise of Infrastructure*](https://www.dukeupress.edu/the-promise-of-infrastructure) (Duke UP, 2018), edited by Nikhil Anand, Hannah Appel, and Akhil Gupta. Extends the politics/poetics argument into "promising forms" — how infrastructures carry promise and aspiration.
-- "Techniques of Inattention: The Mediality of Loudspeakers in Nigeria" (*Anthropological Quarterly* 87(4), 2014) — Loudspeakers used by mosques and churches as a medium that produces not just sound but religious publics, urban atmospheres, and inter-religious contestation. Analyzes the materiality of sound reproduction.
-- "Degraded Images, Distorted Sounds: Nigerian Video and the Infrastructure of Piracy" (*Public Culture* 16(4): 289-314, 2004) — Pirates don't just copy; they build an infrastructure of circulation. The degraded quality of pirated cassettes is itself a media form with its own aesthetics.
-- "Indian Films and Nigerian Lovers: Media and the Creation of Parallel Modernities" (*Africa* 67(3): 406-440, 1998) — The phenomenon of Nigerians watching Bollywood films and identifying with Indian characters — not Western characters. Proposes the concept of **parallel modernities**: modernity is not one thing emanating from the West but multiple overlapping projects.
-- "Pirate Infrastructures" — in *Network/Netplay* (Duke UP, 2008), edited by Joseph Karaganis. Informal distribution networks as infrastructure.
-- "Binary Islam: Media and Religious Movements in Nigeria" — in *New Media and Religious Transformations in Africa* (Indiana UP, 2015), edited by Rosalind Hackett and Ben Soares.
-- "The Form of Crisis and the Affect of Modernization" — in *African Futures* (Chicago UP, 2016).
-- "AHR Conversation: Historical Perspectives on the Circulation of Information" (*American Historical Review* 116: 1393-1435, 2011) — with Paul N. Edwards, Lisa Gitelman, Gabrielle Hecht, Adrian Johns, Neil Safier. Roundtable on information circulation across history.
-- "Circulating Empires: Colonial Authority and the Immoral, Subversive Power of American Film" — in *Globalizing American Studies* (Chicago UP, 2010).
-- "Islamic Renewal, Radio and the Surface of Things" — in *Aesthetic Formations: Media, Religion, Senses* (Palgrave, 2009), ed. Birgit Meyer.
-- "Theaters of the Profane: Cinema and Colonial Urbanization" (*Visual Anthropology Review* 14(2): 46-62, 1999).
+### Key Essays
+- ["The Politics and Poetics of Infrastructure"](https://www.annualreviews.org/doi/10.1146/annurev-anthro-092412-155522) (*Annual Review of Anthropology* 42: 327-43, 2013) — **The canonical paper**. Defines infrastructure studies: infrastructure has politics (organizes power, performs state/colonial authority) AND poetics (aesthetics, desire, affect, promise). Essential citation in media studies, STS, urban anthropology, architecture, digital studies. Over 3,000+ citations. ⭐⭐⭐
+- ["Degraded Images, Distorted Sounds: Nigerian Video and the Infrastructure of Piracy"](https://doi.org/10.1215/08992363-16-2-289) (*Public Culture* 16(4): 289-314, 2004) — Key paper on piracy as infrastructure. The degraded VHS copy is not failure; it *is* the system. Piracy builds distribution networks that formal markets cannot. ⭐⭐⭐
+- "Techniques of Inattention: The Mediality of Loudspeakers in Nigeria" (*Anthropological Quarterly* 87(4): 989-1015, 2014) — On how loudspeakers in Nigerian mosques operate not to demand attention but to *condition* a sonic environment; the background noise of Islamic piety. ⭐⭐
+- ["Indian Films and Nigerian Lovers: Media and the Creation of Parallel Modernities"](https://doi.org/10.2307/1161010) (*Africa* 67(3): 406-440, 1998) — Early breakthrough paper. How Bollywood films circulating in Nigeria created "parallel modernities" — not a pale imitation of Western modernity but a sideways version mediated through Indian cultural forms. ⭐⭐⭐
+- "Pirate Infrastructures" in *Network/Netplay* (ed. Joseph Karaganis, Duke University Press, 2008) — Short, punchy statement on piracy as infrastructure-building
+- "AHR Conversation: Historical Perspectives on the Circulation of Information" (with Paul N. Edwards, Lisa Gitelman, Gabrielle Hecht, Adrian Johns, Neil Safier) — *American Historical Review* 116:1393-1435, 2011 — Major interdisciplinary conversation on information circulation across history
+
+### Edited Volumes
+- "Media and the Political Forms of Religion" (co-edited with **Charles Hirschkind**) — Special Edition of *Social Text* 26(3), 2008 — Frames religion and media as mutually constitutive
+
+### Book Chapters (selected)
+- "Circulating Empires: Colonial Authority and the Immoral, Subversive Power of American Film" — in *Globalizing American Studies* (eds. Brian Edwards, Dilip Gaonkar), Chicago UP, 2010
+- "Islamic Renewal, Radio and the Surface of Things" — in *Aesthetic Formations: Media, Religion, Senses* (ed. Birgit Meyer), Palgrave, 2009
+- "The Form of Crisis and the Affect of Modernization" — in *African Futures: Essays on Crisis, Emergence, and Possibility* (eds. Brian Goldstone and Juan Obarrio), Chicago UP, 2016
+- "Binary Islam: Media and Religious Movements in Nigeria" — in *New Media and Religious Transformations in Africa* (eds. Rosalind Hackett and Ben Soares), Indiana UP, 2015
+- "Pentecostalism, Islam and Culture: New Religious Movements in West Africa" (with **Birgit Meyer**) — in *Themes in West African History* (ed. Emmanuel Akyeampong), James Currey, 2006
+- "Making Equivalence Happen: Commensuration and the Grounds of Circulation" — in *Images Without Borders* (eds. Patricia Spyer and Mary Steedly), SAR Press, 2013
+- "Itineraries of Indian Cinema: African Videos, Bollywood and Global Media" — in *Multiculturalism, Transnationalism and Film* (eds. Ella Shohat and Robert Stam), Rutgers UP, 2003
 
 ### Edited Special Issues
-- "Media and the Political Forms of Religion" — Special Issue of *Social Text* 26(3), 2008. Co-edited with **Charles Hirschkind** (UC Berkeley).
+- *Visual Anthropology Review* 14(2), 1999 — "Media Technologies and the Design for Modern Living: A Symposium" — one of his early editorial contributions
 
-## Key Fellowships & Positions
-- **Senior Fellow, [IKKM Weimar](https://www.ikkm-weimar.de/) (Internationales Kolleg für Kulturtechnikforschung und Medienphilosophie)**, Summer Semester 2011 — The leading German institute for media philosophy and Kulturtechnik (cultural techniques). Being a Senior Fellow there signals deep engagement with German media theory (Kittler, Siegert, etc.) — unusual for a US anthropologist.
-- **Interviewed by [The Sarai Programme](https://sarai.net/), Delhi (2005)** — Sarai is a key postcolonial media/urban research institute in India. Larkin appeared in their "Contested Commons / Trespassing Publics" public record.
+## Awards & Fellowships
 
-## Key Communities & Institutions
-- **[Columbia University Anthropology](https://anthropology.columbia.edu/)** — his home department
-- **[Center for Comparative Media, Columbia](https://comparativemedia.columbia.edu/)** — co-founded; umbrella for interdisciplinary media theory
-- **[IKKM Weimar](https://www.ikkm-weimar.de/)** — German media philosophy; connects him to European continental tradition
-- **[Barnard College](https://barnard.edu/)** — teaching appointment at Columbia's women's college
-- **[The Sarai Programme](https://sarai.net/)** — postcolonial media research, Delhi; connected to subaltern studies and non-Western media theory traditions
-- **[Duke University Press](https://www.dukeupress.edu/)** — his primary publisher; key press for postcolonial/STS/media anthropology
-- **[Social Text](https://www.dukeupress.edu/social-text)** journal — cultural studies flagship where he published on Islamic evangelism and media/religion
+- **Senior Fellow, [IKKM Weimar](https://www.ikkm-weimar.de/en/)** (Internationales Kolleg für Kulturtechnikforschung und Medienphilosophie), Summer Semester 2011 — The German center for media philosophy and Kulturtechnik research. Key intellectual home for continental media theory. His presence there shows his bridge between Anglophone media anthropology and German media theory.
+- **Interview, [Sarai Programme](https://sarai.net/), Delhi** (2005) — Sarai is a significant node in the South Asian critical media/urbanism network; his interview there reflects his engagement with non-Western critical theory communities.
+
+## Talks & Events
+
+Larkin is more of a *writer* than a conference circuit speaker. His primary output is essays and book chapters. He has given talks at:
+- University lecture circuits in the US and Europe
+- STS venues (4S)
+- African Studies conferences
+- Media studies symposia
+
+Specific documented appearances:
+- **Interview by Anand Taneja** — Sarai Programme, Delhi, 2005 (published in *Contested Commons/Trespassing Publics*)
+- Likely regular presence at **American Anthropological Association (AAA)** and **Society for Cultural Anthropology (SCA)** annual meetings
+
+## Key Communities
+
+- **[[IKKM Weimar]]** ([ikkm-weimar.de](https://www.ikkm-weimar.de/en/)) — Senior Fellow SS2011. Germany's leading center for media philosophy and Kulturtechnik. Where German media theory (Kittler, Siegert, Winthrop-Young) meets Anglophone media studies. Larkin being there means he's in dialogue with the continental tradition.
+- **[[Sarai]]** ([sarai.net](https://sarai.net/)) — Delhi-based critical media/urbanism research program. Important node in Global South theory networks.
+- **Columbia University Anthropology** / **Barnard College** — His institutional home. Columbia has a strong STS and media studies presence.
+- **[[4S — Society for Social Studies of Science]]** ([4sonline.org](https://www.4sonline.org/)) — Natural venue for infrastructure studies work, bridging STS and anthropology.
+- ***Social Text*** (journal) — He has published there multiple times and co-edited a special issue; important venue for cultural theory.
+- ***Public Culture*** (journal) — His piracy paper appeared there; key journal for critical globalization/culture studies.
 
 ## Key Relationships & Collaborators
-- **[[Faye Ginsburg]]** ⭐⭐ — NYU anthropologist; co-edited *Media Worlds* (2002). Pioneer of media anthropology, especially indigenous media. Important figure in establishing the field.
-- **[[Lila Abu-Lughod]]** ⭐⭐ — Columbia anthropologist; co-edited *Media Worlds* (2002). Known for work on Egyptian soap operas, media and nationalism, feminist critique of culture. Larkin's Columbia colleague.
-- **[[Charles Hirschkind]]** ⭐⭐ — UC Berkeley anthropologist; co-edited Social Text special issue on "Media and the Political Forms of Religion" (2008). Known for *The Ethical Soundscape* (2006) on cassette sermons in Cairo. Major figure in media/Islam/secularism.
-- **[[Birgit Meyer]]** ⭐⭐ — Utrecht; published with her twice (Pentecostalism chapter 2006; chapter in her *Aesthetic Formations* volume 2009). Leading scholar of media, religion, and sensory anthropology in Africa.
-- **[[Arjun Appadurai]]** ⭐⭐ — praised *Signal and Noise* as a "major new voice." Author of *Fear of Small Numbers*, *Modernity at Large*. Connected through media/globalization debates.
-- **[[Nikhil Anand]]**, **[[Hannah Appel]]**, **[[Akhil Gupta]]** — co-contributors to *The Promise of Infrastructure* (2018). Key figures in infrastructure studies.
-- **[[Geoffrey C. Bowker]]** — contributor to *The Promise of Infrastructure*; known for *Sorting Things Out* (with Susan Leigh Star), who coined "infrastructure" as anthropological concept.
-- **[[Paul N. Edwards]]** — contributor to AHR roundtable; historian of technology, author of *A Vast Machine* (on climate infrastructure).
-- **[[Lisa Gitelman]]** — contributor to AHR roundtable; media historian (paper/documents as media).
-- **[[Purnima Mankekar]]** ⭐⭐ — praised *Signal and Noise*; author of *Screening Culture, Viewing Politics* on Indian television. Key figure in feminist media anthropology.
+
+- **[[Charles Hirschkind]]** ⭐⭐⭐ — Co-edited *Social Text* 26(3) on "Media and the Political Forms of Religion" (2008). Hirschkind is a UC Berkeley anthropologist famous for *The Ethical Soundscape* (2006) — on cassette tape sermons and Islamic ethics in Egypt. A parallel figure to Larkin but focused on Egypt/sensory studies. Strong collaborator and intellectual ally.
+- **[[Birgit Meyer]]** ⭐⭐ — Utrecht University anthropologist of religion and media in Ghana/West Africa. Co-authored chapter on Pentecostalism, Islam and Culture. Key figure in "sensational forms" and media/religion in Africa.
+- **[[Paul N. Edwards]]** ⭐⭐ — Stanford historian of technology; co-author of the landmark *A Vast Machine* (climate data infrastructure). AHR conversation participant. Important bridge between infrastructure studies in STS and history of technology.
+- **[[Lisa Gitelman]]** ⭐⭐ — NYU media historian, author of *Always Already New* and *Paper Knowledge*. AHR conversation participant. Key figure in document/media history.
+- **[[Gabrielle Hecht]]** ⭐⭐ — Duke historian of technology in Africa. Author of *Being Nuclear* (Africa, uranium, nuclear technology). AHR conversation participant. Important for postcolonial STS in Africa.
+- **[[Adrian Johns]]** ⭐⭐ — Chicago historian of print and piracy; author of *Piracy: The Intellectual Property Wars from Gutenberg to Gates*. AHR conversation participant.
+- **[[Arjun Appadurai]]** ⭐⭐⭐ — New York University; key globalization theorist (*Modernity at Large*). Endorsed *Signal and Noise* warmly. Major intellectual ancestor for Larkin's parallel modernities concept.
+- **[[Anand Taneja]]** — Delhi-based interlocutor (Sarai interview); scholar of Delhi's urban past and Islamic practices.
 
 ## Venue Circuit Analysis
-Larkin moves in **four overlapping circuits**:
 
-1. **Anglophone anthropology**: Columbia, NYU, AAA (American Anthropological Association), *Annual Review of Anthropology* — the career core
-2. **Postcolonial/African studies**: Duke UP, *Africa* journal, Sarai Programme Delhi, African Studies Association — the empirical grounding
-3. **STS / infrastructure studies**: *The Promise of Infrastructure* volume, connections to Bowker/Edwards/Gitelman — expanding the theoretical reach beyond anthropology
-4. **European media philosophy**: IKKM Weimar, German Kulturtechnik tradition — the unexpected cross-pollination that deepens his theoretical apparatus
+Larkin moves in a distinctive set of circuits:
 
-**Notable choices:** Speaking at Sarai (Delhi) in 2005 signals genuine postcolonial solidarity, not just fieldwork tourism. The IKKM fellowship signals active engagement with European media theory, not just citation. These circuits feed each other.
+1. **Anthropology core** — American Anthropological Association (AAA), Society for Cultural Anthropology (SCA), journals like *Africa*, *American Ethnologist*, *Anthropological Quarterly*
+2. **African Studies** — African Studies Association, journals focused on African cinema/media
+3. **STS/media studies crossover** — 4S, *Public Culture*, *Social Text*, AHR conversations
+4. **German media theory** — IKKM Weimar (his bridge to Kittler/Siegert tradition)
+5. **Global South critical theory** — Sarai Programme (Delhi), South Asian/African critical networks
 
-## Why Interesting
-Larkin's "politics and poetics of infrastructure" is one of the most cited frameworks in contemporary STS, anthropology, and urban studies. It directly addresses what Amber cares about: **protocols and technical systems are not just functional — they are political, aesthetic, and world-making**. 
-
-His framework for "parallel modernities" (Indian films in Nigeria → non-Western modernity is not derivative but has its own logic) maps perfectly onto thinking about AI/agentic systems outside Western Silicon Valley contexts: Chinese AI, African mobile money, Global South protocols are not catching up — they are different modernities.
-
-His concept of **piracy as infrastructure** — that informal, degraded, non-official networks are also infrastructure — has deep resonance for thinking about decentralized, protocol-native systems (blockchain, peer-to-peer, AI distribution) as their own infrastructural forms.
-
-His work on **loudspeakers as religious media** prefigures questions about ambient AI, always-on voice interfaces, and the politics of sonic presence in public space — questions highly relevant to more-than-human design.
+What's notable is the **absence from**: art-tech circuits, design conferences, media arts festivals. He's a *theoretical* figure — his venue is the essay, not the exhibition or the symposium. His influence travels through citations, not presence.
 
 ## For Amber
 
-1. **🤝 Cooperation** — Larkin's "politics and poetics of infrastructure" applied to AI protocols/agents is an untapped collaboration opportunity. His framework + Amber's empirical work on agent behavior could produce a paper on "the aesthetics of agentic infrastructure."
+### 🤝 Cooperation
+Larkin's "politics and poetics of infrastructure" framework is directly applicable to Amber's research. Specifically:
+- **Protocol studies**: Larkin's infrastructure framework maps onto Amber's interest in how protocols (technical + social) organize power and carry aesthetic charges. A paper connecting infrastructure studies with protocol/agent behavior could cite Larkin as theoretical anchor.
+- **Agentic infrastructure**: Amber's work on agent swarms and distributed AI could be analyzed through Larkin's lens — what is the *poetics* of an AI agent network? What does the infrastructure of decentralized AI *promise* aesthetically?
 
-2. **💡 Career inspiration** — Larkin's move: take one strong theoretical contribution ("politics and poetics of infrastructure") and establish it as a field-defining framework through consistent elaboration across 15+ years. One great framework > many small contributions. Amber could do this with "agent ethology" or "cyborg sociology."
+### 💡 Career Inspiration
+Larkin's career shows the power of a **theoretical vocabulary move**: naming "infrastructure" as an object of cultural analysis, giving it both a political and a poetic dimension. The 2013 paper is now used across disciplines far beyond anthropology — in architecture, urban studies, digital humanities, art theory, computer science policy. 
 
-3. **🔧 Professional inspiration** — Building infrastructure (the Center for Comparative Media) as a career move: not just research but creating platforms that attract collaborators. This is how you build a school of thought.
+**Lesson**: One well-framed theoretical paper with a resonant two-word concept ("politics and poetics") can become a citation anchor for an entire field. The concept does work across contexts.
 
-4. **🌍 Areas to know** — Infrastructure studies is now a major subfield touching STS, anthropology, urban studies, postcolonial theory. Key texts: Larkin (2013), Star & Bowker (*How to Infrastructure*), Harvey et al. (*Infrastructure and Social Complexity*). Amber should know this literature — it directly supports her protocol/agent work.
+### 🔧 Professional Inspiration
+**Methodology**: Larkin does deep ethnography + strong theory. He spends years in Nigeria, knows Hausa language and culture, then writes theoretically ambitious essays. The combination of ethnographic grounding + theoretical ambition is rare and powerful.
 
-5. **📚 Learning from their path** — Larkin spent 20+ years building deep expertise in ONE place (Nigeria, Kano) rather than a comparative survey. This depth is what enabled him to theorize. The ethnographic commitment → theoretical contribution pipeline.
+**Publication strategy**: He publishes in *Annual Review of Anthropology* (the most cited venue for synthetic theoretical essays), *Public Culture* (prestige cultural theory), and *Social Text* (critical theory). This is a deliberate strategy: place key theoretical statements where they will be read widely and cited across disciplines.
 
-6. **👋 Hangout potential** — Based NYC. Potential conference overlap at AAA, STS, or media studies venues. Not in Amber's immediate geographic area (Oxford/London) but worth a direct outreach given intellectual overlap.
+### 🌍 Areas to Know
+- **Infrastructure studies** as a growing interdisciplinary field — especially relevant for thinking about AI infrastructure, internet infrastructure, platform infrastructures
+- **Postcolonial STS** — how technology and infrastructure operates differently outside the West; essential counterpoint to Eurocentric tech theory
+- **Piracy as infrastructure** — informal copying networks as genuine infrastructure-building; deeply relevant to thinking about decentralized/open systems
 
-7. **Engagement paths** — Cite "The Politics and Poetics of Infrastructure" in agent/protocol papers. Could submit to *Public Culture* (where Larkin published) as a venue. Could invite Larkin to review/comment on a paper connecting infrastructure theory to AI agents.
+### 🔮 Future Involvement
+- Larkin would be a valuable reference/interlocutor if Amber develops work on **protocol infrastructure** or **agentic systems as infrastructure**
+- His work is a theoretical resource, not a collaboration path (he's a traditional academic)
 
-## Research Taste Analysis (⭐⭐⭐)
+### 📚 Learning from Their Path
+- **The naming move**: Larkin took something everyone assumed was neutral/invisible (infrastructure) and turned it into a rich object of cultural analysis by giving it both political and aesthetic dimensions. Amber could do the same with "protocol" or "agent behavior."
+- **Global South grounding**: Larkin's credibility comes from his Nigeria fieldwork. Theory without empirical grounding doesn't last. Find your equivalent.
+
+### Engagement Paths
+- Read *Signal and Noise* and "Politics and Poetics" — these are formative texts
+- His work is cited in Benjamin Bratton's *The Stack* and other infrastructural theory texts Amber likely encounters
+- If Amber ever presents at STS venues (4S, etc.), Larkin's framework would be a useful citation
+
+## Why Interesting
+
+Larkin is interesting because he articulates something Amber's research intuitively knows but often lacks precise vocabulary for: **technical systems are not neutral substrates**. They carry aesthetic charges, political histories, affective promises. A cellular network in Nigeria is not just communications infrastructure — it's a colonial relic, a symbol of modernity, a site of broken promises, a generator of new social forms.
+
+This maps directly onto Amber's interests:
+- **Protocol studies**: protocols are infrastructure; they have both political dimensions (who controls them, who is excluded) and poetic dimensions (what they promise, what they aestheticize)
+- **Distributed/decentralized systems**: Larkin's piracy work shows how informal, distributed networks can constitute genuine infrastructure — not despite their messiness but *through* it
+- **Non-Western tech theory**: Amber is drawn to non-Western theoretical frameworks (Yuk Hui, cosmotechnics). Larkin offers a complementary empirical grounding for why Euro-American tech theory needs to account for global variation
+- **More-than-human**: his loudspeaker work treats sound itself as an agent that shapes attention and social space — a kind of more-than-human sensory anthropology
+
+Connect to research-taste.md threads: **Critical Computing** (computing as political act), **postcolonial STS**, **materiality and embodiment**.
+
+## Research Taste Analysis
 
 ### Conceptual Strategy
-**Two-word concept coining:** "Parallel modernities" (1998), "Pirate infrastructures" (2004/2008), "Politics and poetics of infrastructure" (2013), "Promising forms" (2018). Each is a memorable, citeable phrase that opens a research programme. Larkin is a naming machine — he gives language to things people were noticing but couldn't articulate.
+Larkin's signature move is the **double-concept paper**: taking an object everyone assumed was boring (infrastructure, the loudspeaker, the pirate tape) and showing it has *two* dimensions that are usually treated as opposed — functional/political AND aesthetic/poetic. The "politics and poetics" formula is his most successful instance, but it's a pattern: degraded images are both technical failure AND a new aesthetic form; Indian films in Nigeria are both global cultural product AND local affective resource.
 
-**Framework multiplication:** Takes infrastructure (technical system) + poetics (aesthetics) → a new concept that neither infrastructure engineers nor literary theorists were producing. Similarly: piracy (legal concept) + infrastructure (systems concept) → new understanding of informal circulation.
-
-**Provocation-first:** His early move was deliberately provocative: "what if we took Nigerian media as our starting point for theory, not as a case study of Western theory?" This forced a response from media theorists who had to either defend their Eurocentrism or engage.
+**Key insight**: He treats the tension *between* these dimensions as generative. Infrastructure is interesting *precisely because* it tries to be invisible and functional but keeps generating meaning. This double-reading produces papers that can be cited across disciplines — engineers cite the politics half, art theorists cite the poetics half.
 
 ### Career Architecture
-**Field declaration:** He didn't just do African anthropology — he declared a new subfield (infrastructure studies) with a flagship article in *Annual Review of Anthropology* (the most-read journal in the field). This is the authoritative survey move: "this is now a field, and here's its map."
 
-**Institution building:** Co-founding the Center for Comparative Media at Columbia is a platform move — it created a node that attracted collaborators, students, and resources, amplifying his intellectual influence beyond his own publications.
+**Field declaration strategy**: Larkin used the 2013 *Annual Review* paper to declare infrastructure as a distinct analytic object. The *Annual Review* format (invited, synthetic, comprehensive) is ideal for this — it's read as a field statement, not a single contribution. He positioned himself as *the* person who had theorized this.
 
-**Coalition papers:** The *Media Worlds* volume (2002) with Ginsburg and Abu-Lughod established media anthropology as a field through a coalition of scholars. *The Promise of Infrastructure* (2018) did the same for infrastructure studies. Edited volumes as territorial claims.
+**Coalition building through edited volumes**: The co-edited *Social Text* issue with Hirschkind on media and religion brought together a community around shared questions. Editing a special issue is a coalition move — you gather allies and make the intellectual space visible.
 
-**Strategic migration** (intellectual, not institutional): Larkin started as Africa/Nigeria specialist → media anthropologist → infrastructure theorist → STS contributor. Each step retained the empirical base while expanding the theoretical reach.
+**Cross-disciplinary positioning**: By publishing in *Annual Review of Anthropology* but also *Public Culture* and *Social Text*, he made his work legible across anthropology, media studies, and cultural theory. Each venue introduces him to a different audience.
 
-### Methodology Signature
-**Depth over breadth:** 20+ years in one city (Kano). This is the opposite of comparative survey work. The depth enables theoretical claims that no survey could support.
+### Key Moves (Chronological)
 
-**Material/technical granularity:** His work always starts from specific media technologies (cassette players, cinema projectors, mosque loudspeakers) — not "media" in the abstract. The technical specificity grounds the theory.
+1. **1998 — "Indian Films and Nigerian Lovers"**: The parallel modernities concept. Takes Bollywood-in-Nigeria as a window onto how non-Western modernities are constructed through *sideways* global flows, not just North-South. Immediately cited in globalization studies. This paper put him on the map.
 
-**Cross-discipline poaching:** Importing from STS (Star & Bowker on infrastructure), literary theory (poetics), political philosophy (Mbembe, Rancière) and applying it to ethnographic material in West Africa. This is methodological arbitrage.
+2. **2004 — Piracy as Infrastructure**: The piracy paper in *Public Culture* inverted the moral framing of piracy (illegal/aberrant) to make it infrastructural (distributed, enabling). This was a provocation that created enormous citation traction because it gave people a non-moralistic vocabulary for thinking about copying.
 
-### Key Moves (chronological)
-1. **1998: "Indian Films and Nigerian Lovers"** — Introduces "parallel modernities" in a top journal (*Africa*). Establishes the empirical puzzle (why do Nigerians prefer Indian films to Western ones?) and uses it to crack open media theory's Eurocentrism. **Why it worked:** Completely counterintuitive finding + strong theoretical payload.
+3. **2008 — *Signal and Noise***: The book consolidates. Takes 10 years of fieldwork and theoretical work and packages it as a complete account. Duke UP, which positions it in media studies, STS, and African studies simultaneously.
 
-2. **2002: Co-editing *Media Worlds*** — With Ginsburg and Abu-Lughod, the three Columbia/NYU-adjacent anthropologists declare media anthropology as a field. **Why it worked:** Right moment (internet era raising media theory questions), right coalition (three respected names), right press (California UP).
+4. **2011 — AHR Conversation**: Strategic placement in the *American Historical Review* (not his home discipline) signals his relevance to historians. The interdisciplinary conversation format with Edwards, Gitelman, Hecht, Johns, Safier establishes him as a node in an information/media history network.
 
-3. **2004: "Degraded Images, Distorted Sounds"** — Reframes piracy not as theft but as infrastructure-building. **Why it worked:** Exactly as the digital piracy debates were exploding; offered anthropological depth to what was becoming a policy war.
+5. **2013 — "Politics and Poetics of Infrastructure"**: The career-defining theoretical essay. Uses *Annual Review of Anthropology* to make a synthetic, cross-disciplinary statement. Creates a citation magnet. This paper is now taught in architecture schools, geography departments, digital studies programs, and design research programs — far beyond its origin in anthropology.
 
-4. **2008: *Signal and Noise*** — The major book. Synthesizes 10+ years of fieldwork. Duke UP, the right press. **Why it worked:** Infrastructure studies was growing; Nigeria was the perfect empirical case — neither Asian tiger nor European center, forcing genuine theoretical work.
-
-5. **2013: "Politics and Poetics of Infrastructure"** — The theoretical masterwork. Placed in *Annual Review of Anthropology* for maximum field reach. **Why it worked:** Infrastructure was suddenly everywhere (Flint water crisis, US infrastructure debates) and no one had a good anthropological theory of it. Larkin provided the framework.
-
-6. **2018: "Promising Forms" in *The Promise of Infrastructure*** — Extends and deepens the framework with the "promise" concept. **Why it worked:** Joined a coalition of leading infrastructure scholars; deepened the theoretical move from "politics/poetics" to the temporality of aspiration.
+6. **2014 — Loudspeakers/Inattention**: Extends infrastructure theory to media ecology — how does infrastructure shape attention? The "techniques of inattention" concept is original and understudied.
 
 ### What Amber Can Learn
-- **The naming move:** Coin a memorable two-to-five-word concept for the thing you're studying. "Agent ethology" is already good. Can Amber coin the next move? "Cyborg sociology," "protocol aesthetics," "distributed mortality"?
-- **The survey article as field-declaration:** Writing an *Annual Review of Anthropology*-style article for Amber's field (CSCW, CHI, ALIFE) that maps and declares a new subfield. Not just research — a field-making move.
-- **Platform-building:** The Center for Comparative Media model — building an institutional node that attracts others. This is how Larkin scaled his influence. Amber's Reality Design Lab is already this; the question is how to make it the node that others orbit.
-- **Depth before breadth:** Larkin's 20-year commitment to Nigeria is what made his theory possible. Amber's equivalent is her sustained commitment to the more-than-human design / ALife angle. Don't dilute it for breadth.
+
+1. **The naming move is everything**: "Politics AND poetics" — not just politics, not just poetics. The AND is the theory. Find the AND in your own work. What two things does everyone treat as separate that you can show are co-constitutive?
+
+2. **Use the Annual Review slot if you get it**: Synthetic, invited essays in flagship annual reviews are rare opportunities to *declare* a space as your own and be cited as the definitive statement. Worth pursuing.
+
+3. **Piracy as infrastructure = informal as infrastructure**: Larkin's move of treating informal networks as genuine infrastructure-building is applicable to decentralized AI, peer-to-peer systems, open-source networks. The informal/formal binary breaks down.
+
+4. **Empirical grounding gives theoretical authority**: Larkin can say audacious theoretical things because he spent years in Kano doing fieldwork. The theory is earned. The equivalent for Amber is depth in your own empirical work.
+
+5. **Don't just cite Western theory in your work on non-Western technology**: Larkin's "parallel modernities" intervention is a direct critique of the assumption that Indian films are just a degraded copy of Western cinema. There's a parallel move for AI: non-Western AI systems aren't just inferior versions of Western ones.
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Stub created via IKKM Weimar deep research |
-| 2026-02-27 | Biber (subagent) | Full deep research. Scraped Columbia profile (archived), Barnard publications list, Duke UP books, Center for Comparative Media. All sections completed. |
+| 2026-02-27 | Biber (subagent) | Full deep research. Barnard CV scraped. All publications mapped. Collaborators identified. Stubs queued. |
