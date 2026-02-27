@@ -1,52 +1,60 @@
 ---
 rating: ⭐⭐
-url: https://epokhe.world/
-added: 2026-02-26
-last_researched: 2026-02-26
+url: https://epokhe.world
+added: 2026-02-27
+last_researched: 2026-02-27
 revisit_weeks: 8
-next_research: 2026-04-23
-tags: [philosophy-of-technology, ecological-technique, french-philosophy]
+next_research: 2026-04-24
+tags: [philosophy-of-technology, french-philosophy, contributive-economy, critical-computing, technics, pharmacology]
 deep_researched: false
 ---
 
 # Association Épokhè
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Created stub during [[Bernard Stiegler]] research. Continues [[Ars Industrialis]] legacy after Stiegler's death (2020).
+- **2026-02-27:** Created stub during [[Ars Industrialis]] deep research.
 
-Formerly AAGT, Ars Industrialis. French philosophical-political association continuing [[Bernard Stiegler]]'s work on "ecology of technique." Created after Stiegler's death to continue his institutional legacy.
+Successor organization to [[Ars Industrialis]] (formerly AAGT, Ars Industrialis). Founded after Bernard Stiegler's death (August 2020) to continue his pharmacological and contributive economy program. Active French association working on philosophical and political analysis of technology, ecology, care, and knowledge.
 
 ## Mission & Objectives
-Work on conditions for societal bifurcation. Create intergenerational dialogue space at intersection of research and social mobilizations. Build articulations between knowledge, practices, and citizen engagement.
+"Work on the conditions of a bifurcation of our society's trajectory and the foundations that make it possible." Creates intergenerational dialogue space between research and social movements. Continues Stiegler's *pharmacological* and *contributive economy* frameworks.
+
+Research themes:
+- Économie politique et écologie (Political economy and ecology)
+- Soin et intergénérationnel (Care and intergenerational)
+- Entropie et sciences (Entropy and sciences)
+- Individuation et contribution
+- Numérique et savoirs (Digital and knowledge)
 
 ## Key People
-Connected to [[Bernard Stiegler]] network and legacy.
+- **Caroline Stiegler** — continues from Ars Industrialis founding
+- **Michel Blanchut** — Pharmakon seminar work
+- **Victor Chaix** — Pharmakon hypertexte editions
 
 ## Key Publications & Output
-- Regular publications on [Mediapart blog](https://blogs.mediapart.fr/association-epokhe/blog)
-- Maintains [Pharmakon seminars archive](https://pharmakon.epokhe.world/)
-- Enhanced editions of Stiegler's seminar transcriptions
+- Mediapart blog: [blogs.mediapart.fr/association-epokhe](https://blogs.mediapart.fr/association-epokhe/blog)
+- Pharmakon seminar archives: [pharmakon.epokhe.world](https://pharmakon.epokhe.world)
+- Pharmakon hypertexte editions: [pharmakon.epokhe.world/seminaire-hypertexte](https://pharmakon.epokhe.world/seminaire-hypertexte/index.html)
+- Video archives at MSH Paris Nord: [video.mshparisnord.fr/c/pharmakon](https://video.mshparisnord.fr/c/pharmakon/videos)
 
 ## Events & Programmes
-- Continues Pharmakon philosophy seminars
-- Maintains Stiegler's archive and digital presence
-- Contributive economy research and experimentation
+- Ongoing seminars and research groups
+- Membership open: [helloasso.com/associations/epokhe](https://www.helloasso.com/associations/epokhe/adhesions/adhesion-2024)
 
 ## Connected Institutions
-- [[Ars Industrialis]] — predecessor organization (2005-2020)
-- [[Institut de recherche et d'innovation]] — research collaboration
-- [[Collectif Internation]] — research partnership
-- MSH Paris-Nord — seminar partnership
+- [[Ars Industrialis]] — predecessor
+- [[IRI (Institut de recherche et d'innovation)]] — historical research arm
+- Maison des Sciences de l'Homme Paris Nord — archive host
 
 ## For Amber
-- **Why interesting:** Direct continuation of Stiegler's philosophical-political work
-- **How can Amber engage:** Through philosophical seminars, research collaboration
-- **Who might like Amber:** Stiegler scholars, philosophy of technology researchers
+- Living continuation of Stiegler's program — most direct access to this intellectual community
+- Mediapart blog is the most active output channel to follow
+- Pharmacology/exorganology frameworks directly relevant to Amber's work on AI agents
 
 ## Why Interesting
-Institutional continuation of [[Bernard Stiegler]]'s work on technology, philosophy, and political transformation. Bridge between [[Ars Industrialis]] legacy and contemporary ecological-technical thinking.
+Keeps Stieglerian philosophy of technology alive and politically engaged post-2020. The only active organization working at the intersection of French philosophy of technics and practical political alternatives (contributive economy).
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Created stub during Bernard Stiegler research. Needs full research. |
+| 2026-02-27 | Biber (subagent) | Created stub during Ars Industrialis deep research. |
