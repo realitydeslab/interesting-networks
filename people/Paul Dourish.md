@@ -1,39 +1,26 @@
 ---
-rating: ⭐⭐
-affiliation: UC Irvine, Donald Bren School of Information & Computer Sciences
-website: https://www.dourish.com/
-social:
-  x: ""
-  linkedin: ""
-based: Irvine, California, USA
-added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 8
-next_research: 2026-04-23
-tags: [HCI, embodied, critical-computing, design-research, anthropology]
+rating: ⭐⭐⭐
+added: 2026-02-27
+last_researched: 2026-02-27
+revisit_weeks: 12
+next_research: 2026-05-22
+tags: [embodied, hci, phenomenology, critical-computing, foundational]
 deep_researched: false
+affiliation: UC Irvine, Donald Bren School of ICS
+based: Irvine, CA, USA
 ---
 
 # Paul Dourish
 
 ## ⚡ Recent Updates
-- **2026-02-26:** Stub created. Discovered as core panelist at [[Halfway to the Future]] 2024 (reflecting on *Where the Action Is*).
+- **2026-02-27:** Stub created during TEI Community deep research.
 
-Chancellor's Professor of Informatics at UC Irvine. Author of *Where the Action Is: The Foundations of Embodied Interaction* (2001, MIT Press) — one of the most-cited books in HCI. His work brings philosophy of mind, anthropology, and STS to bear on computing and interaction design.
+Chancellor's Professor at UC Irvine. Author of ***[Where the Action Is: The Foundations of Embodied Interaction](https://mitpress.mit.edu/9780262541787/)*** (MIT Press, 2004) — the foundational text of the TEI intellectual tradition. Bridges phenomenology (Heidegger, Merleau-Ponty, Wittgenstein) into computing research. Also works on critical computing, ubiquitous computing, and the politics of computing infrastructure. More recently: ethnomethodology, algorithmic accountability.
 
 ## Why Interesting
-*Where the Action Is* is the foundational text for embodied HCI — it grounded Merleau-Ponty's phenomenology in concrete design practice. His later work on "what we talk about when we talk about location" and computing infrastructure/entanglement connects to Amber's more-than-human and cosmotechnics threads. At HTTF 2024 he was invited to reflect on this landmark work 23 years on — a recognition of canonical status.
-
-## Key Works
-- [*Where the Action Is: The Foundations of Embodied Interaction*](https://mitpress.mit.edu/9780262541787/) (2001, MIT Press) — canonical text connecting phenomenology to HCI
-- [*Divining a Digital Future: Mess and Mythology in Ubiquitous Computing*](https://mitpress.mit.edu/9780262015554/) (2011, MIT Press, with Genevieve Bell)
-- *The Stuff of Bits: An Essay on the Materialities of Information* (2017)
-
-## Key Communities
-- [[Halfway to the Future]] — core panelist 2024
-- ACM CHI, ACM CSCW — long-time senior figure
+"Where the Action Is" is probably THE most-cited book in the TEI community. Reading it is essential for Amber to participate in TEI conversations. Dourish's move from phenomenological HCI toward critical computing (algorithmic accountability, surveillance) mirrors Amber's trajectory from embodied XR toward agent ethics and more-than-human design. His intellectual arc is a useful compass.
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (agent) | Stub created via HTTF 2024 research. |
+| 2026-02-27 | Biber (agent) | Created stub during TEI Community deep research. |
