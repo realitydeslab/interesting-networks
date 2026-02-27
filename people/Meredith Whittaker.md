@@ -1,43 +1,60 @@
 ---
-rating: ⭐⭐
-affiliation: Signal Foundation / AI Now Institute
-website: https://signal.org
+rating: ⭐⭐⭐
+affiliation: Signal Foundation (President)
+website: https://signal.org/
 social:
   x: "@mer__edith"
-based: New York
-added: 2026-02-26
-tags: [AI-governance, tech-organizing, privacy]
+added: 2026-02-27
+last_researched: 2026-02-27
+revisit_weeks: 4
+next_research: 2026-03-27
+tags: [critical-computing, AI, surveillance, labor, technology-policy, feminist, nonprofit, privacy]
 deep_researched: false
-last_researched: 2026-02-26
-revisit_weeks: 8
-next_research: 2026-04-23
+based: New York / San Francisco
 ---
 
 # Meredith Whittaker
 
-## ⚡ Recent Updates
-- **2026-02-26:** Initial note created during Kate Crawford deep research. AI Now co-founder and Signal Foundation president.
+President of Signal Foundation. Co-founder of the [[AI Now Institute]] (with Kate Crawford). Former Google researcher who organized the Google Walkout (2018). One of the most important critical voices on AI, surveillance, power, and labor in the tech industry. Participated in [[Rhizome]]'s Seven on Seven (2016, paired with artist Ingrid Burrington).
 
-President of Signal Foundation. Co-founder and current president of AI Now Institute. Former Google researcher who became prominent in tech worker organizing and AI governance.
+## ⚡ Recent Updates
+- **2026-02-27:** Stub created from Rhizome deep research.
+- **2024:** Continues as Signal Foundation President; vocal on AI regulation, surveillance capitalism.
+
+## Domains
+- Critical AI policy and critique
+- Surveillance and privacy
+- Technology labor and worker power
+- Feminist technology studies
 
 ## Background
-Former Google researcher who co-founded AI Now Institute with **[[Kate Crawford]]** in 2017. Left Google and moved to become president of Signal Foundation, the nonprofit behind the Signal messaging app.
+- Long career at Google (Google Research, Google Open Source Research)
+- Co-founded AI Now Institute with Kate Crawford at NYU — studying social implications of AI
+- Co-organized Google Walkout (November 2018) — 20,000+ Google employees globally walked out over sexual harassment handling and retaliation policies. Major labor action in tech.
+- Left Google following walkout retaliation
+- Became President of Signal Foundation — encrypted messaging app Signal
+- Seven on Seven 2016: paired with Ingrid Burrington (artist, infrastructure researcher) — outcome explored tech and power
+
+## Key Ideas
+- AI is not neutral — it encodes power, reflects who built it and for whom
+- Surveillance capitalism critique: tech companies profit from monitoring and prediction
+- Worker organizing in tech is possible and necessary
+- Privacy as a political and feminist issue
 
 ## Key Communities
-- **[[AI Now Institute]]** — Co-founder and president
-- **Signal Foundation** — President
-- **Tech worker organizing movement** — Prominent figure
+- [[AI Now Institute]] — co-founder with Kate Crawford
+- [[Rhizome]] — Seven on Seven 2016
+- Signal Foundation — President
+- Google (former; now critical voice about)
 
 ## Key Relationships
-- **[[Kate Crawford]]** ⭐⭐⭐ — AI Now co-founder
-- Tech worker organizing networks
-- Privacy and surveillance research community
+- Kate Crawford — AI Now co-founder; collaborator on critical AI research
+- Ingrid Burrington — Seven on Seven partner (2016)
 
 ## Why Interesting
-Bridges tech industry insider knowledge with critical AI research and activism. Signal position gives her unique platform for privacy advocacy. AI Now Institute has become leading voice in AI policy and governance.
+Whittaker is the clearest example of the "critical tech" voice that Amber's research taste gravitates toward. Her trajectory — insider (Google) to organizer (Walkout) to institution builder (AI Now) to critical infrastructure operator (Signal) — is a model for how technical expertise and political critique can coexist. Directly relevant to Amber's work on AI systems and power: Whittaker has spent years building the conceptual and organizational tools to challenge AI's claims to neutrality. That she participated in Seven on Seven (a Rhizome event) shows how art/tech intersections can generate critical voices, not just products. Needs full deep research.
 
 ## 📋 Update Log
-
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (agent) | Initial stub created. Needs research on Signal work, tech organizing history, and AI governance positions. |
+| 2026-02-27 | Biber (subagent) | Stub created from Rhizome deep research. ⭐⭐⭐ — needs full deep research. |
