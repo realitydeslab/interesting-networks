@@ -2,11 +2,11 @@
 
 > Auto-generated database of all notes. Works with Obsidian's native Properties and search.
 
-**Stats:** 137 notes | 12 deep-researched | 68 ⭐⭐⭐ | 61 ⭐⭐ | 4 ⭐/unrated
+**Stats:** 144 notes | 13 deep-researched | 72 ⭐⭐⭐ | 64 ⭐⭐ | 4 ⭐/unrated
 
 ---
 
-## 👤 People (80)
+## 👤 People (85)
 
 | Name | Rating | Deep? | Tags |
 |------|--------|-------|------|
@@ -16,9 +16,11 @@
 | [[Benjamin Bratton]] | ⭐⭐⭐ | ❌ | speculative-design, critical-computing, accelerationism |
 | [[Bernard Stiegler]] | ⭐⭐⭐ | ❌ | critical-computing, posthuman |
 | [[Blaise Agüera y Arcas]] | ⭐⭐⭐ | ❌ | alife, machine-behavior, art-science, active-inference |
+| [[Bregtje van der Haak]] | ⭐⭐ | ❌ | art-science, critical-computing, more-than-human |
 | [[Bogna Konior]] | ⭐⭐⭐ | ❌ | critical-computing, speculative-design, art-science, posthuman, cosmotechnics |
 | [[Cao Fei]] | ⭐⭐⭐ | ❌ | art-science, speculative-design |
 | [[Chen Qiufan]] | ⭐⭐⭐ | ❌ | art-science, speculative-design |
+| [[Chia-Wei Hsu]] | ⭐⭐⭐ | ❌ | art-science, computational-creativity, critical-computing, more-than-human, speculative-design |
 | [[Darren Zhu]] | ⭐⭐ | ❌ | alife, art-science, speculative-design |
 | [[David Ha]] | ⭐⭐⭐ | ❌ | alife, computational-creativity, machine-behavior |
 | [[Donna Haraway]] | ⭐⭐⭐ | ❌ | more-than-human, posthuman, feminist |
@@ -64,6 +66,7 @@
 | [[Luciana Parisi]] | ⭐⭐⭐ | ❌ | critical-computing, posthuman, speculative-design |
 | [[Lukáš Likavčan]] | ⭐⭐⭐ | ❌ | speculative-design, critical-computing, posthuman, more-than-human |
 | [[Mark Fisher]] | ⭐⭐⭐ | ❌ | accelerationism, critical-computing, art-science |
+| [[Meriem Bennani]] | ⭐⭐⭐ | ❌ | computational-creativity, art-science, speculative-design, critical-computing, more-than-human, feminist |
 | [[Metahaven]] | ⭐⭐⭐ | ❌ | speculative-design, art-science, critical-computing |
 | [[Michael Levin]] | ⭐⭐⭐ | ❌ | alife, more-than-human, embodied |
 | [[Mindy Seu]] | ⭐⭐⭐ | ❌ | art-science, feminist, critical-computing, computational-creativity |
@@ -75,8 +78,10 @@
 | [[Robin Mackay]] | ⭐⭐⭐ | ❌ | accelerationism, speculative-design, critical-computing |
 | [[Ron Wakkary]] | ⭐⭐⭐ | ❌ | more-than-human, posthuman, design-research |
 | [[Sadie Plant]] | ⭐⭐ | ❌ | accelerationism, feminist, critical-computing |
+| [[Saodat Ismailova]] | ⭐⭐⭐ | ❌ | art-science, more-than-human, critical-computing, posthuman |
 | [[Sara Imari Walker]] | ⭐⭐⭐ | ❌ | alife, more-than-human, art-science |
 | [[Shu Lea Cheang]] | ⭐⭐⭐ | ❌ | art-science, critical-computing, feminist |
+| [[Sohrab Hura]] | ⭐⭐ | ❌ | art-science, critical-computing, more-than-human, computational-creativity |
 | [[Sonia Bernaciak]] | ⭐⭐⭐ | ❌ | art-science, alife, computational-creativity, posthuman |
 | [[Sougwen Chung]] | ⭐⭐⭐ | ❌ | art-science, computational-creativity, more-than-human |
 | [[Stavros Didakis]] | ⭐⭐ | ❌ | speculative-design, art-science, computational-creativity |
@@ -94,7 +99,7 @@
 
 ---
 
-## 🏛️ Communities (31)
+## 🏛️ Communities (32)
 
 | Name | Rating | Deep? | Tags |
 |------|--------|-------|------|
@@ -115,6 +120,7 @@
 | [[IDFA DocLab]] | ⭐⭐ | ❌ | art-science, computational-creativity |
 | [[ISAL]] | ⭐⭐⭐ | ❌ | alife, open-endedness, computational-creativity |
 | [[Interact Fellowship]] | ⭐⭐ | ❌ | art-science, computational-creativity |
+| [[Karrabing Film Collective]] | ⭐⭐ | ❌ | more-than-human, critical-computing, art-science, decolonial |
 | [[Knowledge Lab]] | ⭐⭐⭐ | ✅ | machine-behavior, social-simulation, computational-creativity |
 | [[Machine+Behavior]] | — | ❌ | machine-behavior, art-science, alife |
 | [[Medialab Matadero]] | ⭐⭐ | ❌ | art-science, speculative-design |
@@ -132,12 +138,13 @@
 
 ---
 
-## 🎤 Venues (16)
+## 🎤 Venues (17)
 
 | Name | Rating | Deep? | Tags |
 |------|--------|-------|------|
 | [[ALIFE Conference]] | ⭐⭐⭐ | ❌ | alife, computational-creativity, open-endedness |
 | [[Ars Electronica]] | ⭐⭐⭐ | ❌ | art-science, computational-creativity, more-than-human |
+| [[EYE Filmmuseum]] | ⭐⭐⭐ | ✅ | art-science, more-than-human, computational-creativity, critical-computing, film-art, media-art, archive, decolonial |
 | [[Eyebeam]] | ⭐⭐ | ❌ | art-science, critical-computing |
 | [[ISEA]] | ⭐⭐ | ❌ | art-science, computational-creativity, critical-computing |
 | [[Machine+Behavior Conference]] | ⭐⭐⭐ | ✅ | machine-behavior, social-simulation, alife |
@@ -215,4 +222,4 @@
 
 ---
 
-*Last updated: 2026-02-26 by Biber (agent)*
+*Last updated: 2026-02-27 by Biber (subagent, EYE Filmmuseum deep research)*
