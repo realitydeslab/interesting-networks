@@ -1,5 +1,5 @@
 ---
-rating: ⭐⭐
+rating: ⭐⭐⭐
 url: https://www.cds.hku.hk/
 based: Hong Kong + Shanghai (Zhangjiang)
 tags: [computing, data-science, AI, machine-behavior, teaching-opportunity]
