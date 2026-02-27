@@ -1,233 +1,227 @@
 ---
-rating: ⭐⭐⭐
 url: https://forensic-architecture.org
+rating: ⭐⭐⭐
 added: 2026-02-27
 last_researched: 2026-02-27
 revisit_weeks: 8
 next_research: 2026-04-27
-tags: [critical-computing, more-than-human, speculative-design, machine-behavior, art-science, feminist, posthuman, climate]
+tags: [critical-computing, more-than-human, speculative-design, machine-behavior, art-science]
 deep_researched: true
 ---
 
 # Forensic Architecture
 
-Interdisciplinary research agency and political art collective based at Goldsmiths, University of London. Founded 2010 by [[Eyal Weizman]]. Uses architecture, machine learning, 3D modeling, LIDAR, photogrammetry, satellite data, social media OSINT, and witness testimony as investigative tools — not to make art, but to produce *evidence* of state violence, genocide, environmental destruction, and human rights abuses. The work operates in three arenas simultaneously: the field, the laboratory, and the forum (courts, parliaments, museums, citizens' tribunals, media). Self-described practice of "counter-forensics": turning the forensic gaze back onto the state.
+Interdisciplinary research agency based at [Goldsmiths, University of London](https://www.gold.ac.uk/) that uses architecture, computation, machine learning, satellite imagery, 3D modelling, and witness testimony to investigate state violence, war crimes, and human rights abuses — and present the evidence in courts, parliaments, museums, and the media. Founded 2010 by [[Eyal Weizman]]. 100+ investigations across 31+ countries. Right Livelihood Award 2024. Turner Prize nominee 2018.
 
----
+Their core concept: **counter-forensics** — turning the forensic gaze back onto the state. Where the state's forensic apparatus produces evidence that protects power, FA produces evidence that challenges it.
 
-## ⚡ Recent Updates
-- **2026-02-27:** Full deep research completed. Upgraded from stub.
-- **2024-10-01:** Published ["A Cartography of Genocide"](https://forensic-architecture.org/investigation/a-cartography-of-genocide) — 827-page report on Israel's campaign in Gaza, concluding it meets definition of genocide.
-- **2024:** Received [Right Livelihood Award](https://www.rightlivelihood.org/the-change-makers/find-a-laureate/forensic-architecture/) for developing new methodologies combining technology with human rights advocacy.
-- **2022:** Exhibition at [Louisiana Museum of Modern Art](https://louisiana.dk), Denmark.
-- **2021:** Peabody Award received by Weizman for FA's investigative journalism work.
+> "Not only people but all matter has a memory." — Eyal Weizman
 
----
-
-## Mission & Objectives
-
-Forensic Architecture emerged in 2010 in response to:
-- The **urbanisation of warfare** — conflict increasingly fought in cities, not battlefields
-- **Erosion of trust** in official state evidence re: crimes and human rights violations
-- The explosion of **open-source media** ("image flotsam") from smartphones
-- The need for civil society to produce its own **evidentiary systems** capable of standing in law, politics, and advocacy
-
-Their key methodological concept: **counter-forensics**. FA lacks the state's forensic privileges (access to crime scenes, resources, the power to set rules of evidence), so they operate inversely — gathering public domain materials and reconstructing what happened from fragments, traces, metadata. Architecture becomes a discipline of memory and evidence.
-
-Three operational spaces:
-1. **Field** — site visits, fieldwork, witness interviews
-2. **Laboratory** — 3D reconstruction, machine learning, audio analysis, image analysis
-3. **Forum** — courts, UN bodies, parliamentary hearings, museums, galleries, media
-
-They don't work for governments or corporations. Only civil society.
-
----
+> "We work on a principle that we call 'the long duration of the split second'. We believe that looking at micro details can open a doorway to understanding broader historical, political and cultural contexts."
 
 ## Key People
 
-- **[[Eyal Weizman]]** — Founder and Director. British-Israeli architect. Professor of Spatial and Visual Cultures, Goldsmiths. PhD London Consortium. Trained at Architectural Association. Former Global Scholar at Princeton (2014–2017). Guest professor at ETH Zurich (since 2019). On Technology Advisory Board of the International Criminal Court (The Hague). FBA, MBE. Books include *Hollow Land* (2007), *The Least of All Possible Evils* (2011), *Forensic Architecture: Violence at the Threshold of Detectability* (Zone Books, 2017). Key thinker: architecture as a political instrument, "the least of all possible evils" doctrine in humanitarian intervention.
+### Core Team / Founders
+- [[Eyal Weizman]] ⭐⭐⭐ — founder, director. Professor of Spatial and Visual Cultures at Goldsmiths. Born 1970, Haifa, Israel. British-Israeli architect. MBE (2020), FBA (2019). The political and intellectual engine of the whole enterprise. [website](https://forensic-architecture.org)
+- [[Susan Schuppli]] ⭐⭐ — senior researcher, alumna. Develops the concept of "matter as witness" — the idea that physical materials (film, soil, water) carry traces of events. Director of the [Centre for Research Architecture](https://www.gold.ac.uk/architecture/) at Goldsmiths. Author of *Material Witness* (MIT Press, 2020).
+- **Lorenzo Pezzani** — co-founder of [[Forensic Oceanography]] sub-project. Architect + researcher. Investigates deaths at sea in the Mediterranean. Based at Goldsmiths.
+- **Charles Heller** — co-founder of [[Forensic Oceanography]] with Pezzani. Investigative journalist turned researcher.
+- [[Lawrence Abu Hamdan]] ⭐⭐⭐ — artist/researcher. Sound forensics and "politics of listening." Key contributor to Saydnaya Prison investigation (ear-witnessing). Turner Prize winner 2019 (jointly). Now runs [[Earshot]], his own audio forensics agency. [website](https://lawrenceabuhamdan.com)
+- [[Anselm Franke]] ⭐⭐ — curator, collaborator. Head of Visual Art and Film at HKW Berlin. Co-edited *Forensis* (Sternberg, 2014) with Weizman.
+- **Paulo Tavares** — architect/researcher. Leads environmental justice investigations (Amazon, colonial histories). Trained at Goldsmiths.
+- **Stefanos Levidis** — researcher. Contributes to spatial analysis and 3D reconstruction investigations.
+- **Francesco Sebregondi** — researcher/architect. Key contributor to early investigations.
+- **Maayan Amir** — researcher.
+- **Ariel Caine** — researcher. Visual reconstruction work.
+- **Thomas Keenan** — collaborator. Media theorist at Bard College. Co-wrote *Mengele's Skull* (2012) with Weizman.
+- **Ayesha Hameed** — researcher, artist. Diaspora, sound, and migration work. Also [[Goldsmiths Visual Cultures]].
 
-- **[[Lawrence Abu Hamdan]]** — Sound-based investigator. Pioneered "ear witnessing" and the politics of listening. PhD from CRA Goldsmiths (2017). Won 2019 Turner Prize (jointly). Co-developed the Saydnaya Prison reconstruction using audio and acoustic memory of formerly detained. Founded [Earshot](https://earshotagency.com/) (2023) — first agency for sound and acoustic analysis for open-source investigators. Based in Dubai. Represented by Galerie Mor Charpentier, Paris. Now a Fellow at University of Chicago.
+### Sister Agency
+- **[Forensis](https://forensis.org)** (Berlin, est. 2021) — independent sister agency founded by former FA researchers. Focuses on European and historical cases. Involved in Namibia colonial genocide investigation.
 
-- **[[Susan Schuppli]]** — Material witness theory. Researcher and now faculty at CRA Goldsmiths. Author of [*Material Witness: Media, Forensics, Evidence*](https://mitpress.mit.edu/9780262044769/material-witness/) (MIT Press, 2020). Focuses on how materials (ice cores, films, satellites) bear witness to events. Collaborator on climate investigations including Cloud Studies.
+## What They Do: Methods & Tools
 
-- **Lorenzo Pezzani** — Co-founder of [Forensic Oceanography](https://forensic-ocean.eu/), tracking deaths in Mediterranean migration. Based at Goldsmiths.
+FA operates across three spaces:
+1. **The Field** — site visits, lidar scanning, photogrammetry, ground-penetrating radar, social media collection, satellite imagery
+2. **The Laboratory** — 3D modelling, animation, spatial reconstruction, ML-based analysis, video geo-location, audio forensics
+3. **The Forum** — courts, parliamentary hearings, museums, citizens' tribunals, the media
 
-- **Charles Heller** — Co-founder of Forensic Oceanography. Researcher on migration and surveillance.
+### Core Techniques
+- **Photogrammetry & 3D reconstruction** — building precise spatial models from overlapping photographs and video
+- **Satellite imagery analysis** — using commercial satellite data to document destruction patterns
+- **Video geo-location** — locating where a video was shot using shadows, sun angle, architectural features
+- **Open-source investigation (OSINT)** — aggregating evidence from social media, leaked audio, phone footage
+- **Situated testimony** — using immersive 3D environments to help survivors reconstruct traumatic memories. The key insight: 3D models let witnesses navigate a reconstruction of a space, recovering memories occluded by trauma
+- **Ear-witnessing** — acoustic analysis of spaces based on survivor memory of sounds (pioneered in Saydnaya Prison investigation)
+- **Cloud morphology** — analyzing the shape of explosion clouds captured in phone videos to locate and classify strikes
 
-- **[[Anselm Franke]]** — Curator and co-investigator. Head of Visual Art and Film at Haus der Kulturen der Welt, Berlin. Co-authored "Territories" books with Weizman. Close collaborator on curatorial projects.
+### Tools Built
+- **[Pattrn](https://pattrn.co/)** — multimedia data aggregation and visualization platform (ERC-funded, 2013). Lets users anonymously collate first-hand reports. Used by ACLED and in Gaza Platform.
+- **[Gaza Platform](https://gazaplatform.amnesty.org/)** — interactive map of Israeli strikes on Gaza July–August 2014, developed with Amnesty International. 1,000+ incidents mapped.
+- **A Cartography of Genocide** ([gaza.forensic-architecture.org](https://gaza.forensic-architecture.org/database)) — October 2024 interactive map of Israel's war conduct in Gaza since Oct 7, 2023. Accompanied by 827-page report.
 
-- **[[Ayesha Hameed]]** — Researcher and artist affiliated with CRA Goldsmiths. Works on migration, borders, blackness. Lecturer at Goldsmiths.
+## Key Investigations (Chronological)
 
-- **Paulo Tavares** — Researcher specializing in environmental violence, Amazonian deforestation, indigenous rights. Investigates destruction of cultural sites.
+### Palestine / Israel
+- **[Killing of Bassem Abu Rahma](https://forensic-architecture.org/investigation/killing-of-bassem-abu-rahme-in-bilin)** (2010, Bil'in) — first investigation. Tear gas canister trajectory. Presented to Israeli Supreme Court.
+- **White Phosphorus in Gaza** (2012) — analysis of airburst white phosphorus munitions in Operation Cast Lead (Dec 2008–Jan 2009). Presented to UN Convention on Certain Conventional Weapons. Led Israel to admit use and later announce discontinuation of white phosphorus in populated areas.
+- **Black Friday of Rafah** (2015, with Amnesty International) — analyzed ~70 pieces of mobile phone footage of Rafah bombardment (1 August 2014). Located and mapped hundreds of Israeli strikes via bomb cloud analysis. Exposed the Hannibal Directive. Led to its formal revocation by the IDF.
+- **[A Cartography of Genocide](https://forensic-architecture.org/investigation/a-cartography-of-genocide)** (2024) — most comprehensive investigation to date. 827-page report concluding Israel's campaign in Gaza is "organised, systematic, and intended to destroy conditions of life." Used in South Africa's genocide case against Israel at the ICJ.
+- **[The Killing of Hind Rajab](https://forensic-architecture.org/investigation/the-killing-of-hind-rajab)** (2024) — investigation into the killing of a 6-year-old Palestinian girl.
 
-- **Stefanos Levidis** — Current researcher at FA. Investigates urban and environmental violence.
+### Syria
+- **[Saydnaya Prison](https://forensic-architecture.org/investigation/saydnaya)** (2016, with Amnesty International) — reconstructed Syria's most notorious detention facility using *ear-witnessing*: detainees who were blindfolded or kept in darkness described sounds, and FA built a 3D model of the acoustic space. Finalist, Beazley Design of the Year Award 2017.
 
-- **Thomas Keenan** — Professor at Bard College. Collaborated on "Mengele's Skull: The Advent of Forensic Aesthetics" (Sternberg Press, 2012). Human rights theorist.
+### Germany / Right-Wing Violence
+- **[NSU — Halit Yozgat](https://forensic-architecture.org/investigation/nsu-german-state)** (2017) — German intelligence agent present at 2006 neo-Nazi murder of Turkish internet café owner. FA physical experiments cast doubt on agent's testimony. Referenced in federal and state parliamentary inquiries and Munich NSU trial.
+- **[Hanau Terror Attack](https://forensic-architecture.org/investigation/hanau-terror-attack)** (2020) — reconstruction of far-right mass shooting. Used in parliamentary inquiry.
+- **Golden Dawn trial** (Greece) — contributed decisive evidence leading to the banning of Golden Dawn party.
 
-- **Francesco Sebregondi** — Former FA researcher. Now works on AI governance.
+### Mediterranean Migration
+- **[The Left-to-Die Boat](https://forensic-architecture.org/investigation/the-left-to-die-boat)** (2012, [[Forensic Oceanography]]) — 73 migrants left drifting for two weeks within NATO's maritime surveillance area; all died. Reconstructed using satellite data, ship movements, weather data.
 
-- **Maayan Amir** — Former FA researcher and artist.
+### UK
+- **[Grenfell Tower fire](https://forensic-architecture.org/investigation/grenfell-tower-fire)** (2017–ongoing) — forensic analysis for 800 plaintiffs in one of UK's largest civil suits. 11 situated testimony interviews with survivors, bereaved families, and residents. Reconstructed the night of the fire.
+- **[Police killing of Mark Duggan](https://forensic-architecture.org/investigation/police-killing-of-mark-duggan)** — analysis of the 2011 killing that sparked the UK riots. Published by Cabinet/ICA Books.
 
-- **Ariel Caine** — Researcher; photogrammetry and visualization.
+### Americas
+- **[Óscar Pérez killing](https://forensic-architecture.org/investigation/venezuela-el-junquito-raid)** (2018, Venezuela, with Bellingcat) — 70 pieces of evidence including video, photos, leaked police radio. Documented potential extrajudicial killing.
+- **Yanomami Indigenous Territory** (Amazon) — investigation into illegal gold mining and violence.
 
----
+### Ukraine
+- **[Mariupol Drama Theatre](https://forensic-architecture.org/investigation/mariupol-drama-theatre)** (2022, with Center for Spatial Technologies, Kyiv) — reconstruction of destruction of civilian shelter. Documents Russia's "strategies of terror."
 
-## Key Publications & Output
+### Colonial History
+- **Namibia Genocide** (2021–ongoing, with Forensis and Nama/Ovaherero civil society) — reconstructed sites of German colonial genocide (1904–1908) including the concentration camp on Shark Island. Uses oral history from descendants as testimony.
 
-### Books
-- [*Forensic Architecture: Violence at the Threshold of Detectability*](https://www.zonebooks.org/books/94-forensic-architecture-violence-at-the-threshold-of-detectability) (Zone Books, 2017) — Weizman's full methodological statement. The definitive text.
-- [*FORENSIS: The Architecture of Public Truth*](https://www.sternberg-press.com/product/forensis-the-architecture-of-public-truth/) (Sternberg Press, 2014) — Edited anthology; essays and case studies from the agency.
-- [*Mengele's Skull: The Advent of Forensic Aesthetics*](https://www.sternberg-press.com/product/mengeles-skull-the-advent-of-forensic-aesthetics/) (Sternberg Press, 2012) — Weizman + Keenan. Early manifesto.
-- [*Hollow Land: Israel's Architecture of Occupation*](https://www.versobooks.com/books/213-hollow-land) (Verso, 2007, updated 2017) — Weizman's breakthrough on architecture as occupation.
-- [*The Least of All Possible Evils*](https://www.versobooks.com/books/817-the-least-of-all-possible-evils) (Verso, 2011) — On humanitarian violence from Arendt to Gaza.
-- [*Material Witness: Media, Forensics, Evidence*](https://mitpress.mit.edu/9780262044769/material-witness/) (MIT Press, 2020) — Susan Schuppli. On materials as witnesses.
+## Exhibitions
 
-### Key Investigations (Selected)
-- **Bassem Abu Rahma** (2010) — First case. Killing at Bil'in, West Bank. Presented to Supreme Court of Israel.
-- **Left to Die Boat** (2012) — 73 migrants left drifting in NATO surveillance zone. Forensic Oceanography.
-- **White Phosphorus / Operation Cast Lead** (2012) — Led Israel to admit and halt use of WP in populated areas.
-- **Where the Drones Strike** (2012) — With Bureau of Investigative Journalism, for UN Special Rapporteur.
-- **Rafah Black Friday** (2015) — With Amnesty International. Analysed hundreds of bomb clouds from phone footage. Led to cancellation of the Hannibal Directive.
-- **Saydnaya Prison** (2016) — Reconstructed Syrian torture prison using "ear witnessing" from formerly detained. With Amnesty International.
-- **NSU / Halit Yozgat** (2017) — Investigated German intelligence presence at neo-Nazi murder scene. Shown at Documenta 14. Referenced in German parliamentary inquiries.
-- **Iguala Students** — 43 disappeared Mexican students. 3D reconstruction of abductions.
-- **Warren Kanders / Tear Gas** (2019) — Whitney Biennial. Exposed Whitney trustee's tear gas company. Led to Kanders' resignation.
-- **Cloud Studies** (2020) — Environmental violence. How clouds carry chemical weapons and industrial pollution.
-- **A Cartography of Genocide** (October 2024) — 827-page report on Gaza. [Published here](https://forensic-architecture.org/investigation/a-cartography-of-genocide).
-
----
-
-## Key Contributions
-
-1. **Counter-forensics as methodology** — Established an entirely new discipline showing that civil society can produce evidentiary knowledge rivaling the state's, using public-domain materials.
-2. **Architecture of memory** — Using spatial models as cognitive tools to help witnesses reconstruct events from trauma, creating "ear witnessing" and other non-visual forms of testimony.
-3. **Image flotsam analysis** — Systematic aggregation and spatial analysis of open-source social media images to reconstruct violent events.
-4. **Art as evidence, evidence as art** — Work oscillates between gallery and courtroom, forcing debate on the aesthetics of proof and the politics of visibility.
-5. **Environmental forensics** — Extended the methodology to climate and environmental destruction (cloud studies, deforestation, industrial pollution) — matter as witness.
-6. **Institutional courage** — Took on states, corporations, and international bodies. Refused Schelling Prize over Nazi history. Created work that directly led to policy changes (Hannibal Directive, white phosphorus).
-
----
-
-## Events & Programmes
-
-### Exhibitions (Major)
-- *Forensis*, [Haus der Kulturen der Welt](https://www.hkw.de), Berlin, 2014; Fundación Proa, Buenos Aires, 2015
-- *77sqm_9:26min* (NSU case), [Documenta 14](https://www.documenta.de), Kassel, 2016
-- *Forensic Architecture: Towards an Investigative Aesthetics*, [MACBA](https://www.macba.cat), Barcelona, 2017; [MUAC](https://muac.unam.mx), Mexico City, 2017 — first major international exhibition
-- *Counter Investigations: Forensic Architecture*, [ICA London](https://www.ica.art), March–May 2018
-- [London Design Biennale](https://www.londondesignbiennale.com), September 2018
-- [Whitney Biennial](https://www.whitney.org/exhibitions/2019-biennial/), New York, 2019
-- *Cloud Studies*, for *Critical Zones: Observatories for Earthly Politics*, [ZKM Center for Art and Media](https://zkm.de), Karlsruhe, 2020
-- *Cloud Studies*, [Whitworth Art Gallery](https://www.whitworth.manchester.ac.uk), Manchester, 2021
-- [Louisiana Museum of Modern Art](https://louisiana.dk), Humlebæk (Denmark), 2022
-
-### Affiliated Programmes
-- **Centre for Research Architecture (CRA)** at Goldsmiths — the academic home. MA and PhD programmes. See [MA Research Architecture](https://www.gold.ac.uk/pg/ma-research-architecture/). Direct pipeline into FA. Key people to follow.
-- **Forensic Oceanography** — [forensic-ocean.eu](https://forensic-ocean.eu/) — spin-off project on migration deaths in Mediterranean. Led by Pezzani and Heller.
-- **Earshot** — [earshotagency.com](https://earshotagency.com/) — Lawrence Abu Hamdan's sound agency for open-source investigators (2023).
-
----
-
-## For Amber
-
-**Why interesting:** FA is one of the sharpest examples in the world of computation-as-politics. They're not using machine learning to optimize ad targeting or predict stock prices — they're using it to prove genocide, halt military directives, and expose intelligence agents at crime scenes. This is exactly the "critical computing" thread Amber cares about: who builds what for whom, and what power structures get embedded. FA treats *evidence-making* as a political and aesthetic act. That's a deep alignment with Amber's interest in machine behavior as science — what does the machine "see", and for whom?
-
-**1. 🤝 Cooperation** — Amber works on agent ethology and machine behavior. FA increasingly works on AI-mediated detection of violence — analyzing satellite imagery, classifying bomb clouds, pattern-recognizing atrocities in video. A potential research bridge: what can agent-behavior analysis contribute to forensic investigation? How do machines witness events? The "architecture of memory" framing is directly adjacent to Amber's interest in machine consciousness and memory.
-
-**2. 🏠 Residency / Fellowship** — The [CRA at Goldsmiths](https://www.gold.ac.uk/pg/ma-research-architecture/) offers MA and PhD programmes. Amber is in Oxford — Goldsmiths is easy. Guest lectures, workshops, seminars are plausible. Watch for public events at ICA London.
-
-**3. 🎓 Fellowship** — The European Research Council has funded FA multiple times. FA also engages through Amnesty International, Wellcome Trust, and other bodies. Understanding their funding architecture may open doors for Amber's own funding bids in adjacent areas (AI + human rights, computational evidence).
-
-**4. 👋 Hangout potential** — **Eyal Weizman is London-based** (Goldsmiths). Amber is Oxford/London/Cambridge. Proximity is real. Weizman gives lectures widely and engages publicly. The ICA London hosts FA regularly. High proximity potential.
-
-**5. 🔧 Professional inspiration** — FA's methodology of "counter-forensics" — using publicly available materials to produce evidence that challenges power — is directly applicable to Amber's research on AI systems. What does it look like to do counter-forensics of AI systems? To reconstruct what an AI model "saw" or "decided" from available data traces? FA's approach is a blueprint for a critical AI methodology.
-
-**6. 🌍 Areas to know** — FA sits at the intersection of:
-   - Architectural theory × computation
-   - Human rights law × media studies
-   - OSINT × AI
-   - Counter-forensics × aesthetics
-   - Environmental justice × climate science
-These are all productive adjacent territories for Amber's work.
-
-**7. 🔮 Future involvement** — Watch the CRA at Goldsmiths for visiting positions, seminars, workshops. FA occasionally collaborates with researchers outside their core team. The connection through [[Hito Steyerl]] (who has collaborated with FA circles) and [[James Bridle]] (adjacent OSINT/political media world) could be natural introduction paths.
-
-**8. 📚 Learning from their path** — FA's key strategic insight: *use the art world as a forum*. Galleries and biennials give them reach, legitimacy, and protection from state retaliation. Their work is simultaneously evidence in courts and art in museums. This dual-format strategy is highly transferable — Amber could think about how to position research in art venues to reach different audiences and create different kinds of impact.
-
-**Who should Amber know?**
-- [[Eyal Weizman]] — personally accessible, London-based, engaged with AI and evidence
-- [[Susan Schuppli]] — material witness / climate evidence / Goldsmiths — strong crossover with Amber's interests in machine witnessing
-- [[Lawrence Abu Hamdan]] — Turner Prize winner, Dubai-based, but shows extensively in UK — sound as evidence is adjacent to Amber's multimodal interests
-
-**Who might like Amber?**
-FA is interested in: (1) computation as political tool, (2) new forms of evidence, (3) the intersection of AI and human rights. Amber's work on agent ethology and machine behavior as science maps directly onto (1) and (3). Amber's HoloKit (open-source hardware for spatial computing) might be of interest to their 3D reconstruction pipeline.
-
-**Key publications to be part of:**
-- *Third Text* (Weizman is on editorial board) — art theory / postcolonial
-- *Cabinet Magazine* (Weizman board) — culture and ideas
-- *Humanity* journal (Weizman board) — human rights and social theory
-- *e-flux* — FA publishes essays and investigations there regularly
-
----
-
-## Recent Events That Matter
-
-- **October 2024:** "A Cartography of Genocide" published — major milestone. First systematic spatial analysis of the Gaza campaign concluding genocide. Being used in ICJ proceedings.
-- **2024:** Right Livelihood Award — significant mainstream recognition.
-- **2024:** FA continues to investigate Israeli military operations in Gaza in near-real-time — their most sustained and politically charged investigation to date.
-- **2023:** [[Lawrence Abu Hamdan]] founded Earshot as FA-adjacent independent agency — suggests the network is expanding beyond the core organization.
-- **2021–2022:** Cloud Studies touring — represents FA's expansion into environmental forensics, not just war crimes.
-
----
-
-## Connected Institutions
-
-- **[[Goldsmiths Visual Cultures]]** — home department
-- **[[Haus der Kulturen der Welt]]** — key venue, Berlin
-- **[[ZKM Center for Art and Media]]** — showed *Cloud Studies*
-- **[[Ars Electronica]]** — Prix Ars Electronica 2017
-- **[[Amnesty International]]** — key operational partner
-- **[[Bellingcat]]** — OSINT partner (Venezuela investigation)
-- **[[ICA London]]** — major exhibition venue (2018)
-- **European Research Council** — primary funder (multiple grants)
-- **International Criminal Court** (The Hague) — Weizman on Technology Advisory Board
-- **[[e-flux]]** — publishing partner
-- **[[Earshot]]** — [[Lawrence Abu Hamdan]]'s spin-off
-- **Forensic Oceanography** — [forensic-ocean.eu](https://forensic-ocean.eu/) — Mediterranean migration spin-off
-
----
-
-## Why Interesting
-
-FA is arguably the most politically important research group working at the intersection of computation, architecture, and human rights in the world right now. Their contribution isn't just empirical — it's philosophical and methodological. They've established that:
-
-1. **Evidence is a design problem.** How you construct evidence determines what becomes visible and who gets held accountable.
-2. **Matter has memory.** Buildings, soils, satellite images, phone footage — all bear traces of what happened. The task is reading those traces.
-3. **Computation is political.** Using ML to classify bomb clouds, using photogrammetry to reconstruct a prison, using OSINT to track military movements — these are not neutral technical acts. They are acts of resistance.
-
-This connects deeply to Amber's research taste: critical computing, machine behavior, the question of what AI "sees," and who it sees for. FA's *counter-forensics* is a living example of what it looks like when researchers refuse to treat technology as neutral.
-
-The aesthetic dimension matters too. FA's work lives in galleries and courtrooms simultaneously. The Turner Prize nomination (2018), the Whitney Biennial piece that got Kanders fired, the Documenta installation that became parliamentary testimony — this is practice-based research at its most politically charged. FA doesn't just describe critical computing: they *do* it.
-
-For Amber, specifically: the "architecture of memory" concept — using spatial models to help witnesses reconstruct traumatic events — is a profound crossover with questions about machine memory, what AI systems "remember," and how computational witnesses differ from human witnesses.
-
----
+- **Forensis**, [Haus der Kulturen der Welt](https://www.hkw.de/), Berlin (2014); Fundación Proa, Buenos Aires (2015)
+- **77sqm_9:26min**, [Documenta 14](https://www.documenta.de/), Kassel (2017) — called "the most important piece at documenta" (artnet)
+- **Forensic Architecture: Towards an Investigative Aesthetics**, [MACBA](https://www.macba.cat/) Barcelona and [MUAC](https://muac.unam.mx/) Mexico City (2017) — first major international exhibition
+- **Counter Investigations: Forensic Architecture**, [ICA](https://www.ica.art/) London (March–May 2018) — solo show
+- **London Design Biennale** (September 2018)
+- **[Whitney Biennial](https://whitney.org/exhibitions/2019-biennial/)**, New York (2019) — video on Whitney trustee Warren Kanders' arms company. Withdrew after Kanders resigned.
+- **Cloud Studies**, [ZKM Center for Art and Media](https://zkm.de/), Karlsruhe (2020) — for *Critical Zones* exhibition
+- **Cloud Studies**, [Whitworth Art Gallery](https://www.whitworth.manchester.ac.uk/), Manchester (2021) — censorship controversy; Manchester University tried to remove pro-Palestinian statement
+- **[Louisiana Museum of Modern Art](https://louisiana.dk/)**, Humlebæk, Denmark (2022) — major retrospective
 
 ## Awards & Recognition
 
-- [Prix Ars Electronica](https://ars.electronica.art/prix/) (2017) — Golden Nica, Digital Communities
-- [Vera List Center Prize for Art and Politics](https://www.thenewschool.edu/vera-list-center/) (2017) — finalist
-- [Beazley Design of the Year Award](https://designmuseum.org/discover-design/all-stories/beazley-designs-of-the-year) (2017) — finalist
-- [European Cultural Foundation Princess Margriet Award](https://www.culturalfoundation.eu) (2017)
-- [Turner Prize](https://www.tate.org.uk/about-us/turner-prize) (2018) — nominee (for Umm al-Hiran investigation)
-- [Peabody Award](https://peabodyawards.com) (2021) — for investigative journalism
-- [Right Livelihood Award](https://www.rightlivelihood.org) (2024) — for methodology combining technology with human rights advocacy
+- **European Research Council grants**: 2011, 2013, 2016 — funded the lab's establishment and expansion
+- **[Prix Ars Electronica](https://ars.electronica.art/prix/)** (2017) — Digital Communities category
+- **Peabody-Facebook Future of Media Award** (2017)
+- **European Cultural Foundation Princess Margriet Award for Culture** (2017)
+- **Vera List Center Prize for Art and Politics** (2017, finalist)
+- **Beazley Design of the Year Award** (2017, finalist — for Saydnaya)
+- **Columbia University Digital Dozen Award for Breakthroughs in Storytelling** (2016)
+- **Turner Prize nomination** (2018) — lost to Charlotte Prodger
+- **[Right Livelihood Award](https://rightlivelihood.org/the-change-makers/find-a-laureate/forensic-architecture/)** (2024) — "For pioneering digital forensic methods to ensure justice and accountability for victims and survivors of human and environmental rights violations."
 
----
+FA's work is in the **permanent collection of the [Victoria and Albert Museum](https://www.vam.ac.uk/)**.
+
+## Institutional Partners
+
+Regular collaborators:
+- **[Amnesty International](https://www.amnesty.org/)** — multiple joint investigations
+- **[Human Rights Watch](https://www.hrw.org/)**
+- **[Doctors Without Borders (MSF)](https://www.msf.org/)**
+- **[Bellingcat](https://www.bellingcat.com/)** — open-source investigation
+- **[Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/)**
+- **[Al-Haq](https://www.alhaq.org/)** — Palestinian human rights org. FA helped launch a forensic architecture unit in Ramallah.
+- **[Center for Spatial Technologies](https://cstukraine.org/)** (Kyiv) — Ukraine investigations
+- **SITU Studio** (NYC architects)
+
+FA's methods are now used by in-house forensic teams at:
+- The New York Times, The Washington Post, The Economist, BBC
+
+## Key Texts
+
+- [*Forensis: The Architecture of Public Truth*](https://www.sternberg-press.com/product/forensis-the-architecture-of-public-truth/) (ed. Weizman & Franke, Sternberg Press, 2014) — foundational anthology
+- [*Forensic Architecture: Violence at the Threshold of Detectability*](https://mitpress.mit.edu/9781890951863/forensic-architecture/) (Weizman, Zone Books/MIT, 2017) — main theoretical statement
+- [*Investigative Aesthetics: Conflicts and Commons in the Politics of Truth*](https://www.versobooks.com/products/2665-investigative-aesthetics) (Weizman & Matthew Fuller, Verso, 2021) — latest theoretical expansion
+- *Mengele's Skull: The Advent of Forensic Aesthetics* (Weizman & Thomas Keenan, Sternberg Press/Portikus, 2012)
+
+## Key Concepts
+
+- **Counter-forensics** — turning the forensic gaze onto state actors. The state monopolizes forensics; FA creates a counter-apparatus.
+- **Situated testimony** — using spatial reconstruction (3D models) to help witnesses and survivors recover fragmented traumatic memories. Architecture as memory aid.
+- **Investigative aesthetics** — the thesis that aesthetic practices (art, architecture, film) can produce *evidence* — not just illustration or commentary.
+- **The long duration of the split second** — micro-details of violent events carry macro-historical significance. Zooming in on a 9-second video can unlock an entire military doctrine.
+- **The forum** — FA deliberately presents in multiple "forums" — courts, parliaments, museums, media — because each has different evidentiary standards and political reach.
+- **Matter as witness** (Susan Schuppli) — physical materials (walls, air, water, soil) carry traces of events. Everything is a potential witness.
+
+## Venue Circuit
+
+FA operates at the intersection of **legal proceedings** and **art institutions** — deliberately using both for different leverage:
+
+**Legal/Political forums:**
+- International Criminal Court (The Hague) — Technology Advisory Board
+- European Court of Human Rights
+- UN investigations
+- National parliaments (Germany, UK)
+- ICJ (South Africa v. Israel)
+- Truth and Reconciliation Commissions (Colombia)
+
+**Cultural/Art forums:**
+- Documenta, Venice Biennale — the highest legitimacy art stages
+- ICA London, Whitworth, Whitney — institutional contemporary art
+- HKW Berlin — where theory and activism intersect
+- ZKM Karlsruhe — media art + critical theory
+- Louisiana Museum (Denmark)
+- MACBA Barcelona, MUAC Mexico City — politically engaged institutional art
+
+**Media forums:**
+- New York Times, Guardian, Washington Post
+- Intercept, +972 Magazine, Al Jazeera
+- BBC (documentary series)
+
+This dual strategy is key: the art world lends them legitimacy and reach; the legal world makes the evidence *consequential*.
+
+## Why Interesting
+
+FA is the most important example in the world of **computation as political instrument** at its best. They use the same tools as surveillance states — spatial analysis, ML, satellite imagery — but to document and challenge state violence. This inverts the usual power dynamics of technology.
+
+Several threads that connect to Amber's research taste:
+
+1. **Critical computing as practice** — not just theory. Every investigation is a live demonstration that computation can take a political side. "Where the drones strike" as a database is itself an argument.
+
+2. **Machine behavior in the wild** — they study what states and militaries *do* with technology, especially the gap between official doctrine and actual behavior. "The Hannibal Directive" was revealed by analyzing bomb patterns — behavioral inference at scale.
+
+3. **More-than-human epistemology** — Susan Schuppli's "matter as witness" is a direct challenge to human-centered epistemology. Walls, air, soil all testify. This resonates deeply with Amber's more-than-human interests.
+
+4. **Architecture as social infrastructure** — FA treats buildings, cities, and territories not as neutral containers but as active political actors. Settlements, checkpoints, corridors — all are designed to produce certain behaviors and restrict others.
+
+5. **The aesthetics/evidence question** — their ongoing debate: when does an art installation become *evidence*? When does evidence become *art*? This is genuinely unresolved and productive. (See: *Investigative Aesthetics* with Matthew Fuller.)
+
+6. **Interdisciplinarity as method** — architects, lawyers, journalists, coders, artists, archaeologists all working on the same evidence. This is what Amber's research infrastructure projects aspire to.
+
+7. **UK proximity** — Goldsmiths is in London, 60 minutes from Oxford. Eyal Weizman teaches there. The Centre for Research Architecture has an MA programme. This is a live connection.
+
+## For Amber
+
+**Immediate connection:** Eyal Weizman is at Goldsmiths (London), you're at Oxford. Easy to reach. He's on the Technology Advisory Board of the ICC. His work on spatial politics directly intersects your work on Cyborg Sociology and trustworthy agentic systems.
+
+**The deeper connection:** FA is building the infrastructure of *counter-narrative* — using the same computational tools as power to challenge power. This is adjacent to your interest in decentralized AI and trustworthy agentic systems: who has the forensic power over AI behavior? Who documents what AI systems *actually do* in the wild, versus what they're claimed to do?
+
+**Potential collaboration angles:**
+- Machine behavior as forensics — applying FA's investigative methods to AI systems
+- "Situated testimony" for AI harms — using 3D reconstruction methods adapted for documenting AI-mediated violence
+- The forum question: what are the right "forums" for presenting evidence of AI harm?
+
+**Watch:** Their MA programme in Research Architecture at Goldsmiths is one of the most interesting graduate programmes in the world. Worth knowing about as a recruitment/collaboration pool.
+
+## Key Communities & Connections
+- [[Goldsmiths Visual Cultures]] — institutional home
+- [[Haus der Kulturen der Welt]] — key exhibition partner and intellectual home in Berlin
+- [[Earshot]] — Lawrence Abu Hamdan's spin-off (audio forensics)
+- [[Bellingcat]] — open-source investigation partner
+- [[e-flux]] — FA publishes extensively in e-flux journal
+- [[ZKM Center for Art and Media]] — "Cloud Studies" exhibited there
+- [[ICA London]] — major solo show 2018
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-27 | Biber (subagent) | Stub created. Discovered via Louisiana Museum of Modern Art deep research. |
-| 2026-02-27 | Biber (deep-research subagent) | Full deep research completed. All sections filled. Wikipedia + Guardian + Eyal Weizman Wikipedia sources used. Marked deep_researched: true. |
+| 2026-02-27 | Biber (subagent) | Stub created. Discovered via Louisiana Museum exhibition 2022. |
+| 2026-02-27 | Biber (subagent) | Full deep research. Wikipedia, Right Livelihood, Eyal Weizman Wikipedia. Comprehensive rewrite. |
