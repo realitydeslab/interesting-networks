@@ -28,6 +28,8 @@ Professor at The New School. Works at intersection of continental philosophy, me
 
 ## Connections
 - **[[Reza Negarestani]]** — Endorsed *Cyclonopedia* ("new generation of writing that refuses to be called either 'theory' or 'fiction'; a heady mixture of philosophy, the occult, and the tentacular fringes of Iranian culture")
+- **[[Alexander Galloway]]** — Co-authored *The Exploit: A Theory of Networks* (Minnesota, 2007) and *Excommunication: Three Inquiries in Media and Mediation* (Chicago, 2013). The most sustained collaboration of both their careers. Also contributed to Galloway's *French Theory Today* pamphlet series.
+- **[[McKenzie Wark]]** — Third co-author of *Excommunication* (2013)
 - The New School faculty
 - Dark ecology/horror philosophy networks
 
