@@ -1,37 +1,40 @@
 ---
 rating: ⭐⭐
-added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 8
-next_research: 2026-04-23
-tags: [feminist, critical-computing, speculative-design, posthuman, accelerationism]
-affiliation: Independent (artist/theorist)
-website:
-social:
-based: Berlin, Germany
+affiliation: Design Academy Eindhoven (head, Critical Inquiry Lab)
+website: https://aestheticmanagement.com/
+based: Eindhoven / Amsterdam
+added: 2026-02-28
+tags: [more-than-human, speculative-design, critical-theory, ecosocial, design-pedagogy]
 deep_researched: false
+last_researched: 2026-02-28
+revisit_weeks: 8
+next_research: 2026-04-25
 ---
 
 # Patricia Reed
 
-Artist, designer, and theorist. Based in Berlin. Member of [[Laboria Cuboniks]] xenofeminist collective. One of the most philosophically sophisticated of the six XF members — engages seriously with Sylvia Wynter, Donna Haraway, Reza Negarestani, and Fernando Zalamea.
+Philosopher, artist, educator. Head of the Critical Inquiry Lab (CIL) MA at Design Academy Eindhoven — DAE's most explicitly more-than-human and transdisciplinary programme. Uses the concept of "cunning hope" as a critical design practice: hope as a verb, not an attitude. Works at the intersection of ecosocial justice, design, and political/critical theory.
 
-## ⚡ Recent Updates
-- **2026-02-26:** Stub created during Laboria Cuboniks deep research.
+## Background
+- Head of **Critical Inquiry Lab**, MA, Design Academy Eindhoven
+- Website: aestheticmanagement.com
+- Has tutored at multiple European schools
+- Frames CIL around "human/non-human relational terms," intergenerational thinking, and "ecosocial justice-based" design
+
+## Key Concepts
+- **"Cunning hope"** — hope as systematic thinking and radical unsettling of canonized norms; hope as a design activity, not just a sentiment
+- **Human/non-human relationality** — CIL explicitly uses "human/non-human relational terms" across all its design inquiry
+- **Critical worlding** — design as "legacies of worlding that compel a collective remaking"
+- Research-based design as "shareable medium for public outreach"
 
 ## Why Interesting
-Develops a feminist philosophy of "post-anthropocentric cosmologies" and "platform cosmologies" — how to orient political action at planetary scale without reproducing humanist/monohumanist assumptions. Has presented at [[Haus der Kulturen der Welt]] (HKW), Berlin. Publishes in [[e-flux]] and [[Glass Bead Journal]]. Could connect Amber to Berlin feminist theory-art circuits.
+CIL under Reed is the closest programme in Europe to a formal **more-than-human design pedagogy**. If Amber wants to participate in this space — as guest lecturer, visiting critic, or examiner — Reed is the gatekeeper. Her framing of hope as critical practice aligns with Amber's interest in speculative design that isn't doom/utopia but genuinely weird.
 
-## Key Works
-- ["Freedom and Fiction"](https://www.glass-bead.org/article/freedom-and-fiction/?lang=enview) — *Glass Bead Journal* Site 2 (2019) — on counterfactuals, fiction, and epistemic freedom
-- ["Orientation in a Big World"](https://www.e-flux.com/journal/101/273343/orientation-in-a-big-world-on-the-necessity-of-horizonless-perspectives/) — *e-flux* #101 (2019) — post-anthropocentric politics
-- ["Platform Cosmologies: Enabling Resituation"](https://www.tandfonline.com/doi/full/10.1080/0969725X.2019.1568731) — *Angelaki* Vol. 24 (2019)
-- ["Xenophily and Computational Denaturalization"](https://www.e-flux.com/architecture/artificial-labor/140674/xenophily-and-computational-denaturalization/) — *e-flux Architecture* (2017)
-
-## Connected Communities
-[[Laboria Cuboniks]], [[e-flux]], [[Glass Bead Journal]], [[Haus der Kulturen der Welt]]
+## Connections
+- **Design Academy Eindhoven** — CIL head
+- **CIL tutors network**: Merve Bedir, Danae Io, Matthew C. Wilson, Aiwen Yin, Kris Dittel — strong network of interesting practitioners
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Stub created during Laboria Cuboniks deep research. Needs full deep research. |
+| 2026-02-28 | Biber (subagent deep-research-dae) | Stub created via DAE deep research. |

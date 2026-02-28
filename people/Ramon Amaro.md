@@ -1,45 +1,45 @@
 ---
-rating: ⭐⭐
-affiliation: UCL (University College London), Department of History of Art
-website: https://www.ucl.ac.uk/history-art/people/ramon-amaro
-added: 2026-02-26
-tags: [critical-computing, machine-learning, race-theory, posthuman, philosophy, black-studies]
+rating: ⭐⭐⭐
+affiliation: Design Academy Eindhoven (incoming Creative Director, Sept 2025)
+website: https://www.designacademy.nl/
+based: Eindhoven (DAE); previously Rotterdam (Nieuwe Instituut)
+added: 2026-02-28
+tags: [critical-computing, race-and-technology, machine-learning, speculative-design, critical-theory, more-than-human]
 deep_researched: false
-last_researched: 2026-02-26
-revisit_weeks: 12
-next_research: 2026-05-26
+last_researched: 2026-02-28
+revisit_weeks: 6
+next_research: 2026-04-11
 ---
 
 # Ramon Amaro
 
-Lecturer in Art and Visual Cultures of the Global South, **Department of History of Art, UCL (University College London)**. Works at the intersection of machine learning, philosophy of being, mathematics, engineering, and Black ontology. Key participant in [[Critical Computation Bureau (CCB)]] symposium, appeared in the dialogue "Haunting, Blackness & Algorithmic Thought" alongside Ezekiel Dixon-Román.
+Curator, theorist, researcher. Appointed Creative Director of Design Academy Eindhoven (DAE) starting September 2025, succeeding Joseph Grima. Exceptionally rare figure: trained as an engineer (General Motors quality design engineer, American Society of Mechanical Engineers policy) who crossed over into critical/cultural theory. His scholarship examines race and machine learning — how statistical bias and racial history are embedded in AI systems.
 
 ## Background
-- Lecturer in Art and Visual Cultures of the Global South, UCL History of Art
-- Works on: speculative articulations in machine learning, philosophies of being, mathematics, engineering, and Black ontology
+- Background in **engineering** (quality design engineer at General Motors; policy at ASME) — this grounds his critique in actual technical practice, not just cultural theory
+- Shifted into critical theory / design research
+- **Senior Researcher in Digital Culture**, Nieuwe Instituut, Rotterdam — Europe's institute for architecture, design, digital culture. Founded **-1** there: an intersectional experimental space for design/architecture/technology
+- Lecturer in Visual Cultures, Goldsmiths, University of London
+- Appointed **Creative Director, DAE** (start Sept 2025)
 
-## Key Works
-- **"As If"** — *e-flux* (2019) — referenced in CCB glossary under "Haunting/Racialising Algorithms"
-- Research on machine learning and Black ontology — applying philosophical frameworks to understand how ML systems encode racial categories
+## Key Work
+- ***The Black Technical Object*** (Sternberg Press, 2023) — landmark text examining race and machine learning through the history of statistics and data. Argues that the "technical object" is never neutral — racial history is embedded in how we collect, classify, and analyze data. Directly relevant to debates in FAccT, critical computing, AI fairness.
 
-## Key Concepts
-- **Machine learning + Black ontology**: How machine learning systems intersect with, reproduce, and potentially transform racial categories and Black philosophical traditions
-- **Speculative articulations**: Using philosophical speculation as method to interrogate machine systems
-- Mathematical and engineering knowledge brought into conversation with critical race theory
+## Why Interesting
+**Highly relevant to Amber.** Amaro's appointment at DAE is a significant signal: a critical ML/race scholar now directing one of Europe's top design schools. *The Black Technical Object* is in direct conversation with:
+- Amber's critical computing thread (race + ML + power)
+- FAccT / CSCW discourse (where Amber publishes)
+- More-than-human design (questioning who "the human" in human-centered design is)
 
-## Communities
-- [[Critical Computation Bureau (CCB)]] — symposium participant, key dialogue partner
-- UCL Department of History of Art
+His engineering background + critical theory training mirrors Amber's CS + speculative design trajectory.
 
-## Key Relationships
-- [[Luciana Parisi]] — CCB connection, close intellectual dialogue (she referenced his work in Luciana's note)
-- [[Ezekiel Dixon-Román]] — co-dialogist in "Haunting, Blackness & Algorithmic Thought" session
-
-## For Amber
-- **Why interesting**: Rare thinker who brings genuine mathematical/engineering knowledge to Black studies and critical race theory — not just applying critique *to* ML from outside, but understanding ML from within AND critiquing it philosophically. UCL position in History of Art signals interdisciplinary positioning.
-- **Connection point**: If Amber encounters Luciana Parisi's network, Ramon Amaro is a key collaborator to know in the London art/theory scene.
+## Connections
+- **Design Academy Eindhoven** — incoming Creative Director
+- **Nieuwe Instituut** — former Senior Researcher
+- **Goldsmiths** — lecturer (Visual Cultures)
+- **Sternberg Press** — published *The Black Technical Object*
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Stub created during CCB deep research. Referenced in Luciana Parisi's note. |
+| 2026-02-28 | Biber (subagent deep-research-dae) | Stub created via DAE deep research. |
