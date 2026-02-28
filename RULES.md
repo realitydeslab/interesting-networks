@@ -583,10 +583,10 @@ Every deep research completion MUST:
 - **< 80% weekly quota used** → use direct Anthropic (`anthropic/claude-sonnet-4-20250514`)
 - **≥ 80% weekly quota used** → switch to OpenRouter
 
-**Two-Tier Model Strategy (via OpenRouter):**
+**Two-Tier Model Strategy (Direct Anthropic):**
 
-- **Sonnet** (`openrouter/anthropic/claude-sonnet-4-20250514`) → data scraping, CV crawling, web research, filling in facts
-- **Opus** (`openrouter/anthropic/claude-opus-4-6`) → importance/interest judgment, Research Taste Analysis, rating decisions, Amber's most important people
+- **Sonnet** (`anthropic/claude-sonnet-4-6`) → data scraping, CV crawling, web research, filling in facts
+- **Opus** (`anthropic/claude-opus-4-6`) → importance/interest judgment, Research Taste Analysis, rating decisions, Amber's most important people
 
 **When to use Opus:** ⭐⭐⭐ people that Amber personally flagged, Research Taste Analysis sections, rating/judgment passes, strategic analysis.
 **Everything else:** Sonnet.
