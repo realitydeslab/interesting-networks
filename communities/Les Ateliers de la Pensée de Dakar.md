@@ -19,12 +19,25 @@ To create a space for African thinkers — on the continent and in the diaspora 
 ## Key People
 - **[[Achille Mbembe]]** — co-founder
 - **[[Felwine Sarr]]** — co-founder
+- **[[Nadia Yala Kisukidi]]** — regular participant; philosopher, African philosophy, Black feminism
+- **[[Françoise Vergès]]** — regular participant; decolonial feminist political scientist
+- **[[Souleymane Bachir Diagne]]** — regular participant; philosopher, African Islamic philosophy, Columbia
+- **[[Kader Attia]]** — artist participant 2019; works on repair, restitution, colonialism
+- **[[Mati Diop]]** — filmmaker participant 2019; *Atlantique* (Cannes 2019), *Dahomey* (2024)
+- **Rokia Traoré** — musician; Malian; at 2019 edition
+- **Christiane Taubira** — politician (former French Minister of Justice); at 2019 edition
+- **Rokhaya Diallo** — journalist/activist; at 2019 edition
+
+## Editions
+- **2016 (1st):** Dakar and Saint-Louis. Launch. Framework: "thinking the African condition from Africa."
+- **2017 (2nd):** Theme: pluralism, religious thought, decolonial education. Actes published by Mémoire d'Encrier.
+- **2019 (3rd):** **Musée des Civilisations noires** + **Institut français**, Dakar. Theme: "Basculement des mondes et pratiques de dévulnérabilisation" (world shifts & de-vulnerabilization).
 
 ## Why Interesting
-This is where African critical theory is made. The concepts that circulate in global critical theory — necropolitics, Afropolitanism, decolonial futures — are tested and developed here first. Any scholar working on African AI ethics, decolonial computing, or Global South perspectives should track this forum.
+This is where African critical theory is made. The concepts that circulate in global critical theory — necropolitics, Afropolitanism, decolonial futures — are tested and developed here first. Any scholar working on African AI ethics, decolonial computing, or Global South perspectives should track this forum. For Amber: attending an Ateliers edition would be a rare opportunity to be in a room of African intellectuals, artists, and policymakers with a shared agenda. Her work on more-than-human design and machine behavior would be distinctive.
 
 ## Discovered Via
-[[Achille Mbembe]] deep research (2026-02-28).
+[[Achille Mbembe]] deep research (2026-02-28). Significantly updated via [[Felwine Sarr]] deep research (2026-02-28).
 
 ## 📋 Update Log
 | Date | Researcher | Action |
