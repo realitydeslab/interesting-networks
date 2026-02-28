@@ -1,8 +1,8 @@
 ---
 rating: ⭐⭐
-affiliation: Wits Institute for Social and Economic Research (WISER)
-website: https://wiser.wits.ac.za/
-based: Johannesburg, South Africa
+affiliation: University of Pretoria (Department of English); affiliated WISER researcher
+website: https://wiser.wits.ac.za/people/charne-lavery
+based: Pretoria, South Africa
 added: 2026-02-28
 last_researched: 2026-02-28
 revisit_weeks: 12
@@ -13,7 +13,7 @@ deep_researched: false
 
 # Charne Lavery
 
-Scholar at WISER (Wits Institute for Social and Economic Research), Johannesburg. Co-director of the [Oceanic Humanities for the Global South](https://www.oceanichumanities.com/) project with [[Isabel Hofmeyr]]. Key figure in Southern African oceanic humanities and decolonial environmental thought.
+Associate Professor in the Department of English, University of Pretoria; affiliated WISER researcher. Co-director of the [Oceanic Humanities for the Global South](https://www.oceanichumanities.com/) project with [[Isabel Hofmeyr]]. DPhil from the University of Oxford (Rhodes Scholar), BA from University of Cape Town. Principal investigator on a South African National Antarctic Programme (SANAP) grant for an African Antarctic Artists and Writers Programme pilot. Founding member, Seabed Humanities Collective. Key figure in Southern African oceanic humanities and decolonial environmental thought.
 
 ## ⚡ Recent Updates
 - **2026-02-28:** Stub created via Isabel Hofmeyr deep research.
