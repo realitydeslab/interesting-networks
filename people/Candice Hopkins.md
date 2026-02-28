@@ -1,14 +1,14 @@
 ---
-rating: ⭐⭐
-affiliation: Forge Project
-website: https://www.forgeproject.org/
+rating: ⭐⭐⭐
+affiliation: Forge Project; Bard College
+website: https://forgeproject.com/
 added: 2026-02-27
-last_researched: 2026-02-27
-revisit_weeks: 8
-next_research: 2026-04-24
-tags: [curator, indigenous-art, contemporary-art, bard-alumni, decolonial, biennial, documenta, new-york]
+last_researched: 2026-02-28
+revisit_weeks: 4
+next_research: 2026-03-28
+tags: [curator, indigenous-art, contemporary-art, bard-alumni, decolonial, biennial, documenta, new-york, sovereignty, performance]
 deep_researched: false
-based: New York, USA
+based: Red Hook, New York, USA
 education: CCS Bard (MA, 2003), Alberta University of Art (BFA, 1999)
 ---
 
@@ -17,6 +17,12 @@ education: CCS Bard (MA, 2003), Alberta University of Art (BFA, 1999)
 Carcross/Tagish First Nation independent curator, writer, and researcher. Executive Director and Chief Curator at the [[Forge Project]] (Native-led nonprofit with Indigenous art lending collection in New York state). CCS Bard alumna (MA, 2003). Co-curator of Documenta 14; Senior Curator, Toronto Biennial 2019 and 2021; co-curator Canadian Pavilion, 58th Venice Biennale (2019, featuring media art collective Isuma). Organized *Indian Theater: Native Performance, Art, and Self-Determination since 1969* (2023, Hessel Museum, CCS Bard). Married to artist Raven Chacon.
 
 ## ⚡ Recent Updates
+- **2026-02-28:** Upgraded to ⭐⭐⭐. Corrected website URL (forgeproject.com). Added ISC structure, publication, touring exhibition info.
+- **2025-11:** Co-launched *[Native Visual Sovereignty: A Reader on Art and Performance](https://dfpress.org/books/native-visual-sovereignty/)* — Forge's inaugural imprint publication (Dancing Foxes Press / CCS Bard / MacKenzie / SITE SANTA FE). Book launch with Spiderwoman Theater at Performance Space New York.
+- **2025:** *Indian Theater* touring to MacKenzie Art Gallery, Regina (May–Oct 2025).
+- **2026-06:** *Indian Theater* at SITE SANTA FE + IAIA Museum of Contemporary Native Arts.
+- **2024-04:** Led Forge Project's transition to 501(c)(3) nonprofit; formed Indigenous Steering Council.
+- **2020:** ArtReview Power 100.
 - **2026-02-27:** Stub created during deep research on Center for Curatorial Studies Bard.
 
 ## Background
@@ -54,3 +60,4 @@ Hopkins built a global curatorial career from a strong theoretical grounding (CC
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Stub created during deep research on CCS Bard. |
+| 2026-02-28 | Biber (subagent) | Upgraded to ⭐⭐⭐. Updated with touring exhibition, imprint publication, nonprofit transition. Corrected website to forgeproject.com. Flagged for full deep research. |
