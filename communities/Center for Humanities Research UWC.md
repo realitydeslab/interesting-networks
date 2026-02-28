@@ -194,3 +194,8 @@ From this research, the following new stubs should be created:
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Stub created via Erich Hörl deep research. |
 | 2026-02-28 | Biber (subagent) | Full deep research. Scraped Cambridge Core (Remains of the Social TOC, Lalu papers), Academia.edu (Lalu publication list), Hörl note cross-reference. Compiled full institutional profile, key people, publications, events, Hörl-Lalu axis analysis. |
+| 2026-02-28 | Biber (subagent) | **Canonical note moved to [[Centre for Humanities Research UWC]]** (British spelling = official name). This file kept for backward compatibility. Full research is in the canonical note. |
+
+---
+
+> **Note:** The canonical, fully-researched version of this note is at [[Centre for Humanities Research UWC]]. This file (American spelling) is a legacy stub. Please update all links to point to the canonical note.
