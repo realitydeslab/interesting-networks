@@ -213,6 +213,15 @@ Be specific and actionable. Multiple lessons are expected.
 - **⭐⭐** (30-45 min): Key sections filled. Major works, venues, relationships.
 - **⭐** (15-20 min): Brief. Domains, why interesting, key connections.
 
+### §22: Post-Research Rating Re-evaluation
+After completing deep research on any entity, **re-evaluate the star rating** based on what you actually found:
+- If a ⭐⭐ entity turns out to be highly relevant to Amber's research (agent ethology, cosmotechnics, more-than-human design, ALife, machine behavior, speculative design, mortality), **upgrade to ⭐⭐⭐**
+- If a ⭐⭐⭐ entity turns out to be less relevant than expected (tangential, inactive, no clear connection), **downgrade to ⭐⭐ or ⭐**
+- Update the `rating:` field in the frontmatter accordingly
+- Note the rating change in the `📋 Update Log` with reasoning
+- Criteria for ⭐⭐⭐: direct relevance to Amber's work, active/alive community, actionable connection (can Amber actually engage?), intellectual depth, proximity (London/Oxford/Cambridge = bonus)
+- Criteria for downgrade: purely historical interest, no active programme, no clear path to engagement, field too distant
+
 ---
 
 ## 5. Topic Notes
