@@ -1,33 +1,30 @@
 ---
 rating: ⭐⭐
-added: 2026-02-27
-last_researched: 2026-02-27
-revisit_weeks: 8
-next_research: 2026-04-24
-tags: [speculative-design, critical-computing, futures, design-fiction]
-deep_researched: false
-affiliation: UAL (London College of Communication) / RCA
+affiliation: London College of Communication (researcher/lecturer)
+website: https://tobiasrevell.com/
 based: London, UK
+added: 2026-03-01
+last_researched: 2026-03-01
+revisit_weeks: 8
+next_research: 2026-04-26
+tags: [speculative-design, critical-computing, art-science]
+deep_researched: false
 ---
 
 # Tobias Revell
 
-British designer, writer, and educator working in speculative and critical design. Co-author with [[Kristina Andersen]] of "The Telling of Things: Imagining With, Through and About Machines" (Bloomsbury 2021). Contributor to TU/e DWI Symposium "Aesthetics of Uncertainty" (April 2025).
+Critical and speculative designer, researcher. Superflux alumni. Now at London College of Communication. Known for critical voice in design futures, computational culture, and speculative practice. Prolific writer and educator.
 
-## Domains
-- Design fiction and speculative design
-- Critical technology futures
-- "Things as narrators" — how objects and machines tell stories about their worlds
+## ⚡ Recent Updates
+- **2026-03-01:** Stub created from Superflux deep research.
 
 ## Why Interesting
-Revell sits at the intersection of speculative design, critical computing, and design fiction. His collaboration with Kristina Andersen on "The Telling of Things" suggests alignment on machine-as-collaborator themes. Based in London academic design world (UAL/RCA adjacent) which Amber could access.
+Superflux alumni with strong critical computing + speculative design focus. London-based. Active in UK design-futures discourse. Worth tracking as someone in Superflux's extended network who may be easier to engage with than the founders directly.
 
-## Key Connections
-- [[Kristina Andersen]] — book chapter co-author; DWI Symposium
-- Bloomsbury Visual Arts — published in their *Designing Smart Objects in Everyday Life* collection
-- Probably connected to UAL/RCA London design theory circle
+## Communities
+- [[Superflux]] (alumni)
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-27 | Biber (agent) | Stub created during Kristina Andersen deep research. |
+| 2026-03-01 | Biber (deep research subagent) | Stub created from Superflux deep research. |

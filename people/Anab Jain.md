@@ -1,32 +1,50 @@
 ---
-rating: ⭐⭐
-added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 8
-next_research: 2026-04-23
-tags: [speculative-design, more-than-human, art-science, posthuman, critical-computing]
-affiliation: "Co-founder, Superflux (with Jon Ardern)"
-website: https://superflux.in
+rating: ⭐⭐⭐
+affiliation: Superflux (Co-Founder & Director); University of Applied Arts Vienna (Professor of Design Investigations)
+website: https://superflux.in/index.php/team/anab/
 social:
   x: "@anabjain"
-based: London, UK
+based: London, UK (also Vienna)
+education:
+  - National Institute of Design, Ahmedabad (filmmaking)
+  - Royal College of Art, London (Masters)
+  - Microsoft Research Cambridge (machine intelligence research)
+added: 2026-03-01
+last_researched: 2026-03-01
+revisit_weeks: 4
+next_research: 2026-03-29
+tags: [speculative-design, more-than-human, climate, posthuman, art-science]
 deep_researched: false
 ---
 
 # Anab Jain
 
-Co-founder (with Jon Ardern) of [Superflux](https://superflux.in), the boundary-defying design and futures studio founded 2009. Design Interactions (RCA) alumna under [[Anthony Dunne]] and [[Fiona Raby]]. One of the first practitioners to move speculative design into business contexts (Google AI, DeepMind, IKEA, UNDP). Pioneer of "more-than-human centred design" (IXDA keynote, Lyon 2018). Superflux won "Design Studio of the Year" (Dezeen, 2021). Work shown at National Museum of China, MoMA, V&A, La Biennale di Venezia, MAK Vienna.
+Co-founder and Director of [[Superflux]]. One of the world's leading speculative designers and futurists. Pioneer of "More-than-Human Centred Design" and "Design for the New Normal". Royal Designer for Industry (2022), Honorary Doctorate from University of the Arts London (2022), TED speaker. Leads Design Investigations department at University of Applied Arts Vienna.
+
+## ⚡ Recent Updates
+- **2026-03-01:** Stub created from Superflux deep research.
 
 ## Why Interesting
-The key figure in the commercialization of speculative design — she took D&R's academic practice and made it function in the real world of corporate and government futures. [[Superflux]] is the most successful translation of Design Interactions ideas into a studio practice. Her more-than-human design push (2018) pre-dated its widespread adoption. Indian-British perspective adds non-Western angle.
+Anab is the public intellectual face of speculative design globally. Her concepts (more-than-human centred design, ancillary design) have reshaped design discourse. She's London-based, accessible, and shares core intellectual interests with Amber. Her dual role as studio director + professor at a major European art university makes her a model for academic-practice integration.
 
-## Key Connections
-- [[Anthony Dunne]] — Design Interactions supervisor
-- [[Fiona Raby]] — Design Interactions supervisor
-- [[Design Interactions (RCA)]] — formative programme
-- [[Jon Ardern]] — Superflux co-founder
+## Key Works
+- [TED: Why We Need to Imagine Different Futures](https://www.ted.com/talks/anab_jain_why_we_need_to_imagine_different_futures) (2017)
+- [More-than-Human Centred Design (IXDA keynote)](https://vimeo.com/255010942) (2018)
+- [Ancillary Design](https://www.youtube.com/watch?v=LMHB4XJ3vHw) (2022)
+
+## Awards
+- Royal Designer for Industry (RDI), RSA (2022)
+- Honorary Doctorate, University of the Arts London (2022)
+- Dezeen Design Studio of the Year (2021, with Jon Ardern)
+- UNESCO Digital Arts Award
+- Grand Prix Geneva Human Rights Festival
+- Award of Excellence ICSID
+
+## Communities
+- [[Superflux]]
+- [[Design Investigations — dieAngewandte Vienna]]
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-26 | Biber (subagent) | Stub created during Anthony Dunne deep research. |
+| 2026-03-01 | Biber (deep research subagent) | Stub created from Superflux deep research. Needs full deep research. |
