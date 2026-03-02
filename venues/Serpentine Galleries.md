@@ -15,6 +15,7 @@ deep_researched: true
 # Serpentine Galleries
 
 ## ⚡ Recent Updates
+- **2026-03-02:** ⚠️ FAE Community Call on **March 5, 2026** (3 days away, free, open). [Register](https://serpentinegalleries.ticketing.veevartapp.com/tickets/view/list/future-art-ecosystems-community-call-05032026). FAE CFP note deep-researched and upgraded to ⭐⭐⭐.
 - **2026-02-26:** Full deep research. Comprehensive note created. R&D Platform, FAE series, pavilion history, key programmes all documented.
 - **2026:** Pavilion 2026 announced — LANZA atelier (Isabel Abascal & Alessandro Arienzo), Mexico City. June 6 – October 25, 2026. Free.
 - **2026:** Current exhibitions include Cecily Brown: *Picture Making* (Serpentine South, 27 March – 6 September 2026).
