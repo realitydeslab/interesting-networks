@@ -87,6 +87,7 @@ Philosopher of technology. Professor of Philosophy of Technology and Speculative
 - **European Graduate School** — philosophy/media theory network
 - **SCI-Arc** — Southern California Institute of Architecture, experimental architecture education
 - **MIT Press** — publishing partnership for Antikythera journal and book series
+- **[[Long Now Foundation]]** ([longnow.org](https://longnow.org/)) — Council member ("Planetary-scale computation philosopher & professor"). Wrote essay for Pace Layers journal Issue 2 (2025) on intelligence/computation/synthetic minds. Long Now's civilizational timescale thinking aligns with Antikythera's planetary computation framework.
 
 ## Key Relationships & Collaborators
 ### Core Collaborators

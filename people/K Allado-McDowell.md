@@ -30,11 +30,13 @@ Their work frames AI collaboration as a pharmacological act: AI as both poison a
 
 ## Connections
 - [[Future Art Ecosystems]] — confirmed network member
+- **[[Long Now Foundation]]** — Council member ("Artist, musician, & AI literature pioneer"). Wrote essay for Pace Layers journal Issue 2 (2025) on intelligence/computation. Confirms Long Now as key institutional home.
 - **[[Ignota Books]]** — publisher
 - **[[Holly Herndon]]** — musical collaborator
-- **[[Benjamin Bratton]]** — shared publisher (Ignota), overlapping discourse
+- **[[Benjamin Bratton]]** — shared publisher (Ignota), overlapping discourse; also both Long Now Council members
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Stub created via Creative AI Lab deep research. Discovered in FAE network list. |
+| 2026-03-02 | Biber (subagent) | Added Long Now Foundation Council membership. Wrote for Pace Layers journal #2 (2025). |

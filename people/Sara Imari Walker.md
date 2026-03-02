@@ -69,6 +69,7 @@ After Dartmouth, began postdoctoral fellowship at **[[Georgia Institute of Techn
 - **[[SAGANet]]** — Co-founder of astrobiology social network connecting researchers globally.
 - **[Blue Marble Space](https://bluemarblespace.org/)** — Board of Directors. Nonprofit education and science organization.
 - **[International Society for Artificial Life](https://alife.org/)** — Board of Directors. Leading organization for artificial life research.
+- **[[Long Now Foundation]]** ([longnow.org](https://longnow.org/)) — Council member ("Theoretical physicist, astrobiologist, & author"). Wrote essay for Pace Layers journal Issue 2 (2025) on intelligence/computation/life. Long Now's framing of 10,000-year civilizational timescale directly aligns with assembly theory's deep-time view of complexity.
 - **[Complex Systems Society](https://cssociety.org/)** — Member of global network for complex systems research.
 - **[Foundational Questions Institute (FQXi)](https://fqxi.org/)** — Fellow. Organization exploring fundamental questions in physics and cosmology.
 - **[Lifeboat Foundation](https://lifeboat.com/)** — Astrobiology/SETI Advisory Board member.
