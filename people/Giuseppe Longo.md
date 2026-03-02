@@ -1,31 +1,31 @@
 ---
 rating: ⭐⭐
-added: 2026-02-27
-last_researched: 2026-02-27
-revisit_weeks: 12
-next_research: 2026-05-27
-tags: [philosophy-of-biology, mathematics, entropy, critical-computing, alife]
-deep_researched: false
-affiliation: CNRS / École Normale Supérieure (emeritus)
+affiliation: CNRS, École Normale Supérieure (Paris); Turing Centre, Turin
 website: https://www.di.ens.fr/users/longo/
 based: Paris, France
+added: 2026-03-02
+last_researched: 2026-03-02
+deep_researched: false
+revisit_weeks: 12
+next_research: 2026-05-26
+tags: [alife, complexity, systems-theory, critical-computing]
 ---
 
 # Giuseppe Longo
 
+Mathematician, logician, and philosopher of biology at CNRS/ENS Paris. Co-author with Kauffman and Maël Montévil of "No Entailing Laws, But Enablement in the Evolution of the Biosphere" (2012) — the key philosophical statement that evolution cannot be law-entailed like physics. Works at the intersection of mathematics, logic, and philosophy of biology, arguing against the reduction of biology to computation or physics.
+
 ## ⚡ Recent Updates
-- **2026-02-27:** Stub created during Association Épokhè deep research.
-
-Mathematician and philosopher of biology. Close to the [[Association Épokhè]] / Stieglerian network. Participated in "Psychedelia and Computing: How to Bifurcate Cybernetics?" conference (Apr 2023). Works on mathematical foundations of biology, entropy, and the epistemology of life sciences. Collaborates with [[Maël Montévil]] on biological individuation and the limits of computation in biology.
-
-## Why Interesting
-His work on **why biological systems resist computable description** is foundational for ALife questions. The Longo-Montévil axis (biological anti-entropy, extended evolutionary synthesis, incompleteness of computational models of life) is highly relevant to Amber's machine behavior and open-endedness interests. Bridges mathematics, biology, and philosophy of technology.
+- **2026-03-02:** Stub created during Stuart Kauffman deep research.
 
 ## Key Works
-- Work with Maël Montévil on "Perspectives on Organisms" — biological time, symmetry and symmetry breaking
-- "The Biological Counterpart of the No-Free-Lunch Theorem"
+- "No Entailing Laws, But Enablement in the Evolution of the Biosphere" (with Kauffman & Montévil, 2012) — [arXiv:1201.2069](https://arxiv.org/abs/1201.2069)
+- Works on mathematical incompleteness in biology; limits of algorithmic models
+
+## Why Interesting
+Longo's philosophical work on why biology cannot be reduced to computation is directly relevant to Amber's interests in machine behavior and agent ethology. If biological systems are "not computational" in Longo's sense, what does that mean for AI systems modeled on biological evolution?
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
-| 2026-02-27 | Biber (subagent) | Stub created during Association Épokhè deep research. |
+| 2026-03-02 | Biber (agent) | Stub created during Stuart Kauffman deep research. |
