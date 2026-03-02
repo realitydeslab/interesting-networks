@@ -160,7 +160,9 @@ HTTF positions itself as a **reflective practice venue** within ACM HCI, distinc
 
 ## Next Edition
 
-No announced next edition as of Feb 2026. The 2024 closing session explicitly discussed "what next" for HTTF. Given the ~5-year cadence, next edition would likely be **~2028-2029**. Worth watching Stuart Reeves and Katherine Isbister for announcements.
+No announced next edition as of **March 2026**. The 2024 closing session explicitly discussed "what next" for HTTF. The halfwaytothefuture.net website still redirects to 2024 (confirmed 2026-03-02). Given the ~5-year cadence, next edition would likely be **~2028-2029** — though an accelerated 2026 edition is possible if organizers decided to break from pattern. **Watch @httfsymposium and Stuart Reeves for announcements.**
+
+See also: [CFP file](../cfps/HTTF%202026.md) for Amber-specific strategy.
 
 ## For Amber
 
@@ -213,3 +215,4 @@ Small, rotating, reflective, historically-anchored. The opposite of CHI's convey
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Initial deep research. Full two-edition history from HTTF website. Comprehensive note: 2019 + 2024 keynotes, organizers, full format, submission process, ACM publications, Amber's connection, engagement paths. |
+| 2026-03-02 | Biber (subagent) | Deep research pass for HTTF 2026 CFP. Confirmed no 2026 edition announced; site still on 2024. Added Steve Benford connection note and 2026 status watch to Next Edition section. |
