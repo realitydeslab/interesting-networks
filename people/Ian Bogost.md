@@ -31,6 +31,7 @@ American academic, video game designer, and media theorist. Professor and Direct
 - **Carpentry** — OOO's term for "making things that do philosophy" (games as philosophical arguments)
 
 ## Key Works
+- *[Racing the Beam: The Atari Video Computer System](https://mitpress.mit.edu/9780262012577/racing-the-beam/)* (MIT Press, 2009, with Nick Montfort) — founding book of Platform Studies series; establishes the field's methodology
 - *[Unit Operations: An Approach to Videogame Criticism](https://mitpress.mit.edu/books/unit-operations)* (MIT Press, 2006)
 - *[Persuasive Games: The Expressive Power of Videogames](https://mitpress.mit.edu/books/persuasive-games)* (MIT Press, 2007)
 - *[Alien Phenomenology, or What It's Like to Be a Thing](https://www.upress.umn.edu/book-division/books/alien-phenomenology-or-what-its-like-to-be-a)* (Minnesota UP, 2012) — OOO's foundational media-studies text; published in [[Graham Harman]] and [[Bruno Latour]]'s New Metaphysics series (Open Humanities Press)
@@ -41,6 +42,7 @@ American academic, video game designer, and media theorist. Professor and Direct
 - Vanguard & Virtuoso Awards, IndieCade 2010 (for *A Slow Year*)
 
 ## Key Communities
+- **[[Platform Studies]]** — Co-founder and series editor (MIT Press, 2009–present). 16+ books covering Atari, NES, Wii, Flash, Kindle, Minitel etc.
 - **[[Graham Harman]] network** — organized the 2010 OOO symposium at Georgia Tech
 - **New Metaphysics series** ([[Open Humanities Press]]) — *Alien Phenomenology* published there
 - **Game studies community** — major figure in game theory and design
