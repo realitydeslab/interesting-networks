@@ -1,6 +1,6 @@
 ---
 rating: ⭐⭐
-affiliation: HKW (Haus der Kulturen der Welt), Berlin — Head of Visual Art and Film
+affiliation: Independent curator (formerly HKW, Head of Visual Art and Film 2013–2022)
 website: https://www.hkw.de/en/
 based: Berlin, Germany
 added: 2026-02-27
