@@ -5,7 +5,7 @@ rating: ⭐⭐⭐⭐
 added: 2026-02-26
 last_researched: 2026-03-04
 revisit_weeks: 1
-next_research: 2026-03-07
+next_research: 2026-03-09
 deep_researched: true
 deadline: 2026-03-09
 status: open
@@ -17,6 +17,7 @@ url: https://ars.electronica.art/prix/en/
 # CFP: Prix Ars Electronica 2026
 
 ## ⚡ Recent Updates
+- **2026-03-04 (FINAL PRE-DEADLINE CHECK):** ✅ **Portal confirmed LIVE.** Fetched ars.electronica.art/prix/en/ and Interactive Art+ category page directly — deadline unchanged at **March 9, 2026, 2 PM CET** (labeled "Extended" on official site, consistent with prior tracking). All requirements verified identical: 3-min video, 2,000-char description, images, bio. Jury reviews in arrival order — still recommending **submit by March 7**. Submission portal URL `calls.ars.electronica.art/2026/prix/` is live but returns only a contact/login page — full form requires account creation at calls.ars.electronica.art. No rule changes, no deadline changes, no surprises. Brave Search API unavailable today (quota/auth), so no social buzz data — site verification only. **Action: Amber should submit NOW or latest March 7.**
 - **2026-03-04:** Pre-deadline verification complete. ✅ **Portal is LIVE and accepting submissions.** Deadline confirmed unchanged: **March 9, 2026, 2 PM CET** — no extensions announced. Interactive Art+ category confirmed active and open. S+T+ARTS Prize (€20,000, European Commission) also confirmed open with same deadline — this is automatic with the same submission. Requirements unchanged from prior research: 3-min video (most critical for jury), 2,000-char description, images, bio. "Jury judges in order of arrival" — **submit early, don't wait until March 9.** No new FAQ or surprise rule changes detected. Ideal submission window: **March 5–7.**
 - **2026-03-02:** Deep research completed. ⚠️ DEADLINE IN 7 DAYS — March 9, 2026, 2 PM CET. AL&I category NOT available 2026 (returns 2027). Best category for Amber: **Interactive Art+**. Full submission checklist and strategy below.
 - **2026-02-26:** Stub created.
