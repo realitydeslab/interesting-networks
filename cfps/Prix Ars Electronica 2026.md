@@ -193,14 +193,49 @@ Agent ethology, machine consciousness, ALife art, machine behavior — this is t
 
 ---
 
-## Submission Strategy (Interactive Art+, March 9)
+## 🚨 Submission Checklist — DUE BY MARCH 7 (submit early!)
 
-- [ ] **3-min video:** Walk through the HoloKit MR installation (GravField or terrified agents). Show agents moving, show human interaction, show the "coexistence" moment. Add minimal narration, let the visuals work.
-- [ ] **2,000-char description** (draft): "HoloKit is an open-source mixed reality headset deployed in 10,000+ units globally — a platform for interacting with artificial agents in shared physical space. This work asks: what does it look like when AI agents exhibit ethological behaviors — fear, play, gravity, death — alongside humans? Drawing on agent ethology (the observational study of machine behavior), we build an MR environment where autonomous agents have movement signatures, proximity behaviors, and mortality. Not AI as tool, but AI as co-inhabitor. This is the first systematic attempt to design and study human-machine behavioral grammar through mixed reality."
-- [ ] **Images:** Highest resolution available of the installation, user experience, agent visualization
-- [ ] **Bio:** Oxford PhD (HCC), ERA fellow, HoloKit inventor, Reality Design Lab
-- [ ] **AI disclosure:** agents use [model type], field-based movement algorithms, behavioral grammar design
-- [ ] **Submit** at https://ars.electronica.art/prix/en/
+> Requirements verified March 4, 2026. No changes from prior research.
+
+### Materials to prepare
+- [ ] **🎥 3-min video** (HIGHEST PRIORITY — jury's primary criterion)
+  - Show the MR installation in action: agents moving, human interaction, the coexistence moment
+  - GravField: gravitational agent fields + human bodies in space
+  - OR Terrified Agents: agents exhibiting fear/mortality behaviors
+  - Keep it visceral and documentarian — let the weirdness speak. Minimal narration.
+  - Format: upload directly to portal (no YouTube/Vimeo required, but those work)
+- [ ] **📝 2,000-char description** — exact draft:
+  > "HoloKit is an open-source mixed reality headset deployed in 10,000+ units globally — a platform for encountering artificial agents in shared physical space. This work asks: what does it look like when AI agents exhibit ethological behaviors — fear, play, gravity, death — alongside humans? Drawing on agent ethology (Tinbergen's four questions applied to machine behavior), we create an MR environment where autonomous agents have movement signatures, proximity behaviors, and mortality. Witnessed through HoloKit, these agents are not tools but co-inhabitants of space — entities with behavioral grammar, drives, and endings. This is the first systematic study of human-machine behavioral grammar made tangible through mixed reality."
+  > *(~1,040 chars — you have room to elaborate on specific behaviors, installation context, or technical realization)*
+- [ ] **🖼️ Images** — JPG/PNG, maximum resolution, with photo credits
+  - Installation shots (agents visible in MR view)
+  - User experience (person wearing HoloKit, agents around them)
+  - Technical/diagram views if available
+  - No ZIP files
+- [ ] **👤 Portrait photo + bio**
+  - Oxford PhD candidate (HCC), ERA Fellow (Cambridge, Joel Lehman), HoloKit inventor, Reality Design Lab
+  - Keep bio ~100–150 words, lean into the "art-science-technology" intersection language
+- [ ] **🤖 AI disclosure** (optional but recommended)
+  - What AI: field-based autonomous agents using [behavioral model]
+  - How: agents exhibit emergent behaviors (fear/avoidance, gravity clustering, mortality)
+  - This signals sophistication, not liability
+- [ ] **➕ Additional materials** (optional)
+  - Agent ethology paper/preprint if available
+  - GravField CHI 2026 paper abstract
+  - Any press coverage or exhibition history
+
+### Submission steps
+- [ ] Go to https://ars.electronica.art/prix/en/ → Click "Submit"
+- [ ] Select category: **Interactive Art+**
+- [ ] Upload all materials
+- [ ] **Submit by March 7** (jury reviews in order of arrival — earlier = more attention)
+- [ ] Screenshot your confirmation email
+
+### S+T+ARTS Prize (bonus — same submission)
+- [ ] Confirmed active for 2026, same March 9 deadline
+- [ ] €20,000 prize (European Commission)
+- [ ] Framing tip: HoloKit = open innovation infrastructure; EU angle = democratizing spatial computing
+- [ ] **Check during submission** whether there's a checkbox/flag for S+T+ARTS consideration — the portal handles it automatically but verify
 
 ---
 
@@ -229,3 +264,4 @@ Agent ethology, machine consciousness, ALife art, machine behavior — this is t
 |------|------------|--------|
 | 2026-02-26 | Scout (cron) | Stub created |
 | 2026-03-02 | Biber (deep-research subagent) | Deep research completed. Fetched 2026 categories page, winners page, Interactive Art+ category detail. Key finding: AL&I NOT 2026 (returns 2027). Interactive Art+ + S+T+ARTS are active. Deadline March 9 = 7 days. Strong fit for HoloKit/agent ethology work. |
+| 2026-03-04 | Biber (cron subagent) | Pre-deadline revisit (5 days out). Verified: portal live and accepting, deadline unchanged (March 9 2 PM CET), requirements unchanged, S+T+ARTS confirmed active same deadline. Jury reviews in arrival order — recommend submitting by March 7. Full submission checklist updated. |

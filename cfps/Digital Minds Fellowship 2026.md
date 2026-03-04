@@ -134,6 +134,10 @@ Cambridge Digital Minds occupies a specific intellectual position: **anticipator
 - ["Futures with Digital Minds: Expert Forecasts in 2025"](https://digitalminds.report/forecasting-2025/) — 67 researchers, 50% probability of conscious AI by 2050
 - ["Moral Concern for AI"](https://osf.io/preprints/psyarxiv/38a6j) — Allen, Lewis & Caviola (2025)
 - ["The ML Community Must Prepare for AI Consciousness, Perceived or Real"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6123206) — Caviola, Sebo & Mindermann (2026)
+- ["Subjective Experience in AI Systems: What Do AI Researchers and the Public Believe?"](https://doi.org/10.48550/arXiv.2506.11945) — Dreksler, Caviola et al. (2025) — survey of 582 AI researchers + 838 public; both groups estimate 25-30% probability of AI subjective experience by 2034
+- ["The Societal Response to Potentially Sentient AI"](https://arxiv.org/abs/2502.00388) — Caviola (2025) — framework for key variables shaping societal responses + intervention points
+- ["Public Skepticism About AI Consciousness"](https://osf.io/preprints/psyarxiv/wvbya) — Ladak & Caviola (2025) — documents widespread public skepticism; implications for public communication
+- ["Digital Minds Takeoff Scenarios"](https://forum.effectivealtruism.org/posts/2uGShxLsXWGExJYNL/digital-minds-takeoff-scenarios) — Saad & Caviola (2024)
 
 ---
 
