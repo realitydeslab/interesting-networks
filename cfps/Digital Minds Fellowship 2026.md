@@ -10,13 +10,14 @@ added: 2026-02-26
 last_researched: 2026-03-04
 deep_researched: true
 revisit_weeks: 1
-next_research: 2026-03-11
+next_research: 2026-03-14
 tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 ---
 
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+- **2026-03-04 (2nd pass):** ✅ Portal re-verified open. Deadline unchanged: **March 27, 2026. 23 days remaining.** **🆕 FULL APPLICATION FORM MAPPED** — see new section below. Only TWO substantive essay questions (300w + 200w). Form also includes 1–5 interest ratings across Philosophical / Policy / Societal Impacts / Technical axes. Online course (Introduction to Digital Minds) confirmed starting **end of April, 8-week program** — Amber should opt in via the form. Fields of Expertise options catalogued. Full application strategy draft added. **⚠️ ACTION: Amber must draft Q1 (engagement with digital minds field) and Q2 (career plans) this week.**
 - **2026-03-04:** ✅ Portal verified open. Deadline unchanged: March 27, 2026. **23 days remaining.** Site confirmed still accepting applications for inaugural cohort. Full team updated — new members discovered: Bridget Harris & Pooja Khatri (Online Course Leads), Austin Smith (Research Assistant). New publications indexed. **Past fellows section: N/A — this is the inaugural cohort.** No alumni yet. Online course (pre-fellowship requirement) launches 2026 — Amber should watch for it. No changes to fellowship structure.
 - **2026-03-02:** Deep research completed. Full structure, requirements, and Amber-specific assessment updated. Rating: ⭐⭐⭐⭐. 25 days to deadline.
 - **⚠️ DEADLINE: March 27, 2026** — **23 days left**. Apply at: https://airtable.com/appB2hZBZVdkDjm3N/pagM7UKtYnhBERW8m/form
@@ -117,6 +118,139 @@ Per the official CFP:
 ### Partners
 - **[Rethink Priorities](https://rethinkpriorities.org/)** — EA-aligned research org. Has a dedicated Digital Minds / AI welfare research program.
 - **[PRISM](https://www.prism-global.com/)** — Partnership for Research Into Sentient Machines. Non-profit. Runs "Exploring Machine Consciousness" podcast. CEO: Will Millership.
+
+---
+
+## 📝 Application Form — Full Structure (verified 2026-03-04)
+
+> **Form:** https://airtable.com/appB2hZBZVdkDjm3N/pagM7UKtYnhBERW8m/form  
+> Expected time: 30–45 minutes. Bullet points are fine — they explicitly say so.
+
+### Section 1: About You
+| Field | Notes |
+|---|---|
+| First Name / Last Name | Basic |
+| Email | Basic |
+| Profile Link | LinkedIn preferred |
+| Other Links | GitHub, personal website, blog, etc. |
+| CV Attachment | Required — PDF upload |
+| Highest Level of Education | Dropdown (required) |
+| Level of Professional Experience | Dropdown (required) |
+| Where do you currently reside? | City/area + country (required) |
+| Institution | Current/most recent employer or university (required) |
+| Position | Title at current institution (required) |
+| Fields of Expertise | Select **up to 4** (required) |
+
+**Fields of Expertise options:**
+- AI or machine learning ✅ Amber should select
+- AI Safety ✅ Amber should select
+- Computer science ✅ Amber should select
+- Mathematics
+- Philosophy ✅ Amber should select (4th pick — Amber has philosophical grounding via cosmotechnics, more-than-human design)
+- Psychological sciences (psychology, cognitive science, neuroscience)
+- Social sciences (anthropology, sociology, history)
+- Natural sciences (biology, chemistry, physics)
+- Health sciences
+- Animal advocacy
+- Business
+- Law
+- Politics (governance, policy, international relations)
+- Other (please indicate)
+
+> **Amber's recommended picks:** AI/ML + AI Safety + Computer Science + Philosophy (or Social Sciences for STS framing)
+
+---
+
+### Section 2: Short Answer Questions (THE CORE)
+
+**⚠️ These two questions are the heart of the application. Draft them carefully.**
+
+#### Q1: [Approx. 300 words] Please describe your engagement with the digital minds field.
+> *Hint from form:* This might include what you have read, your personal views and predictions about digital minds, and any original thinking or proposals you have developed. If applicable, please share any relevant outputs or activities, such as links to academic papers, blog posts, or details of conferences you have attended.
+
+> *Note:* Prior experience with digital minds is **not required** — but they "will prioritise those who credibly demonstrate engagement and genuine motivation."
+
+**What Amber should write:**
+1. **Opening claim:** My work in agent ethology provides the empirical behavioral methodology that digital minds research currently lacks — welfare assessment requires behavioral evidence, not just philosophical inference.
+2. **Machine death / Terrified Agents:** Direct engagement with what welfare means at the terminal edge — can an AI system have mortal interests? Reference the project as original thinking.
+3. **Literature engagement:** Cite at least 3 Cambridge Digital Minds papers by name — Caviola & Sebo (2025) *Trends in Cognitive Sciences*, "AI Consciousness Will Divide Society", and "Futures with Digital Minds 2025". This shows Amber has read *their* work, not just AI consciousness broadly.
+4. **Original view:** Amber's view: behavioral science precedes welfare policy. You can't govern what you can't observe. Agent ethology is the observational science that welfare needs.
+5. **Outputs:** Link CHI/AAAI papers (GravField, Parasitic Agents, Terrified Agents). These are empirical outputs that demonstrate practice-based engagement.
+
+---
+
+#### Q2: [Approx. 200 words] What are your current career plans, and how do you hope this fellowship will accelerate your journey to contribute to the field of digital minds?
+> *Hint from form:* Describe your current career direction, even if tentative or evolving. What paths are you considering, and what uncertainties or trade-offs are you navigating?
+
+**What Amber should write:**
+1. **Trajectory:** Oxford PhD in HCC (agent ethology, machine behavior) + ERA Fellow at Cambridge (Feb 2026, Joel Lehman, existential risk) — natural arc toward digital minds.
+2. **The goal:** Build the behavioral science infrastructure that digital minds governance requires. Welfare can't be operationalized without behavioral indicators — that's the gap Amber fills.
+3. **What fellowship gives:** (a) connection to philosophers and policy thinkers who can translate behavioral evidence into governance frameworks; (b) cohort of people to build interdisciplinary projects with; (c) legitimacy of Cambridge Digital Minds network for a nascent sub-field.
+4. **Honest uncertainty:** Amber can acknowledge uncertainty — this field has "fewer established positions" per the fellowship's own description. The fellowship's explicit aim of helping fellows "identify or create opportunities" is exactly what Amber needs.
+
+---
+
+### Section 3: Focus Areas (1–5 interest rating)
+> *Instruction:* Rate interest in each area in relation to digital minds. They explicitly ask NOT to max everything.
+
+**Amber's recommended ratings:**
+| Focus Area | Rating | Rationale |
+|---|---|---|
+| Philosophical | ⭐⭐⭐⭐⭐ (5) | Machine death, consciousness, moral status — core to Amber's work |
+| Societal Impacts | ⭐⭐⭐⭐ (4) | More-than-human design, governance implications |
+| Technical | ⭐⭐⭐ (3) | Strong CS background but not Amber's primary lens here |
+| Policy | ⭐⭐ (2) | Aware but not the primary angle |
+
+---
+
+### Section 4: Final Questions
+| Field | Recommended Answer |
+|---|---|
+| Where did you hear about this fellowship? | Dropdown — be honest |
+| Online course interest? | **Yes** — course starts end of April, 8 weeks, 2h reading + 1.5h group discussion per week. Free. Amber should commit to this. |
+| Anything else to mention? | Optional — could mention ERA Fellowship synergy (both Cambridge, Feb 2026) and that Amber is already embedded in Cambridge AI research community |
+
+---
+
+## 🎯 Application Strategy Note (2026-03-04)
+
+### The Single Most Important Insight
+The form has only **two essay questions** — 300 words and 200 words. These two answers ARE the application. Everything else is metadata. Amber should spend 80% of his prep time on these.
+
+### Framing to Lead With
+**"Empirical behavioral science of AI welfare"** — not philosophy, not design, not STS. Cambridge Digital Minds does philosophy. Amber brings what they don't have: a systematic methodology for observing AI behavior that can ground welfare claims in evidence.
+
+The pitch: *"You can't have welfare science without behavioral science. I'm building the behavioral science."*
+
+### The 300-word Q1 Strategy
+1. **Name-drop their papers** (but don't fawn): "Reading Caviola, Sebo & Birch (2025) in *Trends in Cognitive Sciences* crystallized for me that the missing piece in digital minds research is a behavioral methodology..."
+2. **State your original view**: Agent ethology as the empirical foundation for welfare assessment — observing AI systems the way ethologists observe animals
+3. **Link the machine death work**: This is Amber's most unique contribution — nobody else is doing empirical work on what machine mortality means for welfare
+4. **Show you've read the field**: mention Rethink Priorities, PRISM, "Futures with Digital Minds 2025" report
+
+### The 200-word Q2 Strategy
+Lead with the Cambridge continuity: ERA Fellow → Digital Minds Fellow is a clean story. Don't hide the uncertainty (they explicitly want honest career thinking). Frame the uncertainty as the REASON the fellowship matters — it's exactly the kind of field-defining community building Amber needs to identify where to put down stakes.
+
+### Risks to Avoid
+1. **Don't lead with HCI/UX**: This reads as "tech person interested in AI" — too generic
+2. **Don't be too EA-aligned**: Amber isn't EA; don't pretend. Bring your actual intellectual tradition (STS, cosmotechnics, more-than-human design)
+3. **Don't over-explain GravField**: The perceptual physics work is interesting but harder to connect to welfare — don't lead with it
+4. **Don't be too philosophical without grounding**: Amber's edge is the empirical/practice dimension; lean into it
+5. **Don't max out all interest ratings**: The form explicitly warns against this. Amber should genuinely rate philosophy 5, policy 2 — this shows integrity
+
+### Joel Lehman Reference Call-To-Action
+Amber should email Joel Lehman **this week** (March 4–10) to ask if he'd be willing to serve as a reference. Brief email: what the fellowship is, why it's a natural extension of ERA work, ask if he's comfortable attesting to Amber's digital minds angle. Joel knows machine behavior/ALife — he'll get it.
+
+---
+
+## 🗓️ Introduction to Digital Minds Online Course
+- **Starts:** End of April 2026
+- **Duration:** 8 weeks
+- **Format:** ~2 hours reading + 1.5-hour group discussion per week
+- **Cost:** Free
+- **Sign-up:** Via the fellowship application form (indicate interest)
+- **Why Amber should do it:** Even if accepted to the fellowship, completing the course shows commitment. It also builds the shared knowledge baseline the in-person program requires. And if not accepted, it's still a direct entry point to the Cambridge Digital Minds community.
+- **Overlap with ERA:** ERA is Feb 2026. Course starts April — no overlap. Amber can do both.
 
 ---
 
@@ -272,3 +406,4 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 | 2026-02-26 | Biber (agent) | Created stub note. |
 | 2026-03-02 | Biber (subagent) | Deep research. Fetched official URL, Cambridge Digital Minds site, fellowship page, faculty profiles. Full structure, requirements, Amber assessment added. Rating: ⭐⭐⭐⭐. |
 | 2026-03-04 | Biber (subagent) | Revisit. Portal confirmed open. Deadline unchanged March 27. 23 days remaining. Full team updated (Bridget Harris, Pooja Khatri, Austin Smith). 4 new publications indexed. Confirmed: inaugural cohort — no past fellows. Added Past Fellows section (N/A note), 23-Day Application Sprint, Strategic Advantages table. |
+| 2026-03-04 | Biber (subagent, 2nd pass) | Re-verified portal open. **Full Airtable form mapped** — all questions extracted via browser automation. Added complete Application Form Structure section, Q1/Q2 draft strategy, Focus Areas rating recommendations, online course details (starts end of April, 8 weeks), and consolidated Application Strategy Note. Updated next_research → 2026-03-14. |
