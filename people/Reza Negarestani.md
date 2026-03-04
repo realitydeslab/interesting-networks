@@ -1,35 +1,40 @@
 ---
-rating: ⭐⭐
-added: 2026-03-03
-last_researched: 2026-03-03
-revisit_weeks: 8
-next_research: 2026-04-28
-tags: [posthuman, critical-computing, speculative-design, philosophy, accelerationism]
-deep_researched: false
-affiliation: Independent / New Centre for Research & Practice
+rating: ⭐⭐⭐
+affiliation: The New Centre for Research & Practice (faculty)
+website: https://www.urbanomic.com/contributor/reza-negarestani/
 based: New York, USA
-website: https://www.urbanomic.com/author/reza-negarestani/
+added: 2026-03-04
+last_researched: 2026-03-04
+revisit_weeks: 8
+next_research: 2026-04-29
+tags: [theory, speculative-philosophy, posthuman, machine-behavior, accelerationism, AI]
+deep_researched: false
 ---
 
 # Reza Negarestani
 
-## ⚡ Recent Updates
-- **2026-03-03:** Stub created during Speculative Realism deep research.
+Iranian-born philosopher (now NYC-based). Central figure in the Urbanomic ecosystem. Author of *Cyclonopedia: Complicity with Anonymous Materials* (2008) — a philosophical horror novel about oil, Islam, and geopolitics that became a cult text. His major philosophical work *Intelligence and Spirit* (2018, Urbanomic/MIT Press) is a rigorous account of mind as rationalist, normative process — spirit as the structure that reasons beyond biological constraints. Concept of "inhumanism": the human as that which reasons toward something inhuman, alien, beyond biological givens. Participated in *Omnicide II* at [[Miguel Abreu Gallery]] (January 2024) with Jason Bahbak Mohaghegh.
 
-Iranian philosopher; key figure in the Urbanomic/Collapse orbit adjacent to Speculative Realism. Author of *Cyclonopedia* (2008, re.press) — a hybrid novel-theory text treating petroleum as a geological agency that conspires with human history. Co-authored *Intelligence and Spirit* (2018, Urbanomic/MIT) — a major rationalist philosophy of mind/AI. Associated with the New Centre for Research & Practice. Trajectory from SR-adjacent dark philosophy toward rigorous rationalism and philosophy of AI/AGI.
-
-## Why Interesting
-Rare trajectory: SR orbit → serious philosophy of intelligence and AI. *Intelligence and Spirit* is a rigorous philosophical treatment of sapience, normativity, and artificial general intelligence — philosophically sophisticated in a way that most AI philosophy isn't. The move from *Cyclonopedia*'s dark speculative fiction to *Intelligence and Spirit*'s rationalism is itself instructive. Connected to Urbanomic (Robin Mackay) and the broader continental philosophy-science interface.
+## Domains
+- Philosophy of mind, rationalism, agency
+- Posthumanism, inhumanism
+- Geopolitics and material theory (*Cyclonopedia*)
+- AI and intelligence
+- Continental philosophy (Kant, Hegel, Sellars, Brandom)
 
 ## Key Works
-- [*Cyclonopedia: Complicity with Anonymous Materials*](https://www.urbanomic.com/product/cyclonopedia/) (2008/2011, re.press/Urbanomic) — petroleum as autonomous agent; speculative fiction-theory
-- [*Intelligence and Spirit*](https://mitpress.mit.edu/9780995455238/intelligence-and-spirit/) (2018, Urbanomic/MIT) — rationalist philosophy of mind and AGI
-- "The Labor of the Inhuman" (2014, e-flux) — URL: https://www.e-flux.com/journal/52/59920/the-labor-of-the-inhuman/
+- [*Cyclonopedia: Complicity with Anonymous Materials*](http://www.re-press.org/books/cyclonopedia-complicity-with-anonymous-materials/) (2008) — philosophical horror, oil as agency
+- [*Intelligence and Spirit*](https://mitpress.mit.edu/9780995455245/intelligence-and-spirit/) (2018, Urbanomic/MIT Press) — major philosophical account of mind/AI
+- [*Chronosis*](https://www.urbanomic.com/product/chronosis/) (with Robin Mackay & Keith Tilford, Urbanomic) — time philosophy as graphic narrative
+- *Omnicide II* (with Jason Bahbak Mohaghegh, Urbanomic/Sequence Press, 2024)
 
-## Adjacent Topics
-[[Speculative Realism]] · [[Accelerationism]] · [[Object-Oriented Ontology]]
+## Why Interesting for Amber
+- *Intelligence and Spirit*'s account of mind as normative, rule-governed process that transcends biology maps directly onto Amber's machine behavior and agent ethology work
+- "Inhumanism" is a theoretically rigorous version of posthumanism — not just "we're all entangled" but a specific claim about what reason does to the human
+- His rationalist AI philosophy is philosophically prior to the empirical questions Amber studies
+- Already connected to [[Miguel Abreu Gallery]] / [[Urbanomic]] ecosystem which Amber should engage
 
 ## 📋 Update Log
 | Date | Researcher | Action |
-|------|------------|--------|
-| 2026-03-03 | Biber (subagent) | Stub created during SR deep research |
+|------|-----------|--------|
+| 2026-03-04 | Biber (subagent) | Stub created during Miguel Abreu Gallery deep research. |
