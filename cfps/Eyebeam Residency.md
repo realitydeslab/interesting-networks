@@ -7,9 +7,9 @@ based: New York, USA
 tags: [art-tech, residency, speculative-design, critical-computing, computational-creativity]
 interest: "⭐⭐"
 added: 2026-02-26
-last_researched: 2026-03-02
+last_researched: 2026-03-04
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-13
 deadline: 2026-03-20
 deep_researched: true
 status: open
@@ -20,6 +20,7 @@ venue: "[[Eyebeam]]"
 # CFP: Eyebeam 2026 Residency — "Speculating on Plurality"
 
 ## ⚡ Recent Updates
+- **2026-03-04 (revisit):** Re-confirmed open call live on eyebeam.org. Deadline **March 20, 2026** unchanged. Theme "Speculating on Plurality" is a strong thematic match for Amber's work — agent ethology, machine behavior, and more-than-human design all speak directly to the prompt about plurality, non-human agency, and technofeudalism. **However, hard eligibility blocks remain: NYC residency required + no full-time PhD students.** Rating stays ⭐⭐ — excellent institutional fit (⭐⭐⭐ for Eyebeam as community) but inapplicable right now. **Amber should apply post-PhD if she has NYC presence.** Suggested pitch (for future): "What does it mean for an AI agent to have a behavior? Agent Ethology as a framework for pluralistic machine futures — moving beyond alignment monoculture toward a commons of machine behaviors." Next revisit: March 13 (pre-deadline check).
 - **2026-03-02:** Full deep research. Open call confirmed LIVE as of today (March 2, 2026). Deadline is **March 20, 2026**. Key eligibility issue found: **NYC residency required** and **no full-time degree students** — Amber is likely ineligible in her current position.
 - **2026-02-26:** Stub created.
 

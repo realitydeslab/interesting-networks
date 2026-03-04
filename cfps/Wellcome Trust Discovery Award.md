@@ -7,8 +7,8 @@ urgent: true
 added: 2026-02-26
 last_researched: 2026-03-04
 deep_researched: true
-revisit_weeks: 1
-next_research: 2026-03-11
+revisit_weeks: 2
+next_research: 2026-03-18
 tags: [funding, health, science-art, more-than-human, critical-computing, embodied]
 ---
 
@@ -19,6 +19,7 @@ tags: [funding, health, science-art, more-than-human, critical-computing, embodi
 ---
 
 ## ⚡ Recent Updates
+- **2026-03-04 (revisit):** Re-confirmed on official Wellcome page: deadline still **March 31, 2026** ("Upcoming deadline in March 2026"). Co-applicant route confirmed viable — co-applicants accepted, any career stage. No new programme changes detected. Key question remains whether Max Van Kleek is actively preparing an application — if not contacted yet, this is now **CRITICAL** (27 days). Next revisit: March 18.
 - **2026-03-04:** Second deep research pass. Confirmed March 2026 deadline live on official page. Confirmed co-applicant rules: **Amber CAN be a funded co-applicant at any career stage, spending up to 100% time, with salary paid by the award.** This is stronger than previously noted. GO/NO-GO recommendation added. Updated revisit to weekly.
 - **2026-03-02:** Deep research. Eligibility confirmed: requires "established researcher" with permanent/open-ended contract. Amber is a PhD candidate — does NOT qualify as lead. Strategic paths documented: co-applicant route, supervisor-led application, or Early-Career Award after PhD. Updated from stub.
 - **2026-02-26:** Stub created.
