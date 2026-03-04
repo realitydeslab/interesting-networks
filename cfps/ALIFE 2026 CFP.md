@@ -7,7 +7,7 @@ urgent: true
 added: 2026-02-26
 last_researched: 2026-03-04
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-11
 deep_researched: true
 tags: [alife, computational-creativity, open-endedness, machine-behavior, embodied, art-science]
 ---
@@ -19,6 +19,7 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+- **2026-03-04 (revisit #3):** Weekly revisit. **26 days to deadline.** Findings: (1) **Workshops page still 404** — no accepted workshops announced yet; proposals were due Feb 20, still under review by organizing committee. (2) **No submission portal** — CFP "How to Submit" section still only references `program2026@alife.org` for queries; no EasyChair/HotCRP URL present anywhere on the site. Submit button on homepage does not yet link to a portal. (3) **March 30 paper deadline confirmed** — live CFP page unchanged. (4) **ISAL.org still inaccessible** — fetch returns no content, site appears down. (5) **No new PC announcements** — no committee info on CFP page. (6) **🏃 Sprint Day 1 status:** Today is Day 1 of the 26-day sprint. Per the sprint plan: *"Days 1–3: Lock the topic. Write 1-paragraph abstract. Share with Joel Lehman."* Amber should be choosing ONE paper idea right now — the recommended bet remains **Agent Ethology as ALife**. Next check: 2026-03-11. By then workshops should either be announced or the committee is very late.
 - **2026-03-04 (revisit #2):** Weekly revisit. **26 days to deadline.** Key findings: (1) **Workshops page still 404** — no accepted workshops announced yet; proposals were due Feb 20 (not Feb 28 as previously noted — CFP page was updated), committee is reviewing. (2) **No submission portal** — CFP page still directs to `program2026@alife.org` for submission queries; no EasyChair/HotCRP link visible yet. (3) **March 30 paper deadline confirmed unchanged** from the live CFP page. (4) **Workshop proposal deadline discrepancy found:** CFP page now reads "20 February 2026" (not Feb 28 as previously documented — likely the original deadline before extension). (5) ISAL.org returning no content — not accessible today. (6) **Action required: Amber should have a clear topic and one-paragraph abstract by now — 26 days is NOT a lot of time.** Check workshops again around March 9–11 when announcements are most likely.
 - **2026-03-04:** Weekly revisit. **26 days to deadline.** Verified CFP page — all deadlines unchanged. March 30 confirmed. Workshops page (2026.alife.org/workshops/) returns 404 — the accepted workshop list has NOT yet been published (proposals were due Feb 28; announcement pending). No ERA workshop listed yet. Submission portal not yet linked on CFP page — only contact email (program2026@alife.org) provided; portal likely opens closer to deadline. ISAL news: seeking 2026 award nominations (Feb 17). No new PC info published. **Action required: Amber should have a clear topic and outline by now — 26 days is tight for a full paper.**
 - **2026-03-02:** Deep research update. Deadlines confirmed. Status: still open. All info verified from official site.
@@ -230,3 +231,4 @@ With 26 days left, Amber needs to move fast. Recommended timeline:
 | 2026-03-02 | Biber (subagent, cfp-batch-research) | Deep research update. Verified deadlines from official site. Added review criteria, paper ideas prioritized, fit assessment ⭐⭐⭐, minimal viable 28-day path. |
 | 2026-03-04 | Biber (subagent, alife-2026-cfp-revisit) | Weekly revisit. 26 days to deadline. Deadlines unchanged (March 30). Workshops page 404 — not yet announced. No ERA workshop listed. No submission portal yet. Added Workshops section, 26-day sprint plan. |
 | 2026-03-04 | Biber (subagent, alife-2026-revisit-2026-03-04) | Weekly revisit #2. Workshops page still 404. No submission portal yet. March 30 deadline confirmed unchanged from live CFP page. Workshop proposal deadline on CFP page reads Feb 20 (not Feb 28). ISAL.org inaccessible. Updated Recent Updates entry. Next check: 2026-03-09. |
+| 2026-03-04 | Biber (subagent, alife-2026-cfp-revisit-3) | Weekly revisit #3. Workshops page still 404. No submission portal — CFP "How to Submit" still email-only. March 30 deadline confirmed. ISAL.org still inaccessible. No PC announcements. Added Sprint Day 1 status note. next_research updated to 2026-03-11. |
