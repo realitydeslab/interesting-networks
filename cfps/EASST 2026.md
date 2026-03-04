@@ -10,6 +10,7 @@ last_researched: 2026-03-03
 revisit_weeks: 0
 next_research: 2026-09-08
 tags: [critical-computing, more-than-human, posthuman, machine-behavior]
+deep_researched: true
 ---
 
 # CFP: EASST 2026 — "More Than Now"

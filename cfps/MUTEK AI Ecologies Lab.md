@@ -6,6 +6,7 @@ status: closed
 urgent: false
 added: 2026-03-03
 tags: [AI, computational-creativity, residency, art-science, generative-art]
+deep_researched: true
 ---
 
 # CFP: MUTEK AI Ecologies Lab (Annual Residency Call)

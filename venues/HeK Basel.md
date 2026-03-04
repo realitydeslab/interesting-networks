@@ -7,6 +7,7 @@ focus: [digital-art, media-art, technology]
 added: 2026-02-26
 added_via: James Bridle research
 tags: [digital-art, exhibition-space, Switzerland, media-art]
+deep_researched: true
 ---
 
 # HeK Basel → see [[HeK (House of Electronic Arts Basel)]]

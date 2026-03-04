@@ -9,6 +9,7 @@ last_researched: 2026-03-03
 revisit_weeks: 12
 next_research: 2026-06-03
 tags: [posthuman, art-science, more-than-human, mortality, death]
+deep_researched: true
 ---
 
 # CFP: SLSAeu 2027 Basel — "Death & Dying"
