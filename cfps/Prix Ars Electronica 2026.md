@@ -5,7 +5,7 @@ rating: ⭐⭐⭐⭐
 added: 2026-02-26
 last_researched: 2026-03-04
 revisit_weeks: 1
-next_research: 2026-03-08
+next_research: 2026-03-07
 deep_researched: true
 deadline: 2026-03-09
 status: open
