@@ -182,6 +182,66 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 
 ---
 
+---
+
+## Past Fellows
+
+> **⚠️ N/A — Inaugural Cohort.** This is the first-ever Digital Minds Fellowship (August 2026). There are no past fellows. Amber would be a founding fellow.
+
+**What this means strategically:**
+- No alumni network to benchmark against — the bar is set by the organizers' judgment, not past precedent
+- Being cohort 1 has outsized positioning value as the field matures
+- The organizers are actively shaping what a "digital minds researcher" looks like — Amber can help define that
+- Watch digitalminds.cam after August 2026 for cohort announcements
+
+---
+
+## 🏃 23-Day Application Sprint (by March 27, 2026)
+
+**Today: March 4, 2026 | Deadline: March 27, 2026**
+
+### Week 1 (Mar 4–10): Foundations
+- [ ] **Access the Airtable form** and read all questions carefully: https://airtable.com/appB2hZBZVdkDjm3N/pagM7UKtYnhBERW8m/form
+- [ ] **Read 3–4 key Cambridge Digital Minds papers** to speak their language (esp. "AI Consciousness Will Divide Society", "Futures with Digital Minds", and the Trends in Cognitive Sciences piece)
+- [ ] **Draft research statement** (see framing below) — 1st pass, don't edit yet
+- [ ] **Identify 2 referees** — who can speak to Amber's work on machine behavior/mortality? Joel Lehman (ERA advisor) is perfect. Consider Max Van Kleek.
+
+### Week 2 (Mar 11–17): Drafting
+- [ ] **Polish research statement** — articulate the empirical contribution clearly
+- [ ] **Write project description** — what would Amber *do* at the fellowship? What project would he scope? (Agent ethology as welfare measurement framework? Machine death as welfare terminal state?)
+- [ ] **Update CV** — emphasize machine behavior, more-than-human design, ALife; de-emphasize pure HCI/UX work
+- [ ] **Contact referees** — give them 2 weeks' notice
+
+### Week 3 (Mar 18–26): Finalize
+- [ ] **Amber proofreads everything** (use claude-opus per preferences)
+- [ ] **Check Cambridge Digital Minds online course** — is it live? Demonstrate familiarity with core literature if not
+- [ ] **Submit by March 26** (one day early buffer)
+
+### Research Statement Core Argument
+> "I study AI agents the way ethologists study animals — through systematic behavioral observation in real environments. My work on agent ethology establishes observational protocols for machine behavior in the wild. Machine death research confronts the question of whether AI systems have mortal interests — a direct welfare question. Together, these form an empirical methodology for digital minds questions that are currently addressed mainly through philosophical speculation. I want to bring this to Cambridge Digital Minds to build the behavioral science foundation that welfare assessment requires."
+
+### What Makes Amber's Application Stand Out
+1. **Empirical methodology** — most digital minds researchers are philosophers; Amber brings CHI/AAAI empirical rigor
+2. **Cambridge presence** — ERA Fellow at Cambridge Feb 2026, knows the local research culture
+3. **Joel Lehman as referee** — ERA advisor, known in AI safety/ALife community, credible to Cambridge Digital Minds
+4. **Machine death** — no one else is doing this; speaks directly to welfare + mortality
+5. **HoloKit / design practice** — shows he can build, not just theorize; unusual in this field
+6. **Non-EA perspective** — they want interdisciplinary; Amber brings STS/design/cosmotechnics framing that EA researchers don't have
+
+### Strategic Advantages
+| Advantage | Why It Matters |
+|---|---|
+| Cambridge ERA Fellowship (Feb 2026) | Shows embedded Cambridge network; narrative continuity |
+| Joel Lehman as ERA advisor | Well-known in AI safety space adjacent to digital minds; strong reference |
+| Max Van Kleek as supervisor | Oxford HCC credibility; can attest to empirical rigor |
+| HoloKit 10K units | Demonstrates builder credibility; unusual in philosophy-heavy field |
+| Machine death research | Direct intersection with welfare + mortality — core to digital minds |
+| Agent ethology | Behavioral methodology fills gap in primarily philosophical field |
+| CHI + AAAI papers | Cross-disciplinary publications; HCI + AI credibility |
+| Oxford + Cambridge dual presence | Geographic + institutional ideal match for a UK-based Cambridge fellowship |
+
+---
+
 ## Why Relevant
 
 1. **Nascent field = maximum influence.** Digital minds research is 2-3 years old as a serious academic field. Being in cohort 1 of its flagship fellowship = founding figure potential.
@@ -211,3 +271,4 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Created stub note. |
 | 2026-03-02 | Biber (subagent) | Deep research. Fetched official URL, Cambridge Digital Minds site, fellowship page, faculty profiles. Full structure, requirements, Amber assessment added. Rating: ⭐⭐⭐⭐. |
+| 2026-03-04 | Biber (subagent) | Revisit. Portal confirmed open. Deadline unchanged March 27. 23 days remaining. Full team updated (Bridget Harris, Pooja Khatri, Austin Smith). 4 new publications indexed. Confirmed: inaugural cohort — no past fellows. Added Past Fellows section (N/A note), 23-Day Application Sprint, Strategic Advantages table. |
