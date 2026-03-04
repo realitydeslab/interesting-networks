@@ -7,18 +7,19 @@ status: open
 urgent: true
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-02
+last_researched: 2026-03-04
 deep_researched: true
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-11
 tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 ---
 
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+- **2026-03-04:** ✅ Portal verified open. Deadline unchanged: March 27, 2026. **23 days remaining.** Site confirmed still accepting applications for inaugural cohort. Full team updated — new members discovered: Bridget Harris & Pooja Khatri (Online Course Leads), Austin Smith (Research Assistant). New publications indexed. **Past fellows section: N/A — this is the inaugural cohort.** No alumni yet. Online course (pre-fellowship requirement) launches 2026 — Amber should watch for it. No changes to fellowship structure.
 - **2026-03-02:** Deep research completed. Full structure, requirements, and Amber-specific assessment updated. Rating: ⭐⭐⭐⭐. 25 days to deadline.
-- **⚠️ DEADLINE: March 27, 2026** — 25 days left. Apply at: https://airtable.com/appB2hZBZVdkDjm3N/pagM7UKtYnhBERW8m/form
+- **⚠️ DEADLINE: March 27, 2026** — **23 days left**. Apply at: https://airtable.com/appB2hZBZVdkDjm3N/pagM7UKtYnhBERW8m/form
 - **2026-02-26:** Created. 29 days until deadline.
 
 ---
@@ -107,6 +108,11 @@ Per the official CFP:
 
 ### Module Faculty
 - **[Derek Shiller](https://derekshiller.com/)** — Rethink Priorities. Applied philosophy and artificial cognition. NYC-based. Leads Module 1.
+
+### Program & Operations Staff
+- **Bridget Harris** — Online Course Lead. Will run the Digital Minds online course (prerequisite for fellowship).
+- **Pooja Khatri** — Online Course Lead (co-runs with Bridget Harris).
+- **Austin Smith** — Research Assistant.
 
 ### Partners
 - **[Rethink Priorities](https://rethinkpriorities.org/)** — EA-aligned research org. Has a dedicated Digital Minds / AI welfare research program.

@@ -3,9 +3,9 @@ venue: "[[Ars Electronica]]"
 type: award/competition/open-call
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-02
+last_researched: 2026-03-04
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-08
 deep_researched: true
 deadline: 2026-03-09
 status: open
@@ -17,6 +17,7 @@ url: https://ars.electronica.art/prix/en/
 # CFP: Prix Ars Electronica 2026
 
 ## ⚡ Recent Updates
+- **2026-03-04:** Pre-deadline verification complete. ✅ **Portal is LIVE and accepting submissions.** Deadline confirmed unchanged: **March 9, 2026, 2 PM CET** — no extensions announced. Interactive Art+ category confirmed active and open. S+T+ARTS Prize (€20,000, European Commission) also confirmed open with same deadline — this is automatic with the same submission. Requirements unchanged from prior research: 3-min video (most critical for jury), 2,000-char description, images, bio. "Jury judges in order of arrival" — **submit early, don't wait until March 9.** No new FAQ or surprise rule changes detected. Ideal submission window: **March 5–7.**
 - **2026-03-02:** Deep research completed. ⚠️ DEADLINE IN 7 DAYS — March 9, 2026, 2 PM CET. AL&I category NOT available 2026 (returns 2027). Best category for Amber: **Interactive Art+**. Full submission checklist and strategy below.
 - **2026-02-26:** Stub created.
 
@@ -27,6 +28,18 @@ url: https://ars.electronica.art/prix/en/
 The **Prix Ars Electronica** is the world's longest-running and most prestigious media art competition — widely called the "Oscar of digital art." Established 1987 by Hannes Leopoldseder, it receives ~3,000–4,000 submissions annually from ~100 nations. Winners receive the **Golden Nica** (statuette + €10,000 + prominent festival appearance at [Ars Electronica Festival](https://ars.electronica.art/festival/en/) in Linz, Austria).
 
 **One submission → three competitions:** A single submission automatically enters the Prix Ars Electronica, and can also be considered for the [S+T+ARTS Prize](https://starts-prize.aec.at/en/) (European Commission, €20,000 per winner) and other partnered awards.
+
+---
+
+---
+
+## ⚠️ CRITICAL: 5 DAYS TO DEADLINE
+
+> **Portal confirmed OPEN as of March 4, 2026.** Deadline is **March 9, 2026, 2:00 PM CET**. No extensions, no changes detected.
+>
+> S+T+ARTS Prize (€20,000) also confirmed active — **same submission, automatic entry.**
+>
+> **Jury reviews in order of arrival. Don't wait until March 9. Submit by March 7 at latest.**
 
 ---
 

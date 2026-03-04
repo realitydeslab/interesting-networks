@@ -2,6 +2,7 @@
 rating: ⭐⭐⭐
 added: 2026-02-26
 last_researched: 2026-02-26
+deep_researched: true
 revisit_weeks: 4
 next_research: 2026-03-26
 tags: [machine-behavior, alife, more-than-human, critical-computing, edge-of-chaos]
