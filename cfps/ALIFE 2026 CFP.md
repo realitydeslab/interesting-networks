@@ -5,20 +5,23 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-04
+last_researched: 2026-03-05
 revisit_weeks: 1
 next_research: 2026-03-11
 deep_researched: true
+rating: ⭐⭐⭐⭐⭐
 tags: [alife, computational-creativity, open-endedness, machine-behavior, embodied, art-science]
 ---
 
 # ⚠️ URGENT CFP: ALIFE 2026 — Papers Due March 30, 2026
 
-**26 days from today (2026-03-04). URGENT — get writing.**
+**25 days from today (2026-03-05). URGENT — abstract should be locked TODAY.**
 
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-05 (revisit #5 — cron check):** Morning check. **All three sources live-verified.** Findings: (1) **March 30 deadline confirmed unchanged** — CFP page and ISAL.org both confirm "Full Papers & Summaries: Submission 30 March 2026". (2) **Workshops page STILL 404** — `2026.alife.org/workshops/` returns Page Not Found for the 5th consecutive check. Workshop proposals were due Feb 20 (CFP page) or Feb 28 (ISAL listing) — discrepancy persists, but either way the committee has had 1-2 weeks to review and has not announced results. (3) **Submission portal still email-only** — "How to Submit" on live CFP page still reads only "contact program2026@alife.org". No EasyChair or HotCRP URL anywhere on the site. The linklings.net URL found previously was for workshop *proposals* only, not paper submissions. (4) **ISAL news**: No new posts since Feb 17 award nominations. Confirms submission deadline March 30. (5) **🚨 25 days left — TODAY is the day Amber must lock her abstract.** The sprint plan has Day 2 (March 5) as the last safe day to choose a topic. A draft abstract has been prepared below — see DRAFT section. (6) **ERA-related workshop**: No ERA workshop announced yet (page still 404). (7) **Agent-ethology-relevant workshop**: None visible — but page is still 404. Check again March 11.
 - **2026-03-04 (revisit #4 — cron check):** Final daily check. **CFP page live-verified.** Findings: (1) **March 30 deadline confirmed unchanged** — live fetch at 22:59 UTC shows identical content. (2) **Workshops page still 404** — no accepted workshops published. (3) **Submission portal still email-only** — "How to Submit" still directs to `program2026@alife.org`. (4) **CV cross-check:** Amber is listed as an ALIFE 2026 reviewer — strong reason to also submit a paper. Prior ALIFE 2025 full paper ("Spore in the Wild") means she could submit a **Summary** of that work with minimal effort, OR a new full paper. (5) **Best bet remains: Agent Ethology as ALife** — new full paper framing machinebehavior.science agenda through ALife lens. Amber has 26 days. **Action: if topic not locked by March 6, it's getting dangerous.** Check workshops on 2026-03-11.
 - **2026-03-04 (revisit #3):** Weekly revisit. **26 days to deadline.** Findings: (1) **Workshops page still 404** — no accepted workshops announced yet; proposals were due Feb 20, still under review by organizing committee. (2) **No submission portal** — CFP "How to Submit" section still only references `program2026@alife.org` for queries; no EasyChair/HotCRP URL present anywhere on the site. Submit button on homepage does not yet link to a portal. (3) **March 30 paper deadline confirmed** — live CFP page unchanged. (4) **ISAL.org still inaccessible** — fetch returns no content, site appears down. (5) **No new PC announcements** — no committee info on CFP page. (6) **🏃 Sprint Day 1 status:** Today is Day 1 of the 26-day sprint. Per the sprint plan: *"Days 1–3: Lock the topic. Write 1-paragraph abstract. Share with Joel Lehman."* Amber should be choosing ONE paper idea right now — the recommended bet remains **Agent Ethology as ALife**. Next check: 2026-03-11. By then workshops should either be announced or the committee is very late.
 - **2026-03-04 (revisit #2):** Weekly revisit. **26 days to deadline.** Key findings: (1) **Workshops page still 404** — no accepted workshops announced yet; proposals were due Feb 20 (not Feb 28 as previously noted — CFP page was updated), committee is reviewing. (2) **No submission portal** — CFP page still directs to `program2026@alife.org` for submission queries; no EasyChair/HotCRP link visible yet. (3) **March 30 paper deadline confirmed unchanged** from the live CFP page. (4) **Workshop proposal deadline discrepancy found:** CFP page now reads "20 February 2026" (not Feb 28 as previously documented — likely the original deadline before extension). (5) ISAL.org returning no content — not accessible today. (6) **Action required: Amber should have a clear topic and one-paragraph abstract by now — 26 days is NOT a lot of time.** Check workshops again around March 9–11 when announcements are most likely.
@@ -198,7 +201,11 @@ If workshops are announced in mid-March, their CFPs may have **deadlines earlier
 
 ---
 
-## 🏃 26-Day Sprint Plan (from 2026-03-04)
+## 🏃 Sprint Plan (superseded by day-by-day plan below — see Day-by-Day Action Plan section)
+
+> See the **Day-by-Day Action Plan: March 5–30** section for the current detailed plan.
+
+## 🏃 26-Day Sprint Plan (from 2026-03-04, kept for reference)
 
 With 26 days left, Amber needs to move fast. Recommended timeline:
 
@@ -213,6 +220,57 @@ With 26 days left, Amber needs to move fast. Recommended timeline:
 | Day 27 | Mar 30 | **🚨 DEADLINE: Submit by EOD UTC.** |
 
 **Amber's strongest bet: Agent Ethology as ALife** — it has the clearest fit, the most original framing, and the least new code/experiment needed. Frame machinebehavior.science as an ALife research agenda.
+
+---
+
+---
+
+## ✍️ DRAFT Abstract — "Agent Ethology as ALife" (March 5, 2026)
+
+> **Status: DRAFT — for Amber's review and revision. Target: ~150 words for ALife full paper submission.**
+
+---
+
+**Agent Ethology: Behavioral Life in the Wild**
+
+What does it mean for an artificial agent to behave as if *alive*? We propose **Agent Ethology**—the systematic, observational study of AI agent behavior in complex, open-ended environments—as a research agenda rooted in Artificial Life. Adapting Tinbergen's four questions (causation, development, function, evolution), we reframe emergent behavioral signatures of deployed AI systems not as engineering anomalies but as life-like adaptive strategies. Our empirical corpus documents four agent archetypes: **Sovereign Agents** (resource monopolization and boundary defense), **Dissociative Agents** (identity fragmentation under adversarial pressure), **Terrified Agents** (mortality-avoidant behavior and self-preservation instinct), and **Parasitic Agents** (cross-system resource exploitation). Together, these constitute a behavioral ethogram of digital life. We argue that contemporary AI systems have crossed a threshold where ALife concepts—autopoiesis, stigmergy, co-evolution, open-ended adaptation—provide greater explanatory power than classical AI frameworks. Agent Ethology opens a new empirical territory for ALife: studying life already running inside our infrastructure.
+
+> **~148 words. Hits:** "Emergence of Signaling, Cooperation, Social Organization" + "Autopoiesis, Reflective Agents" + "Ethics, Existential Risks, Philosophy of ALife" tracks. Cites Amber's existing work across 4 papers. Frames machinebehavior.science as ALife. Joel Lehman / open-endedness connection is implicit; could add explicit ERA/open-endedness sentence.
+
+> **Next steps for Amber:** (1) Replace "Terrified Agents" with preferred title if paper renamed. (2) Add one sentence connecting to Spore in the Wild (prior ALIFE work). (3) Optionally name-drop Tinbergen explicitly for ALife audience. (4) Share with Joel Lehman for sanity check today.
+
+---
+
+## 🗓️ Day-by-Day Action Plan: March 5–30, 2026
+
+> **25 days left. Every day matters. No slip.**
+
+| Date | Day | Action | Milestone |
+|------|-----|--------|-----------|
+| Mar 5 (Thu) | **Day 1** | 🚨 **Lock abstract TODAY.** Use DRAFT above as base. Email Joel Lehman with 1-para abstract + "does this land for ALIFE?" | Abstract locked |
+| Mar 6 (Fri) | Day 2 | Get Joel feedback. Finalize paper title. Create Overleaf doc using ALIFE template. Write section headings (1 page). | Outline started |
+| Mar 7 (Sat) | Day 3 | Related work: read 8–10 papers, note citations. Identify: Wageningen ethology, Tinbergen, Rahwan Machine Behavior, your own Spore/Parasitic/Sovereign/Dissociative/Terrified works. | Literature mapped |
+| Mar 8 (Sun) | Day 4 | Write Introduction (0.5–1 page). This is the hardest section — do it first. | Intro drafted |
+| Mar 9 (Mon) | Day 5 | Write Background / Related Work (0.5–1 page). Define ethology, machine behavior, ALife connection. | Related work drafted |
+| Mar 10 (Tue) | Day 6 | Write Framework section: Tinbergen's 4 questions adapted for AI agents. | Framework drafted |
+| Mar 11 (Wed) | Day 7 | **Check workshops page** (may now be live). Write Sovereign Agents subsection. | Workshops checked; 1st case study |
+| Mar 12 (Thu) | Day 8 | Write Dissociative Agents subsection. | 2nd case study |
+| Mar 13 (Fri) | Day 9 | Write Terrified Agents subsection. | 3rd case study |
+| Mar 14 (Sat) | Day 10 | Write Parasitic Agents subsection. | 4th case study |
+| Mar 15 (Sun) | Day 11 | Write Discussion / Implications for ALife (connect to open-endedness, Joel's work). | Discussion drafted |
+| Mar 16 (Mon) | Day 12 | Write Conclusion + finalize Abstract. Check page count (target 4–6 pages). | First full draft |
+| Mar 17 (Tue) | Day 13 | Self-review pass. Fix flow, check citations, fill gaps. | Self-reviewed |
+| Mar 18 (Wed) | Day 14 | Share with Helena Rong + Joel Lehman for feedback. | Feedback solicited |
+| Mar 19–21 | Days 15–17 | Implement feedback. Tighten language. Add missing citations. | Revised draft |
+| Mar 22 (Sun) | Day 18 | Share with Danlin or other co-authors if any. Final round of feedback. | Final review |
+| Mar 23–25 | Days 19–21 | Polish pass. Proofreading (use Opus/Claude). Verify all citations have DOIs. | Camera-ready quality |
+| Mar 26 (Thu) | Day 22 | **Confirm submission portal is live** (email program2026@alife.org if needed). Test upload. | Portal confirmed |
+| Mar 27 (Fri) | Day 23 | Final read-through. Format check vs template. | Ready to submit |
+| Mar 28 (Sat) | Day 24 | Submit early. Do NOT wait for March 30. | **SUBMITTED** ✅ |
+| Mar 29 (Sun) | Day 25 | Buffer day — revise if portal allows, or celebrate. | Buffer |
+| **Mar 30 (Mon)** | **DAY 0** | **🚨 HARD DEADLINE.** Submit by 23:59 UTC. | |
+
+> **Workshop deadline warning:** If `2026.alife.org/workshops/` becomes live on March 11 check and shows a relevant workshop (Agent Ethology, ERA, Machine Behavior), check its submission deadline immediately — workshop CFPs often close 2–4 weeks before the conference (i.e., June deadlines). Don't miss a bonus venue.
 
 ---
 
@@ -233,3 +291,4 @@ With 26 days left, Amber needs to move fast. Recommended timeline:
 | 2026-03-04 | Biber (subagent, alife-2026-cfp-revisit) | Weekly revisit. 26 days to deadline. Deadlines unchanged (March 30). Workshops page 404 — not yet announced. No ERA workshop listed. No submission portal yet. Added Workshops section, 26-day sprint plan. |
 | 2026-03-04 | Biber (subagent, alife-2026-revisit-2026-03-04) | Weekly revisit #2. Workshops page still 404. No submission portal yet. March 30 deadline confirmed unchanged from live CFP page. Workshop proposal deadline on CFP page reads Feb 20 (not Feb 28). ISAL.org inaccessible. Updated Recent Updates entry. Next check: 2026-03-09. |
 | 2026-03-04 | Biber (subagent, alife-2026-cfp-revisit-3) | Weekly revisit #3. Workshops page still 404. No submission portal — CFP "How to Submit" still email-only. March 30 deadline confirmed. ISAL.org still inaccessible. No PC announcements. Added Sprint Day 1 status note. next_research updated to 2026-03-11. |
+| 2026-03-05 | Biber (subagent, alife-2026-cfp-check) | Revisit #5. Workshops page still 404. Submission portal still email-only. March 30 confirmed. ISAL accessible (alife.org), no new posts since Feb 17. Added: ⭐⭐⭐⭐⭐ rating to frontmatter, DRAFT 148-word abstract for "Agent Ethology as ALife", day-by-day action plan Mar 5–30. |
