@@ -6,9 +6,9 @@ status: open
 urgent: true
 rating: ⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-02
+last_researched: 2026-03-05
 revisit_weeks: 2
-next_research: 2026-03-16
+next_research: 2026-03-19
 deep_researched: true
 tags: [art-science, computational-creativity, critical-computing, speculative-design, more-than-human, posthuman]
 ---
@@ -16,6 +16,7 @@ tags: [art-science, computational-creativity, critical-computing, speculative-de
 # CFP: Serpentine Arts Technologies — R&D Platform & Digital Commissions
 
 ## ⚡ Recent Updates
+- **2026-03-05 (FAE call day):** Community Call scheduled for today — no public outcome announced yet (calls of this type rarely publish same-day summaries). Serpentine site confirms FAE5 (*Art x Creative R&D*) is the latest briefing; FAE6 has not been announced publicly. futureartecosystems.org is active, network 200+, no new open calls or commissions visible. **S+T+ARTS Prize 2026** checked: this is a *separate* EU/Ars Electronica initiative (NOT Serpentine-run) — open call deadline extended to **March 9, 2026** (€20,000 prize, submissions at starts-prize.aec.at). No new Serpentine commissions or open calls found today. **Action for Amber:** If registered, attend/attend recording of today's Community Call. Join FAE Telegram for any follow-up notes. The S+T+ARTS Prize (deadline Mar 9) is a separate opportunity worth considering.
 - **2026-03-02:** Full deep research. No single open call — rolling/invitation-based engagement. URGENT: FAE Community Call is **March 5, 2026** (3 days away). Multiple actionable entry points documented.
 - **2026-02-26:** Stub created.
 
@@ -158,4 +159,5 @@ FAE5 explicitly advocates for Creative R&D as UK industrial strategy. Amber's Re
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Stub created. |
+| 2026-03-05 | Biber (subagent, serpentine-fae-check) | FAE call day check. No new open calls found. FAE5 still latest briefing; FAE6 not announced. S+T+ARTS Prize 2026 is a separate EU/Ars Electronica initiative (deadline Mar 9, €20k). Community Call outcome not yet published publicly. |
 | 2026-03-02 | Biber (subagent, dr-serpentine) | Full deep research. Fetched serpentinegalleries.org/arts-technologies/, futureartecosystems.org, R&D Platform page. No active open call found — rolling/relationship-based. Documented 3 programmes, 5 FAE briefings, Digital Commissions precedents, FAE network (200+). Identified March 5 FAE Community Call as URGENT. Rated ⭐⭐⭐ (upgraded from ⭐⭐) per §22: direct fit, London proximity, Bogna Konior warm intro, HoloKit AR precedent. |
