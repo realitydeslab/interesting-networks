@@ -4,9 +4,9 @@ rating: ⭐⭐⭐
 type: conference
 frequency: annual
 added: 2026-02-26
-last_researched: 2026-02-26
+last_researched: 2026-03-04
 revisit_weeks: 2
-next_research: 2026-03-12
+next_research: 2026-03-19
 tags: [alife, computational-creativity, open-endedness, more-than-human, machine-behavior, embodied, art-science]
 deep_researched: true
 ---
@@ -16,6 +16,7 @@ deep_researched: true
 The world's premiere venue for Artificial Life research — where "life-as-it-could-be" is studied, synthesized, and celebrated. Annual. Spans soft robotics, synthetic biology, digital evolution, complex adaptive systems, origins of life, open-ended evolution, and art-AI intersection. Organized under the auspices of [[ISAL]]. Proceedings published by MIT Press as open access.
 
 ## ⚡ Recent Updates
+- **2026-03-04:** Scout update. **⚠️ ISAL 2026 Award nominations deadline is March 8** (4 days!) — nomination form: <https://forms.gle/bkd4ireJSSUcyNmv7>. Awards Chair: Stefano Nichele. ALIFE 2026 workshops page (2026.alife.org/workshops/) is still 404 — accepted workshops not yet publicly listed even though proposals deadline passed Feb 28. Venue details confirmed: plenary/parallel sessions at Lazaridis School of Business & Economics (Wilfrid Laurier) and Davis Centre (UWaterloo). A virtual ISAL-affiliated conference also listed on alife.org with submission deadline ~March 6, 2026 (dates unclear on site). Paper deadline March 30 still stands. Web search API unavailable this cycle; no new off-site news found.
 - **2026-02-26:** Deep research completed. Full profile built. ALIFE 2026 CFP is OPEN — papers due March 30! Workshop deadline already passed (Feb 28).
 - **2025-11-03:** ALIFE 2025 awards announced. Best paper: Kiara Johnson, Connor Croft, Anya Vostinar, Alexander Lalejini, Emily Dolson — endosymbiotic coevolution.
 - **2025-10-10:** ALIFE 2025 concluded in Kyoto, Japan. Theme: "Ciphers of Life." Organized by Cross Labs.
@@ -179,6 +180,16 @@ Celebrating fundamental science; "weird and wacky of ALife" — an explicit reje
 - **Art Track** — explicit art submissions track; dedicated art keynotes (ALIFE 2025 had Nao Tokui, Takashi Ikegami, Tatsuya Daikoku as Art Keynote panelists)
 - **Hackathon** — annual ALIFE hackathon (ALIFE 2025 winners: Robb Walters, Rafael Irgolič)
 
+### ⚠️ ISAL 2026 Award Nominations — Deadline March 8, 2026
+Nominations open for all 2026 ISAL Awards. Nomination form: <https://forms.gle/bkd4ireJSSUcyNmv7>. Self-nominations welcome. Awards Chair: Stefano Nichele.
+- **Lifetime Achievement Award** — profound contributions to the field
+- **Distinguished Early-Career Investigator Award** — within ~10 years of PhD
+- **Exceptional Service Award** — community organizing, resources, ISAL administration
+- **Outstanding Publication of 2025** — any venue, 2025 calendar year
+- **Outstanding Publication of the Decade, 2011–2021** — impactful work from 5–15 years ago
+- **Education and Outreach Award** — teaching ALife or using ALife to teach
+- **Outstanding Student Publication** — judged by ERA (ISAL student group); eligibility within ~3 years of graduation
+
 ---
 
 ## For Amber
@@ -236,3 +247,4 @@ ALIFE is one of the few venues where the question "what IS life?" is taken serio
 |------|-----------|--------|
 | 2026-02-26 | Biber (subagent) | Initial stub created by scout |
 | 2026-02-26 | Biber (subagent, deep-research-alife-isal) | Deep research completed. Full profile: history, keynotes, CFP details, all topics, For Amber analysis. |
+| 2026-03-04 | Biber (scout cron) | Refresh: checked alife.org and 2026.alife.org. Found ISAL 2026 award nominations open (deadline March 8!). Workshops page still 404. Venue session details confirmed. No new keynotes or major announcements yet. Web search API unavailable. |

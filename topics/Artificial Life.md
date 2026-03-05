@@ -1,16 +1,20 @@
 ---
 rating: ⭐⭐⭐
 added: 2026-02-26
-updated: 2026-02-26
+updated: 2026-03-04
 tags: [alife, computational-creativity, open-endedness, machine-behavior, more-than-human, social-simulation]
 deep_researched: true
-last_researched: 2026-02-26
+last_researched: 2026-03-04
 revisit_weeks: 3
-next_research: 2026-03-19
+next_research: 2026-03-26
 edge_of_chaos: true
 ---
 
 # Artificial Life
+
+## ⚡ Recent Updates
+- **2026-03-04:** Scout update. No major new papers or announcements found since Feb 26 (web search API unavailable this cycle; verified via direct site fetches only). **ISAL 2026 award nominations are open — deadline March 8** — categories include Outstanding Publication of 2025 and Outstanding Student Publication (judged by ERA). ALIFE 2026 workshops page still not live, paper deadline March 30 unchanged. Landscape unchanged: open-endedness, LLM agent ecosystems, and machine behavior remain the hot active threads. No new landmark papers from Stanley/Lehman/Clune group confirmed this cycle. Field remains edge-of-chaos, high-momentum.
+- **2026-02-26:** Initial deep research. Full topic profile built. Confirmed edge-of-chaos status. Mapped sub-topics, key people, venues, fellowships, and Amber's engagement paths.
 
 **Life-as-it-could-be.** Artificial Life (ALife) is the study of life and life-like processes through simulation, synthesis, and theory. Unlike biology (which studies "life as we know it"), ALife explores "life as it could be" — asking what principles make something alive, adaptive, creative, or evolving, regardless of substrate. The field spans software simulation ("soft" ALife), robotics ("hard" ALife), and biochemistry ("wet" ALife).
 
@@ -280,7 +284,8 @@ Physical robots that evolve and self-organize.
 | 2025-10 | ALIFE 2025 in Kyoto — organized by Cross Labs, keynotes from Wolfram, Levin, Agüera y Arcas, Ha, Stanley, Tang |
 | 2025-11 | ISAL board elections — Chrystopher Nehaniv, Stefano Nichele elected |
 | 2026-02 | ISAL calls for 2026 award nominations |
-| 2026-02-28 | ⚠️ ALIFE 2026 workshop proposal deadline |
+| 2026-02-28 | ⚠️ ALIFE 2026 workshop proposal deadline — PASSED (workshops pending announcement) |
+| 2026-03-08 | ⚠️ ISAL 2026 Award nominations deadline |
 | 2026-03-30 | ⚠️ ALIFE 2026 paper submission deadline |
 | 2026-08 | ALIFE 2026 in Waterloo, Canada |
 
@@ -291,3 +296,11 @@ ALife is Amber's natural intellectual home. The field asks the deepest questions
 ## Suggested Re-research Period
 
 **Monthly.** This field is evolving fast — new papers on LLM agent ecosystems, open-endedness, and related topics appear weekly. The ALIFE 2026 deadlines in Feb-March 2026 make immediate monitoring essential. After ALIFE 2026, can shift to bi-monthly.
+
+---
+
+## 📋 Update Log
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-02-26 | Biber (subagent, deep-research-alife-isal) | Initial deep research. Full topic profile built. Confirmed edge-of-chaos status. |
+| 2026-03-04 | Biber (scout cron) | Refresh. Checked alife.org. ISAL 2026 award nominations open (deadline March 8). No new landmark papers found (web search API unavailable). Timeline updated. ⚡ Recent Updates section added. Frontmatter dates updated. |
