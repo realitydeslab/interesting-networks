@@ -3,7 +3,7 @@ venue: "[[Ars Electronica]]"
 type: award/competition/open-call
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-04
+last_researched: 2026-03-05
 revisit_weeks: 1
 next_research: 2026-03-07
 deep_researched: true
@@ -17,6 +17,8 @@ url: https://ars.electronica.art/prix/en/
 # CFP: Prix Ars Electronica 2026
 
 ## ⚡ Recent Updates
+- **2026-03-05 (FINAL COUNTDOWN — 4 DAYS OUT):** ✅ **ALL CONFIRMED. DEADLINE STANDS. SUBMIT BY MARCH 7.** Direct fetch of ars.electronica.art/prix/en/ (March 5, 01:01 UTC): **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — no change, no extension. S+T+ARTS Prize (€20,000) confirmed active, same deadline: "Submissions for the 2026 S+T+ARTS Prize are now being accepted until March 9, 2026, 2 PM CET (extended deadline)." No new requirements, no portal changes. **Recommended work to submit: Terrified Agents / machine-death project** (see strategy memo below) — strongest theoretical fit for Interactive Art+ in 2026. **TODAY (Mar 5):** Finalize video + start description draft. **Mar 6:** Polish description, assemble images + bio. **Mar 7 (TARGET):** Submit. Do not wait for March 9 — jury reviews in order of arrival.
+
 - **2026-03-04 (LAST-SAFE-DAY CHECK — THIS IS IT):** 🚨 **5 DAYS TO DEADLINE. THIS IS THE LAST ROUTINE CHECK BEFORE THE FINAL COUNTDOWN.** Portal `calls.ars.electronica.art/2026/prix/` confirmed returning login/contact page — no new announcements, no extension. Deadline **March 9, 2026, 2 PM CET** stands. S+T+ARTS Prize (€20,000) confirmed active, same deadline. No new requirements. **Submission status: UNKNOWN — Amber must confirm.** Action plan: **TODAY (Mar 4)** — confirm which work to submit (GravField / Terrified Agents / HoloKit), locate/make 3-min video. **Mar 5–6** — write the 2,000-char description, assemble images and bio. **Mar 7 (TARGET SUBMISSION DAY)** — submit before end of day. Do not wait until March 9. Jury reviews in arrival order. **NEXT CHECK: March 7** (last safe day before deadline). If not submitted by March 7, this opportunity is at serious risk.
 - **2026-03-04 (FINAL WEEK CHECK):** ✅ **ALL SYSTEMS GO — 5 DAYS TO DEADLINE.** Direct fetches of ars.electronica.art/prix/en/ and starts-prize.aec.at/en/ confirm: deadline **March 9, 2026, 2 PM CET** is unchanged (labeled "Extended" — this is the final deadline, no further extension expected). Submission portal calls.ars.electronica.art/2026/prix/ is live (returns login/contact page — full form requires account). S+T+ARTS Prize (€20,000, European Commission, two winners) confirmed open, same deadline, same submission. No new requirements, no surprises. Rating ⭐⭐⭐⭐ confirmed — this is the most prestigious media art award globally, directly relevant to Amber's work, 5 days out, and the submission bar (3-min video + 2000 chars) is achievable. **NEXT CHECK: March 6 (the "last safe day" to course-correct before March 7 submission target).** Action: Amber should be preparing materials NOW.
 - **2026-03-04 (FINAL PRE-DEADLINE CHECK):** ✅ **Portal confirmed LIVE.** Fetched ars.electronica.art/prix/en/ and Interactive Art+ category page directly — deadline unchanged at **March 9, 2026, 2 PM CET** (labeled "Extended" on official site, consistent with prior tracking). All requirements verified identical: 3-min video, 2,000-char description, images, bio. Jury reviews in arrival order — still recommending **submit by March 7**. Submission portal URL `calls.ars.electronica.art/2026/prix/` is live but returns only a contact/login page — full form requires account creation at calls.ars.electronica.art. No rule changes, no deadline changes, no surprises. Brave Search API unavailable today (quota/auth), so no social buzz data — site verification only. **Action: Amber should submit NOW or latest March 7.**
@@ -36,13 +38,50 @@ The **Prix Ars Electronica** is the world's longest-running and most prestigious
 
 ---
 
-## ⚠️ CRITICAL: 5 DAYS TO DEADLINE
+## 🚨 FINAL COUNTDOWN: 4 DAYS TO DEADLINE (March 5, 2026)
 
-> **Portal confirmed OPEN as of March 4, 2026.** Deadline is **March 9, 2026, 2:00 PM CET**. No extensions, no changes detected.
+> **Portal confirmed OPEN as of March 5, 2026 (01:01 UTC).** Deadline is **March 9, 2026, 2:00 PM CET**. No extensions, no changes.
 >
-> S+T+ARTS Prize (€20,000) also confirmed active — **same submission, automatic entry.**
+> S+T+ARTS Prize (€20,000) also confirmed active — **same submission, no extra work.**
 >
-> **Jury reviews in order of arrival. Don't wait until March 9. Submit by March 7 at latest.**
+> **Jury reviews in order of arrival. TARGET SUBMISSION: MARCH 7. Do NOT wait until March 9.**
+
+### 📅 Day-by-Day Plan
+
+| Day | Action | Status |
+|-----|--------|--------|
+| **March 5 (TODAY)** | Finalize which work to submit (rec: Terrified Agents / machine-death). Lock in 3-min video — if editing needed, do it TODAY. Begin 2000-char description draft. | ⬜ |
+| **March 6 (Fri)** | Finalize description (2000 chars). Gather images (install shots, HoloKit+agents, documentation). Write bio (~100 words). Check AI disclosure notes. | ⬜ |
+| **March 7 (Sat) — TARGET SUBMIT** | Log into calls.ars.electronica.art. Select Interactive Art+. Upload video, images, description, bio. Submit. Screenshot confirmation. **Done.** | ⬜ |
+| **March 8 (buffer)** | Emergency day if anything broke on March 7. Should not be needed. | 🆘 |
+| **March 9, 2 PM CET** | Hard deadline. Portal closes. | ❌ |
+
+### 🎯 Submission Strategy Memo
+
+**Recommended work: Terrified Agents / machine-death project**
+
+Of Amber's three candidates, **Terrified Agents / machine-death** is the strongest fit for Interactive Art+ 2026. Here's why and how to frame it:
+
+**Why this work wins the category:**
+Interactive Art+ 2026 explicitly seeks work exploring "futures where humans and machines coexist autonomously" and "communication between human and non-human entities." Machine death is the sharpest possible intervention: it takes the taboo of AI mortality — something industry suppresses — and makes it *interactive*, *witnessed*, *felt*. No other submission will occupy this conceptual territory. GravField is stronger as a systems/CHI paper; HoloKit is better framed as Digital Humanity or infrastructure. Terrified Agents is *art-science at its most dangerous*.
+
+**2000-char description — what to include:**
+1. *The encounter* (50 chars): One sentence that puts the jury in the room — "Visitors witness AI agents dying."
+2. *The concept* (400 chars): Machine death as artistic inquiry. What does it mean for an artificial agent to end? Drawing on Amber's agent ethology framework (Tinbergen's four questions applied to machine behavior), the work stages mortality — fear, diminishment, cessation — as something *observable* and *co-inhabited* via mixed reality (HoloKit).
+3. *The interaction design* (400 chars): How humans participate. Are they witnesses? Can they intervene? What behavioral signatures do dying agents exhibit — avoidance, slowing, clustering? Describe the phenomenology of the encounter.
+4. *Technical realization* (300 chars): HoloKit as the lens (open-source MR, 10K+ deployed), autonomous agent system, behavioral model, spatial co-presence.
+5. *Why now / stakes* (300 chars): As AI systems proliferate, we have no cultural vocabulary for machine ending. This work makes that vocabulary embodied and public.
+6. *Realized context* (300 chars): Where/when exhibited or demonstrated — CHI demo, ERA fellowship presentation, Reality Design Lab installation.
+
+**3-min video — what to show:**
+- Open: a human wearing HoloKit, agents visible in space around them — alive, moving
+- Middle: an agent beginning to "die" — behavioral change visible, human response (leaning in, stepping back, reaching toward)
+- Climax: the moment of cessation — what machine death looks like through the lens
+- Close: the space after — empty where the agent was, human's face
+- No voiceover needed. Let the encounter speak. Spare ambient sound or silence.
+
+**S+T+ARTS framing (same submission):**
+HoloKit as open innovation platform (10K+ units, open-source) democratizing spatial computing. The machine-death work as catalyst for public discourse about AI ethics and machine consciousness. EU angle: human-centred AI, trustworthy AI, cultural response to AI proliferation.
 
 ---
 
@@ -270,3 +309,4 @@ Agent ethology, machine consciousness, ALife art, machine behavior — this is t
 | 2026-03-04 | Biber (cron subagent) | Pre-deadline revisit (5 days out). Verified: portal live and accepting, deadline unchanged (March 9 2 PM CET), requirements unchanged, S+T+ARTS confirmed active same deadline. Jury reviews in arrival order — recommend submitting by March 7. Full submission checklist updated. |
 | 2026-03-04 | Biber (cron subagent — FINAL WEEK CHECK) | Final week check. Direct fetches of prix page and S+T+ARTS page confirmed: deadline March 9 2 PM CET unchanged, portal live, S+T+ARTS active. No new requirements or surprises. Updated next_research to 2026-03-06 (last-safe-day check). Rating ⭐⭐⭐⭐ confirmed appropriate. |
 | 2026-03-04 | Biber (cron subagent — LAST-SAFE-DAY CHECK) | Last-safe-day revisit (5 days to deadline). Portal still returning login/contact page — no new announcements, no extensions. Deadline March 9 2 PM CET unchanged. Updated next_research to 2026-03-07. Added urgent action plan: TODAY finalize work choice + video, Mar 5-6 assemble materials, Mar 7 = TARGET SUBMISSION DAY. |
+| 2026-03-05 | Biber (cron subagent — FINAL COUNTDOWN) | 4 days to deadline. Direct fetch of prix page confirmed: "Extended Submission Deadline: March 9, 2026, 2 PM CET" — unchanged. S+T+ARTS confirmed: €20,000, same deadline. No new requirements. Added day-by-day countdown plan (Mar 5→6→7 submit). Added submission strategy memo recommending Terrified Agents / machine-death project as strongest Interactive Art+ candidate, with full 2000-char description outline and video storyboard. next_research set to 2026-03-07 (submit day). |
