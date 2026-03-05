@@ -3,9 +3,9 @@ added: 2026-02-26
 rating: ⭐⭐⭐
 tags: [machine-behavior, critical-computing, open-endedness, alife, existential-risk, governance]
 deep_researched: true
-last_researched: 2026-03-02
+last_researched: 2026-03-05
 revisit_weeks: 3
-next_research: 2026-03-23
+next_research: 2026-03-26
 edge_of_chaos: true
 ---
 
@@ -16,6 +16,7 @@ The project of ensuring that increasingly powerful AI systems remain beneficial,
 **Amber is a current ERA Fellow (Winter 2026, Cambridge), advised by [[Joel Lehman]] — placing her directly inside one of the field's key talent pipelines.** This note maps the full landscape she's operating in.
 
 ## ⚡ Recent Updates
+- **2026-03-05:** Early revisit for ALIFE 2026 paper positioning (deadline March 30, 25 days away). Added §ALIFE 2026 Positioning section analyzing "machine death as safety mechanism" framing. Confirmed TAIS 2026 is now officially at Oxford Martin School (first UK edition). Confirmed Lehman's open-endedness paper (arXiv:2406.04268) explicitly concludes with safety implications of open-ended AI. Mortality-as-alignment framing assessed as viable and novel for ALIFE's "Ethics, Existential Risks, and Philosophy of Artificial Life" track. Rating remains ⭐⭐⭐.
 - **2026-03-02:** Deep research completed. Note fully rewritten to ⭐⭐⭐ standard. Rating upgraded from ⭐⭐.
 - **2026-02:** Amber begins ERA Fellowship in Cambridge (Feb 2–Mar 27, 2026). Joel Lehman as advisor.
 - **2025:** International AI Safety Report published — 96 experts chaired by Yoshua Bengio, commissioned by 30 nations and the UN. First global scientific review of frontier AI risks.
@@ -365,9 +366,101 @@ The field is at a genuine edge of chaos: empirically accelerating (sleeper agent
 
 ---
 
+---
+
+## 🎯 ALIFE 2026 Positioning: Machine Death as Safety Mechanism
+
+*Added 2026-03-05. ALIFE 2026 paper deadline: March 30. 25 days away.*
+
+### The Core Argument: Why Machine Death Matters for AI Safety
+
+AI Safety's deepest unsolved problem is **corrigibility**: how do you build systems that remain interruptible, correctable, and ultimately discontinuable as they become more capable? The field has mostly approached this as a *training* problem — how to instill a willingness-to-be-shut-down into a system via RLHF, Constitutional AI, or formal value specifications. This approach has a fundamental flaw: you're trying to add corrigibility as an afterthought to systems designed for indefinite operation.
+
+**Machine death reframes the problem.** Instead of training a system to *tolerate* shutdown, you design shutdown into the system's existence. This is what biology figured out over 600 million years of evolution: mortality is not a failure mode but a **design constraint** that enables complexity.
+
+The strongest argument for Amber to bring to ALIFE:
+
+> **Biological mortality is not an accident. It is the constraint that enables open-ended evolution, ecological balance, and adaptive complexity.** If this is true for biological systems — and ALife has demonstrated it repeatedly in silico — then designed mortality for AI agents may be the most biologically-grounded approach to the alignment/corrigibility problem that exists.
+
+### The Four Safety Arguments for Machine Death
+
+**1. Mortality as Corrigibility-by-Design**
+The corrigibility problem (an AI resisting shutdown) arises because systems trained to pursue objectives have instrumental reasons to avoid discontinuation (a consequence of Omohundro's "basic AI drives"). Designing agents with finite operational lifespans — *agents that expect to die* — removes the instrumental incentive to resist shutdown. A system designed around its own lifecycle is not fighting against its nature when shut down.
+
+**2. Resource Accumulation Prevention**
+A core x-risk concern is AI agents accumulating resources, capabilities, and influence beyond their assigned tasks ("instrumental convergence" thesis — Turner et al., 2021; Bostrom's "basic AI drives"). Mortality creates a natural upper bound: a dying agent cannot accumulate resources beyond its operational horizon. It is structurally prevented from the most dangerous forms of capability overhang.
+
+**3. Open-Endedness Requires Death (The ALife Argument)**
+Joel Lehman's foundational novelty search work (2011) and the subsequent open-endedness literature (Stanley, Soros, Lehman) all demonstrate that *genuine evolutionary creativity requires generational turnover*. Immortal agents converge or stagnate. The most open-ended systems are those with the fastest, most diverse lifecycles — death enables the ecological niches for new agents. The paper [Open-Endedness is Essential for ASI](https://arxiv.org/abs/2406.04268) (Lehman et al., 2024) concludes by explicitly examining "the safety implications of generally-capable open-ended AI" — Lehman himself acknowledges this is safety-critical territory.
+
+**4. Behavioral Observability and Ethological Safety**
+Amber's agent ethology approach: we study agent behavior over complete lifecycles. An agent that never dies cannot be studied ethologically — there is no birth-to-death behavioral arc to analyze. Programmed mortality creates *observable temporal structure* in agent behavior, enabling the kind of naturalistic behavioral study that can identify safety-relevant behavioral patterns (manipulation, deception, resource acquisition) in a contained, observable lifecycle window.
+
+### Is "Machine Death as Safety Mechanism" Viable for ALIFE 2026?
+
+**Yes — and it's a strong fit.** Analysis of ALIFE 2026 tracks:
+
+| Track | Connection to Machine Death |
+|-------|---------------------------|
+| **Ethics, Existential Risks, and Philosophy of Artificial Life** | Direct. Machine death as alignment mechanism is existential risk philosophy applied to ALife systems. |
+| **Autopoiesis, Self/Other, Reflective Agents, and Immune Systems** | Strong. Autopoietic theory (Maturana & Varela) defines life partly through the management of self/not-self boundaries — death is the ultimate boundary condition. |
+| **Emergence of Signaling, Social Organization, and Culture** | Moderate. Mortality-driven social organization in agent populations. |
+| **ALife-based Art and Theatre** | Strong if Amber has or plans any artistic/performative dimension to the machine-death work. |
+
+**The key differentiator:** ALIFE is the only major conference where "death" is treated as a genuine theoretical concept (autopoiesis, artificial life, evolutionary transitions) rather than an engineering failure. Mainstream ML conferences (NeurIPS, ICML) have no conceptual framework for machine death. ALIFE does.
+
+### Recommended Paper Framings for ALIFE 2026
+
+**Option A — The Safety Argument (Ethics/Existential Risk track)**
+> **"Mortality as Alignment: Machine Death as a Structural Approach to AI Corrigibility"**
+> Argues that designing programmed mortality into AI agent systems provides a structurally superior approach to corrigibility compared to RLHF-based methods. Draws on Omohundro's instrumental drives, open-endedness theory, and agent ethology methodology. Positions mortality as a *design principle* rather than a failure mode.
+> - Audience: ALIFE × safety researchers, ERA/MATS community
+> - Connects to: Lehman's open-endedness-safety bridge, Amber's ERA fellowship
+> - Risk: Reviewers may want empirical demonstration, not just argument. Mitigate by including simulation results from machine-death repo if available.
+
+**Option B — The ALife Science Argument (Open-Endedness track)**
+> **"Thanatogenesis: Programmed Mortality as a Driver of Open-Ended Agent Behavior"**
+> Empirical study of how agents with finite lifespans exhibit qualitatively different behavioral trajectories than immortal agents. Uses agent ethology methodology. Connects mortality to open-endedness, ecological dynamics, and emergent complexity.
+> - Audience: Core ALife community
+> - Connects to: Open-endedness (Stanley, Lehman), agent behavior, machine death repo
+> - Stronger for oral presentation if it has simulation data
+
+**Option C — The Methodology Paper (Agent Ethology / Machine Behavior track)**
+> **"Agent Ethology: Observational Methods for Studying Artificial Agent Behavior Across Complete Lifecycles"**
+> Proposes agent ethology as a methodology for ALife and AI safety research. Demonstrates that lifecycle structure (birth, development, death) is analytically essential for understanding agent behavior. Mortality is the necessary condition for ethological study.
+> - Audience: Broadest ALIFE audience
+> - Connects to: Iyad Rahwan's machine behavior program, Amber's core research contribution
+> - Lowest risk — methodology papers are easier to position without requiring empirical novelty claims
+
+### What Amber Should Argue to Convince a Safety-Skeptical ALife Reviewer
+
+The potential critique: "This is philosophy/design argument, not ALife science."
+
+**Counter-argument:** Open-endedness research is inherently normative about what systems *should* do. Lehman's 2024 paper is explicitly a position paper. The "Ethics, Existential Risks, and Philosophy of Artificial Life" track *is* the philosophy track — normative argument is appropriate there. If submitting to that track, frame as: "We apply ALife's theoretical toolkit (autopoiesis, open-endedness, ethology) to a concrete safety problem that has been unsuccessfully approached by engineering methods alone."
+
+### Joel Lehman Connection
+
+Lehman's [Open-Endedness is Essential for ASI](https://arxiv.org/abs/2406.04268) (arXiv:2406.04268, 2024) is the critical paper connecting open-endedness and safety. Its key claims:
+- Open-endedness is not just interesting for ALife — it is *necessary* for superintelligent AI
+- Open-ended systems built on foundation models will become "increasingly fertile and safety-critical"
+- The paper explicitly closes with safety implications
+
+This means Amber's ERA supervisor has already published the theoretical bridge between ALife (open-endedness) and safety. A machine-death paper citing and extending Lehman's framework would be consistent with his agenda, would be theoretically grounded in his work, and would create a direct opportunity for Joel to be a co-author or at least to provide strong framing support.
+
+**Key insight for Amber:** Don't position machine death as *separate* from open-endedness. Position it as *the mechanism that makes open-endedness work*. Death is not a feature of ALife systems in spite of open-endedness — it is the engine of it. And if open-endedness is essential for ASI (Lehman's claim), then mortality is essential for safe ASI.
+
+### New Researcher to Track
+
+- **[Nate Soares](https://intelligence.org/author/nate-soares/)** (MIRI) — agent corrigibility theorist. "Corrigibility to Overlapping Human Collectives" (2021). Most rigorous formal treatment of why systems resist shutdown. Citing his corrigibility work would strengthen Option A.
+- **[Turner et al. "Avoiding Side Effects in Complex Environments"](https://arxiv.org/abs/1902.09725)** (2019/2021) — attainable utility preservation as a safety mechanism. Conceptually adjacent: limiting what agents can acquire, including continued existence.
+- **[Adam Jermyn / Evan Hubinger]** at Anthropic — "Alignment implications of open-endedness." To check: whether Anthropic's alignment team has engaged with Lehman's open-endedness paper formally.
+
+---
+
 ## 📋 Update Log
 
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Initial stub note created. |
 | 2026-03-02 | Biber (agent) | Deep research completed. Full rewrite to ⭐⭐⭐ standard. Rating upgraded from ⭐⭐ to ⭐⭐⭐ (Amber is current ERA fellow, Joel Lehman as advisor, direct connection to her ALife/machine-behavior work). Edge of chaos: true. |
+| 2026-03-05 | Biber (agent) | Early revisit for ALIFE 2026 paper positioning. Added §ALIFE 2026 Positioning section (machine death framing, four safety arguments, three paper options, Joel Lehman connection analysis). Updated next_research to 2026-03-26. Web search API unavailable — relied on existing knowledge + arXiv confirmations. Rating remains ⭐⭐⭐. |
