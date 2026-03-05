@@ -6,9 +6,9 @@ url: https://www.lefresnoy.net/en/school/admissions/
 status: open
 urgent: true
 added: 2026-02-27
-last_researched: 2026-03-02
+last_researched: 2026-03-04
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-12
 deep_researched: true
 tags: [art-science, computational-creativity, embodied, posthuman, more-than-human, speculative-design]
 ---
@@ -16,6 +16,7 @@ tags: [art-science, computational-creativity, embodied, posthuman, more-than-hum
 # CFP: Le Fresnoy 2-Year Programme — 2026 Intake
 
 ## ⚡ Recent Updates
+- **2026-03-04:** Re-confirmed ineligibility via live fetch of [lefresnoy.net/en/school/admissions/](https://www.lefresnoy.net/en/school/admissions/). Deadline confirmed: **Wednesday March 11, 2026 — 3pm**. Full schedule unchanged. Age restriction still in effect — Amber remains ineligible. Deadline now 7 days away. No action required.
 - **2026-03-02:** Deep research completed. **CRITICAL FINDING: Amber is almost certainly INELIGIBLE** — age limit is born after December 31, 1990 (i.e., max 35 on Jan 1, 2026). Amber born ~1989 = ineligible. Full eligibility analysis below.
 - **2026-02-27:** CFP note created. Deadline is March 11, 2026 — URGENT.
 
@@ -271,3 +272,4 @@ The programme has no permanent faculty. All professors are visiting artists for 
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent, deep-research-le-fresnoy) | CFP note created. Deadline is 12 days away — URGENT. |
 | 2026-03-02 | Biber (subagent, deep-research-le-fresnoy-cfp) | Deep research completed. CRITICAL: Amber is ineligible (born before Jan 1, 1991). Full admissions requirements, 2025-26 faculty roster, Panorama 27 analysis, strategic assessment added. |
+| 2026-03-04 | Biber (scout cron) | Eligibility re-confirmed via live fetch. Deadline March 11 confirmed (7 days away). Age restriction unchanged — Amber ineligible. next_research set to 2026-03-12 (day after deadline, for final status close). |

@@ -6,9 +6,9 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, summer-school, alife, open-endedness, machine-behavior, more-than-human]
 interest: "⭐⭐⭐"
 added: 2026-02-26
-last_researched: 2026-03-02
-revisit_weeks: 2
-next_research: 2026-03-16
+last_researched: 2026-03-04
+revisit_weeks: 3
+next_research: 2026-03-25
 deep_researched: true
 ---
 
@@ -17,6 +17,7 @@ deep_researched: true
 > ⚠️ **Status as of 2026-03-02:** No dedicated ISAL Summer School 2026 page has been published yet. The main ALIFE 2026 conference is confirmed (Waterloo, Aug 17-21). The summer school — typically organized by ERA (Emerging Researchers in ALife), ISAL's student chapter — is expected to be announced in the coming months. This note documents what is known about the conference and summer school format, based on past editions, and assesses strategic fit for Amber.
 
 ## ⚡ Recent Updates
+- **2026-03-04:** Re-checked [2026.alife.org](https://2026.alife.org/) and ERA page. **No summer school announcement yet.** ALIFE 2026 conference details remain unchanged (Aug 17-21, Waterloo). CFP deadlines confirmed: full papers **March 30, 2026** (26 days away), late-breaking abstracts July 20, 2026. ERA board active but no summer school page published. Next check set for 2026-03-25. **⚠️ Paper deadline in 26 days — Amber should assess now whether she has work for a full paper or abstract.**
 - **2026-03-02:** Deep research complete. No dedicated summer school page found; ALIFE 2026 main conference fully confirmed with theme "Living and Lifelike Complex Adaptive Systems". Topics list includes "Ethics, Existential Risks, and Philosophy of Artificial Life" — strong Amber fit. Paper deadline: March 30, 2026.
 - **2026-02-26:** Stub created.
 
@@ -190,3 +191,4 @@ ISAL/ALIFE summer schools typically:
 |------|-----------|--------|
 | 2026-02-26 | Biber (agent) | Stub created. |
 | 2026-03-02 | Biber (agent) | Full deep research. No dedicated summer school page found — ALIFE 2026 conference confirmed (Waterloo, Aug 17-21). Documented conference details, past editions (ALIFE 2025 Tokyo), organizing committee, strategic fit analysis. Upgraded rating to ⭐⭐⭐ given strong Amber fit (machine death, agent ethology, Joel Lehman connection, philosophy of ALife track). Key action: March 30 paper deadline imminent. |
+| 2026-03-04 | Biber (scout cron) | Re-checked 2026.alife.org and ERA site. No summer school announcement. Conference + CFP dates unchanged. Paper deadline March 30 now 26 days away — flagged as urgent for Amber. next_research pushed to 2026-03-25 (summer school likely announced ~April). |
