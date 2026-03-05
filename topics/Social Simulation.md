@@ -3,15 +3,16 @@ added: 2026-02-26
 rating: ⭐⭐⭐
 tags: [machine-behavior, alife, social-simulation, critical-computing, computational-creativity]
 deep_researched: true
-last_researched: 2026-02-26
+last_researched: 2026-03-04
 revisit_weeks: 3
-next_research: 2026-03-19
+next_research: 2026-03-26
 edge_of_chaos: true
 ---
 
 # Social Simulation
 
 ## ⚡ Recent Updates
+- **2026-03-04:** Scout update. Key 2024-2025 papers added. Park's major follow-up ("1,000 People" study) now a must-read. Field trending toward population-scale validation and world models with real user data. No new 2026 Park paper yet; SocioVerse (Apr 2025) is notable adjacent work. Workshop CFP for ESSA Social Simulation Conference 2026 opens soon — Durham, UK, ideal for Amber.
 - **2026-02-26:** Deep research completed. Full intellectual history mapped from Schelling → Axelrod → Epstein → Park. Major venues and communities identified. Edge-of-chaos analysis updated with generative agents revolution.
 
 The computational simulation of social systems and human behavior using autonomous agents. From classical agent-based modeling to the explosive emergence of LLM-powered generative agents, this field represents one of the most rapidly evolving domains at the intersection of AI, social science, and complexity theory.
@@ -91,6 +92,8 @@ The field is reshaping fundamental questions: What constitutes social intelligen
 
 ### Contemporary Breakthroughs
 - [*Generative Agents: Interactive Simulacra of Human Behavior*](https://arxiv.org/abs/2304.03442) (Park et al., 2023) — **THE paper.** Memory + reflection + planning = believable agents.
+- [*Generative Agent Simulations of 1,000 People*](https://arxiv.org/abs/2411.10109) (Park et al., 2024) — **Major follow-up.** 1,052 real individuals simulated from qualitative interviews. 85% accuracy vs. self-consistency. Reduces racial/ideological bias. Foundation for policy-scale behavioral AI.
+- [*SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users*](https://arxiv.org/abs/2504.10157) (2025) — Next-generation world model. 10M real user pool, validated across politics, news, economics.
 - [*Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia*](https://arxiv.org/abs/2312.03664) (Leibo et al., 2023) — DeepMind's platform. Game Master architecture.
 - [*Machine Behaviour*](https://www.nature.com/articles/s41586-019-1138-y) (Rahwan et al., 2019) — Framework for studying AI systems behaviorally.
 
@@ -231,16 +234,18 @@ The field is reshaping fundamental questions: What constitutes social intelligen
 - **Fall:** DeepMind releases Concordia framework
 - **December:** First workshops on generative social simulation
 
-### 2024: Infrastructure Year
+### 2024: Infrastructure & Validation Year
 - **Spring:** Major conferences create generative agents tracks
 - **Summer:** First large-scale validation studies (agents vs. human behavior)
+- **November:** Park et al. "[Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109)" — **major follow-up**. Agents built from qualitative interviews of 1,052 real individuals; 85% accuracy vs. participants' self-consistency on the General Social Survey. Reduces demographic bias. Shifts field from toy simulations toward population-scale behavioral science.
 - **Fall:** Commercial applications emerge (game NPCs, training simulations)
 
-### 2025-2026: Maturation and Critical Analysis
-- Ethical frameworks for artificial societies
-- Validation methodologies standardization
-- Policy applications pilot programs
-- Integration with real social platforms
+### 2025-2026: World Models & Scale
+- **April 2025:** "[SocioVerse](https://arxiv.org/abs/2504.10157)" (multiple authors) — LLM-agent world model with a pool of 10 million real-world users. Runs large-scale political, news, and economic simulations. Represents next-generation architecture: alignment components + real population pools rather than synthetic agents.
+- Ethical frameworks for artificial societies emerging
+- Validation methodologies being standardized
+- Policy applications pilot programs launching
+- Integration with real social platform data becoming norm
 
 ## Adjacent Topics
 - [[Artificial Life]] — Emergence, complex adaptive systems
@@ -295,3 +300,4 @@ The field exists in the exact sweet spot of Amber's interests: technically sophi
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Subagent (deep research) | Complete rewrite from stub. Full intellectual history ABM→multi-agent RL→LLM agents. Added venues, communities, fellowships, key papers with URLs. Edge-of-chaos analysis updated. For Amber section expanded with specific collaboration paths. |
+| 2026-03-04 | Scout (cron subagent) | Scout update. Added Park's "1,000 People" paper (arXiv:2411.10109) and SocioVerse (arXiv:2504.10157) to must-reads and timeline. Field direction: validation + population-scale world models. No new 2026 Park paper found. next_research updated to 2026-03-26. |
