@@ -2,9 +2,9 @@
 rating: ⭐⭐⭐
 url: https://festivalelaleph.com
 added: 2026-02-27
-last_researched: 2026-03-04
+last_researched: 2026-03-05
 revisit_weeks: 2
-next_research: 2026-03-18
+next_research: 2026-03-19
 tags: [festival, art-science, technology, latin-america, mexico, unam, venue, critical-computing, decolonial, more-than-human, computational-creativity]
 deep_researched: true
 frequency: annual
@@ -15,6 +15,7 @@ frequency: annual
 The most intellectually serious annual **art + science + technology** festival in Latin America — co-produced by **UNAM** (via [[Cátedra Max Aub]]) and held across [[MUAC]] and other UNAM cultural spaces in Mexico City. Named after Borges' "El Aleph" — the point in space that contains all other points — a perfect frame for a festival that refuses disciplinary closure. Not a tech showcase. A critical, transdisciplinary, decolonially-oriented cultural event with genuine international reach. **2026 edition: May 8–17 — an imminent and actionable speaking opportunity for Amber.**
 
 ## ⚡ Recent Updates
+- **2026-03-05:** Revisit check. Festival site still "Próximamente" — **no theme, no program, no contact page** as of today. Cátedra Max Aub domain (maxaub.unam.mx / catedramaxaub.unam.mx) is **offline**. MUAC site behind cookie wall — no El Aleph 2026 content accessible. Social handles (@FestivalElAleph on X, festivalelaleph on Instagram/TikTok) active but fetching blocked. ~64 days until May 8 — festival dark this late is unusual and possibly reflects internal invitation-based curation already underway. **Action urgency elevated:** Amber should contact Tania Aedo via informes@muac.unam.mx immediately — if programming is invitation-only and being assembled now, this week may be the last window. No open call detected. Rating held at ⭐⭐⭐.
 - **2026-03-04:** Full deep research completed. Upgraded to ⭐⭐⭐ — 2026 edition May 8–17 is an imminent actionable opportunity.
 - **2026-02-27:** Stub created during MUAC deep research.
 - **2026 (announced):** New website launched at [festivalelaleph.com](https://festivalelaleph.com). 2026 dates confirmed: **May 8–17, 2026**. Theme/program not yet announced ("Próximamente").
@@ -78,13 +79,15 @@ Known themes from prior years include: ecology and technology, body-machine rela
 
 ## Open Calls
 
-**No formal public open call announced yet** for 2026 (as of March 4, 2026). The festival tends to operate via **invitation** rather than open call — Tania Aedo and the Cátedra Max Aub curate participation.
+**No formal public open call announced** for 2026 (as of March 5, 2026). The festival operates via **invitation** — Tania Aedo and the Cátedra Max Aub curate participation. With ~64 days until the festival and no public announcement, programming is likely being assembled internally *right now*.
 
-**How to engage:**
-- Contact **Tania Aedo** directly via Cátedra Max Aub or [[MUAC]] ([informes@muac.unam.mx](mailto:informes@muac.unam.mx))
-- Pitch a talk or workshop related to the intersection of art, science, and technology
-- Monitor [festivalelaleph.com](https://festivalelaleph.com) for 2026 program announcements
-- Check [[MUAC]] social and website for co-produced calls
+**⚠️ Action window: This week — March 2026**
+
+**How to engage (in priority order):**
+1. **Email Tania Aedo via MUAC:** [informes@muac.unam.mx](mailto:informes@muac.unam.mx) — reference El Aleph Festival, introduce Amber's work on machine behavior, agent ethology, more-than-human design. Mention Oxford affiliation. Ask about 2026 participation (talk, workshop, or discussion panel).
+2. **José-Carlos Mariátegui (London-based, LSE):** Proximate warm introduction path. Mariátegui knows the El Aleph orbit, presents regularly, and is based in London — much easier for Amber to reach. A message through LSE or social media could yield a warm intro to Tania Aedo.
+3. **Monitor festival channels:** [@FestivalElAleph](https://x.com/FestivalElAleph) on X and `festivalelaleph` on Instagram — follow for program announcements.
+4. **Monitor MUAC actividades:** [muac.unam.mx](https://muac.unam.mx) for co-produced calls or event listings.
 
 ## Why Interesting for Amber
 
@@ -123,3 +126,4 @@ Unlike Ars Electronica or transmediale, El Aleph does not celebrate technology �
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Stub created during MUAC deep research. |
 | 2026-03-04 | Biber (subagent) | Full deep research. Confirmed 2026 dates (May 8–17) from festivalelaleph.com. Expanded: full What section with Borges/Max Aub context, Key People, 2024 edition full program, Why Interesting for Amber. Upgraded from ⭐⭐ to ⭐⭐⭐ — imminent opportunity + strong intellectual fit. Revisit set to 2 weeks given proximity of festival. |
+| 2026-03-05 | Biber (subagent, elaleph-revisit) | Early revisit (due 2026-03-18). Checked festival site (still "Próximamente"), Cátedra Max Aub (domain offline), MUAC (cookie-wall blocked). No 2026 theme/program/contact page found. No open call. Elevated urgency: ~64 days to festival, invitation-based programming likely being decided now. Updated Open Calls section with prioritized action plan; added José-Carlos Mariátegui as warm intro path. Rating held ⭐⭐⭐. Next research 2026-03-19. |
