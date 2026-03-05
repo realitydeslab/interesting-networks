@@ -8,13 +8,15 @@ interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
 last_researched: 2026-03-05
 revisit_weeks: 1
-next_research: 2026-03-11
+next_research: 2026-03-12
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-05 (weekly check — revisit #6):** `/workshops/` STILL 404 — 7th consecutive check with no workshop page (Feb 20 through Mar 5). `/program/` also still 404. CFP page live and unchanged: March 30 paper deadline confirmed, submission still email-only (no portal URL published). ISAL (alife.org): latest news still Feb 17 award nominations — no new ALIFE 2026 workshop or program announcements. isal.us inaccessible. Web search API unavailable, could not check for unofficial announcements. **Bottom line: no changes since last check. Workshop announcement remains pending ~5 days post-deadline.** Next research: March 12 — by then workshops should be announced or committee is very late.
 
 - **2026-03-05 (workshop check):** `/workshops/` still returns 404 — accepted workshops NOT yet published (6th consecutive 404 since Feb 20). `/program/` also 404. Main site (200 OK) has no new workshop announcements — only venue/location content. isal.us returning no content. Web search API unavailable. No workshop results announced anywhere. Status: **workshops not yet published**; organizers likely still reviewing proposals (deadline was Feb 28, only ~5 days ago). Check again next week.
 
