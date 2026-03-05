@@ -1,10 +1,10 @@
 ---
 rating: ⭐⭐⭐
 added: 2026-03-03
-last_researched: 2026-03-03
+last_researched: 2026-03-05
 deep_researched: true
-revisit_weeks: 2
-next_research: 2026-03-17
+revisit_weeks: 1
+next_research: 2026-03-08
 tags: [computational-creativity, generative-art, alife, machine-behavior, open-endedness, art-science]
 url: https://computationalcreativity.net/
 frequency: annual
@@ -15,19 +15,34 @@ frequency: annual
 The world's only conference dedicated exclusively to computational creativity. Annual, held every June/July since 2010. Run by the [Association for Computational Creativity (ACC)](https://computationalcreativity.net/). Proceedings published open-access, indexed at DBLP under ISSN 3051-6706. The place where computational creativity is defined, debated, and built.
 
 ## ⚡ Recent Updates
+- **2026-03-05:** ⚠️ **DEADLINE CONFIRMED — 3 DAYS LEFT.** Full paper deadline is **March 8, 2026 (23:59 AoE)** — verified live from [computationalcreativity.net/iccc26/full-papers/](https://computationalcreativity.net/iccc26/full-papers/). EasyChair portal is OPEN: "Submission of new papers for ICCC'26 is open." Deadline was previously extended from Mar 6 → Mar 8 (shown as strikethrough on the site). **Workshop/tutorial deadline: March 14, 2026** (submit to iccc26-workshops@computationalcreativity.net) — this is an additional opportunity for Amber with more time. Updated submission strategy below.
 - **2026-03-03:** Deep research complete. URGENT: ICCC'26 full paper deadline is **March 8, 2026** — 5 days away! Abstracts were due March 1 (passed). Conference in Coimbra, Portugal, June 29 – July 3, 2026.
 - **2026-03-03:** Stub created during Oblique Strategies deep research.
 
 ---
 
-## 🚨 URGENT: ICCC'26 Deadline in 5 Days
+## 🚨 URGENT: ICCC'26 Deadline in 3 Days (March 8)
 
-**Full paper deadline: March 8, 2026 (23:59 AoE)**
+**Full paper deadline: March 8, 2026 (23:59 AoE)** — VERIFIED LIVE 2026-03-05
 
-- Submit via: [EasyChair ICCC'26](https://easychair.org/conferences?conf=iccc26)
+- Submit via: [EasyChair ICCC'26](https://easychair.org/conferences?conf=iccc26) — **PORTAL IS OPEN**
 - Conference: June 29 – July 3, 2026, Coimbra, Portugal
-- Abstracts: March 1, 2026 (PASSED — but abstract can be updated until full paper deadline)
+- Abstracts: Originally Feb 27, extended to Mar 1, 2026 (PASSED — but abstract can be updated until full paper deadline — you can still submit with an abstract update)
 - Acceptance notification: April 20, 2026
+- **Workshop/Tutorial proposals:** March 14, 2026 — email to iccc26-workshops@computationalcreativity.net (additional opportunity, more time!)
+
+### Submission Decision for Amber
+
+**Option A — Full Paper (deadline Mar 8, 3 days away):**
+Tight but possible. Best candidates:
+1. **"Agent Ethology as a Methodology for Evaluating Creative Systems"** — Study paper. Argue that behavioral/ethological observation (Amber's machine-behavior frame) is an under-used methodology for evaluating creative AI in the wild. Cite Rahwan's machine behavior + Boden/Colton/Wiggins on CC evaluation. 8 pages, no system required. **This is the strongest fit and quickest to write.**
+2. **"Machine Death and Creativity: On Finitude as a Creative Constraint"** — Position paper. Argue that mortal systems exhibit richer creative behavior than immortal ones. Connects Amber's machine death research to CC theory. Provocative and fresh.
+
+**Option B — Workshop Proposal (deadline Mar 14, 9 days away):**
+More breathing room. Amber could propose a workshop on:
+- *"Ethological Approaches to Computational Creativity"* — bringing behavioral observation methods to creative AI evaluation
+- *"Open-Ended Systems and Machine Creativity"* — bridging ALife open-endedness with CC
+Submit to: iccc26-workshops@computationalcreativity.net
 
 ---
 
@@ -52,8 +67,9 @@ ICCC defines itself as the intersection of **AI, Cognitive Science, Engineering,
 ### Key Dates
 | Milestone | Date |
 |-----------|------|
-| ~~Abstract due~~ | ~~Mar 1, 2026~~ (passed) |
-| **Full paper due** | **Mar 8, 2026** ⚠️ |
+| ~~Abstract due~~ | ~~Feb 27~~ → ~~Mar 1, 2026~~ (passed, extended once) |
+| **Full paper due** | ~~Mar 6~~ → **Mar 8, 2026** ⚠️ (extended, CONFIRMED LIVE) |
+| **Workshop proposals** | **Mar 14, 2026** (email iccc26-workshops@computationalcreativity.net) |
 | Acceptance notification | April 20, 2026 |
 | Camera-ready | May 27, 2026 |
 | Conference | June 29 – July 3, 2026 |
@@ -226,3 +242,4 @@ The community is intellectually rigorous but open to interdisciplinary perspecti
 |------|-----------|--------|
 | 2026-03-03 | Biber (subagent) | Stub created during Oblique Strategies deep research. |
 | 2026-03-03 | Biber (subagent) | Full deep research. Added ICCC'26 CFP details (URGENT: March 8 deadline), ICCC'25 accepted papers analysis, key people, submission strategy. Rating confirmed ⭐⭐⭐. Revised: next_research 2 weeks (active CFP season). |
+| 2026-03-05 | Biber (subagent, iccc-revisit cron) | Urgent deadline check. CONFIRMED: Mar 8 deadline still live. EasyChair open. Deadline was extended from Mar 6→Mar 8 (shown as strikethrough on site). Also discovered Workshop proposals deadline Mar 14. Updated submission strategy with two concrete paper options. next_research set to 2026-03-08 (day of deadline). |
