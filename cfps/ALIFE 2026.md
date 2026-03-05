@@ -6,13 +6,19 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, emergence, self-organization, open-endedness, machine-behavior, agent-behavior, alife-community]
 interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
-last_researched: 2026-03-02
-revisit_weeks: 2
-next_research: 2026-03-16
+last_researched: 2026-03-04
+revisit_weeks: 1
+next_research: 2026-03-11
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
+
+## ⚡ Recent Updates
+
+- **2026-03-04:** Re-checked site. No accepted workshops published yet (`/workshops/` returns 404 — organizers have not announced results). Paper deadline **March 30 confirmed unchanged**. Workshop deadline was Feb 28 (extended from original Feb 20). No new submission portal URL announced — use linklings.net link below. No other changes since March 2. **26 days to paper deadline.**
+
+---
 
 **Full name:** The 2026 Conference on Artificial Life  
 **Theme:** "Living and Lifelike Complex Adaptive Systems"  
@@ -30,7 +36,7 @@ deep_researched: true
 |---|---|---|
 | Workshop & Tutorial Proposals | Feb 28, 2026 | ❌ PASSED (today is Mar 2) |
 | Special Session Proposals | Feb 20, 2026 | ❌ PASSED |
-| Full Papers & Summaries | **March 30, 2026** | ✅ OPEN — 28 days left |
+| Full Papers & Summaries | **March 30, 2026** | ✅ OPEN — **26 days left** |
 | Full Papers notification | June 7, 2026 | — |
 | Camera-ready | June 21, 2026 | — |
 | Late-Breaking Abstracts | July 20, 2026 | ✅ OPEN |
@@ -218,4 +224,8 @@ Or alternatively:
 ---
 
 ## 📋 Update Log
-- 2026-03-02: Deep research completed. Workshop deadline just passed (Feb 28). Paper deadline March 30 still open. Strong strategic fit across multiple tracks.
+
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-03-02 | Biber (agent) | Deep research completed. Workshop deadline just passed (Feb 28). Paper deadline March 30 still open. Strong strategic fit across multiple tracks. |
+| 2026-03-04 | Scout (cron subagent) | Rechecked site. `/workshops/` = 404 — accepted workshops not yet published. Paper deadline March 30 confirmed. No new portal. Switched revisit to weekly (1 week) per CFP-active rule. Added ⚡ Recent Updates section. |
