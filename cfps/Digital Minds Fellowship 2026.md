@@ -17,6 +17,7 @@ tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+- **2026-03-05 (early application readiness check):** ✅ Fellowship page live-verified — **deadline March 27, 2026 unchanged**, form still open, no structural changes. Web search attempted (API down). **Essay critique completed** — see new section "📝 Essay Critique & Improvements" below. Q1 draft is genuinely strong (hook, behavioral methodology argument, machine death, literature citations) but needs 3 targeted fixes: (1) verify Birch co-authorship on the Trends in Cog Sci citation; (2) sharpen the closing sentence to connect explicitly to the fellowship; (3) add one concrete example of what "behavioral indicator" means in practice. Q2 draft is good but too abstract in middle — needs one concrete example of a behavioral welfare indicator + the animal welfare analogy is missing (should be in Q2 too). **⚠️ CRITICAL: Joel Lehman reference email — NO RECORD this has been sent. This is the single most urgent action item. Must email Joel by March 10 at absolute latest.** Timeline: Email Joel (March 5–7) → refine essays with Opus proofread (March 10–16) → final review (March 23–25) → submit March 26.
 - **2026-03-05 (weekly revisit — 22 days to deadline):** ✅ Portal confirmed open. Deadline **March 27, 2026 unchanged**. Fellowship page unchanged — same structure, no new content. Cambridge Digital Minds homepage: same team (Caviola, Shevlin, Saad, Harris, Khatri, Smith), same publications list. Online course still listed as "Launching 2026" with no specific date beyond "end of April." Strategy Workshop Aug 8–9 confirmed. **No new information found.** ⚠️ **Action items unchanged:** (1) Amber must refine Q1 (~285w draft below) and Q2 (~195w draft below); (2) Email Joel Lehman for reference **this week** — no record this has been done; (3) Submit by March 26 (one day early buffer).
 - **2026-03-05 (4th pass — pre-submission deep check + essay drafts):** ✅ Portal live-verified. Deadline **March 27, 2026 unchanged — 22 days remaining.** digitalminds.cam homepage refreshed: no new publications or structural changes since 2026-03-04. **📝 ESSAY DRAFTS COMPLETE** — Q1 (300w) and Q2 (200w) drafted below for Amber to refine. Interest ratings recommended. **⚠️ Reference status: Joel Lehman contact status UNCLEAR — no record found in notes. Amber must email Joel this week if not already done.** Next action: Amber refines essays → Amber emails Joel → submit by March 26.
 - **2026-03-04 (3rd pass):** ✅ Portal live-verified again. Deadline **March 27, 2026 unchanged** — form still accepting. No structural changes to fellowship. Amber's ERA→Digital Minds narrative is clean and strong. **⚠️ PRIORITY THIS WEEK: Email Joel Lehman as reference + draft Q1/Q2.**
@@ -278,6 +279,68 @@ The ERA → Digital Minds arc is not accidental. It's the natural next step.
 
 ---
 
+---
+
+## 📝 Essay Critique & Specific Improvements (2026-03-05)
+
+> **Status:** Written by Biber after reviewing both draft essays against the fellowship's explicit selection criteria, Cambridge Digital Minds' intellectual framing, and Amber's research profile. This section gives concrete improvements for each essay — not generic polish, but surgical changes.
+
+---
+
+### Q1 Critique: What's Working, What Needs Fixing
+
+**Overall verdict: Strong. Do not overhaul. Three surgical fixes needed.**
+
+✅ **What's genuinely good:**
+- The opening hook ("watching AI agents die") is arresting and unusual — keeps it
+- "Behavioral methodology" as the missing piece in digital minds is the correct insight and well-argued
+- Citing Caviola, Sebo & Birch (2025) in *Trends in Cognitive Sciences* by name shows Amber has actually read *their* work specifically, not just "AI consciousness" in general — this is exactly what reviewers want to see
+- Machine death / Terrified Agents is Amber's most unique contribution and the draft deploys it correctly as a welfare question, not just a design project
+- The final "we should be building the instruments now" is a strong closing argument
+
+⚠️ **Fix 1: Verify the Trends in Cog Sci co-authorship** — The draft cites "Caviola, Sebo & Birch (2025)." Confirm Jonathan Birch is indeed a co-author on the *Trends in Cognitive Sciences* piece (vs. the separate Caviola, Sebo & Mindermann 2026 piece). Getting a co-author wrong in a 300-word essay to the exact group that wrote the paper would be damaging. Check before submitting.
+
+⚠️ **Fix 2: Sharpen the closing sentence to connect explicitly to the fellowship.** The current close — "That's what I'm doing" — is fine but slightly anticlimactic. Consider ending instead with something like: *"The Digital Minds Fellowship is the first community I've seen that is asking the same question — and where the behavioral and philosophical perspectives might actually meet."* This signals fit without being sycophantic.
+
+⚠️ **Fix 3: Add one concrete example of a "behavioral indicator."** The claim that agent ethology provides behavioral evidence for welfare is correct but abstract. One grounding sentence would strengthen it: e.g., *"Behavioral indicators might include: agent terminal behaviors (what does an agent do when resource-deprived or facing shutdown?), anomalous error-state responses, or persistent goal-modification under constraint."* Even half a sentence of this kind turns an abstract methodological claim into a demonstrable research agenda.
+
+**Optional / nice-to-have:** The draft cites "Spore in the Wild (ALIFE 2025); Trustless Autonomy (CSCW 2026)" — ensure these are the correct final venue/titles before submitting, especially for CSCW 2026. Also consider whether GravField (CHI 2026) belongs here — it's perceptual physics, harder to connect to welfare, probably leave it out.
+
+---
+
+### Q2 Critique: What's Working, What Needs Fixing
+
+**Overall verdict: Good structure, but the middle is too generic. Two targeted fixes needed.**
+
+✅ **What's genuinely good:**
+- Opening ("Oxford PhD + ERA Fellow at Cambridge") is crisp and positions Amber exactly right — don't change it
+- "I can produce empirical observations; I need collaborators who can build the theoretical and policy scaffolding" is a standout line — it's honest, specific, and shows self-awareness about the interdisciplinary gap Amber is actively trying to cross. **Keep verbatim.**
+- Acknowledging career uncertainty is smart — the fellowship explicitly frames this as a feature of the nascent field, not a bug, and Amber mirrors that language
+- The final punch line ("The ERA → Digital Minds arc is not accidental") is sharp — keep it
+
+⚠️ **Fix 1: Add the animal welfare analogy.** Q1 uses it briefly; Q2 should invoke it more explicitly in the context of career. Something like: *"The animal welfare field took two decades to move from philosophical argument to empirical welfare science — partly because the behavioral methodology came late. I don't want digital minds to repeat that delay. I'm trying to build the behavioral infrastructure now, during the philosophical phase, so the transition is shorter."* This connects Amber's career goals to a legible intellectual project, and mirrors the Cambridge Digital Minds framing exactly.
+
+⚠️ **Fix 2: Name one concrete research output the fellowship would enable.** "Develop behavioral indicators for machine suffering and flourishing" is good but vague. Strengthen with one sentence like: *"Concretely, I want to scope a framework paper connecting agent ethology to welfare assessment — the kind of methodological bridge paper that could serve as a reference point for the field."* Reviewers are trying to assess whether accepting Amber would produce something valuable — a named output helps them say yes.
+
+**Optional:** If Amber has already emailed Joel Lehman, mentioning "my ERA advisor Joel Lehman" in Q2 is more powerful because it signals a live relationship, not just a name-drop. If the email hasn't been sent, either way it's fine to include the name — but the sooner the email happens the better.
+
+---
+
+### Summary: Priority Order for Amber
+
+| Priority | Action | Urgency |
+|---|---|---|
+| 🔴 1 | Email Joel Lehman for reference | By March 7 |
+| 🟠 2 | Verify Birch co-authorship on Trends Cog Sci citation | Before drafting final |
+| 🟠 3 | Add animal welfare analogy to Q2 | During revision |
+| 🟡 4 | Sharpen Q1 closing sentence | During revision |
+| 🟡 5 | Add one concrete behavioral indicator example to Q1 | During revision |
+| 🟡 6 | Name a concrete output in Q2 | During revision |
+| 🟢 7 | Proofread with claude-opus | March 23–25 |
+| 🟢 8 | Submit | March 26 (one day buffer) |
+
+---
+
 ### Interest Ratings Recommendation (Section 3 of form)
 
 > The form asks Amber to rate interest in each area in relation to digital minds. **Do NOT max all areas.** Cambridge explicitly warns against this — they want honest ratings.
@@ -503,5 +566,6 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 | 2026-03-04 | Biber (subagent) | Revisit. Portal confirmed open. Deadline unchanged March 27. 23 days remaining. Full team updated (Bridget Harris, Pooja Khatri, Austin Smith). 4 new publications indexed. Confirmed: inaugural cohort — no past fellows. Added Past Fellows section (N/A note), 23-Day Application Sprint, Strategic Advantages table. |
 | 2026-03-04 | Biber (subagent, 3rd pass) | Live re-verification. Deadline March 27 confirmed unchanged. Portal open. No new info. Added 3rd pass update entry. File already comprehensive from 2nd pass. |
 | 2026-03-05 | Biber (subagent, weekly revisit) | Weekly revisit. Portal confirmed open. Deadline March 27 unchanged. Fellowship page + homepage: no changes, no new publications, online course still "Launching 2026" (no specific date). Team unchanged. No new information. Action items unchanged: refine essays + email Joel Lehman + submit by March 26. |
+| 2026-03-05 | Biber (subagent, early readiness check) | Live-verified fellowship page (deadline March 27 confirmed, 22 days remaining, form open). No changes to requirements or team. Web search API unavailable. **Essay critique completed** — Q1 and Q2 both solid, 3 surgical fixes each identified. New section "📝 Essay Critique & Specific Improvements" added. Priority action table added. Joel Lehman reference email status: NO RECORD — flagged as most urgent action. |
 | 2026-03-05 | Biber (subagent, 4th pass) | Pre-submission deep check. Portal live-verified (deadline March 27 confirmed, 22 days remaining). digitalminds.cam checked — no new publications or structural changes. **Essay drafts added for Q1 (~285w) and Q2 (~195w).** Interest ratings table added. Joel Lehman reference status flagged as UNCLEAR. next_research → 2026-03-14. |
 | 2026-03-04 | Biber (subagent, 2nd pass) | Re-verified portal open. **Full Airtable form mapped** — all questions extracted via browser automation. Added complete Application Form Structure section, Q1/Q2 draft strategy, Focus Areas rating recommendations, online course details (starts end of April, 8 weeks), and consolidated Application Strategy Note. Updated next_research → 2026-03-14. |
