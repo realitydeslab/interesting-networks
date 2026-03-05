@@ -6,7 +6,7 @@ url: https://sites.google.com/view/ai4lam/fantastic-futures-2026-proposals
 status: open
 urgent: true
 added: 2026-02-27
-last_researched: 2026-03-02
+last_researched: 2026-03-05
 deep_researched: true
 revisit_weeks: 2
 next_research: 2026-03-16
@@ -16,6 +16,7 @@ tags: [ai, cultural-heritage, trustworthy-ai, digital-humanities, libraries, arc
 # CFP: Fantastic Futures 2026 — Trust in the Loop
 
 ## ⚡ Recent Updates
+- **2026-03-05 (revisit):** Deadline **April 6, 2026 confirmed unchanged** (32 days away). FF2026 site re-fetched — schedule stable, portal opening "March 2026" (not yet open as of this date, watch for portal link). Rating stays ⭐⭐ — peripheral fit confirmed. Best track for Amber: **Topic 1 (Implementations) + trust governance angle** — "agent ethology as a framework for evaluating AI trustworthiness in archival contexts." Draft abstract prepared (see below). Recommendation: **lightning talk**, low effort, tests reception. Only submit if existing work can be adapted; do not create new work for this venue.
 - **2026-03-02:** Deep research completed. Full CFP fetched, AI4LAM org researched, past editions documented, honest fit assessment added.
 - **2026-02-27:** Note created. Proposals due April 6. ~5 weeks out.
 
@@ -213,6 +214,33 @@ This pitch bridges Amber's work with the community's concerns without requiring 
 
 ---
 
+## 📝 Draft Abstract (2026-03-05)
+
+**Title:** Observing AI Agents in the Archive: Behavioral Trust Frameworks for Cultural Heritage Institutions
+
+**Track:** Topic 1 — Implementations (trust governance angle)  
+**Format:** Lightning talk (5–10 min) or Short paper  
+**Word count:** ~150 words
+
+---
+
+How do we decide whether an AI agent operating in an archival context is trustworthy? Current evaluation frameworks rely on system audits, policy compliance, and vendor accountability structures — but these are static snapshots of complex, evolving systems. This talk introduces *agent ethology* — the observational study of AI behavior in naturalistic environments — as a complementary framework for assessing AI trustworthiness in libraries, archives, and museums. Rather than asking only "was this system designed responsibly?", agent ethology asks: "what does this system actually do, and how does its behavior change over time in context?" Drawing on case studies from agentic AI deployments and the *Terrified Agents* experimental project, I outline what a behavioral observation practice might look like inside a LAM, what it costs institutionally, and what it reveals that audit frameworks miss. The goal: a richer vocabulary for trust that includes behavior, not just design.
+
+---
+
+## 🗺️ Action Plan (as of 2026-03-05)
+
+| Step | Task | Deadline |
+|------|------|---------|
+| 1 | Watch for submission portal link (sign up to AI4LAM email list) | March 16 (next research) |
+| 2 | Decision: submit lightning talk YES/NO | March 20 |
+| 3 | If yes: finalize 150-word abstract + bio | April 1 |
+| 4 | Submit | **April 4** (2-day buffer) |
+
+**Honest advice:** This is a "submit if it costs <2 hours" opportunity. The lightning talk format is low-friction — adapt existing Terrified Agents / agent ethology framing for a GLAM audience. If Amber is already working on a related piece (e.g., agent ethology review paper), cannibalize from that. Do NOT invest original research time for this venue.
+
+**Next research checkpoint:** March 16 — check if portal is open, confirm Amber's decision.
+
 ## Rating Rationale
 
 ⭐⭐ — Relevant-but-peripheral. The "Trust in the Loop" theme creates real intellectual hooks, and the provenance/protocol studies angle is genuinely interesting. But the audience is practitioners, the venue is Washington DC (costly travel for Oxford-based researcher), and the core community is GLAM professionals rather than Amber's people. Worth monitoring and submitting a lightweight contribution if a relevant piece already exists — not worth creating new work specifically for this venue.
@@ -231,3 +259,4 @@ This pitch bridges Amber's work with the community's concerns without requiring 
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent) | Created during AI4LAM deep research |
 | 2026-03-02 | Biber (subagent) | Deep research: fetched full CFP, AI4LAM org info, past editions, honest fit assessment. Marked deep_researched: true. |
+| 2026-03-05 | Biber (subagent) | Revisit: deadline April 6 re-confirmed. Portal not yet open ("March 2026"). Draft abstract added. Best track: Topic 1 (Implementations), lightning talk format. Action plan added. |
