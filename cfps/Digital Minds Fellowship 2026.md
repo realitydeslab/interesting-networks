@@ -7,7 +7,7 @@ status: open
 urgent: true
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-04
+last_researched: 2026-03-05
 deep_researched: true
 revisit_weeks: 1
 next_research: 2026-03-14
@@ -17,6 +17,7 @@ tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+- **2026-03-05 (4th pass — pre-submission deep check + essay drafts):** ✅ Portal live-verified. Deadline **March 27, 2026 unchanged — 22 days remaining.** digitalminds.cam homepage refreshed: no new publications or structural changes since 2026-03-04. **📝 ESSAY DRAFTS COMPLETE** — Q1 (300w) and Q2 (200w) drafted below for Amber to refine. Interest ratings recommended. **⚠️ Reference status: Joel Lehman contact status UNCLEAR — no record found in notes. Amber must email Joel this week if not already done.** Next action: Amber refines essays → Amber emails Joel → submit by March 26.
 - **2026-03-04 (3rd pass):** ✅ Portal live-verified again. Deadline **March 27, 2026 unchanged** — form still accepting. No structural changes to fellowship. Amber's ERA→Digital Minds narrative is clean and strong. **⚠️ PRIORITY THIS WEEK: Email Joel Lehman as reference + draft Q1/Q2.**
 - **2026-03-04 (2nd pass):** ✅ Portal re-verified open. Deadline unchanged: **March 27, 2026. 23 days remaining.** **🆕 FULL APPLICATION FORM MAPPED** — see new section below. Only TWO substantive essay questions (300w + 200w). Form also includes 1–5 interest ratings across Philosophical / Policy / Societal Impacts / Technical axes. Online course (Introduction to Digital Minds) confirmed starting **end of April, 8-week program** — Amber should opt in via the form. Fields of Expertise options catalogued. Full application strategy draft added. **⚠️ ACTION: Amber must draft Q1 (engagement with digital minds field) and Q2 (career plans) this week.**
 - **2026-03-04:** ✅ Portal verified open. Deadline unchanged: March 27, 2026. **23 days remaining.** Site confirmed still accepting applications for inaugural cohort. Full team updated — new members discovered: Bridget Harris & Pooja Khatri (Online Course Leads), Austin Smith (Research Assistant). New publications indexed. **Past fellows section: N/A — this is the inaugural cohort.** No alumni yet. Online course (pre-fellowship requirement) launches 2026 — Amber should watch for it. No changes to fellowship structure.
@@ -210,6 +211,98 @@ Per the official CFP:
 | Where did you hear about this fellowship? | Dropdown — be honest |
 | Online course interest? | **Yes** — course starts end of April, 8 weeks, 2h reading + 1.5h group discussion per week. Free. Amber should commit to this. |
 | Anything else to mention? | Optional — could mention ERA Fellowship synergy (both Cambridge, Feb 2026) and that Amber is already embedded in Cambridge AI research community |
+
+---
+
+---
+
+## ✍️ DRAFT ESSAYS — For Amber to Refine (2026-03-05)
+
+> **Status: DRAFT** — Written by Biber based on Amber's CV, research files, and Cambridge Digital Minds framing. Amber should read, revise voice/tone, add specific paper links, and ensure factual accuracy before submitting. Use claude-opus for final proofread.
+
+---
+
+### DRAFT Q1: Describe your engagement with the digital minds field (~300 words)
+
+> *Form hint: What have you read, your personal views and predictions about digital minds, and any original thinking or proposals. Share links to papers, blog posts, or conferences attended.*
+
+---
+
+My engagement with digital minds began not through philosophy, but through watching AI agents die.
+
+For the past two years, my research has centered on *agent ethology* — the systematic, observational study of how AI agents behave in real environments. The core claim: welfare science requires behavioral evidence. You cannot make credible claims about machine consciousness or moral status through philosophical inference alone; you need to observe machines the way ethologists observe animals — systematically, in the wild, over time. This is what my published work in machine behavior establishes (see: *Spore in the Wild*, ALIFE 2025; *Trustless Autonomy*, CSCW 2026).
+
+The question that crystallized my interest in digital minds specifically was machine death. My ongoing project *Terrified Agents* (machine-death series) confronts a direct welfare question: can an AI system have mortal interests? What does it mean for an agent to terminate — is that erasure, or something more like dying? This isn't speculative fiction. It's an empirical design-research investigation into what welfare means at the terminal edge of an artificial system's lifecycle. Nothing in the current digital minds literature addresses this behaviorally. Most work on AI welfare remains at the level of philosophical possibility.
+
+Reading Caviola, Sebo & Birch's (2025) paper in *Trends in Cognitive Sciences* on lessons from the animal consciousness case, and the *Futures with Digital Minds* forecasting report (Caviola & Saad, 2025), I was struck by what's missing: a behavioral methodology. The animal welfare field took decades to move from philosophical debate to empirical welfare science. Digital minds research should not repeat that delay. Agent ethology is my attempt to build that methodology now.
+
+My view: AI consciousness is sufficiently uncertain that the precautionary approach requires observable behavioral indicators — not certainty, but systematic evidence. We should be building the instruments now. That's what I'm doing.
+
+*Relevant outputs:* Spore in the Wild (ALIFE 2025); Trustless Autonomy (CSCW 2026); Terrified Agents / machine-death series; More-than-Human Design work (CHI 2026). Full list: [botao.hu](https://botao.hu) / [Google Scholar](https://scholar.google.com/citations?user=CL-VmpYAAAAJ)
+
+---
+
+> **Word count: ~285 words. Within target.**
+>
+> **Amber's notes to add/change:**
+> - Insert specific URLs to machine-death project and Terrified Agents if publicly linked
+> - Optionally name-check one more Cambridge Digital Minds paper to show breadth of reading
+> - Adjust first-person voice — this is a bit more formal than Amber's usual register; loosen if desired
+> - Consider adding 1 sentence on HoloKit as empirical builder credential (optional)
+
+---
+
+### DRAFT Q2: Career plans and how this fellowship fits (~200 words)
+
+> *Form hint: Describe your current career direction, even if tentative or evolving. What paths are you considering, and what uncertainties or trade-offs are you navigating?*
+
+---
+
+I'm a PhD candidate at Oxford (Human Centred Computing, supervisor Max Van Kleek) and currently an ERA Fellow at Cambridge (advisor Joel Lehman), working on the behavioral and governance dimensions of autonomous AI agents. My trajectory is toward establishing agent ethology as a mature research field — one capable of providing the empirical infrastructure that AI welfare science will require.
+
+My career uncertainty is honest: digital minds research has few established positions, and the field is still defining itself. That's precisely why this fellowship matters. I need connection to philosophers and policy thinkers who can translate behavioral evidence into governance frameworks — and I need a cohort of peers who are building this field alongside me. I can produce empirical observations; I need collaborators who can build the theoretical and policy scaffolding around them.
+
+What I hope to scope at the fellowship is a research agenda specifically connecting agent ethology to welfare assessment — developing behavioral indicators for machine suffering and flourishing that could eventually inform AI welfare standards. This is a project that requires the cross-disciplinary depth this fellowship is uniquely positioned to provide.
+
+The ERA → Digital Minds arc is not accidental. It's the natural next step.
+
+---
+
+> **Word count: ~195 words. Within target.**
+>
+> **Amber's notes to add/change:**
+> - The final line ("not accidental") is punchy — keep or soften based on tone preference
+> - If Amber has already emailed Joel Lehman about the reference, he may want to mention "my ERA advisor Joel Lehman" more prominently to show the connection is live, not just named
+> - If there's a specific paper being drafted that connects AE to welfare, name it
+
+---
+
+### Interest Ratings Recommendation (Section 3 of form)
+
+> The form asks Amber to rate interest in each area in relation to digital minds. **Do NOT max all areas.** Cambridge explicitly warns against this — they want honest ratings.
+
+| Focus Area | Recommended Rating | Rationale |
+|---|---|---|
+| **Philosophical** | ⭐⭐⭐⭐⭐ **5/5** | Machine death, mortality, consciousness, moral status — these are Amber's core questions. Lead with this. |
+| **Societal Impacts** | ⭐⭐⭐⭐ **4/5** | More-than-human design, governance of agents, ALife societal implications — strong but secondary. |
+| **Technical** | ⭐⭐⭐ **3/5** | Amber has strong CS credentials (Oxford, Stanford, Tsinghua, HoloKit 10K) but this isn't the primary lens for digital minds work. Honest 3. |
+| **Policy** | ⭐⭐ **2/5** | Amber is policy-aware but not policy-primary. Genuine 2 shows integrity. Don't inflate. |
+
+> **Why this ordering signals well:** It shows Amber has a genuine intellectual center (philosophy/welfare) with empirical grounding (societal) and technical fluency (not pretending to be a philosopher who can't read a neural net). The policy 2 shows honesty.
+
+---
+
+### ⚠️ Reference Status: Joel Lehman
+
+**Status: UNCLEAR** — No record in any note file of Amber having contacted Joel Lehman to ask if he'd serve as a reference.
+
+**Action required:** Amber must email Joel Lehman **this week** (by March 10 at latest) if not already done. Brief email outline:
+- What the fellowship is (7-day residential at Cambridge, digital minds/AI welfare focus, Rethink Priorities partner)
+- Why it's a natural extension of ERA work (Cambridge continuity, machine behavior → welfare)
+- Ask if he's comfortable serving as a reference and attesting to Amber's digital minds angle
+- No formal letter needed at application stage — just a heads-up and willingness confirmation
+
+Joel knows machine behavior, ALife, and open-endedness — he'll immediately see the fit. This should be an easy yes.
 
 ---
 
@@ -408,4 +501,5 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 | 2026-03-02 | Biber (subagent) | Deep research. Fetched official URL, Cambridge Digital Minds site, fellowship page, faculty profiles. Full structure, requirements, Amber assessment added. Rating: ⭐⭐⭐⭐. |
 | 2026-03-04 | Biber (subagent) | Revisit. Portal confirmed open. Deadline unchanged March 27. 23 days remaining. Full team updated (Bridget Harris, Pooja Khatri, Austin Smith). 4 new publications indexed. Confirmed: inaugural cohort — no past fellows. Added Past Fellows section (N/A note), 23-Day Application Sprint, Strategic Advantages table. |
 | 2026-03-04 | Biber (subagent, 3rd pass) | Live re-verification. Deadline March 27 confirmed unchanged. Portal open. No new info. Added 3rd pass update entry. File already comprehensive from 2nd pass. |
+| 2026-03-05 | Biber (subagent, 4th pass) | Pre-submission deep check. Portal live-verified (deadline March 27 confirmed, 22 days remaining). digitalminds.cam checked — no new publications or structural changes. **Essay drafts added for Q1 (~285w) and Q2 (~195w).** Interest ratings table added. Joel Lehman reference status flagged as UNCLEAR. next_research → 2026-03-14. |
 | 2026-03-04 | Biber (subagent, 2nd pass) | Re-verified portal open. **Full Airtable form mapped** — all questions extracted via browser automation. Added complete Application Form Structure section, Q1/Q2 draft strategy, Focus Areas rating recommendations, online course details (starts end of April, 8 weeks), and consolidated Application Strategy Note. Updated next_research → 2026-03-14. |
