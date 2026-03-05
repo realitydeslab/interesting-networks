@@ -6,7 +6,7 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, emergence, self-organization, open-endedness, machine-behavior, agent-behavior, alife-community]
 interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
-last_researched: 2026-03-04
+last_researched: 2026-03-05
 revisit_weeks: 1
 next_research: 2026-03-11
 deep_researched: true
@@ -15,6 +15,8 @@ deep_researched: true
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-05 (workshop check):** `/workshops/` still returns 404 — accepted workshops NOT yet published (6th consecutive 404 since Feb 20). `/program/` also 404. Main site (200 OK) has no new workshop announcements — only venue/location content. isal.us returning no content. Web search API unavailable. No workshop results announced anywhere. Status: **workshops not yet published**; organizers likely still reviewing proposals (deadline was Feb 28, only ~5 days ago). Check again next week.
 
 - **2026-03-04:** Re-checked site. No accepted workshops published yet (`/workshops/` returns 404 — organizers have not announced results). Paper deadline **March 30 confirmed unchanged**. Workshop deadline was Feb 28 (extended from original Feb 20). No new submission portal URL announced — use linklings.net link below. No other changes since March 2. **26 days to paper deadline.**
 
