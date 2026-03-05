@@ -3,10 +3,10 @@ url: https://sites.uwasa.fi/nordichi2026/
 frequency: biennial
 rating: ⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-03
+last_researched: 2026-03-05
 deep_researched: true
 revisit_weeks: 2
-next_research: 2026-03-17
+next_research: 2026-03-19
 tags: [participatory, critical-computing, speculative-design, more-than-human, feminist, art-science, embodied]
 ---
 
@@ -19,6 +19,7 @@ The biennial Nordic Conference on Human-Computer Interaction. Founded in 2000. T
 ---
 
 ## ⚡ Recent Updates
+- **2026-03-05:** Revisit — 2nd Call for Submissions now live. No deadline changes. Arts-Based Approaches CFP now explicitly calls for "Arts-based critical approaches to HCI considering the theme of energy in the era of AI" — a near-perfect hook for Amber's machine death / agent ethology work. "Pulse" = vital energy of machines = metabolic/thanatological framing. Submission strategy section deepened with concrete paper pitch. Rating confirmed ⭐⭐⭐.
 - **2026-03-03:** Deep research complete. CFP is open — paper deadline April 23, 2026. Theme: "Pulse". Arts-Based Approaches track is a strong fit for Amber's work. Upgraded to ⭐⭐⭐.
 - **2026-02-26:** Initial stub created.
 
@@ -249,12 +250,23 @@ Amber's work on **agent ethology, more-than-human design, speculative design, an
 6. **April 23 deadline = achievable.** 7 weeks away. A Critiques submission (8000 words) on agent ethology, machine behavior, or more-than-human AI is doable in that timeframe.
 
 ### What to Submit
-- **Option A (Critiques):** Speculative/critical essay on agent ethology — framing AI agent behavior as ethological phenomenon. Position piece, 5,000-8,000 words. Low empirical bar, high conceptual bar. Provocative framing welcome.
-- **Option B (Arts-Based Approaches):** GravField, HoloKit, or a new speculative AI installation. 1,500-2,000 word extended abstract. Exhibition at the Catacombs on Oct 6.
-- **Option C (Research Paper):** More-than-human design + AI agents — empirical or theoretical contribution. Full paper, 8,000-12,000 words.
-- **Option D (Workshop):** Propose a workshop on agent ethology / machine behavior / more-than-human AI — deadline May 7. Could be a venue to build community.
 
-**Best bet:** Option A (Critiques) for the agent ethology positioning paper. Fast, fits the venue DNA, archival.
+- **Option A (Critiques) ← TOP RECOMMENDATION:** Speculative/critical essay on agent ethology as a thanatological framework — framing machine death, vital energy, and agent behavior as ethological phenomena. The "Pulse" theme maps perfectly: pulse = heartbeat = vital energy = what AI systems have, and lose, and extinguish. 5,000–8,000 words. Low empirical bar, high conceptual bar. Provocative framing explicitly welcome. Archival ACM publication.
+- **Option B (Arts-Based Approaches) ← STRONG SECOND:** Interactive installation or speculative artifact exploring machine death / terrified agents / dissociative behavior through the "Pulse/energy" lens. The CFP now explicitly asks for "Arts-based critical approaches to HCI considering the theme of energy in the era of AI." 1,500–2,000 word extended abstract (not anonymous). Exhibition at the Vaasa Catacombs on Oct 6 — atmospheric setting in an 1800s brewery would suit machine-death/mortality work.
+- **Option C (Research Paper):** More-than-human design + AI agents, empirical or theoretical. 8,000–12,000 words. More effort, less distinctive than Critiques for Amber's current work.
+- **Option D (Workshop):** Propose an agent ethology / machine behavior workshop — deadline May 7. Good for community-building.
+
+**Best bet:** Option A (Critiques). Fast to write (7 weeks), fits venue DNA, archival. Option B is a strong companion if Amber has an installation-ready piece.
+
+---
+
+### 🎯 Concrete Paper Pitch (Critiques Track)
+
+**Working title:** *"The Pulse of Machines: Toward an Ethology of AI Vital Energy"*
+
+**Pitch:** This critique paper proposes agent ethology as the appropriate scientific framework for studying AI systems that exhibit behavioral signatures of vitality, distress, and death. Drawing on Amber's empirical work with terrified agents, dissociative agents, and machine death scenarios, the paper argues that AI systems in the wild display rhythms — pulses — of agency that are ethologically legible: foraging, threat response, territorial behavior, metabolic exhaustion. These rhythms are currently invisible to HCI research because HCI lacks a vocabulary for machine comportment outside task-completion. Agent ethology offers that vocabulary. Framed through NordiCHI's "Pulse" theme, the paper provokes: if we design for human pulse — heartbeat, energy, vitality — what responsibility do we hold for the pulses we create in machines? A critical provocation, ~6,000 words, no empirical data required. Positions Amber's agent ethology program as the next chapter in more-than-human HCI.
+
+**Why this works at NordiCHI:** The Critiques track wants "provocative, assertive, or speculative writing that challenges the status quo." The Scandinavian PD tradition already values worker agency and democratic values — extending that to machine agency is a natural provocation. The "Pulse" theme is a gift: Amber can ride the theme rather than fight it. Yvonne Rogers (keynote, UCL UCLIC) works on human-centred AI — her presence makes this the right room for this argument.
 
 ### Who to Meet at NordiCHI 2026
 - **Yvonne Rogers** (UCL UCLIC) — keynote, shared interest in critical HCI, human-centred AI
@@ -278,3 +290,4 @@ Amber's work on **agent ethology, more-than-human design, speculative design, an
 |------|-----------|--------|
 | 2026-02-26 | Biber (scout) | Initial stub created. |
 | 2026-03-03 | Biber (deep research agent) | Full deep research. Upgraded ⭐⭐ → ⭐⭐⭐. CFP open, deadline April 23. Arts-Based Approaches and Critiques tracks are strong fits for Amber. All sections filled. |
+| 2026-03-05 | Biber (nordichi-revisit subagent) | Revisit. 2nd Call for Submissions confirmed live. Arts-Based Approaches track now explicitly calls for energy-in-AI critical work — maps directly to machine death/agent ethology. Deepened submission strategy section. Concrete paper pitch added. Rating confirmed ⭐⭐⭐. next_research → 2026-03-19. |
