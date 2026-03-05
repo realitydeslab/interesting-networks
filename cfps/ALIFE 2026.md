@@ -233,3 +233,4 @@ Or alternatively:
 |------|-----------|--------|
 | 2026-03-02 | Biber (agent) | Deep research completed. Workshop deadline just passed (Feb 28). Paper deadline March 30 still open. Strong strategic fit across multiple tracks. |
 | 2026-03-04 | Scout (cron subagent) | Rechecked site. `/workshops/` = 404 — accepted workshops not yet published. Paper deadline March 30 confirmed. No new portal. Switched revisit to weekly (1 week) per CFP-active rule. Added ⚡ Recent Updates section. |
+| 2026-03-05 | Biber (subagent, alife-2026-weekly-check) | Weekly check. `/workshops/` still 404 (7th consecutive). `/program/` still 404. CFP page confirmed 200 OK, no changes. ISAL news unchanged. No portal URL. next_research → 2026-03-12. |
