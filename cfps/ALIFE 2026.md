@@ -16,6 +16,8 @@ deep_researched: true
 
 ## ⚡ Recent Updates
 
+- **2026-03-06 (final strategy pass — T-24 days):** Live-verified CFP page + workshops page + homepage. **Findings:** (1) **March 30 deadline CONFIRMED** — CFP page (200 OK) reads "Full Papers & Summaries: Submission 30 March 2026". (2) **CFP page shows workshop deadline as Feb 20** (NOT Feb 28 as ISAL announced) — CFP page was not updated when the deadline was extended. (3) **Workshops page STILL 404** — 10th consecutive check; now ~6 days post extended deadline (Feb 28) with no announcement. (4) **Submission portal still email-only** — "How to Submit" on CFP page directs ONLY to program2026@alife.org; no EasyChair/HotCRP/linklings URL for papers. Portal launch likely within 7–14 days (i.e., by March 13–20). (5) **Web search API unavailable** — Brave API subscription error; cannot check unofficial channels. (6) **Sprint Day 2 status**: TODAY Amber should finalize title, create Overleaf doc with ALIFE template, write section headings. If Joel Lehman replied to abstract email (sent March 5), integrate feedback. **No new info, no deadline changes, no portal, no workshops.** Next check: 2026-03-12.
+
 - **2026-03-06 (revisit #8 — T-24 days):** Live-verified all three pages. **Findings:** (1) **March 30 paper deadline confirmed unchanged** — CFP page (200 OK) still reads "Full Papers & Summaries: Submission 30 March 2026". (2) **Workshops page STILL 404** — 9th consecutive check, no workshop page published. Committee is now ~14 days post-proposal-deadline with no announcement — getting late. (3) **No submission portal URL** — paper submissions still email-only (program2026@alife.org), no EasyChair/HotCRP link anywhere on site. Portal launch expected within next 7–14 days if history holds. (4) **Homepage: no new content** — venue info only. (5) **Web search API unavailable** — could not search for unofficial announcements. **Bottom line: complete holding pattern, no changes.** Next research: 2026-03-12.
 
 - **2026-03-05 (weekly check — revisit #6):** `/workshops/` STILL 404 — 7th consecutive check with no workshop page (Feb 20 through Mar 5). `/program/` also still 404. CFP page live and unchanged: March 30 paper deadline confirmed, submission still email-only (no portal URL published). ISAL (alife.org): latest news still Feb 17 award nominations — no new ALIFE 2026 workshop or program announcements. isal.us inaccessible. Web search API unavailable, could not check for unofficial announcements. **Bottom line: no changes since last check. Workshop announcement remains pending ~5 days post-deadline.** Next research: March 12 — by then workshops should be announced or committee is very late.
@@ -209,6 +211,68 @@ Or alternatively:
 
 ---
 
+## 📅 MARCH COUNTDOWN — T-24 Days (March 6 → March 30, 2026)
+
+> **Updated: 2026-03-06.** 24 days left. Day 2 of sprint. Every day counts.
+
+### Today's Priority (March 6 — Day 2)
+- [ ] Check Joel Lehman's reply on abstract email (sent March 5)
+- [ ] Finalize paper title (recommended: "Agent Ethology as ALife" or "Thanatogenesis")
+- [ ] Create Overleaf doc using [ALIFE template](https://www.overleaf.com/read/tzwbbdfxqdrw#3ddbfa)
+- [ ] Write section headings (1 page skeleton)
+
+### Week 1: Foundation (March 6–12)
+| Date | Day | Priority Action |
+|------|-----|----------------|
+| **Mar 6 (Fri)** | Day 2 | Finalize title + section headings. Joel feedback. Overleaf setup. |
+| Mar 7 (Sat) | Day 3 | Map related work: read 8–10 papers. Tinbergen, Rahwan, Wageningen, own work. |
+| Mar 8 (Sun) | Day 4 | Write Introduction (0.5–1 page). Hardest section — do it first. |
+| Mar 9 (Mon) | Day 5 | Write Background/Related Work (0.5–1 page). Define ethology → ALife connection. |
+| Mar 10 (Tue) | Day 6 | Write Framework: Tinbergen's 4 questions adapted for AI agents. |
+| Mar 11 (Wed) | Day 7 | **CHECK workshops page** (may finally be live). Write Sovereign Agents subsection. |
+| Mar 12 (Thu) | Day 8 | Write Dissociative Agents subsection. **Biber runs next research check today.** |
+
+### Week 2: Core Writing (March 13–19)
+| Date | Day | Priority Action |
+|------|-----|----------------|
+| Mar 13 (Fri) | Day 9 | Write Terrified Agents subsection. Check if submission portal is now live. |
+| Mar 14 (Sat) | Day 10 | Write Parasitic Agents subsection. |
+| Mar 15 (Sun) | Day 11 | Write Discussion — connect to open-endedness + Joel's work. |
+| Mar 16 (Mon) | Day 12 | Write Conclusion + finalize Abstract. Check page count (target 4–6 pages). |
+| Mar 17 (Tue) | Day 13 | First self-review pass. Fix flow, check citations, fill gaps. |
+| Mar 18 (Wed) | Day 14 | ⭐ **Share draft with Helena Rong + Joel Lehman for feedback.** |
+| Mar 19 (Thu) | Day 15 | Begin implementing feedback. Tighten language. |
+
+### Week 3: Polish & Submit (March 20–30)
+| Date | Day | Priority Action |
+|------|-----|----------------|
+| Mar 20–21 | Days 16–17 | Finish feedback integration. Add missing citations (all need DOIs). |
+| Mar 22 (Sun) | Day 18 | Share with Danlin/other co-authors if any. Final review round. |
+| Mar 23–25 | Days 19–21 | Polish pass. Proofreading (use Opus/Claude). Verify all citations have DOIs. |
+| Mar 26 (Thu) | Day 22 | **Confirm submission portal is live.** Email program2026@alife.org if needed. Test upload. |
+| Mar 27 (Fri) | Day 23 | Final read-through. Format check vs template. |
+| **Mar 28 (Sat)** | **Day 24** | **🚨 TARGET SUBMIT DATE.** Do NOT wait for March 30. Submit early! |
+| Mar 29 (Sun) | Day 25 | Buffer day — revise if portal allows. |
+| **Mar 30 (Mon)** | **DAY 0** | **⚠️ HARD DEADLINE.** EOD UTC. Do not use this day if avoidable. |
+
+### TWO PAPERS — Decision Point (March 6)
+Amber has TWO potential papers. Both cannot be written in 24 days. **Choose ONE:**
+
+| Paper | Fit | Effort | Recommendation |
+|-------|-----|--------|---------------|
+| **Agent Ethology as ALife** | ⭐⭐⭐ "Emergence of Signaling/Cooperation", "Ethics/ExRisk" | Medium — framework paper, no new experiments needed | **✅ PRIMARY — submit this** |
+| **Terrified Agents / Machine Death** | ⭐⭐⭐ "Ethics, Existential Risks", "Autopoiesis, Self/Other" | Medium — provocative, needs framing | **Late-Breaking Abstract (July 20) if Agent Ethology is the full paper** |
+
+**Verdict:** Agent Ethology is the stronger ALIFE paper — it's methodology + ALife framing + Joel's open-endedness territory. Machine Death / Terrified Agents can be submitted as a **Late-Breaking Abstract by July 20** with much more time.
+
+### Portal Status (Critical Path)
+- **Current status:** Email-only (program2026@alife.org). No portal URL published.
+- **Expected:** Portal should open by March 13–20 (7–14 days from now).
+- **Action if portal not live by March 20:** Email program2026@alife.org asking for submission instructions.
+- **Submission templates:** [Overleaf](https://www.overleaf.com/read/tzwbbdfxqdrw#3ddbfa) | [LaTeX](https://drive.google.com/file/d/16XmT031NVqm34rU7SPArwSJRRvIbRM3i/view) | [Word](https://docs.google.com/document/d/1RYP1lEvA0bHo3TxwcX2Zs8nct0llA_lW/edit)
+
+---
+
 ## Related Satellite Events
 
 - **Models of Consciousness** (satellite, co-located with ALIFE 2025 in Sapporo — check 2026 edition)
@@ -237,3 +301,4 @@ Or alternatively:
 | 2026-03-04 | Scout (cron subagent) | Rechecked site. `/workshops/` = 404 — accepted workshops not yet published. Paper deadline March 30 confirmed. No new portal. Switched revisit to weekly (1 week) per CFP-active rule. Added ⚡ Recent Updates section. |
 | 2026-03-05 | Biber (subagent, alife-2026-weekly-check) | Weekly check. `/workshops/` still 404 (7th consecutive). `/program/` still 404. CFP page confirmed 200 OK, no changes. ISAL news unchanged. No portal URL. next_research → 2026-03-12. |
 | 2026-03-06 | Biber (subagent, alife-2026-revisit) | Revisit #8. T-24 days. All three pages live-verified. March 30 confirmed. Workshops still 404 (9th consecutive — now ~14 days post-proposal-deadline). Portal still email-only. Homepage unchanged. Web search API unavailable. No new info. last_researched → 2026-03-06. |
+| 2026-03-06 | Biber (subagent, alife-2026-submission-strategy) | Final submission strategy pass. Live-verified CFP page (200 OK): March 30 confirmed, CFP shows workshop deadline as Feb 20 (not Feb 28), workshops still 404 (10th), portal still email-only. Added 📅 MARCH COUNTDOWN section with day-by-day plan (Mar 6–30), two-paper decision matrix, portal status critical path. Sprint Day 2. |
