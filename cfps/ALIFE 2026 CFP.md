@@ -5,9 +5,9 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-06
+last_researched: 2026-03-06-PM
 revisit_weeks: 1
-next_research: 2026-03-12
+next_research: 2026-03-09
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
 tags: [alife, computational-creativity, open-endedness, machine-behavior, embodied, art-science]
@@ -20,6 +20,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-06 (late-night check — revisit #11):** All four sources live-verified at 23:03 UTC. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged. (2) **Homepage (200 OK)** — venue info only, **NO submission portal button/URL**. (3) **Workshops page STILL 404** — 13th consecutive check. (4) **ISAL news (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations), nothing new. **Portal has NOT launched.** Still email-only (program2026@alife.org). Web search API unavailable. Expected portal window: March 7–14. next_research: 2026-03-09.
 
 - **2026-03-06 (PM check, 15:25 UTC — revisit #10):** All four sources live-verified. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged. (2) **Homepage (200 OK)** — venue info only, NO submission portal button/URL anywhere. (3) **Workshops page STILL 404** — 12th consecutive check. (4) **ISAL news (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations), nothing new about portal or workshops. **Portal has NOT launched.** Still email-only. Expected window: March 7–14. Next research: 2026-03-12.
 
