@@ -5,7 +5,7 @@ rating: ⭐⭐⭐⭐
 added: 2026-02-26
 last_researched: 2026-03-06-PM
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-08
 deep_researched: true
 deadline: 2026-03-09
 status: open
@@ -45,6 +45,8 @@ url: https://ars.electronica.art/prix/en/
 ---
 
 ## ⚡ Recent Updates
+- **2026-03-06 (T-3 days, 23:02 UTC — final prep check):** ✅ **PORTAL LIVE. DEADLINE UNCHANGED. ALL SYSTEMS GO FOR MARCH 7 SUBMIT.** Live verification (23:02 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no change, no extension; (2) `calls.ars.electronica.art/2026/prix/` — portal live, returns contact/login page, no "closed" notice, still accepting submissions. No requirement changes. **AMBER'S MARCH 7 PLAN:** ① Go to `calls.ars.electronica.art/2026/prix/` (exact submission URL) ② Select **Interactive Art+** ③ Upload: 3-min video + images + 2000-char description + bio + portrait ④ Check **S+T+ARTS box** (€20,000 free bonus) ⑤ Submit + screenshot confirmation. If March 7 submit fails → March 8 is buffer day. Hard deadline: March 9, 2 PM CET. `next_research: 2026-03-08`
+
 - **2026-03-06 (12:05 UTC — AFTERNOON RE-CHECK):** ✅ **ALL SYSTEMS GO. NO CHANGES. PORTAL LIVE. DEADLINE UNCHANGED. MARCH 7 IS SUBMIT DAY.** Afternoon live verification (12:05 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed unchanged, no last-minute extension, no surprises; (2) `calls.ars.electronica.art/2026/prix/` — portal returns contact page (live, no "closed" notice, still accepting submissions); (3) `starts-prize.aec.at/en/` — **"Submissions for the 2026 S+T+ARTS Prize are now being accepted until March 9, 2026, 2 PM CET (extended deadline)"** — €20,000 still on the table. **NOTHING HAS CHANGED since the 07:01 UTC check.** This is the 3rd verification of March 6 — everything stable. **AMBER'S EXACT ACTION PLAN:** TODAY (March 6 afternoon/evening): finalize video, finalize 2000-char description (draft below is ready to customize), confirm portal account exists, gather images + portrait. TOMORROW (March 7): go to calls.ars.electronica.art, select Interactive Art+, upload everything, check S+T+ARTS box, submit, screenshot confirmation. That's it. Do not wait for March 9 — jury reviews in order of arrival.
 
 - **2026-03-06 (07:01 UTC — MARCH 7 CHECKLIST ADDED):** ✅ **TRIPLE CONFIRMED. DEADLINE UNCHANGED. PORTAL LIVE. S+T+ARTS ACTIVE. MARCH 7 ACTION CHECKLIST ADDED ABOVE.** Live verification (07:01 UTC): (1) `ars.electronica.art/prix/en/` — "Extended Submission Deadline: March 9, 2026, 2 PM CET" — **confirmed, no changes, no further extension**; (2) `calls.ars.electronica.art/2026/prix/` — portal returns contact page (live, no "closed" notice, no new error); (3) `starts-prize.aec.at/en/` — "Submissions for the 2026 S+T+ARTS Prize are now being accepted until March 9, 2026, 2 PM CET (extended deadline)" — **€20,000 bonus confirmed, same submission**. Web search API unavailable (quota). **MARCH 7 ACTION CHECKLIST added at top of note.** Recommended work: **Terrified Agents / machine-death → Interactive Art+**. Everything is ready — description draft, video storyboard, strategy memo all below. **TODAY (March 6): finalize video + description + create portal account. TOMORROW (March 7): SUBMIT.**
