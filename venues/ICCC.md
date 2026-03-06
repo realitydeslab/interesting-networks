@@ -1,10 +1,10 @@
 ---
 rating: ⭐⭐⭐
 added: 2026-03-03
-last_researched: 2026-03-05
+last_researched: 2026-03-06
 deep_researched: true
 revisit_weeks: 1
-next_research: 2026-03-08
+next_research: 2026-03-14
 tags: [computational-creativity, generative-art, alife, machine-behavior, open-endedness, art-science]
 url: https://computationalcreativity.net/
 frequency: annual
@@ -15,6 +15,7 @@ frequency: annual
 The world's only conference dedicated exclusively to computational creativity. Annual, held every June/July since 2010. Run by the [Association for Computational Creativity (ACC)](https://computationalcreativity.net/). Proceedings published open-access, indexed at DBLP under ISSN 3051-6706. The place where computational creativity is defined, debated, and built.
 
 ## ⚡ Recent Updates
+- **2026-03-06 (T-2 days pre-deadline check):** ✅ **FULL PAPER DEADLINE UNCHANGED — MARCH 8, NO EXTENSION.** Verified live: full-papers page still shows Mar 6 (strikethrough) → **Mar 8, 2026 (23:59 AoE)** as final deadline. EasyChair portal confirmed open. Workshop/tutorial deadline still **March 14**. Workshops page remains 404 but homepage confirms info. 🆕 **BIG NEW FINDING: Early Career Symposium (ECS) announced March 5!** ECS is specifically for Master's/PhD-level junior researchers — **Amber qualifies as Oxford DPhil candidate.** ECS deadline: **May 15, 2026** (75 days away), symposium June 28, 2026 (day before main conference). Submit via EasyChair; questions to iccc26-workshops@computationalcreativity.net. This dramatically widens Amber's options: full paper (2 days), workshop (9 days), or ECS (75 days — fully polished, much lower pressure). **Recommendation: ECS is now the primary recommended path.** Rating re-confirmed ⭐⭐⭐ — if anything, the ECS discovery strengthens the case.
 - **2026-03-05 (final pre-deadline check — revisit):** ✅ **DEADLINE STILL MARCH 8 — NO EXTENSION.** Re-verified live from full-papers page: deadline remains **March 8, 2026 (23:59 AoE)**, no further extension beyond Mar 6→Mar 8. EasyChair portal confirmed OPEN: "Submission of new papers for ICCC'26 is open." Workshop page at `/workshops-and-tutorials/` returns 404, but main homepage confirms: **Workshop/Tutorial deadline March 14**, submit via email to `iccc26-workshops@computationalcreativity.net`. No new tracks or special sessions found. NEW: **Word template** now available at [ICCC-author-kit-Word.zip](https://computationalcreativity.net/ICCC-author-kit-Word.zip) in addition to the existing LaTeX template. Amber's window: **3 days for full paper** OR **9 days for workshop proposal** — workshop route remains the recommended path for a polished submission given the time pressure.
 - **2026-03-05:** ⚠️ **DEADLINE CONFIRMED — 3 DAYS LEFT.** Full paper deadline is **March 8, 2026 (23:59 AoE)** — verified live from [computationalcreativity.net/iccc26/full-papers/](https://computationalcreativity.net/iccc26/full-papers/). EasyChair portal is OPEN: "Submission of new papers for ICCC'26 is open." Deadline was previously extended from Mar 6 → Mar 8 (shown as strikethrough on the site). **Workshop/tutorial deadline: March 14, 2026** (submit to iccc26-workshops@computationalcreativity.net) — this is an additional opportunity for Amber with more time. Updated submission strategy below.
 - **2026-03-03:** Deep research complete. URGENT: ICCC'26 full paper deadline is **March 8, 2026** — 5 days away! Abstracts were due March 1 (passed). Conference in Coimbra, Portugal, June 29 – July 3, 2026.
@@ -22,20 +23,35 @@ The world's only conference dedicated exclusively to computational creativity. A
 
 ---
 
-## 🚨 URGENT: ICCC'26 Deadline in 3 Days (March 8)
+## 🚨 ICCC'26 — Three Paths for Amber (Updated 2026-03-06)
 
-**Full paper deadline: March 8, 2026 (23:59 AoE)** — VERIFIED LIVE 2026-03-05
+**Full paper deadline: March 8, 2026 (23:59 AoE)** — VERIFIED LIVE 2026-03-06 — **NO EXTENSION**
 
 - Submit via: [EasyChair ICCC'26](https://easychair.org/conferences?conf=iccc26) — **PORTAL IS OPEN**
 - Conference: June 29 – July 3, 2026, Coimbra, Portugal
-- Abstracts: Originally Feb 27, extended to Mar 1, 2026 (PASSED — but abstract can be updated until full paper deadline — you can still submit with an abstract update)
 - Acceptance notification: April 20, 2026
-- **Workshop/Tutorial proposals:** March 14, 2026 — email to iccc26-workshops@computationalcreativity.net (additional opportunity, more time!)
 
-### Submission Decision for Amber
+### Key Dates (Updated)
+| Milestone | Date | Status |
+|-----------|------|--------|
+| ~~Abstract due~~ | ~~Feb 27~~ → ~~Mar 1, 2026~~ | PASSED |
+| **Full paper due** | ~~Mar 6~~ → **Mar 8, 2026** ⚠️ | **2 DAYS AWAY — NO EXTENSION** |
+| **Workshop proposals** | **Mar 14, 2026** | 9 days — email iccc26-workshops@computationalcreativity.net |
+| 🆕 **Early Career Symposium** | **May 15, 2026** | 75 days — for PhD/Master's researchers |
+| ECS Notification | May 22, 2026 | — |
+| ECS Presentations | June 22, 2026 | — |
+| ECS Symposium | **June 28, 2026** | Day before main conference |
+| Acceptance notification | April 20, 2026 | (full papers) |
+| Camera-ready | May 27, 2026 | (full papers) |
+| Conference | June 29 – July 3, 2026 | Coimbra, Portugal |
 
-**Option A — Full Paper (deadline Mar 8, 3 days away):**
-Tight but possible. Best candidates:
+### Submission Decision for Amber — Three Paths
+
+**🆕 Option C — Early Career Symposium (deadline May 15, 75 days away) ← RECOMMENDED PRIMARY PATH**
+Announced March 5, 2026. Specifically for **junior researchers at Master's/doctoral level** — Amber qualifies as an Oxford DPhil candidate. Much more time to prepare a polished submission. Symposium June 28, the day before the main conference. Submit via EasyChair; questions to iccc26-workshops@computationalcreativity.net. This is the strategic sweet spot: enough time for a rigorous submission, a dedicated junior researcher community, and access to the full main conference. **Amber should strongly consider this route.**
+
+**Option A — Full Paper (deadline Mar 8, 2 days away):**
+Tight. Only viable if Amber has something nearly complete. Best candidates:
 1. **"Agent Ethology as a Methodology for Evaluating Creative Systems"** — Study paper. Argue that behavioral/ethological observation (Amber's machine-behavior frame) is an under-used methodology for evaluating creative AI in the wild. Cite Rahwan's machine behavior + Boden/Colton/Wiggins on CC evaluation. 8 pages, no system required. **This is the strongest fit and quickest to write.**
 2. **"Machine Death and Creativity: On Finitude as a Creative Constraint"** — Position paper. Argue that mortal systems exhibit richer creative behavior than immortal ones. Connects Amber's machine death research to CC theory. Provocative and fresh.
 
@@ -69,10 +85,12 @@ ICCC defines itself as the intersection of **AI, Cognitive Science, Engineering,
 | Milestone | Date |
 |-----------|------|
 | ~~Abstract due~~ | ~~Feb 27~~ → ~~Mar 1, 2026~~ (passed, extended once) |
-| **Full paper due** | ~~Mar 6~~ → **Mar 8, 2026** ⚠️ (extended, CONFIRMED LIVE) |
+| **Full paper due** | ~~Mar 6~~ → **Mar 8, 2026** ⚠️ (extended, CONFIRMED LIVE 2026-03-06) |
 | **Workshop proposals** | **Mar 14, 2026** (email iccc26-workshops@computationalcreativity.net) |
+| 🆕 **Early Career Symposium** | **May 15, 2026** (announced Mar 5; for PhD/Master's researchers) |
 | Acceptance notification | April 20, 2026 |
 | Camera-ready | May 27, 2026 |
+| ECS Symposium | June 28, 2026 (day before main conference) |
 | Conference | June 29 – July 3, 2026 |
 
 ### Paper Format
@@ -245,3 +263,4 @@ The community is intellectually rigorous but open to interdisciplinary perspecti
 | 2026-03-03 | Biber (subagent) | Full deep research. Added ICCC'26 CFP details (URGENT: March 8 deadline), ICCC'25 accepted papers analysis, key people, submission strategy. Rating confirmed ⭐⭐⭐. Revised: next_research 2 weeks (active CFP season). |
 | 2026-03-05 | Biber (subagent, iccc-revisit cron) | Urgent deadline check. CONFIRMED: Mar 8 deadline still live. EasyChair open. Deadline was extended from Mar 6→Mar 8 (shown as strikethrough on site). Also discovered Workshop proposals deadline Mar 14. Updated submission strategy with two concrete paper options. next_research set to 2026-03-08 (day of deadline). |
 | 2026-03-05 | Biber (subagent, iccc-2026-final-check cron) | Final pre-deadline check (T-3 days). CONFIRMED: March 8 deadline unchanged, no further extension. EasyChair OPEN. Workshop deadline March 14 confirmed via homepage (workshop page 404s but info on homepage). NEW: Word template discovered. No new tracks or special sessions. Updated ⚡ Recent Updates entry. |
+| 2026-03-06 | Biber (subagent, iccc-revisit cron) | Pre-deadline revisit (T-2 days). CONFIRMED: March 8 full paper deadline unchanged — NO EXTENSION. EasyChair OPEN. Workshops page still 404. KEY DISCOVERY: Early Career Symposium (ECS) announced March 5, 2026 — deadline May 15, for PhD/Master's researchers. Amber qualifies as Oxford DPhil candidate. Added ECS to key dates table and submission strategy. ECS now flagged as primary recommended path. Rating re-confirmed ⭐⭐⭐. next_research updated to March 14 (workshop deadline). |
