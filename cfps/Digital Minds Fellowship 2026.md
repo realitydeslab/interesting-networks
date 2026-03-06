@@ -7,7 +7,7 @@ status: open
 urgent: true
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-06
+last_researched: 2026-03-06-PM
 deep_researched: true
 revisit_weeks: 1
 next_research: 2026-03-10
@@ -17,6 +17,7 @@ tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+- **2026-03-06 (T-21 days, late-night check #5 — 23:03 UTC):** ✅ Portal live-verified — **deadline March 27, 2026 unchanged**. Fellowship page confirmed active, Airtable form accessible, "Currently accepting applications. Deadline 27 March 2026." confirmed verbatim. Homepage team/publications unchanged. Web search API unavailable (Brave 422). **🔴🔴🔴 JOEL LEHMAN EMAIL — CRITICAL ESCALATION:** This is the 5th consecutive check with NO RECORD of this email being sent. March 10 is the absolute latest window. The draft email is ready in the ACTION PLAN below. **Amber MUST send this TODAY or tomorrow.** Do not let another check pass without action. next_research: 2026-03-10.
 - **2026-03-06 (T-21 days, 4th pass — scheduled March 10 revisit prep):** ✅ Live-verified — **deadline March 27, 2026 unchanged**. Fellowship page fully intact, form accessible, homepage team/publications unchanged (same 10 publications — no new ones since prior passes). Web search API unavailable (Brave 422). No new cohort announcements, requirement changes, or social media activity found. **Joel Lehman connection check:** No new public info linking Joel Lehman specifically to Cambridge Digital Minds — the connection remains Amber's to establish via direct outreach. **🔴 MOST URGENT: Joel Lehman email still unrecorded in any notes file. 4 days to the March 10 window. Draft email ready in ACTION PLAN below.** No further live research needed until March 10. next_research → 2026-03-10.
 - **2026-03-06 (T-21 days, 3rd pass — pre-submission research pass):** ✅ Live triple-verified — **deadline March 27, 2026 unchanged**. Fellowship page fully intact, form accessible, homepage team/publications unchanged (same 10 publications as prior pass — no new ones). Airtable form URL confirmed active. Web search API unavailable (Brave 422). **🚨 ACTION PLAN section added below — see for Joel Lehman email draft (ready to send) and submission timeline.** Key finding: the Caviola, Sebo & Birch (2025) *Trends in Cog Sci* authorship is **confirmed** — all three authors visible on the Cambridge Digital Minds publications list. Q1 citation is correct. **🔴 MOST URGENT:** Joel Lehman email — 4 days to March 10 window. Draft ready below in ACTION PLAN section. No further research needed until March 10.
 - **2026-03-06 (T-21 days, 2nd pass):** ✅ Live re-verification confirmed — **deadline March 27, 2026 unchanged**. Fellowship page fully intact. Airtable form accessible and accepting applications. Web search API down. No structural changes to program, team, or requirements since last check. **🔴 CRITICAL — T-4 days to Joel Lehman email deadline (March 10): Email Joel NOW.** No record of outreach exists in any file. If not done by March 9 EOD, this is a missed window. Escalate immediately.
