@@ -32,6 +32,82 @@ tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 
 ---
 
+## 🚨 ACTION PLAN — T-21 Days (March 6, 2026)
+
+> **Current status:** Essays drafted (Q1 ~285w, Q2 ~195w). Form verified open. Deadline confirmed March 27. One action is critically overdue.
+
+### 🔴 TODAY — March 6: Email Joel Lehman
+
+**Status: NO RECORD OF THIS BEING DONE.** This is the single most urgent action. Joel must be notified before the March 10 reference window closes. Send this email today.
+
+---
+
+#### ✉️ DRAFT EMAIL — Reference Request to Joel Lehman
+
+> **To:** joel.lehman@[his Cambridge/ERA email]  
+> **Subject:** Digital Minds Fellowship — Reference Request (Deadline March 27)
+
+---
+
+Hi Joel,
+
+I hope you're well and that the ERA programme is going well for everyone.
+
+I'm applying to the **Cambridge Digital Minds Fellowship** (Aug 3–9, 2026, Jesus College) and would love to include you as a reference if you're willing. The deadline is **March 27, 2026** — no formal letter is needed at the application stage, just a contact name and email who can speak to my work.
+
+The fellowship is run by [Cambridge Digital Minds](https://digitalminds.cam/) (Lucius Caviola's group) in partnership with Rethink Priorities and PRISM — it's a 7-day residential for 15 early-career researchers working on AI consciousness, AI welfare, and digital minds. First-ever cohort (inaugural 2026). I think it's a natural extension of the ERA arc: existential risk → machine welfare → what it means for AI systems to have morally relevant interests.
+
+My angle is empirical rather than purely philosophical: I'm framing **agent ethology** as the behavioral methodology that welfare science requires. You can't assess welfare without behavioral evidence — and I'm trying to build that observational infrastructure now, before the field consolidates around philosophical frameworks alone. The machine death work feeds directly into this.
+
+Given your work on open-endedness, AI safety, and the ALife tradition, I think you'd be well-placed to speak to the machine behavior / agent welfare dimension of my research. I'd be grateful if you could confirm you're comfortable with me including your name and email as a reference contact on the form.
+
+Happy to share the essay drafts if that would be helpful, or to chat briefly.
+
+Thanks so much — and thanks again for the ERA mentorship. It's genuinely shaping the direction of this work.
+
+Best,  
+Amber
+
+---
+
+> **Notes for Amber before sending:**
+> - Check Joel's current email (ERA → Cambridge contact, or reach via ERA programme coordinator)
+> - If you've already been in touch with Joel since ERA ended, reference your last exchange for warmth
+> - Optional: attach a one-page research summary or link to botao.hu before sending
+> - The form likely just needs a name + email, not a formal letter — confirm when you access the Airtable form
+
+---
+
+### 🟠 March 10: Joel Email Deadline + Essay Final Review
+
+- [ ] Confirm Joel replied (yes/no) — if no response by March 9 EOD, send a brief follow-up
+- [ ] Re-read both essay drafts (Q1, Q2) with fresh eyes
+- [ ] Apply the 3 surgical fixes from the Essay Critique section (verify Birch authorship ✅ confirmed; sharpen Q1 close; add behavioral indicator example to Q1; add animal welfare analogy to Q2; name concrete output in Q2)
+- [ ] Consider whether Max Van Kleek (Oxford supervisor) should be a second reference
+
+### 🟡 March 23–25: Proofread with Claude Opus
+
+- [ ] Use `claude-opus` to proofread both essays (per Amber's proofreading preference in USER.md)
+- [ ] Final check: word counts within target (Q1 ≤ 300w, Q2 ≤ 200w)
+- [ ] Interest ratings confirmed (Philosophical 5, Societal 4, Technical 3, Policy 2 — do NOT max all)
+- [ ] CV updated: agent ethology / machine behavior / ALife foregrounded; de-emphasize HCI/UX
+- [ ] Online course opt-in indicated on form (starts end of April, 8 weeks, free)
+
+### 🟢 March 26: SUBMIT (one day early buffer)
+
+- [ ] Fill Airtable form: https://airtable.com/appB2hZBZVdkDjm3N/pagM7UKtYnhBERW8m/form
+- [ ] Expected time: 30–45 minutes
+- [ ] Upload CV (PDF)
+- [ ] Check "where did you hear" dropdown for honest answer
+- [ ] Optional "anything else to add" → mention ERA Fellowship synergy (Cambridge, Feb 2026)
+- [ ] Screenshot confirmation page
+
+### ❌ March 27: HARD DEADLINE
+
+Do not submit on deadline day. March 26 is the target.
+
+---
+
 ## What
 
 A **fully funded, 7-day residential fellowship** at Jesus College, Cambridge (Aug 3–9, 2026) for 15 early-to-mid career researchers who want to build careers in **AI consciousness, AI welfare, and digital minds research**. 
@@ -573,4 +649,5 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 | 2026-03-05 | Biber (subagent, 4th pass) | Pre-submission deep check. Portal live-verified (deadline March 27 confirmed, 22 days remaining). digitalminds.cam checked — no new publications or structural changes. **Essay drafts added for Q1 (~285w) and Q2 (~195w).** Interest ratings table added. Joel Lehman reference status flagged as UNCLEAR. next_research → 2026-03-14. |
 | 2026-03-06 | Biber (subagent, T-21 days, 2nd pass) | Live re-verification: deadline March 27 confirmed, form open, no changes to program or team. Web search API down. Added 2nd pass entry to Recent Updates. Joel Lehman email still unrecorded — critical escalation. |
 | 2026-03-06 | Biber (subagent, T-21 days) | Live-verified fellowship page (deadline March 27 confirmed, form open, no changes). Web search API down. **🔴 Joel Lehman email is 4 days from deadline (March 10) — no record it has been sent.** Updated last_researched → 2026-03-06, next_research → 2026-03-10. Added concise update entry at top of Recent Updates. |
+| 2026-03-06 | Biber (subagent, T-21 days, 3rd pass) | Pre-submission research pass. Triple-verified: deadline March 27 unchanged, form open, homepage team/publications unchanged (no new publications since prior pass). Airtable form URL confirmed active. Web search API unavailable (Brave 422). **Confirmed Caviola, Sebo & Birch (2025) Trends Cog Sci authorship correct** — all three authors listed on Cambridge Digital Minds publications page; Q1 citation is safe to use. Added **🚨 ACTION PLAN** section with full dated checklist (March 6/10/23-25/26) and **ready-to-send Joel Lehman reference request email draft**. frontmatter already correct (last_researched: 2026-03-06, next_research: 2026-03-10). |
 | 2026-03-04 | Biber (subagent, 2nd pass) | Re-verified portal open. **Full Airtable form mapped** — all questions extracted via browser automation. Added complete Application Form Structure section, Q1/Q2 draft strategy, Focus Areas rating recommendations, online course details (starts end of April, 8 weeks), and consolidated Application Strategy Note. Updated next_research → 2026-03-14. |
