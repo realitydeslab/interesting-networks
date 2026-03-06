@@ -5,7 +5,7 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-05
+last_researched: 2026-03-06
 revisit_weeks: 1
 next_research: 2026-03-12
 deep_researched: true
@@ -20,6 +20,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-06 (revisit #8 — T-24 days):** Live-verified all three pages. **Findings:** (1) **March 30 deadline confirmed unchanged** — CFP page (200 OK) reads "Full Papers & Summaries: Submission 30 March 2026". (2) **Workshops page STILL 404** — 9th consecutive 404; no accepted workshops announced. (3) **Submission portal still email-only** — "How to Submit" on CFP page still directs to `program2026@alife.org`; no EasyChair/HotCRP/linklings URL for paper submissions. (4) **Homepage unchanged** — venue info only, no new news/announcements. (5) **Web search API unavailable** — Brave API subscription error; cannot search for unofficial announcements. (6) **Sprint status: Day 3** — per day-by-day plan, TODAY Amber should finalize title, create Overleaf doc, and write section headings. Joel Lehman feedback on abstract should have arrived. **No new info since revisit #7. No deadline changes. No portal launch. No workshops.** Next check: 2026-03-12 (by which point workshops MUST appear or committee is very late — nearly 2 weeks post-deadline).
 
 - **2026-03-05 (revisit #7 — early queue check):** Live CFP page fetched (200 OK). **Findings:** (1) **March 30 deadline confirmed unchanged** — CFP page still reads "Full Papers & Summaries: Submission 30 March 2026". (2) **Workshops page STILL 404** — 8th consecutive 404; proposals were due Feb 20/28 (deadline discrepancy persists), committee has been reviewing for 1–2 weeks with no announcement. (3) **Submission portal still email-only** — CFP "How to Submit" reads only "contact program2026@alife.org". No EasyChair/HotCRP/linklings link anywhere on the site. This is now *25 days from the deadline* with no portal — unusual; organizers will likely open it with 2–3 weeks to go (i.e., around March 7–14). (4) **Homepage unchanged** — venue info only, no news or announcements. (5) **ISAL.us**: still inaccessible (no content returned). (6) **Web search API unavailable** — Brave API subscription error; could not search for unofficial portal or workshop announcements. (7) **Sprint status: Day 1** — per the day-by-day plan, TODAY Amber should lock the abstract and email Joel Lehman. Draft abstract (148 words) is ready in this file. No blocking issues — draft, template, and plan are all in place. **Action required NOW: send draft abstract to Joel Lehman today.** No new info since revisit #6. Holding pattern on portal and workshops. Next check: 2026-03-12.
 
@@ -297,3 +299,4 @@ What does it mean for an artificial agent to behave as if *alive*? We propose **
 | 2026-03-04 | Biber (subagent, alife-2026-cfp-revisit-3) | Weekly revisit #3. Workshops page still 404. No submission portal — CFP "How to Submit" still email-only. March 30 deadline confirmed. ISAL.org still inaccessible. No PC announcements. Added Sprint Day 1 status note. next_research updated to 2026-03-11. |
 | 2026-03-05 | Biber (subagent, alife-2026-cfp-check) | Revisit #5. Workshops page still 404. Submission portal still email-only. March 30 confirmed. ISAL accessible (alife.org), no new posts since Feb 17. Added: ⭐⭐⭐⭐⭐ rating to frontmatter, DRAFT 148-word abstract for "Agent Ethology as ALife", day-by-day action plan Mar 5–30. |
 | 2026-03-05 | Biber (subagent, alife-2026-weekly-check) | Revisit #6. CFP page live-verified (200 OK). Workshops/program pages still 404. Submission portal still email-only. ISAL news unchanged since Feb 17. Web search API unavailable. No new info — holding pattern. next_research → 2026-03-12. |
+| 2026-03-06 | Biber (subagent, alife-2026-revisit) | Revisit #8. T-24 days. CFP page (200 OK) — March 30 confirmed. Workshops still 404 (9th consecutive). Portal still email-only. Homepage unchanged. Web search API unavailable. No new info. last_researched → 2026-03-06. |

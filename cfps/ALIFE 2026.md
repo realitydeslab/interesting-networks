@@ -6,7 +6,7 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, emergence, self-organization, open-endedness, machine-behavior, agent-behavior, alife-community]
 interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
-last_researched: 2026-03-05
+last_researched: 2026-03-06
 revisit_weeks: 1
 next_research: 2026-03-12
 deep_researched: true
@@ -15,6 +15,8 @@ deep_researched: true
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-06 (revisit #8 — T-24 days):** Live-verified all three pages. **Findings:** (1) **March 30 paper deadline confirmed unchanged** — CFP page (200 OK) still reads "Full Papers & Summaries: Submission 30 March 2026". (2) **Workshops page STILL 404** — 9th consecutive check, no workshop page published. Committee is now ~14 days post-proposal-deadline with no announcement — getting late. (3) **No submission portal URL** — paper submissions still email-only (program2026@alife.org), no EasyChair/HotCRP link anywhere on site. Portal launch expected within next 7–14 days if history holds. (4) **Homepage: no new content** — venue info only. (5) **Web search API unavailable** — could not search for unofficial announcements. **Bottom line: complete holding pattern, no changes.** Next research: 2026-03-12.
 
 - **2026-03-05 (weekly check — revisit #6):** `/workshops/` STILL 404 — 7th consecutive check with no workshop page (Feb 20 through Mar 5). `/program/` also still 404. CFP page live and unchanged: March 30 paper deadline confirmed, submission still email-only (no portal URL published). ISAL (alife.org): latest news still Feb 17 award nominations — no new ALIFE 2026 workshop or program announcements. isal.us inaccessible. Web search API unavailable, could not check for unofficial announcements. **Bottom line: no changes since last check. Workshop announcement remains pending ~5 days post-deadline.** Next research: March 12 — by then workshops should be announced or committee is very late.
 
@@ -234,3 +236,4 @@ Or alternatively:
 | 2026-03-02 | Biber (agent) | Deep research completed. Workshop deadline just passed (Feb 28). Paper deadline March 30 still open. Strong strategic fit across multiple tracks. |
 | 2026-03-04 | Scout (cron subagent) | Rechecked site. `/workshops/` = 404 — accepted workshops not yet published. Paper deadline March 30 confirmed. No new portal. Switched revisit to weekly (1 week) per CFP-active rule. Added ⚡ Recent Updates section. |
 | 2026-03-05 | Biber (subagent, alife-2026-weekly-check) | Weekly check. `/workshops/` still 404 (7th consecutive). `/program/` still 404. CFP page confirmed 200 OK, no changes. ISAL news unchanged. No portal URL. next_research → 2026-03-12. |
+| 2026-03-06 | Biber (subagent, alife-2026-revisit) | Revisit #8. T-24 days. All three pages live-verified. March 30 confirmed. Workshops still 404 (9th consecutive — now ~14 days post-proposal-deadline). Portal still email-only. Homepage unchanged. Web search API unavailable. No new info. last_researched → 2026-03-06. |
