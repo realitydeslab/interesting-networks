@@ -14,6 +14,7 @@ deep_researched: true
 # Models of Consciousness Conference (MoC)
 
 ## ⚡ Recent Updates
+- **2026-03-06:** Updated MoC6 invited speakers list from live site. Key speakers: Takashi Ikegami (ALTER3 android consciousness), Tom Froese (OIST, human-AI relations + consciousness in natural order), Susan Schneider (why chatbots aren't conscious but bio-AIs may be), Ryota Kanai (Araya, qualia + symmetry), Fernando Rosas (Sussex, consciousness + emergence), Yuko Ishihara (Ritsumeikan, Nishida's mirror-imagery). Talk application deadline was July 15, 2025.
 - **2026-03-02:** Deep research complete. Upgraded to ⭐⭐⭐. **MoC7 (2026) is planned for Shanghai** — confirmed on MoC5 website. Robert Prentner (ShanghaiTech) is the likely local organizer. Watch AMCS mailing list for announcement.
 - **2026-02-26:** Stub created. Queued for deep research.
 - **MoC6 (2025):** Held at Hokkaido University, Sapporo, Sep 30–Oct 4. First time in Asia. [[Takashi Ikegami]] was invited speaker — direct ALife/ALIFE bridge.
