@@ -20,31 +20,27 @@ url: https://ars.electronica.art/prix/en/
 
 ## 🗓️ MARCH 7 ACTION CHECKLIST — SUBMIT TOMORROW
 
-> **🚨 TODAY IS MARCH 7 — SUBMISSION DAY. Deadline: March 9, 2 PM CET. Portal: [calls.ars.electronica.art/2026/prix/](https://calls.ars.electronica.art/2026/prix/) — PORTAL CONFIRMED OPEN AS OF 00:02 UTC.**
+> **🚨 TODAY IS MARCH 7 — SUBMIT NOW. Deadline: March 9, 2 PM CET = ~34 hours. Portal: [calls.ars.electronica.art/2026/prix/](https://calls.ars.electronica.art/2026/prix/) — PORTAL CONFIRMED OPEN 04:03 UTC. Deadline CONFIRMED UNCHANGED on official site.**
 
-### TODAY (March 6) — Prep
-- [ ] **Confirm which work to submit** → Recommended: **Terrified Agents / machine-death project → Interactive Art+** (see strategy memo below)
-- [ ] **Lock your 3-min video** — this is the #1 jury criterion. If editing is needed, do it NOW. Format: any common video format, direct upload to portal.
-- [ ] **Create portal account** at [calls.ars.electronica.art](https://calls.ars.electronica.art/2026/prix/) if you haven't yet — don't discover login issues on submit day
-- [ ] **Finalize 2000-char description** — draft is below, customize it to your work; keep it under 2,000 characters
-- [ ] **Gather images** — JPG/PNG, maximum resolution, with credits (install shots, HoloKit+agents, MR view). No ZIP files.
-- [ ] **Write/locate artist bio** (~100–150 words): Oxford PhD (HCC), ERA Fellow (Cambridge), HoloKit inventor, Reality Design Lab
-
-### TOMORROW (March 7) — SUBMIT
-- [ ] Go to [https://ars.electronica.art/prix/en/](https://ars.electronica.art/prix/en/) → Click **"Submit"**
+### 🔴 TODAY (March 7) — SUBMIT NOW
+- [ ] Go to [https://calls.ars.electronica.art/2026/prix/](https://calls.ars.electronica.art/2026/prix/) → Log in / create account
 - [ ] Select category: **Interactive Art+**
-- [ ] Upload: video + images + 2000-char description + bio + portrait
+- [ ] Upload: **3-min video** (MOST CRITICAL) + images + 2000-char description + bio + portrait
 - [ ] Add AI disclosure (optional but recommended — shows sophistication)
 - [ ] **Check the S+T+ARTS checkbox** (€20,000 bonus — free, same submission, same deadline)
 - [ ] Submit and **screenshot your confirmation email**
 - [ ] Done. 🎉
 
-### BUFFER (March 8)
-- [ ] If anything failed on March 7 — fix and resubmit. Hard deadline March 9, 2 PM CET.
+> **Prep items** (if not done): Lock video → finalize description (draft below) → gather images (install shots, HoloKit+agents) → write/locate bio (~100–150 words: Oxford PhD HCC, ERA Fellow Cambridge, HoloKit inventor, Reality Design Lab)
+
+### 🟡 BUFFER (March 8)
+- [ ] If anything failed today — fix and resubmit. Hard deadline March 9, 2 PM CET (= ~13:00 UK time). **Do NOT rely on this day.**
 
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-07 (04:03 UTC — SUBMIT DAY MORNING CHECK):** ✅ **DEADLINE CONFIRMED. PORTAL OPEN. ~34 HOURS REMAINING. SUBMIT TODAY.** Live verification (04:03 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no change, no extension; (2) `calls.ars.electronica.art/2026/prix/` — portal live, returns contact/login page, no "submissions closed" notice. Web search API unavailable (quota). **ACTION CHECKLIST UPDATED to reflect MARCH 7 = SUBMIT DAY (not prep day).** Amber should open the portal NOW. No surprises, no new requirements, no extensions. ⭐⭐⭐⭐ rating confirmed — this is the world's most prestigious media art award, deadline is TODAY in practical terms. Go submit.
 
 - **2026-03-07 (T-2 days final check — 03:00 UTC):** ✅ **DEADLINE CONFIRMED UNCHANGED. PORTAL OPEN. 34 HOURS REMAINING.** Live verification (03:00 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no extension, no change; (2) `calls.ars.electronica.art/2026/prix/` — portal live, returns contact/login page, no "submissions closed" notice, still accepting entries. `/participate/` page now returns 404 (URL changed or removed) — use direct portal: `calls.ars.electronica.art/2026/prix/`. **BEST CATEGORY: Interactive Art+** (AL&I not available 2026 — returns 2027). **RECOMMENDED SUBMISSION: Terrified Agents / machine-death → Interactive Art+.** 34 hours to hard deadline. 🚨 **AMBER MUST SUBMIT TODAY (March 7) — DO NOT WAIT FOR MARCH 9.**
 
@@ -368,4 +364,5 @@ Agent ethology, machine consciousness, ALife art, machine behavior — this is t
 | 2026-03-05 | Biber (cron subagent — FINAL COUNTDOWN) | 4 days to deadline. Direct fetch of prix page confirmed: "Extended Submission Deadline: March 9, 2026, 2 PM CET" — unchanged. S+T+ARTS confirmed: €20,000, same deadline. No new requirements. Added day-by-day countdown plan (Mar 5→6→7 submit). Added submission strategy memo recommending Terrified Agents / machine-death project as strongest Interactive Art+ candidate, with full 2000-char description outline and video storyboard. next_research set to 2026-03-07 (submit day). |
 | 2026-03-06 | Biber (subagent — MARCH 7 CHECKLIST) | 07:01 UTC. Triple-verified live: deadline March 9 2 PM CET unchanged, portal live, S+T+ARTS €20,000 same deadline. Added MARCH 7 ACTION CHECKLIST section at top of note. Fresh update entry added. All systems go — Amber should submit tomorrow. |
 | 2026-03-06 | Biber (cron subagent — T-3 FINAL CHECK) | 3 days to deadline. Dual-verified: ars.electronica.art/prix/en/ — "Extended Submission Deadline: March 9, 2026, 2 PM CET" unchanged. starts-prize.aec.at/en/ — S+T+ARTS (€20,000) confirmed same deadline. No extensions, no surprises. Added urgent T-3 update entry. next_research set to 2026-03-09 (deadline day). TARGET SUBMISSION: MARCH 7 (tomorrow). |
+| 2026-03-07 | Biber (cron subagent — SUBMIT DAY CHECK) | 04:03 UTC. T-2 day urgency check. Dual-verified: ars.electronica.art/prix/en/ — "Extended Submission Deadline: March 9, 2026, 2 PM CET" unchanged. calls.ars.electronica.art/2026/prix/ — portal live, no "closed" notice. Web search API unavailable (quota). Action checklist updated: TODAY = SUBMIT DAY (not prep). Rating ⭐⭐⭐⭐ confirmed. |
 | 2026-03-06 PM | Biber (subagent — afternoon re-check) | 12:05 UTC. Triple-verified: ars.electronica.art/prix/en/ — deadline March 9 2 PM CET unchanged. calls.ars.electronica.art/2026/prix/ — portal live, no "closed" notice. starts-prize.aec.at/en/ — €20,000 S+T+ARTS confirmed same deadline. No changes from morning check. Everything stable. Amber's action plan: TODAY finalize video+description+account. TOMORROW (March 7) submit. |
