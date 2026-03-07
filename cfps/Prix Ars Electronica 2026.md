@@ -46,6 +46,8 @@ url: https://ars.electronica.art/prix/en/
 
 ## ⚡ Recent Updates
 
+- **2026-03-07 (T-2 days final check — 03:00 UTC):** ✅ **DEADLINE CONFIRMED UNCHANGED. PORTAL OPEN. 34 HOURS REMAINING.** Live verification (03:00 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no extension, no change; (2) `calls.ars.electronica.art/2026/prix/` — portal live, returns contact/login page, no "submissions closed" notice, still accepting entries. `/participate/` page now returns 404 (URL changed or removed) — use direct portal: `calls.ars.electronica.art/2026/prix/`. **BEST CATEGORY: Interactive Art+** (AL&I not available 2026 — returns 2027). **RECOMMENDED SUBMISSION: Terrified Agents / machine-death → Interactive Art+.** 34 hours to hard deadline. 🚨 **AMBER MUST SUBMIT TODAY (March 7) — DO NOT WAIT FOR MARCH 9.**
+
 - **2026-03-07 (FINAL DEADLINE CHECK — 36h remaining — 02:02 UTC):** All confirmed. Portal: OPEN (calls.ars.electronica.art/2026/prix/ responding, contact email visible). Deadline: CONFIRMED March 9, 2026, 2 PM CET — listed as "Extended Submission Deadline" on ars.electronica.art/prix/en/ (no further extension noted). S+T+ARTS: OPEN, same extended deadline March 9 2 PM CET, €20,000 prize confirmed. **SUBMIT TODAY (March 7) OR TOMORROW (March 8) AT ABSOLUTE LATEST** — do not wait until March 9 morning, CET is 1h ahead of UK time.
 
 ### 🟢 MARCH 7 STATUS — SUBMISSION DAY
