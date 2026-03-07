@@ -46,6 +46,8 @@ url: https://ars.electronica.art/prix/en/
 
 ## ⚡ Recent Updates
 
+- **2026-03-07 (FINAL DEADLINE CHECK — 36h remaining — 02:02 UTC):** All confirmed. Portal: OPEN (calls.ars.electronica.art/2026/prix/ responding, contact email visible). Deadline: CONFIRMED March 9, 2026, 2 PM CET — listed as "Extended Submission Deadline" on ars.electronica.art/prix/en/ (no further extension noted). S+T+ARTS: OPEN, same extended deadline March 9 2 PM CET, €20,000 prize confirmed. **SUBMIT TODAY (March 7) OR TOMORROW (March 8) AT ABSOLUTE LATEST** — do not wait until March 9 morning, CET is 1h ahead of UK time.
+
 ### 🟢 MARCH 7 STATUS — SUBMISSION DAY
 > **Live check: 2026-03-07 00:02 UTC**
 > - **Portal:** ✅ OPEN — `calls.ars.electronica.art/2026/prix/` live, no "closed" notice

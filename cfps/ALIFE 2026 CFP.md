@@ -5,7 +5,7 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-06-PM
+last_researched: 2026-03-07
 revisit_weeks: 1
 next_research: 2026-03-09
 deep_researched: true
@@ -20,6 +20,10 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-07 (revisit #13 — 03:00 UTC portal watch, Day 4 sprint):** All four sources live-verified at ~03:03 UTC. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged; templates (Overleaf, LaTeX, MS-Word) still visible and linked; **NO submission portal URL** — "How to Submit" still only directs to program2026@alife.org. (2) **Homepage (200 OK)** — venue/location info only, **NO submission portal button or link**, no new announcements. (3) **Workshops page STILL 404** — **15th consecutive check**; page not found, no workshop list published. (4) **Portal: NOT launched** — still email-only (program2026@alife.org). **Summary: zero changes since revisit #12 (1 hour ago). Portal window March 7–14 has begun — no launch yet as of 03:03 UTC March 7.** Next check: 2026-03-09.
+
+- **2026-03-07 (revisit #12 — portal watch, Day 3 sprint):** All four sources live-verified at ~02:03 UTC. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged; templates (Overleaf, LaTeX, MS-Word) visible; no portal URL present. (2) **Homepage (200 OK)** — venue/location info only, **NO submission portal button or link**. (3) **Workshops page STILL 404** — 14th consecutive check; page not found. (4) **ISAL news (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations); nothing new about portal, workshops, or ALIFE 2026. **Portal: NOT launched** — still email-only (program2026@alife.org). **Workshops: STILL 404**, 14th consecutive. March 30 deadline: confirmed. Today is Day 3 of sprint (related work: read 8–10 papers) — no blockers from portal side; Amber can proceed with writing and lit review while monitoring.
 
 - **2026-03-06 (late-night check — revisit #11):** All four sources live-verified at 23:03 UTC. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged. (2) **Homepage (200 OK)** — venue info only, **NO submission portal button/URL**. (3) **Workshops page STILL 404** — 13th consecutive check. (4) **ISAL news (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations), nothing new. **Portal has NOT launched.** Still email-only (program2026@alife.org). Web search API unavailable. Expected portal window: March 7–14. next_research: 2026-03-09.
 
