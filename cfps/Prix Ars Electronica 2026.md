@@ -20,6 +20,8 @@ url: https://ars.electronica.art/prix/en/
 
 ## ⚡ Recent Updates
 
+- **2026-03-08 (03:46 UTC — ~33h remaining, second check):** ✅ **DEADLINE UNCHANGED. PORTAL OPEN. 33 HOURS TO HARD DEADLINE.** Dual-verified: (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no change; (2) `calls.ars.electronica.art/2026/prix/` — returns 200 OK, contact email prix@ars.electronica.art visible, no "submissions closed" notice — **OPEN**. No extensions, no new requirements, no surprises. **🚨 IF AMBER HAS NOT SUBMITTED — DO IT NOW. ~33 hours remain. Portal: calls.ars.electronica.art/2026/prix/ → Interactive Art+ → video + images + 2000-char description + bio + portrait → check S+T+ARTS box → submit → screenshot confirmation.**
+
 - **2026-03-08 (DEADLINE DAY — final check, 01:46 UTC):** Official site confirms deadline unchanged: **March 9, 2026 at 2 PM CET (13:00 UTC)**. Portal (calls.ars.electronica.art/2026/prix/) returns HTTP 200 — accessible, contact email prix@ars.electronica.art listed. S+T+ARTS Prize site confirms €20,000 award still active with same March 9 2 PM CET extended deadline. No last-minute changes detected. Portal: **OPEN**. Deadline: **CONFIRMED — March 9, 2026 13:00 UTC**. Submission status: **UNKNOWN — Amber must submit by 13:00 UTC TODAY (March 9)**. next_research: N/A (deadline day).
 
 ---
