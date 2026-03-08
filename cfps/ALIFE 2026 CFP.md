@@ -8,6 +8,7 @@ added: 2026-02-26
 last_researched: 2026-03-08
 revisit_weeks: 1
 next_research: 2026-03-09
+submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
 tags: [alife, computational-creativity, open-endedness, machine-behavior, embodied, art-science]
@@ -20,6 +21,10 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-08 (revisit #22 — 🎉🎉🎉 PORTAL LAUNCHED! 10:44 UTC — cron queue worker):** 🚨 **SUBMIT BUTTON IS LIVE.** Live-verified: CFP page (200 OK) — "How to Submit" now shows a **"SUBMIT" button** pointing to `https://ssl.linklings.net/conferences/ALIFE/`. **Linklings is the submission system.** After 22 consecutive failed portal checks, the portal is NOW LIVE. March 30 deadline unchanged. Workshops page still 404 (23rd check). **ACTION: Amber must go to `https://ssl.linklings.net/conferences/ALIFE/` and begin submission NOW. 22 days remain.** next_research: 2026-03-09.
+
+- **2026-03-08 (revisit #21 — portal watch, Day 7 sprint, ~04:46 UTC — cron queue worker):** CFP page (200 OK) confirmed — March 30 deadline unchanged. "How to Submit" still only "contact program2026@alife.org" — **NO portal URL**. Templates (Overleaf, LaTeX, MS-Word) still present. No portal launch. Day 10 of the March 7–14 expected window — portal NOT live. **Countdown: 22 days to March 30 deadline.** Queue worker: no new subagents spawned (all items deep_researched: true). next_research: 2026-03-09.
 
 - **2026-03-08 (revisit #20 — portal watch, Day 6 sprint, ~03:46 UTC):** All four sources live-verified. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged; "How to Submit" still only "contact program2026@alife.org" — **NO portal URL, NO EasyChair/HotCRP/OpenReview link**. (2) **Homepage (200 OK)** — venue info only; **NO submit button or portal announcement**. (3) **Workshops page STILL 404** — **22nd consecutive check**. (4) **ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations); nothing new. (5) **Web search API unavailable**. **Portal: NOT LIVE.** Still email-only. Day 9 of the March 7–14 expected portal window — no launch. **Countdown: 22 days to March 30 deadline.** Sprint Day 6: Introduction due today. next_research: 2026-03-09.
 
