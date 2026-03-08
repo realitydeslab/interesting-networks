@@ -8,8 +8,8 @@ status: closed (attending, not submitting)
 urgent: false
 added: 2026-03-08
 last_researched: 2026-03-08
-revisit_weeks: 2
-next_research: 2026-03-22
+revisit_weeks: 3
+next_research: 2026-04-05
 tags: [machine-behavior, agent-ethology, ai-governance, conference, social-simulation, critical-computing]
 deep_researched: true
 rating: ⭐⭐⭐
@@ -18,6 +18,7 @@ rating: ⭐⭐⭐
 # Machine+Behavior Conference 2026
 
 ## ⚡ Recent Updates
+- **2026-03-08 (23:40 UTC — revisit check, cron queue worker):** HTTP 200. Site live. No changes detected — speaker list matches prior research (Griffiths, Dafoe, Graepel, Summerfield, Makovi, Devlin, Weidinger, Baronchelli, and others). Conference still confirmed: **May 18–19, 2026, Harnack House Berlin**. Behavioral Clones Workshop still May 20. Poster acceptance notifications were due to go out **from March 9, 2026** — if Amber submitted a poster, check inbox now. No new registration announcements. No agenda/schedule published yet. Next revisit bumped to April 5 (conference still ~6 weeks out; next trigger point when final program drops).
 - **2026-03-08:** Full deep research. Conference details, speakers, schedule, registration status, satellite workshop confirmed. Amber-relevance analysis written.
 
 ## What
@@ -190,3 +191,4 @@ These are all genuinely novel to this community. Amber should not be defensive �
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-03-08 | Biber (subagent) | Initial deep research. Full rewrite: speakers, schedule, satellite workshop, registration status, Amber-relevance analysis, action items. |
+| 2026-03-08 (23:40 UTC) | Biber (cron subagent) | Revisit check. HTTP 200. No changes to speaker list or schedule. Poster notifications due from March 9 — Amber should check inbox. Next revisit bumped to 2026-04-05. |
