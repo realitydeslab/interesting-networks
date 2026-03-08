@@ -7,7 +7,7 @@ urgent: true
 added: 2026-02-26
 last_researched: 2026-03-08
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-12
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
@@ -21,6 +21,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-08 (13:44 UTC — revisit #23 — cron queue worker):** ✅ **PORTAL CONFIRMED LIVE.** Live-verified all sources: (1) **Linklings portal (200 OK)** — `https://ssl.linklings.net/conferences/ALIFE/` returns "Welcome to the ALIFE 2026 submission site!" with a Sign In form. Portal is fully live and accepting logins. (2) **CFP page (200 OK)** — March 30 deadline unchanged. "How to Submit" section still only shows `program2026@alife.org` contact (page hasn't been updated with the portal URL, but the portal is live regardless). Submission formats confirmed: Full Papers (3–8 pages excl. refs), Summaries (≤2 pages, published work only), Late-Breaking Abstracts (≤2 pages, July 20). Templates: Overleaf, LaTeX, MS-Word (links unchanged). (3) **Workshops page STILL 404** — 24th consecutive check. No workshop CFPs visible anywhere. **⚠️ 22 DAYS TO DEADLINE. ACTION: Amber must create an account / begin submission at `https://ssl.linklings.net/conferences/ALIFE/` NOW.** Next check: 2026-03-12 (18 days before deadline).
 
 - **2026-03-08 (revisit #22 — 🎉🎉🎉 PORTAL LAUNCHED! 10:44 UTC — cron queue worker):** 🚨 **SUBMIT BUTTON IS LIVE.** Live-verified: CFP page (200 OK) — "How to Submit" now shows a **"SUBMIT" button** pointing to `https://ssl.linklings.net/conferences/ALIFE/`. **Linklings is the submission system.** After 22 consecutive failed portal checks, the portal is NOW LIVE. March 30 deadline unchanged. Workshops page still 404 (23rd check). **ACTION: Amber must go to `https://ssl.linklings.net/conferences/ALIFE/` and begin submission NOW. 22 days remain.** next_research: 2026-03-09.
 
