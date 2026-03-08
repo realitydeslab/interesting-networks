@@ -26,6 +26,7 @@ closeness: extremely close — Amber's closest intellectual inspiration
 Scholar, writer, media theorist. Assistant Professor of Media Theory at [[NYU Shanghai IMA]], core researcher at the [[AI & Culture Research Center]]. Author of *The Dark Forest Theory of the Internet* (Polity, 2025) — now being translated into five languages. Co-editor with [[Benjamin Bratton]], [[Anna Greenspan]], and [[Amy Ireland]] of *Machine Decision is Not Final: China and the History and Future of Artificial Intelligence* (Urbanomic/MIT Press, 2025). Developing a multimedia project on AI, erotics, theology, and mysticism. Bridges Eastern European (especially Polish and Ukrainian) and Chinese intellectual traditions with contemporary technology theory — a combination almost no one else occupies with equal rigor and depth.
 
 ## ⚡ Recent Updates
+- **2026-03-08:** Added connection to Yuk Hui's *Kant Machine* (Bloomsbury, 2026) — the two books (*Machine Decision is Not Final* and *Kant Machine*) form a complementary intellectual pair defining 2025-2026 AI philosophy that moves beyond Western universalism. Hui via Kantian critical philosophy; Konior via China studies + speculative theory. Noted in [[Kant Machine (Yuk Hui)]] topic note.
 - **2026-02-26:** Complete deep research rewrite from full CV. Added complete publication list, all academic appointments, full talk history, venue circuit analysis, research taste analysis. Identified as Amber's closest intellectual inspiration — elevated to exceptional standard.
 
 ## Background

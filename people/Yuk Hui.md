@@ -26,6 +26,7 @@ deep_researched: true
 Hong Kong philosopher of technology. Professor of Philosophy at Erasmus University Rotterdam (Chair of Human Conditions), directing the Erasmus Institute for Philosophy and Technology. One of the most influential contemporary philosophers of technology. Originator of **cosmotechnics** — the thesis that technology is not universal but culturally constituted, that different civilizations produce different unifications of the cosmic and moral through technical activity. Described by *El Mundo* as a "new superstar of thought."
 
 ## ⚡ Recent Updates
+- **2026-03-08:** Deep research on *Kant Machine* (2026) completed — see [[Kant Machine (Yuk Hui)]] topic note. Confirmed full table of contents, endorsement by Howard Caygill, and 160-page format (Bloomsbury Academic). Recent talks include: Miki Kiyoshi Memorial Lecture (Kyoto, Jan 2026), Digital Cosmos Symposium (Amsterdam, Nov 2025), LSE book conversation on *Post-Europe* (Oct 2025). ArtReview Power 100 rank confirmed at #40. Added 2025 interviews (Artforum, Philosophie Magazin, El Mundo, CTXT Spain).
 - **2026-02-26:** Initial deep research. Full CV scrape, all books/papers/talks catalogued, community and collaborator networks mapped.
 
 ## Background
@@ -259,4 +260,5 @@ Yuk Hui is the essential node for **cosmotechnics** — the idea that technology
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-08 | Biber (subagent) | Deep research on *Kant Machine* (2026). Full TOC and endorsement retrieved. Recent talks 2025-2026 added. ArtReview #40 confirmed. 2025 interviews added. Topic note [[Kant Machine (Yuk Hui)]] created. |
 | 2026-02-26 | Biber (subagent) | Initial deep research. Full CV scrape from digitalmilieu.net, Wikipedia, Erasmus, CityU. All 7 monographs catalogued with publisher links. 30+ papers listed. Full talk history. Collaborators mapped. Communities linked. Created Research Network for Philosophy and Technology community note and Technophany venue note. |
