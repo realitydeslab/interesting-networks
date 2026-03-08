@@ -3,7 +3,7 @@ venue: "[[Ars Electronica]]"
 type: award/competition/open-call
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-07
+last_researched: 2026-03-08
 revisit_weeks: 1
 next_research: 2026-03-09
 deep_researched: true
@@ -15,6 +15,12 @@ url: https://ars.electronica.art/prix/en/
 ---
 
 # CFP: Prix Ars Electronica 2026
+
+---
+
+## ⚡ Recent Updates
+
+- **2026-03-08 (DEADLINE DAY — final check, 01:46 UTC):** Official site confirms deadline unchanged: **March 9, 2026 at 2 PM CET (13:00 UTC)**. Portal (calls.ars.electronica.art/2026/prix/) returns HTTP 200 — accessible, contact email prix@ars.electronica.art listed. S+T+ARTS Prize site confirms €20,000 award still active with same March 9 2 PM CET extended deadline. No last-minute changes detected. Portal: **OPEN**. Deadline: **CONFIRMED — March 9, 2026 13:00 UTC**. Submission status: **UNKNOWN — Amber must submit by 13:00 UTC TODAY (March 9)**. next_research: N/A (deadline day).
 
 ---
 
@@ -39,6 +45,17 @@ url: https://ars.electronica.art/prix/en/
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-07 (22:41 UTC — EVENING FINAL CHECK, ~14.3h remaining):** ✅ **ALL CLEAR. DEADLINE UNCHANGED. PORTAL LIVE. ~14 HOURS TO HARD DEADLINE.** Live dual-verification (22:41 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no extension, no changes; (2) `calls.ars.electronica.art/2026/prix/` — portal responding 200 OK, contact email visible, no "submissions closed" notice — **OPEN**. **No last-minute surprises. No new requirements. No extensions.** Deadline = March 9, 2026 at 13:00 UTC (~14 hours from now). 🚨 **IF AMBER HAS NOT YET SUBMITTED — THIS IS THE LAST EVENING TO DO SO.** Do not wait for March 9 morning — CET is 1h ahead of UK, portal load times increase near deadline, and unexpected technical issues can arise. **ACTION NOW:** Go to `calls.ars.electronica.art/2026/prix/` → Interactive Art+ → upload: 3-min video + images + 2000-char description + bio + portrait → check **S+T+ARTS box** (€20,000 free bonus) → submit → screenshot confirmation. **This is the final monitoring check before deadline.**
+
+### 🚨 FINAL EVENING CHECKLIST (March 7, 22:41 UTC — ~14h to deadline)
+- [ ] **SUBMIT TONIGHT if not done** — deadline is March 9, 2 PM CET = 13:00 UTC (tomorrow)
+- [ ] Portal: [https://calls.ars.electronica.art/2026/prix/](https://calls.ars.electronica.art/2026/prix/) — OPEN ✅
+- [ ] Category: **Interactive Art+**
+- [ ] Upload: **3-min video** (CRITICAL) + images + 2000-char description + bio + portrait
+- [ ] **Check S+T+ARTS box** (€20,000 bonus — free, same submission)
+- [ ] Submit → **screenshot confirmation email**
+- [ ] If submitting tomorrow morning: submit by **11:00 AM UK (= noon CET)** — leave 2h buffer before the 2 PM CET close
 
 - **2026-03-07 (13:11 UTC — AFTERNOON FINAL CHECK, ~24h remaining):** ✅ **ALL CLEAR. DEADLINE UNCHANGED. PORTAL LIVE. ~24 HOURS TO HARD DEADLINE.** Live triple-verification (13:11 UTC): (1) `ars.electronica.art/prix/en/` — **"Extended Submission Deadline: March 9, 2026, 2 PM CET"** — confirmed, no extension, no changes; (2) `calls.ars.electronica.art/2026/prix/` — portal responding 200 OK, contact page visible, no "submissions closed" notice — **OPEN**; (3) `starts-prize.aec.at/en/` — **"accepted until March 9, 2026, 2 PM CET (extended deadline)"** — €20,000 S+T+ARTS confirmed still active. Web search API unavailable (quota). **No last-minute surprises. No new requirements. No extensions.** Deadline = March 9, 2026 at 13:00 UTC (~24 hours from now). **🚨 IF AMBER HAS NOT YET SUBMITTED — SUBMIT NOW. TODAY IS THE DAY.** Do not wait for March 9 morning — CET is 1h ahead of UK, and portal load times increase near deadlines. Action: go to `calls.ars.electronica.art/2026/prix/` → Interactive Art+ → upload video + images + description + bio → check S+T+ARTS box → submit → screenshot confirmation. Next check: March 9 morning (final deadline day).
 
