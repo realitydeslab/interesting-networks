@@ -9,13 +9,15 @@ added: 2026-03-02
 last_researched: 2026-03-08
 revisit_weeks: 1
 next_research: 2026-03-09
-_check_number: 20
+_check_number: 22
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-08 (revisit #22 — 22:38 UTC — daily check, cron subagent):** Portal re-verified STILL LIVE. Linklings (`https://ssl.linklings.net/conferences/ALIFE/`) returns 200 OK — "Welcome to the ALIFE 2026 submission site!" with Sign In form. March 30 deadline UNCHANGED on CFP page. Workshops page STILL 404 — 25th consecutive check. No new info: no keynotes, no registration info, no special sessions announced. CFP "How to Submit" still only shows `program2026@alife.org` (portal URL not updated on CFP page, but irrelevant — portal is live). **22 days to deadline. Portal is open. Amber should submit.** next_research: 2026-03-09.
 
 - **2026-03-08 (revisit #21 — 🎉 PORTAL LIVE! 10:44 UTC — cron queue worker):** **SUBMIT BUTTON CONFIRMED LIVE.** CFP page now shows "SUBMIT" button → `https://ssl.linklings.net/conferences/ALIFE/`. After 22 failed portal checks, Linklings submission system is now accepting submissions. March 30 deadline unchanged. Workshops still 404 (23rd check). **Amber: go to https://ssl.linklings.net/conferences/ALIFE/ NOW. 22 days to deadline.** next_research: 2026-03-09.
 

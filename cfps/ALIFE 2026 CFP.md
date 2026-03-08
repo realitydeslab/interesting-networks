@@ -7,7 +7,7 @@ urgent: true
 added: 2026-02-26
 last_researched: 2026-03-08
 revisit_weeks: 1
-next_research: 2026-03-12
+next_research: 2026-03-09
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
@@ -21,6 +21,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-08 (22:38 UTC — revisit #24 — daily check, cron subagent):** Portal re-verified STILL LIVE. `https://ssl.linklings.net/conferences/ALIFE/` → 200 OK — "Welcome to the ALIFE 2026 submission site!" Sign In form active. March 30 deadline UNCHANGED (CFP page confirmed). Workshops page STILL 404 — 25th consecutive check, no workshop CFPs published. No new announcements: no keynotes, no registration open, no special sessions. CFP "How to Submit" still lists only `program2026@alife.org` (portal URL not reflected on CFP page — but portal IS live regardless). **22 days to deadline. Amber: go to `https://ssl.linklings.net/conferences/ALIFE/` and begin your submission NOW.** next_research: 2026-03-09.
 
 - **2026-03-08 (13:44 UTC — revisit #23 — cron queue worker):** ✅ **PORTAL CONFIRMED LIVE.** Live-verified all sources: (1) **Linklings portal (200 OK)** — `https://ssl.linklings.net/conferences/ALIFE/` returns "Welcome to the ALIFE 2026 submission site!" with a Sign In form. Portal is fully live and accepting logins. (2) **CFP page (200 OK)** — March 30 deadline unchanged. "How to Submit" section still only shows `program2026@alife.org` contact (page hasn't been updated with the portal URL, but the portal is live regardless). Submission formats confirmed: Full Papers (3–8 pages excl. refs), Summaries (≤2 pages, published work only), Late-Breaking Abstracts (≤2 pages, July 20). Templates: Overleaf, LaTeX, MS-Word (links unchanged). (3) **Workshops page STILL 404** — 24th consecutive check. No workshop CFPs visible anywhere. **⚠️ 22 DAYS TO DEADLINE. ACTION: Amber must create an account / begin submission at `https://ssl.linklings.net/conferences/ALIFE/` NOW.** Next check: 2026-03-12 (18 days before deadline).
 
