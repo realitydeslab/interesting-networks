@@ -6,15 +6,17 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, emergence, self-organization, open-endedness, machine-behavior, agent-behavior, alife-community]
 interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
-last_researched: 2026-03-06
+last_researched: 2026-03-08
 revisit_weeks: 1
-next_research: 2026-03-12
+next_research: 2026-03-09
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-08 (revisit #19 — portal watch, Day 5 sprint):** All four sources live-verified at ~01:46 UTC. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed; templates (Overleaf, LaTeX, MS-Word) present; **submission still email-only** — no portal URL anywhere. (2) **Homepage (200 OK)** — venue/location info only; **no submit button or portal link**. (3) **Workshops page STILL 404** — 21st consecutive check; zero workshop announcements. (4) **ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations); nothing new on portal or workshops. **Portal: NOT LIVE.** Still email-only (program2026@alife.org). We are now 8 days into the March 7–14 expected launch window — still no launch. Workshops completely dark after 21 checks. **22 days to March 30 deadline.** next_research: 2026-03-09.
 
 - **2026-03-06 (revisit #9 — portal check, Day 2 sprint):** All four sources live-verified. **KEY RESULT: Submission portal still NOT live.** Homepage (200 OK) — no portal button/URL anywhere. CFP page (200 OK) — March 30 confirmed, submission still email-only (program2026@alife.org). Workshops page STILL 404 (11th consecutive). ISAL news (alife.org) — no new posts since Feb 17 award nominations. Web search API unavailable. **Portal expected to open March 7–14.** Sprint Day 2: Amber should finalize title, set up Overleaf doc, write section headings, check Joel Lehman reply. Next research: 2026-03-12.
 
