@@ -9,12 +9,15 @@ added: 2026-03-02
 last_researched: 2026-03-08
 revisit_weeks: 1
 next_research: 2026-03-09
+_check_number: 20
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-08 (revisit #20 — portal watch, Day 6 sprint, ~03:46 UTC):** All four sources live-verified. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed unchanged; templates (Overleaf, LaTeX, MS-Word) present; **"How to Submit" still reads ONLY "contact program2026@alife.org"** — NO portal URL, NO EasyChair/HotCRP/OpenReview link. (2) **Homepage (200 OK)** — venue info (Waterloo, Ontario) only; **NO submit button or portal announcement**. (3) **Workshops page STILL 404** — **22nd consecutive check**; page not found. (4) **ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (ISAL award nominations); no new announcements. (5) **Web search API unavailable** — Brave subscription invalid. **Portal: NOT LIVE.** Still email-only (program2026@alife.org). Now Day 9 of the March 7–14 expected portal window with no launch. **22 days to March 30 deadline.** Sprint Day 6: Introduction due today. next_research: 2026-03-09.
 
 - **2026-03-08 (revisit #19 — portal watch, Day 5 sprint):** All four sources live-verified at ~01:46 UTC. **Findings:** (1) **CFP page (200 OK)** — March 30 deadline confirmed; templates (Overleaf, LaTeX, MS-Word) present; **submission still email-only** — no portal URL anywhere. (2) **Homepage (200 OK)** — venue/location info only; **no submit button or portal link**. (3) **Workshops page STILL 404** — 21st consecutive check; zero workshop announcements. (4) **ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations); nothing new on portal or workshops. **Portal: NOT LIVE.** Still email-only (program2026@alife.org). We are now 8 days into the March 7–14 expected launch window — still no launch. Workshops completely dark after 21 checks. **22 days to March 30 deadline.** next_research: 2026-03-09.
 
