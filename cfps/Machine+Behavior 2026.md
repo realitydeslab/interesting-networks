@@ -7,9 +7,9 @@ url: https://machinebehavior.science
 status: closed (attending, not submitting)
 urgent: false
 added: 2026-03-08
-last_researched: 2026-03-08
-revisit_weeks: 3
-next_research: 2026-04-05
+last_researched: 2026-03-09
+revisit_weeks: 2
+next_research: 2026-03-23
 tags: [machine-behavior, agent-ethology, ai-governance, conference, social-simulation, critical-computing]
 deep_researched: true
 rating: ⭐⭐⭐
@@ -18,6 +18,7 @@ rating: ⭐⭐⭐
 # Machine+Behavior Conference 2026
 
 ## ⚡ Recent Updates
+- **2026-03-09:** Revisit check. Site live (HTTP 200). **⚡ POSTER ACCEPTANCE NOTIFICATIONS ARE GOING OUT TODAY (March 9, 2026)** — confirmed on the /attend page: "Notification of acceptance from: March 9, 2026." If Amber submitted a poster, check email NOW. Behavioral Clones WS notifications were due March 1 but are slightly delayed per site: "Notifications of acceptance are slightly delayed and will be communicated shortly." No agenda or schedule has been published yet (~10 weeks out from conference). Speaker list unchanged. No new CFP or 2027 announcement. Reduced next_research to 2 weeks (March 23) to track: (a) whether Amber got poster acceptance, (b) whether schedule is published.
 - **2026-03-08 (23:40 UTC — revisit check, cron queue worker):** HTTP 200. Site live. No changes detected — speaker list matches prior research (Griffiths, Dafoe, Graepel, Summerfield, Makovi, Devlin, Weidinger, Baronchelli, and others). Conference still confirmed: **May 18–19, 2026, Harnack House Berlin**. Behavioral Clones Workshop still May 20. Poster acceptance notifications were due to go out **from March 9, 2026** — if Amber submitted a poster, check inbox now. No new registration announcements. No agenda/schedule published yet. Next revisit bumped to April 5 (conference still ~6 weeks out; next trigger point when final program drops).
 - **2026-03-08:** Full deep research. Conference details, speakers, schedule, registration status, satellite workshop confirmed. Amber-relevance analysis written.
 
@@ -29,12 +30,14 @@ A satellite **Behavioral Clones Workshop** runs May 20 at the Max Planck Institu
 **Mission statement from the site:** *"We aim to collaboratively chart research priorities, foster community ties, and catalyze interdisciplinary efforts to study machine behavior and human-machine behavioral dynamics across scales and over various time horizons. Only by better measuring and understanding machine behavior can we ultimately control it."*
 
 ## Deadlines
-| Item | Date |
-|------|------|
-| Poster abstract submission | **Feb 8, 2026** — CLOSED |
-| Poster acceptance notification | From March 9, 2026 |
-| Conference | **May 18–19, 2026** |
-| Behavioral Clones WS | **May 20, 2026** |
+| Item | Date | Status |
+|------|------|--------|
+| Poster abstract submission | **Feb 8, 2026** | ❌ CLOSED |
+| Poster acceptance notification | From **March 9, 2026** | ⚡ GOING OUT NOW (today) |
+| Behavioral Clones WS submission | **Feb 11, 2026** | ❌ CLOSED |
+| Behavioral Clones WS acceptance | ~March 1, 2026 | ⏳ Slightly delayed, "coming shortly" |
+| Conference | **May 18–19, 2026** | ✅ Confirmed, Harnack House Berlin |
+| Behavioral Clones WS | **May 20, 2026** | ✅ Confirmed, MPIHD Berlin |
 
 ## Venue
 [Harnack House](https://www.harnack-haus.de/) — the historic Max Planck Society guest house in the Dahlem district of Berlin. Intimate, prestigious, academic. Not a convention center — a proper intellectual gathering space.
@@ -155,11 +158,11 @@ These are all genuinely novel to this community. Amber should not be defensive �
 - **Email CHM directly** now: ask about general attendance, express research interest. CHM does visiting researcher programmes.
 
 ## Action Items
-- [ ] **Email [chm-pr@mpib-berlin.mpg.de](mailto:chm-pr@mpib-berlin.mpg.de)** — ask if general attendance registration is still open for May 18-19
-- [ ] **Email Behavioral Clones Workshop** (same address) — ask about separate registration for May 20
-- [ ] **Check notification date** — poster acceptances go out from March 9. If you submitted, check for acceptance
-- [ ] **Book Berlin flights/accommodation** now if attending — Harnack House is Dahlem, Berlin. May 18-20.
-- [ ] **Follow-up for 2027** — this is an annual conference, put it in the regular calendar
+- [ ] **🔴 CHECK EMAIL NOW (March 9)** — Poster acceptance notifications started going out today. If Amber submitted a poster, look for acceptance email from CHM / EasyChair
+- [ ] **Check Behavioral Clones WS email** — Acceptance notifications slightly delayed from March 1 target, "coming shortly." Keep an eye out
+- [ ] **Email [chm-pr@mpib-berlin.mpg.de](mailto:chm-pr@mpib-berlin.mpg.de)** — ask if general attendance registration is still open for May 18-19 (poster CFP closed but general attendance may be open)
+- [ ] **Book Berlin flights/accommodation** — Harnack House is Dahlem, Berlin. May 18-20. Do this ASAP if attending
+- [ ] **Follow-up for 2027** — annual conference. Set Jan 2027 reminder to check for CFP
 
 ## Key Papers / Background Reading
 - Rahwan, I. et al. (2019). [Machine behaviour](https://www.nature.com/articles/s41586-019-1138-y). *Nature*, 568, 477–486. **THE founding manifesto.** DOI: 10.1038/s41586-019-1138-y
@@ -190,5 +193,6 @@ These are all genuinely novel to this community. Amber should not be defensive �
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-09 | Biber (subagent) | Revisit check (2 weeks stale). Site live. Poster acceptance notifications confirmed going out TODAY (March 9). Behavioral Clones WS notifications slightly delayed from March 1. Updated deadlines table, action items. Reduced next_research to 2 weeks (March 23). |
 | 2026-03-08 | Biber (subagent) | Initial deep research. Full rewrite: speakers, schedule, satellite workshop, registration status, Amber-relevance analysis, action items. |
 | 2026-03-08 (23:40 UTC) | Biber (cron subagent) | Revisit check. HTTP 200. No changes to speaker list or schedule. Poster notifications due from March 9 — Amber should check inbox. Next revisit bumped to 2026-04-05. |

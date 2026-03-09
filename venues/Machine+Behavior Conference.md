@@ -5,9 +5,9 @@ frequency: annual
 location: Harnack House, Berlin
 host: Max Planck Institute for Human Development, Center for Humans & Machines
 added: 2026-02-26
-last_researched: 2026-02-26
+last_researched: 2026-03-09
 revisit_weeks: 4
-next_research: 2026-03-26
+next_research: 2026-04-09
 tags: [machine-behavior, social-simulation, alife]
 deep_researched: true
 edge_of_chaos: true
@@ -16,6 +16,7 @@ edge_of_chaos: true
 # Machine+Behavior Conference
 
 ## ⚡ Recent Updates
+- **2026-03-09:** Revisit check (2 weeks since last research). Site live (HTTP 200). **Poster acceptance notifications are now going out** — started March 9 (today). If Amber submitted a poster, check email immediately. Behavioral Clones WS acceptance notifications were due March 1 but are slightly delayed — "will be communicated shortly" per the site. Speaker list unchanged. No schedule/agenda published yet. No new 2027 CFP. CHM has no upcoming seminars listed. Rating confirmed ⭐⭐⭐.
 - **2026-02-26:** Initial deep research. Comprehensive note created.
 - **2026 edition:** May 18-19, 2026 at Harnack House, Berlin. Poster submissions closed Feb 8. Behavioral Clones Workshop on May 20.
 - **Behavioral Clones Workshop** added as satellite event (May 20, 2026) — machines modeling human behavior, social simulation, behavioral alignment.
@@ -135,7 +136,9 @@ The conference itself doesn't publish proceedings, but the associated research a
 
 ## CFPs & Deadlines
 - **Machine+Behavior 2026 poster submissions:** CLOSED (was Feb 8, 2026)
-- **Behavioral Clones WS 2026:** CLOSED (was Feb 11, 2026)
+- **Poster acceptance notifications:** ⚡ **Going out from March 9, 2026 (TODAY)** — check email if you submitted
+- **Behavioral Clones WS 2026:** CLOSED (was Feb 11, 2026). Acceptance notifications were due March 1 but are **slightly delayed** — "will be communicated shortly" per site (as of March 9)
+- **Machine+Behavior 2026 conference:** May 18–19, 2026, Harnack House, Berlin. General attendance may still be possible — email [chm-pr@mpib-berlin.mpg.de](mailto:chm-pr@mpib-berlin.mpg.de) to inquire
 - **Machine+Behavior 2027:** expect call ~Jan 2027, poster deadline ~Feb 2027
 - **⚠️ Action: Set reminder for Jan 2027 to check for 2027 CFP**
 
@@ -145,4 +148,5 @@ A new field being born. Small, elite, at the right institution (Max Planck), wit
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-09 | Biber (subagent) | Revisit check. Site live. Poster notifications started today (March 9). Behavioral Clones WS notifications slightly delayed past March 1. Speaker list, schedule unchanged. No 2027 CFP. Added ⚡ update. Rating confirmed ⭐⭐⭐. |
 | 2026-02-26 | Biber (agent) | Initial deep research. Comprehensive note: 2024+2026 speakers, full PC, Behavioral Clones WS, Amber engagement analysis. |
