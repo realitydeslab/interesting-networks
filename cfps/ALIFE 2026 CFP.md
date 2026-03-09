@@ -5,9 +5,9 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-08
+last_researched: 2026-03-09
 revisit_weeks: 1
-next_research: 2026-03-09
+next_research: 2026-03-10
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
@@ -21,6 +21,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-09 (00:45 UTC — daily check, cron subagent):** All five sources live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(b) Homepage (200 OK)** — venue info only; no new keynotes, registration, or schedule. **(c) Workshops page STILL 404** — **27th consecutive check**. Zero workshop CFPs published. **(d) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form active. Announcements: "No announcements at this time." Portal LIVE and accepting submissions. **(e) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). No new ALIFE 2026 news. **Summary: no changes. Portal live, deadline unchanged, workshops dark (27 consecutive 404s). 21 days to March 30.** Amber: go to `https://ssl.linklings.net/conferences/ALIFE/` and submit. next_research: 2026-03-10.
 
 - **2026-03-08 (23:40 UTC — daily check, cron subagent):** All five sources live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. "How to Submit" still shows only `program2026@alife.org` — portal URL not reflected on CFP page. Templates (Overleaf, LaTeX, MS-Word) present. **(b) Homepage (200 OK)** — venue info only; no new keynotes, schedule, or registration announcements. **(c) Workshops page STILL 404** — **26th consecutive check**. No workshop CFPs published. **(d) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. Portal announcements: "No announcements at this time." Portal remains LIVE and accepting submissions. **(e) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations); ISAL sidebar confirms: submission deadline March 30, workshop proposal deadline Feb 28. No new ALIFE 2026 news. **Summary: no changes. Portal live, deadline unchanged, workshops dark.** 22 days to March 30. Amber: go to `https://ssl.linklings.net/conferences/ALIFE/` and submit. next_research: 2026-03-09.
 
