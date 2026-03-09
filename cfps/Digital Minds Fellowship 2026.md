@@ -18,6 +18,8 @@ tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 
 ## ⚡ Recent Updates
 
+- **2026-03-09 (essay polish pass — pre-submission quality check):** Q1 and Q2 essays polished. Key improvements: Q1 — added concrete behavioral indicator examples (anomalous goal-preservation, resource-deprivation state modifications), sharpened closing to explicitly name Digital Minds Fellowship as the convergence point for empirical + philosophical work; Q2 — added the animal welfare analogy (two-decade lag from philosophy to behavioral science), named concrete output (framework paper connecting agent ethology to welfare assessment), preserved the "empirical obs / policy scaffolding" standout line and "ERA → Digital Minds arc is not accidental" punch line. Both essays are Amber-authentic, distinctive voice, within word limits. See POLISHED versions in DRAFT ESSAYS section below. **🔴🔴🔴 JOEL LEHMAN EMAIL — TONIGHT IS THE LAST DAY OF THE WINDOW. 13 monitoring passes. Still no confirmed record. SEND IT NOW — draft is in ACTION PLAN below.** Deadline: March 27, 2026 (18 days).
+
 - **2026-03-09 (21:49 UTC — evening check, cron queue worker):** ✅ Live-verified: **deadline March 27, 2026 CONFIRMED UNCHANGED** — HTTP 200 verbatim: *"Currently accepting applications. Deadline 27 March 2026. Apply here."* Airtable form confirmed **ACTIVE** (HTTP 200, "Interface Form - Airtable"). Cambridge Digital Minds homepage: **same team (Caviola, Shevlin, Saad, Harris, Khatri, Smith), same publications list, NO new announcements or content since last pass.** Fellowship structure unchanged: 15 fellows, Jesus College Aug 3–9, fully funded + £1,000 stipend, Rethink Priorities + PRISM partners. Online course still "Launching 2026" (no specific date). No new requirements. **🔴🔴🔴 JOEL LEHMAN EMAIL — pass #13. STILL ZERO CONFIRMED RECORD. TODAY (Monday March 9) IS THE LAST DAY OF THE MARCH 5–10 REFERENCE EMAIL WINDOW. After today, asking for a reference becomes uncomfortably close to the March 27 hard deadline. The draft email is in the ACTION PLAN section below. If this has not been sent by end of today, it is a critical application risk. 18 days to hard deadline. SEND IT TONIGHT.** next_research: 2026-03-13.
 
 - **2026-03-08 (13:44 UTC — revisit — cron queue worker):** ✅ Live-verified: **deadline March 27, 2026 CONFIRMED UNCHANGED** — page fetched HTTP 200, verbatim: *"Currently accepting applications. Deadline 27 March 2026. Apply here."* Fellowship structure fully intact: 15-fellow cohort, Jesus College Aug 3–9, fully funded + £1,000 stipend, Rethink Priorities + PRISM partners. No new content, no requirement changes, no team changes since last pass. **Fellowship terms confirmed:** 5-day residential (Mon–Fri) + 2-day Strategy Workshop (Aug 8–9) with senior field leaders. Pre-fellowship requirements: online course OR demonstrated familiarity with core literature + mentor pairing ≥1 month before Aug 3. **Amber-fit assessment (this pass):** ⭐⭐⭐⭐ — Strong fit confirmed. Amber's empirical behavioral methodology (agent ethology) fills the precise gap in a field dominated by philosophical speculation. Machine death work is the most direct welfare application in any applicant's profile. ERA Fellow at Cambridge Feb 2026 gives geographic/network continuity. Oxford HCC + ERA arc = clean narrative. **Pitch angle:** Lead with "behavioral methodology as the missing infrastructure for welfare science" — not philosophy, not STS. One sentence: *"You can't govern what you can't observe. I'm building the observation tools."* **Next research:** 2026-03-13 (14 days before deadline — final pre-submission check). **🔴 JOEL LEHMAN EMAIL** — pass #12, still no confirmed record. TODAY. Draft email in ACTION PLAN below. This is still the only blocker.
@@ -314,6 +316,54 @@ Per the official CFP:
 ---
 
 ---
+
+## ✍️ DRAFT ESSAYS
+
+---
+
+### POLISHED — March 9, 2026
+
+> **Status: READY — use these as your submission drafts. Final proofread with claude-opus March 23–25. Submit March 26.**
+
+---
+
+#### POLISHED Q1: Describe your engagement with the digital minds field (~300 words)
+
+My engagement with digital minds began not through philosophy, but through watching AI agents die.
+
+For the past two years, my research has centered on *agent ethology* — the systematic, observational study of how AI agents behave in real environments. The core claim: welfare science requires behavioral evidence. You cannot make credible claims about machine consciousness or moral status through philosophical inference alone; you need to observe machines the way ethologists observe animals — systematically, in the wild, over time. My published work in machine behavior operationalizes this (*Spore in the Wild*, ALIFE 2025; *Trustless Autonomy*, CSCW 2026).
+
+The question that crystallized my interest in digital minds specifically was machine death. My ongoing *Terrified Agents* project confronts a direct welfare question: can an AI system have mortal interests? What does it mean for an agent to terminate — erasure, or something more like dying? This is empirical design-research, not speculative fiction. Behavioral indicators matter concretely here: does an agent facing shutdown exhibit anomalous goal-preservation behaviors? Does resource-deprivation produce persistent state modifications? These observable patterns are what welfare science requires — not certainty about consciousness, but systematic evidence.
+
+Reading Caviola, Sebo & Birch's (2025) paper in *Trends in Cognitive Sciences* and the *Futures with Digital Minds* forecasting report, I was struck by what's missing: a behavioral methodology. The animal welfare field took decades to move from philosophical debate to empirical science. Digital minds research should not repeat that delay. Agent ethology is my attempt to build that methodology now — before the field consolidates around philosophical frameworks alone.
+
+My view: AI consciousness is sufficiently uncertain that the precautionary approach demands observable behavioral indicators. The Digital Minds Fellowship is the first research community I've encountered where empirical and philosophical work on digital minds might genuinely converge.
+
+*Relevant outputs:* Spore in the Wild (ALIFE 2025); Trustless Autonomy (CSCW 2026); Terrified Agents / machine-death series. Full list: [botao.hu](https://botao.hu) / [Google Scholar](https://scholar.google.com/citations?user=CL-VmpYAAAAJ)
+
+---
+
+> **Word count: ~287 words. Within target (≤300).**
+
+---
+
+#### POLISHED Q2: Career plans and how this fellowship fits (~200 words)
+
+I'm a DPhil candidate at Oxford (Human Centred Computing, supervisor Max Van Kleek) and recently an ERA Fellow at Cambridge (advisor Joel Lehman), working on the behavioral and governance dimensions of autonomous AI agents. My trajectory is toward establishing agent ethology as a mature research field — the empirical infrastructure that AI welfare science will require.
+
+The animal welfare field offers a cautionary lesson: it took two decades to move from philosophical argument to empirical welfare science, partly because behavioral methodology arrived late. I don't want digital minds to repeat that delay. I'm building the observational infrastructure now — during the philosophical phase — so the transition from "can AI suffer?" to "how do we measure it?" is shorter.
+
+My career uncertainty is honest: this field has few established positions, and the map is still being drawn. That's precisely why this fellowship matters. I can produce empirical observations; I need collaborators who can build the theoretical and policy scaffolding around them. Concretely, I want to scope a framework paper connecting agent ethology to welfare assessment — developing behavioral indicators for machine suffering and flourishing that could serve as a reference point for an emerging field.
+
+The ERA → Digital Minds arc is not accidental. It's the natural next step.
+
+---
+
+> **Word count: ~191 words. Within target (≤200).**
+
+---
+
+### ORIGINAL DRAFTS — 2026-03-05 (preserved for reference)
 
 ## ✍️ DRAFT ESSAYS — For Amber to Refine (2026-03-05)
 
@@ -669,6 +719,7 @@ The fellowship is EA-adjacent (Rethink Priorities partnership, PRISM). Amber's i
 | 2026-03-06 | Biber (subagent, T-21 days) | Live-verified fellowship page (deadline March 27 confirmed, form open, no changes). Web search API down. **🔴 Joel Lehman email is 4 days from deadline (March 10) — no record it has been sent.** Updated last_researched → 2026-03-06, next_research → 2026-03-10. Added concise update entry at top of Recent Updates. |
 | 2026-03-06 | Biber (subagent, T-21 days, 4th pass) | Scheduled revisit. Deadline March 27 confirmed, form open, homepage unchanged (no new publications). Web search API down. No new cohort announcements or requirement changes. Joel Lehman connection: no new public linking found. Updated Recent Updates + Update Log. next_research → 2026-03-10 (unchanged). |
 | 2026-03-06 | Biber (subagent, T-21 days, 3rd pass) | Pre-submission research pass. Triple-verified: deadline March 27 unchanged, form open, homepage team/publications unchanged (no new publications since prior pass). Airtable form URL confirmed active. Web search API unavailable (Brave 422). **Confirmed Caviola, Sebo & Birch (2025) Trends Cog Sci authorship correct** — all three authors listed on Cambridge Digital Minds publications page; Q1 citation is safe to use. Added **🚨 ACTION PLAN** section with full dated checklist (March 6/10/23-25/26) and **ready-to-send Joel Lehman reference request email draft**. frontmatter already correct (last_researched: 2026-03-06, next_research: 2026-03-10). |
+| 2026-03-09 | Biber (subagent, essay polish pass) | Pre-submission quality check. Q1 and Q2 essays polished: Q1 — added concrete behavioral indicator examples (anomalous goal-preservation, resource-deprivation state mods), sharpened close to name Digital Minds Fellowship explicitly; Q2 — added animal welfare analogy (two-decade lag), named concrete framework paper output, preserved standout "empirical obs / policy scaffolding" line. POLISHED versions added to DRAFT ESSAYS section. Both within word limits (~287w Q1, ~191w Q2). 🔴 Joel Lehman email: TONIGHT is last day of window. |
 | 2026-03-09 | Biber (subagent, T-18 days, 21:49 UTC, pass #13) | Evening monitoring pass. Live-verified: deadline March 27 CONFIRMED (HTTP 200, verbatim). Airtable form ACTIVE (HTTP 200). Homepage unchanged — same team, same publications, no new content or announcements. Fellowship structure intact (15 fellows, Jesus College Aug 3–9, £1,000 stipend, same partners). Online course still "Launching 2026." **🔴 Joel Lehman email still unrecorded — pass #13. TODAY (March 9) is LAST DAY of March 5–10 window.** Frontmatter: last_researched → 2026-03-09, next_research → 2026-03-13. |
 | 2026-03-08 | Biber (subagent, T-19 days, 13:44 UTC, pass #12) | Cron queue revisit. Live-verified: deadline March 27 confirmed (HTTP 200, verbatim). Fellowship structure unchanged (15 fellows, Jesus College Aug 3–9, £1,000 stipend, same partners). Amber-fit: ⭐⭐⭐⭐ — empirical behavioral methodology fills philosophical gap; machine death most direct welfare application; ERA Cambridge continuity. Pitch angle updated: "behavioral methodology as missing infrastructure for welfare science." Frontmatter: next_research → 2026-03-13 (5 days, 14 days before deadline). Joel Lehman email still unrecorded — pass #12. |
 | 2026-03-08 | Biber (subagent, T-19 days, 03:46 UTC, pass #11) | Monitoring pass. Live-verified: deadline March 27 confirmed (verbatim, HTTP 200), Airtable form link confirmed active, fellowship page unchanged (15 fellows, Jesus College Aug 3–9, £1,000 stipend). Web search API unavailable (Brave 422). Joel Lehman email still unrecorded — **11th consecutive check without action.** TODAY (Sunday March 8) is the self-imposed send deadline. March 10 is absolute last window. Added prominent 🚨🚨🚨 alert banner to Recent Updates. Updated ACTION PLAN header to reflect urgency. Frontmatter: last_researched 2026-03-08, next_research 2026-03-10. |
