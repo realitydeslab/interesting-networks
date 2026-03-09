@@ -1,8 +1,8 @@
 ---
 rating: ⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-02
-revisit_weeks: 3
+last_researched: 2026-03-09
+revisit_weeks: 2
 next_research: 2026-03-23
 tags: [alife, open-endedness, embodied, computational-creativity, more-than-human, machine-behavior]
 edge_of_chaos: true
@@ -16,6 +16,7 @@ deep_researched: true
 ME differs from **genetic engineering** (which edits the genetic code) and **synthetic biology** (which constructs biological circuits from parts) by focusing on the *developmental program* itself — the morphogenetic algorithm that translates genetic information into form. The question is not "what genes?" but "what process?" It is also broader than biology: ME frameworks apply to robots, materials, swarms, software systems — any system where form emerges from decentralized interaction.
 
 ## ⚡ Recent Updates
+- **2026-03-09 (deep-research update — cron queue worker):** Field is **hotter than March 2**, not cooler. Key developments: (1) **Neural Particle Automata** (arXiv:2601.16096, Jan 2026) — Lagrangian generalization of NCA: cells are free-moving particles, not grid-locked; demonstrated on morphogenesis + point-cloud classification. This is an architectural breakthrough for biologically realistic ME. (2) **Levin Lab grand synthesis** (arXiv:2601.14096, Jan/Feb 2026) — Hartl, Pio-Lopez, Fields, Levin argue that NCA, transformers, and diffusion models all implement the same cognition architecture as biological morphogenesis ("remapping and navigation of embedding spaces via error minimization"). NCA = AI = biology is now explicitly Levin's thesis. (3) **Conditional NCA** (arXiv:2512.08360, Dec 2025) — c-NCA can grow distinct topological structures (digits) from a single seed via class conditioning — bridges morphogenesis and conditional generative AI. (4) **Morphogenetic mechanical metamaterials** (arXiv:2509.10277, Sep 2025) — Fromentèze et al. use Turing reaction-diffusion to grow mechanical metamaterials with controlled tensorial properties; experimental mechanical cloaking demonstrated. ME is now real engineering. (5) **Morphogenetic modular robots** (arXiv:2602.10561, Feb 2026, accepted ICRA 2026) — full pipeline from morphological construction to adaptive control. ALIFE 2026 deadline is March 30 — Amber should submit. ⭐⭐⭐ rating confirmed; field accelerating.
 - **2026-03-02:** Deep research conducted. Note comprehensively updated from stub.
 - **2025-2026:** Neural Cellular Automata + ML is the hottest intersection — papers by Levin/Mordvintsev groups on neural CA applied to biology and beyond (arXiv 2025-2026). Morphogenetic metamaterials emerging as new engineering domain. Conditional morphogenesis via NCA announced December 2025.
 - **2024:** ALIFE 2024 (Copenhagen) included strong morphogenesis tracks. Xenobots/Anthrobots work from Tufts/Harvard generating significant media and scientific attention.
