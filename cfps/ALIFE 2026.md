@@ -8,14 +8,16 @@ interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
 last_researched: 2026-03-09
 revisit_weeks: 1
-next_research: 2026-03-10
-_check_number: 25
+next_research: 2026-03-11
+_check_number: 26
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-09 (21:49 UTC — check #26 — evening check, cron queue worker):** All six sources live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates present. **(b) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. "No announcements at this time." Portal LIVE. **(c) Workshops page STILL 404** — **29th consecutive check**. Zero workshop CFPs published. **(d) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). No new ALIFE 2026 news. **(e) Homepage (200 OK)** — venue info only; no keynotes, no registration, no schedule announcements. **(f) ERA site (200 OK)** — board members listed; no summer school announcement. **Summary: zero changes since afternoon check. Portal live. March 30 deadline unchanged. Workshops dark (29 consecutive 404s). 21 days remain.** Amber: submit at `https://ssl.linklings.net/conferences/ALIFE/`. next_research: 2026-03-11.
 
 - **2026-03-09 (16:40 UTC — check #25 — afternoon check, cron queue worker):** All five sources live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(b) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. "No announcements at this time." Portal LIVE. **(c) Workshops page STILL 404** — **28th consecutive check**. Zero workshop CFPs published. **(d) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). No new ALIFE 2026 news. **(e) Homepage (200 OK)** — venue info (Waterloo, Ontario + Wilfrid Laurier) only; no keynotes, no registration, no schedule announcements. **Summary: zero changes since morning check. Portal live. March 30 deadline unchanged. Workshops completely dark (28 consecutive 404s). 21 days remain.** Amber: submit at `https://ssl.linklings.net/conferences/ALIFE/`. next_research: 2026-03-10.
 
@@ -320,4 +322,5 @@ Amber has TWO potential papers. Both cannot be written in 24 days. **Choose ONE:
 | 2026-03-06 | Biber (subagent, alife-2026-revisit) | Revisit #8. T-24 days. All three pages live-verified. March 30 confirmed. Workshops still 404 (9th consecutive — now ~14 days post-proposal-deadline). Portal still email-only. Homepage unchanged. Web search API unavailable. No new info. last_researched → 2026-03-06. |
 | 2026-03-06 | Biber (subagent, alife-2026-submission-strategy) | Final submission strategy pass. Live-verified CFP page (200 OK): March 30 confirmed, CFP shows workshop deadline as Feb 20 (not Feb 28), workshops still 404 (10th), portal still email-only. Added 📅 MARCH COUNTDOWN section with day-by-day plan (Mar 6–30), two-paper decision matrix, portal status critical path. Sprint Day 2. |
 | 2026-03-06 | Biber (subagent, alife-2026-cfp-revisit) | Revisit #9. Portal check mission. All four sources verified: CFP (200 OK) March 30 confirmed, homepage no portal, workshops 404 (11th), ISAL news unchanged Feb 17. Portal NOT live. Next check: 2026-03-12. |
+| 2026-03-09 | Biber (subagent, alife-2026-monitor) | Check #26 (21:49 UTC, evening). All six sources verified. CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), workshops 404 (29th consecutive), ISAL news unchanged (Feb 17), homepage no new announcements, ERA no summer school. No changes since afternoon. 21 days to deadline. next_research → 2026-03-11. |
 | 2026-03-09 | Biber (subagent, afternoon-check-25) | Check #25 (16:40 UTC, afternoon). All five sources verified. CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), workshops 404 (28th consecutive), ISAL news unchanged (Feb 17), homepage no new announcements. No changes since morning check. 21 days to deadline. |
