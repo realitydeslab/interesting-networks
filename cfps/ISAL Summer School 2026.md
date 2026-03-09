@@ -6,9 +6,9 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, summer-school, alife, open-endedness, machine-behavior, more-than-human]
 interest: "⭐⭐⭐"
 added: 2026-02-26
-last_researched: 2026-03-04
-revisit_weeks: 3
-next_research: 2026-03-25
+last_researched: 2026-03-09
+revisit_weeks: 1
+next_research: 2026-03-16
 deep_researched: true
 ---
 
@@ -17,6 +17,7 @@ deep_researched: true
 > ⚠️ **Status as of 2026-03-02:** No dedicated ISAL Summer School 2026 page has been published yet. The main ALIFE 2026 conference is confirmed (Waterloo, Aug 17-21). The summer school — typically organized by ERA (Emerging Researchers in ALife), ISAL's student chapter — is expected to be announced in the coming months. This note documents what is known about the conference and summer school format, based on past editions, and assesses strategic fit for Amber.
 
 ## ⚡ Recent Updates
+- **2026-03-09:** Re-checked [2026.alife.org](https://2026.alife.org/), [alife.org](https://alife.org/), and [ERA site](https://sites.google.com/view/emergingresearchersinalife/about). **No ISAL Summer School 2026 page published.** ALIFE 2026 conference unchanged (Waterloo, Aug 17–21). Workshops page STILL 404 (29th consecutive check across the ALIFE 2026 CFP monitor). **Portal for paper submissions IS live** at [ssl.linklings.net/conferences/ALIFE/](https://ssl.linklings.net/conferences/ALIFE/) — relevant because paper deadline is March 30 (21 days). ISAL latest news: Feb 17 2026 (award nominations only — no summer school). **ISAL board**: Chrystopher Nehaniv + Stefano Nichele re-elected in Nov 2025 (Nehaniv is ALIFE 2026 General Chair). **ERA board**: Imy Khan (General Chair, UK), Piotr Walas (Lead Conference Chair, Warsaw), Harald Ludwig (Complexity Science Hub, Austria). ERA Discord confirmed active: [discord.com/invite/m3qvuXgkZ7](https://discord.com/invite/m3qvuXgkZ7). **No summer school deadline to track yet — announcement expected ~April–June 2026.** Next check: 2026-03-16. **Priority now: ALIFE 2026 paper submission (March 30 deadline — 21 days).**
 - **2026-03-04:** Re-checked [2026.alife.org](https://2026.alife.org/) and ERA page. **No summer school announcement yet.** ALIFE 2026 conference details remain unchanged (Aug 17-21, Waterloo). CFP deadlines confirmed: full papers **March 30, 2026** (26 days away), late-breaking abstracts July 20, 2026. ERA board active but no summer school page published. Next check set for 2026-03-25. **⚠️ Paper deadline in 26 days — Amber should assess now whether she has work for a full paper or abstract.**
 - **2026-03-02:** Deep research complete. No dedicated summer school page found; ALIFE 2026 main conference fully confirmed with theme "Living and Lifelike Complex Adaptive Systems". Topics list includes "Ethics, Existential Risks, and Philosophy of Artificial Life" — strong Amber fit. Paper deadline: March 30, 2026.
 - **2026-02-26:** Stub created.
@@ -158,14 +159,14 @@ ISAL/ALIFE summer schools typically:
 
 | Priority | Action | Deadline |
 |----------|--------|----------|
-| 🔴 HIGH | **Submit a paper to ALIFE 2026** — the ethics/philosophy of ALife track, or late-breaking abstract on machine behavior/agent ethology | **March 30, 2026** (full papers) |
-| 🟡 MEDIUM | Watch [alife.org](https://alife.org/) and ERA site for summer school announcement | Ongoing — check monthly |
+| 🔴 HIGH | **Submit a paper to ALIFE 2026** — portal IS LIVE at [ssl.linklings.net/conferences/ALIFE/](https://ssl.linklings.net/conferences/ALIFE/). 21 days. Submit by March 28 (buffer). | **March 30, 2026** (full papers) — ⚠️ 21 DAYS |
+| 🔴 HIGH | **Join ERA Discord** — [discord.com/invite/m3qvuXgkZ7](https://discord.com/invite/m3qvuXgkZ7) — summer school will be announced there first. | Now |
+| 🟡 MEDIUM | Watch [alife.org](https://alife.org/) and ERA site for summer school announcement (expected ~April–June 2026) | Weekly — check 2026-03-16 |
 | 🟡 MEDIUM | Subscribe to ISAL newsletter: [alife-newsletter.github.io/Newsletter/](https://alife-newsletter.github.io/Newsletter/) | Now |
-| 🟢 LOW | Connect with ERA (Emerging Researchers in ALife) on Discord/community | Ongoing |
-| 🟢 LOW | Consider proposing a workshop on machine death / agent ethology / mortal agents for ALIFE 2026 | Workshop deadline already passed (Feb 28, 2026) — plan for 2027 |
 | 🟢 LOW | Register for conference once registration opens (expected Spring 2026) | Before conference fill |
+| 🟢 LOW | Consider applying for summer school once announced — ERA Fellow status (Joel Lehman) is an advantage | When announced |
 
-**Most urgent:** March 30 paper deadline is 4 weeks away. Amber should assess whether she has work appropriate for a full paper or late-breaking abstract submission.
+**Most urgent (2026-03-09):** Paper submission portal is live. 21 days to March 30. Amber's paper is being drafted ("Agent Ethology as ALife"). Submit via [ssl.linklings.net/conferences/ALIFE/](https://ssl.linklings.net/conferences/ALIFE/). The summer school itself has not been announced — no application to submit yet. Join ERA Discord to catch the announcement first.
 
 **Late-breaking option (lower stakes):** July 20, 2026 deadline for 2-page late-breaking abstracts — good option if she misses the full paper deadline. Posters still get her in the community.
 
@@ -192,3 +193,4 @@ ISAL/ALIFE summer schools typically:
 | 2026-02-26 | Biber (agent) | Stub created. |
 | 2026-03-02 | Biber (agent) | Full deep research. No dedicated summer school page found — ALIFE 2026 conference confirmed (Waterloo, Aug 17-21). Documented conference details, past editions (ALIFE 2025 Tokyo), organizing committee, strategic fit analysis. Upgraded rating to ⭐⭐⭐ given strong Amber fit (machine death, agent ethology, Joel Lehman connection, philosophy of ALife track). Key action: March 30 paper deadline imminent. |
 | 2026-03-04 | Biber (scout cron) | Re-checked 2026.alife.org and ERA site. No summer school announcement. Conference + CFP dates unchanged. Paper deadline March 30 now 26 days away — flagged as urgent for Amber. next_research pushed to 2026-03-25 (summer school likely announced ~April). |
+| 2026-03-09 | Biber (subagent, isal-summer-school-agent) | Full revisit. Checked 2026.alife.org (homepage + workshops + CFP), alife.org, ERA site. No summer school announced (29th consecutive workshops 404). ALIFE 2026 paper portal IS live (ssl.linklings.net/conferences/ALIFE/). ISAL board: Nehaniv + Nichele re-elected Nov 2025. ERA board: Imy Khan (General Chair, UK). ERA Discord confirmed active. Submission portal live. Rating ⭐⭐⭐ maintained — extreme Amber fit confirmed (machine death, agent ethology, Joel Lehman, ERA). next_research → 2026-03-16 (weekly until summer school announced or ALIFE paper submitted). |
