@@ -7,7 +7,7 @@ url: https://machinebehavior.science
 status: closed (attending, not submitting)
 urgent: false
 added: 2026-03-08
-last_researched: 2026-03-09
+last_researched: 2026-03-09 (21:49 UTC)
 revisit_weeks: 2
 next_research: 2026-03-23
 tags: [machine-behavior, agent-ethology, ai-governance, conference, social-simulation, critical-computing]
@@ -18,6 +18,7 @@ rating: ⭐⭐⭐
 # Machine+Behavior Conference 2026
 
 ## ⚡ Recent Updates
+- **2026-03-09 (21:49 UTC — poster acceptance day check, cron queue worker):** Live fetches of machinebehavior.science (HTTP 200) and /attend page. **⚡ TODAY IS POSTER ACCEPTANCE NOTIFICATION DAY** — /attend still reads "Notification of acceptance from: March 9, 2026" but no updated confirmation text that notifications have been sent (page not updated on their end). No new announcements on homepage. **Registration: still not open** — no registration link or page visible. **Schedule: still not published** — no program/agenda page. Speaker list unchanged (TBA slots still TBA). Behavioral Clones WS notifications: site text hasn't been updated with confirmed sent status. Bottom line: if Amber submitted a poster, the acceptance email may arrive any time today (or in coming days — "from March 9" means start date, not guaranteed same-day). Check inbox. next_research: 2026-03-23.
 - **2026-03-09:** Revisit check. Site live (HTTP 200). **⚡ POSTER ACCEPTANCE NOTIFICATIONS ARE GOING OUT TODAY (March 9, 2026)** — confirmed on the /attend page: "Notification of acceptance from: March 9, 2026." If Amber submitted a poster, check email NOW. Behavioral Clones WS notifications were due March 1 but are slightly delayed per site: "Notifications of acceptance are slightly delayed and will be communicated shortly." No agenda or schedule has been published yet (~10 weeks out from conference). Speaker list unchanged. No new CFP or 2027 announcement. Reduced next_research to 2 weeks (March 23) to track: (a) whether Amber got poster acceptance, (b) whether schedule is published.
 - **2026-03-08 (23:40 UTC — revisit check, cron queue worker):** HTTP 200. Site live. No changes detected — speaker list matches prior research (Griffiths, Dafoe, Graepel, Summerfield, Makovi, Devlin, Weidinger, Baronchelli, and others). Conference still confirmed: **May 18–19, 2026, Harnack House Berlin**. Behavioral Clones Workshop still May 20. Poster acceptance notifications were due to go out **from March 9, 2026** — if Amber submitted a poster, check inbox now. No new registration announcements. No agenda/schedule published yet. Next revisit bumped to April 5 (conference still ~6 weeks out; next trigger point when final program drops).
 - **2026-03-08:** Full deep research. Conference details, speakers, schedule, registration status, satellite workshop confirmed. Amber-relevance analysis written.
@@ -193,6 +194,7 @@ These are all genuinely novel to this community. Amber should not be defensive �
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-09 (21:49 UTC) | Biber (cron subagent) | Poster acceptance day check. Live fetches: main site + /attend. HTTP 200. No new announcements. Registration still not open. No schedule published. /attend still shows "Notification of acceptance from: March 9, 2026" — page not updated with sent confirmation. Email may arrive any time today. next_research: 2026-03-23. |
 | 2026-03-09 | Biber (subagent) | Revisit check (2 weeks stale). Site live. Poster acceptance notifications confirmed going out TODAY (March 9). Behavioral Clones WS notifications slightly delayed from March 1. Updated deadlines table, action items. Reduced next_research to 2 weeks (March 23). |
 | 2026-03-08 | Biber (subagent) | Initial deep research. Full rewrite: speakers, schedule, satellite workshop, registration status, Amber-relevance analysis, action items. |
 | 2026-03-08 (23:40 UTC) | Biber (cron subagent) | Revisit check. HTTP 200. No changes to speaker list or schedule. Poster notifications due from March 9 — Amber should check inbox. Next revisit bumped to 2026-04-05. |
