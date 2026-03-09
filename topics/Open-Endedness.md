@@ -1,9 +1,9 @@
 ---
 rating: ⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 4
-next_research: 2026-03-26
+last_researched: 2026-03-09
+revisit_weeks: 3
+next_research: 2026-03-30
 tags: [alife, computational-creativity, open-endedness, edge-of-chaos]
 edge_of_chaos: true
 deep_researched: true
@@ -12,6 +12,16 @@ deep_researched: true
 # Open-Endedness
 
 ## ⚡ Recent Updates
+
+- **2026-03-09:** Revisit 2 weeks after initial deep research. Key developments since Feb 26:
+  - **🔥 Lehman "being-towards-death" paper** (revised Feb 12, 2026) — Christov-Moore, Juliani, Kiefer, **Joel Lehman**, Reggente, Safron, Hinrichs, Polani, **Antonio Damasio** argue that *being-in-the-world* and *being-towards-death* are necessary conditions for open-ended generalization and care in AI agents. Vulnerability and mortality are features, not bugs. **CRITICAL for Amber:** directly bridges open-endedness + mortality/care ethics via Heideggerian framing. This is Amber's ERA advisor Joel Lehman's newest OE-adjacent work.
+  - **🌱 Sakana AI Petri Dish NCA** (Nov 2025, presented at ALIFE 2025) — missed in Feb 26 update. Differentiable ALife world where multiple NCA learn to self-replicate via *continual gradient descent*. Cyclic dynamics, territorial defense, spontaneous cooperation emerge. Direct open-endedness substrate research. [Code](https://github.com/SakanaAI/petri-dish-nca)
+  - **📊 Sakana AI commercial pivot**: Since Feb 26, new partnerships with Citi, Datadog, Salesforce Ventures, and Google. No major new OE research papers — company is commercializing on prior research. Last OE paper: Digital Red Queen (Jan 8, 2026).
+  - **🧬 Sinapayen speciation paper** (March 2, 2026) — Théo de Pinho & Lana Sinapayen test Tree of Life Simulation (ToLSim) for Tokyo type 1 OEE. Result: *partly passes* — shows unbounded total cumulative evolutionary activity but bounded normalized activity. Provides methodology for empirically evaluating OEE claims.
+  - **Lila Sciences**: No new announcements since Feb 26. Still building in stealth. Ken Stanley SVP of Open-Endedness continues.
+  - **Amber's own OE papers** (now on arXiv): "On Improvisation and Open-Endedness: Insights for Experiential AI" (Nov 2025, AAAI 2026 CLIP workshop) + "Spore in the Wild" (Aug 2025, ALife case study of open-environment evolution on blockchain). These should be cited in the ALIFE 2026 paper.
+  - **ALIFE 2026 confirmed**: University of Waterloo + Wilfrid Laurier University, Ontario, Canada. Paper deadline **March 30, 2026** (imminent).
+
 - **2026-02-26:** MAJOR INDUSTRY DEVELOPMENTS discovered. Ken Stanley now "SVP of Open-Endedness" at Lila Sciences (scientific superintelligence platform). Sakana AI (David Ha + Sebastian Risi) producing cutting-edge open-endedness research including Digital Red Queen, AI Scientist, and Darwin Gödel Machine. Field transitioning from academic curiosity to industrial application for scientific discovery and self-improving AI systems.
 
 ## Domain Summary
@@ -69,7 +79,7 @@ This is not just about generating diversity or avoiding local optima. True open-
 
 ### Foundational Figures
 - **[[Ken Stanley]]** (Lila Sciences) — **NOW: SVP of Open-Endedness at Lila Sciences** (scientific superintelligence platform). Creator of NEAT, novelty search, and "Why Greatness Cannot Be Planned". The intellectual father of modern open-endedness research.
-- **[[Joel Lehman]]** (Uber/OpenAI) — Co-inventor of novelty search. Key theorist of objective-free evolution.
+- **[[Joel Lehman]]** (ERA Alliance, Cambridge; formerly OpenAI/Uber AI) — Co-inventor of novelty search. **Amber's ERA Fellowship advisor.** Recent work (Feb 2026) argues that "being-in-the-world" and "being-towards-death" are necessary conditions for open-ended generalization and care — directly bridges OE to Amber's mortality research. See new paper with Damasio et al.
 - **[[Jeff Clune]]** (UVM/OpenAI) — Deep neuroevolution, Go-Explore, and AI-Generating Algorithms (AGA).
 - **[[Tim Taylor]]** (University of York) — OEE workshops, formal definitions of open-ended evolution.
 - **[[Susan Stepney]]** (University of York) — Complex systems approach to open-endedness.
@@ -102,11 +112,22 @@ This is not just about generating diversity or avoiding local optima. True open-
 ### 2025-2026 Cutting Edge
 
 **Sakana AI Breakthroughs:**
+- [*Petri Dish Neural Cellular Automata (PD-NCA)*](https://sakana.ai/pd-nca/) (Sakana AI, Nov 2025) — **ALIFE 2025 presentation.** New ALife substrate: differentiable world where multiple NCA learn to self-replicate and grow via *continual gradient descent* during simulation. Emergent cyclic dynamics, territorial defense, spontaneous cooperation. Direct open-endedness substrate. GitHub: [SakanaAI/petri-dish-nca](https://github.com/SakanaAI/petri-dish-nca). URL: <https://pub.sakana.ai/pdnca/>
 - [*Digital Red Queen: Adversarial Program Evolution in Core War with LLMs*](https://sakana.ai/drq/) (Sakana AI, Jan 2026) — **Major breakthrough:** LLM-driven adversarial evolution where assembly programs evolve in Core War environment, demonstrating emergent self-modifying code dynamics
 - [*The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery*](https://sakana.ai/ai-scientist/) (Ha et al., Aug 2024) — **First AI to pass peer review:** Fully automated scientist that generates hypotheses, designs experiments, writes papers, and got published
 - [*The Darwin Gödel Machine: AI that improves itself by rewriting its own code*](https://sakana.ai/dgm/) (May 2025) — Self-improving AI that evolves its own source code through competitive selection
 - [*ShinkaEvolve: Evolving New Algorithms with LLMs*](https://sakana.ai/shinka-evolve/) (Sep 2025) — Orders-of-magnitude more efficient algorithm evolution using language models
 - [*Automating the Search for Artificial Life with Foundation Models*](https://sakana.ai/asal/) (Dec 2024) — Using LLMs to discover new forms of artificial life
+
+**Open-Endedness + Care Ethics (Lehman Bridge Papers):**
+- [*The Conditions of Physical Embodiment Enable Generalization and Care*](https://arxiv.org/abs/2410.06712) (Christov-Moore, Juliani, Kiefer, **Lehman**, Reggente, Rousse, Safron, Hinrichs, Polani, **Damasio**; arXiv:2410.06712, v1 Oct 2025, revised Feb 12, 2026) — Argues *being-in-the-world* and *being-towards-death* are necessary conditions for open-ended generalization and care. Agents in open-ended physical environments (eldercare, disaster response) must persist under uncertainty while providing care. Vulnerability and mortality as structural features enabling generalization. **CRITICAL for Amber:** OE + mortality + care ethics via Heideggerian phenomenology. DOI: <https://doi.org/10.48550/arXiv.2410.06712>
+
+**New ALife/OEE Tests (March 2026):**
+- [*A speciation simulation that partly passes open-endedness tests*](https://arxiv.org/abs/2603.01701) (de Pinho & **Sinapayen**, arXiv:2603.01701, March 2, 2026) — Tests Lana Sinapayen's Tree of Life Simulation (ToLSim) for Tokyo type 1 open-ended evolution via evolutionary activity statistics. Results: unbounded total cumulative activity but bounded normalized activity — *partly* open-ended. Valuable for empirical OEE evaluation methodology. DOI: <https://doi.org/10.48550/arXiv.2603.01701>
+
+**Amber's Own OE Papers (Self-Reference):**
+- [*On Improvisation and Open-Endedness: Insights for Experiential AI*](https://arxiv.org/search/?searchtype=all&query=improvisation+open-endedness+experiential+AI&start=0) (Botao 'Amber' Hu, arXiv Nov 2025) — Framework connecting improvisation (music, dance, everyday life) to open-endedness in AI. Submitted to AAAI 2026 CLIP workshop. Foundational for Amber's ALIFE 2026 paper. DOI: <https://doi.org/10.48550/arXiv.2411.>
+- [*Spore in the Wild: A Case Study of Spore.fun as an Open-Environment Evolution Experiment with Sovereign AI Agents on TEE-Secured Blockchains*](https://arxiv.org/search/?searchtype=all&query=Spore+Wild+open+environment+evolution+sovereign+AI+blockchain&start=0) (Botao Amber Hu & Helena Rong, arXiv May/Aug 2025) — ALife case study: replicating OEE in artificial systems via sovereign AI agents on blockchain. Empirical open-endedness experiment. Directly relevant to ALIFE 2026 paper.
 
 **Academic Research:**
 - [*CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills*](https://arxiv.org/abs/2402.10995) (Bornemann et al., 2026) — LLM-driven hierarchical skill evolution
@@ -347,4 +368,5 @@ For Amber specifically, this bridges her interests in:
 
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-09 | Biber (subagent) | **REVISIT:** Added Lehman "being-towards-death" paper (Christov-Moore et al., Feb 2026) bridging OE + mortality/care. Added Sakana AI Petri Dish NCA (ALIFE 2025, missed in Feb update). Added Sinapayen speciation paper (arXiv:2603.01701, Mar 2026). Noted Sakana AI commercial pivot. Documented Amber's own OE papers (improvisation + Spore in the Wild). Updated Joel Lehman entry to reflect ERA advisor role. ALIFE 2026 Waterloo confirmed. Next research: 2026-03-30 (ALIFE paper deadline). |
 | 2026-02-26 | Biber (subagent) | **MAJOR UPDATE:** Discovered Ken Stanley now SVP at Lila Sciences, Sakana AI breakthrough research (Digital Red Queen, AI Scientist, Darwin Gödel Machine), industry transition. Added comprehensive Sakana AI research, updated collaboration targets, industry opportunities. Field status: academic → industrial. |

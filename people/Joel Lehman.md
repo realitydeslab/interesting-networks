@@ -1,21 +1,23 @@
 ---
 rating: ⭐⭐⭐
-affiliation: Independent researcher (prev OpenAI, Uber AI Labs)
+affiliation: ERA Alliance, Cambridge (advisor); prev OpenAI, Uber AI Labs
 website: https://joellehman.com/
 education:
   - PhD Computer Science, University of Central Florida (advisor: Kenneth O. Stanley)
-based: Austin, TX (likely)
+based: Cambridge, UK (ERA) / Austin, TX
 added: 2026-02-26
-last_researched: 2026-02-26
-revisit_weeks: 4
-next_research: 2026-03-26
+last_researched: 2026-03-09
+revisit_weeks: 3
+next_research: 2026-03-30
 tags: [alife, computational-creativity, open-endedness, ai-safety, quality-diversity]
 deep_researched: true
+amber_connection: ERA Fellowship advisor (Feb 2026)
 ---
 
 # Joel Lehman
 
 ## ⚡ Recent Updates
+- **2026-03-09:** **Amber's ERA Fellowship advisor confirmed** (ERA Alliance, Cambridge, Feb 2026). Embodiment/care paper (arXiv:2410.06712) revised Feb 12, 2026 — paper argues *being-towards-death* is a necessary condition for open-ended generalization and care, co-authored with Antonio Damasio. This directly bridges Joel's open-endedness work with Amber's mortality research. Key paper for ALIFE 2026 submission.
 - **2026-02-26:** Initial deep research. Pioneer of novelty search and open-endedness research. Co-inventor of paradigm-shifting approach to creativity through "abandoning objectives."
 
 Co-inventor of novelty search with [[Kenneth O. Stanley]], a paradigm-shifting approach that abandons traditional objective-based optimization in favor of searching for behavioral novelty. Leading researcher in open-endedness, AI safety, and the intersection of evolution with large language models. Former OpenAI researcher focused on alignment and safety challenges.
@@ -176,4 +178,5 @@ Each move **anticipates where fields are heading** rather than following current
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-09 | Biber (subagent) | Updated affiliation to ERA Alliance (Amber's advisor). Added embodiment/care paper revision note (Feb 12, 2026). Updated next_research to 2026-03-30 (ALIFE deadline). |
 | 2026-02-26 | Biber (agent) | Initial deep research. Created comprehensive profile with full publication analysis, collaborator mapping, and research taste analysis. Sourced from arXiv papers 2011-2025. |
