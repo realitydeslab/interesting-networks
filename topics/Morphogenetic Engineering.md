@@ -41,17 +41,21 @@ The central intellectual tension in ME: *self-organization* (bottom-up, emergent
 
 ## Edge of Chaos Analysis
 
-**`edge_of_chaos: true`** — This field is actively being reshaped:
+**`edge_of_chaos: true`** — This field is actively being reshaped and accelerating in early 2026:
 
-1. **Neural Cellular Automata revival (2020-present)**: Mordvintsev et al.'s [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/) (Distill, 2020, DOI: 10.23915/distill.00023) applied deep learning to train cells to grow target patterns and self-repair. This relaunched ME-adjacent research with modern ML tooling. Active arXiv papers in 2025-2026 continue this line (neural CA for biology, texture generation, morphogenetic metamaterials).
+1. **Neural Cellular Automata going Lagrangian (Jan 2026)**: Neural Particle Automata ([arXiv:2601.16096](https://arxiv.org/abs/2601.16096)) liberate NCA from grids — cells are now free-moving particles. This is an architectural breakthrough enabling more biologically realistic morphogenesis modeling. The NCA subfield is maturing fast.
 
-2. **Xenobots and Anthrobots**: The Levin/Bongard Xenobot paper (PNAS, 2020) demonstrated the first "programmable living robots" — frog embryo cells assembled into novel morphologies predicted by AI. Anthrobots (2023, from human tracheal cells) went further. These are literally engineered morphogenesis. The question of agency and behavior that emerges from these systems is directly relevant to Amber's machine behavior work.
+2. **Levin's grand synthesis (Jan-Feb 2026)**: The Hartl/Levin paper ([arXiv:2601.14096](https://arxiv.org/abs/2601.14096)) explicitly claims that NCA, transformers, and diffusion models all implement the same cognitive architecture as biological morphogenesis. This is a major theoretical synthesis that makes ME directly relevant to all of AI.
 
-3. **Morphogenetic materials**: reaction-diffusion and Turing patterns being applied to design metamaterials with specific mechanical/electromagnetic properties. Real engineering applications starting to appear (2023-2025).
+3. **ME → materials engineering**: Morphogenetic mechanical metamaterials ([arXiv:2509.10277](https://arxiv.org/abs/2509.10277)) demonstrate that Turing reaction-diffusion can engineer materials with controlled tensorial properties. ME principles are now crossing into materials science with experimental validation.
 
-4. **AI-guided morphogenesis**: using foundation models and differentiable programming to search morphogenetic "rule space" — an open-endedness problem at its core.
+4. **ME → modular robotics**: ICRA 2026 accepted a morphogenetic robotics paper ([arXiv:2602.10561](https://arxiv.org/abs/2602.10561)) on full-pipeline morphological assembly → adaptive control. The robotics community is actively adopting ME framing.
 
-The field is small enough that new contributions still matter significantly. It is not mainstream (not "LLMs") but it is genuinely alive.
+5. **Xenobots and Anthrobots**: The Levin/Bongard Xenobot paper (PNAS, 2020) demonstrated the first "programmable living robots" — frog embryo cells assembled into novel morphologies predicted by AI. Anthrobots (2023, from human tracheal cells) went further. Levin lab continues active work on diverse intelligence.
+
+6. **AI-guided morphogenesis**: using foundation models and differentiable programming to search morphogenetic "rule space" — an open-endedness problem at its core.
+
+The field is small enough that new contributions still matter significantly, and it is **actively crossing disciplinary borders** in 2026: from CS/ALife into materials science, robotics, and grand AI theory. **Field is hotter in March 2026 than it was a month ago.** ⭐⭐⭐ rating confirmed.
 
 ## Sub-topics & Trends (last 3-5 years)
 
@@ -90,7 +94,12 @@ The field is small enough that new contributions still matter significantly. It 
 - [A Scalable Pipeline for Designing Reconfigurable Organisms](https://doi.org/10.1073/pnas.1910837117) (Kriegman, Blackiston, Levin, Bongard — PNAS 2020) — Xenobots. First AI-designed living robots. DOI: 10.1073/pnas.1910837117
 - [Organically Grown Architectures](https://www.cs.bham.ac.uk/~wbl/biblio/gecco2006/docs/p671.pdf) (Doursat, 2006/2008) — first articulation of "embryomorphic engineering"; ME as field declaration. Springer Organic Computing, 2008.
 - [Mathematical Models for Cellular Interactions in Development](https://doi.org/10.1016/0022-5193(68)90079-9) (Lindenmayer, 1968) — L-systems origin paper. DOI: 10.1016/0022-5193(68)90079-9
-- [Neural cellular automata: applications to biology and beyond classical AI](https://arxiv.org/abs/2409.10288) (Hartl, Levin, Pio-Lopez — arXiv 2025) — current state of neural CA + biology. 2025.
+- [Neural cellular automata: applications to biology and beyond classical AI](https://arxiv.org/abs/2509.11131) (Hartl, Pio-Lopez, Levin — arXiv:2509.11131, Sep 2025) — comprehensive NCA review; argues NCA bridges multiscale biology with generative AI; covers ARC-AGI-1 reasoning. The best current synthesis of the field.
+- [Remapping and navigation of an embedding space via error minimization](https://arxiv.org/abs/2601.14096) (Hartl, Pio-Lopez, Fields, Levin — arXiv:2601.14096, Jan 2026) — **Levin's grand synthesis**: NCA, transformers, and diffusion models all implement the same cognition architecture as biological morphogenesis. NCA = AI = biology.
+- [Neural Particle Automata: Learning Self-Organizing Particle Dynamics](https://arxiv.org/abs/2601.16096) (Kim, Pajouheshgar, Süsstrunk, Jakob, Park — arXiv:2601.16096, Jan 2026) — Lagrangian NCA; cells as free particles not grid-locked. Demonstrated on morphogenesis + point-cloud classification.
+- [Conditional Morphogenesis: Emergent Generation of Structural Digits via Neural Cellular Automata](https://arxiv.org/abs/2512.08360) (Sakour — arXiv:2512.08360, Dec 2025) — c-NCA that grows distinct digit shapes from single seed via class conditioning. Bridges texture-based NCA with structural pattern formation.
+- [Morphogenetic mechanical metamaterials: Emerging tensor properties from self-organized structures](https://arxiv.org/abs/2509.10277) (Fromentèze et al. — arXiv:2509.10277, Sep 2025) — Turing reaction-diffusion used to grow mechanical metamaterials with controlled tensorial properties; experimental mechanical cloaking demonstrated. ME as real materials engineering.
+- [Morphogenetic Assembly and Adaptive Control for Heterogeneous Modular Robots](https://arxiv.org/abs/2602.10561) (Meng et al. — arXiv:2602.10561, Feb 2026, **accepted ICRA 2026**) — full closed-loop framework: morphological construction → adaptive control for modular robots.
 - [Morphogenetic metasurfaces: unlocking the potential of Turing patterns](https://doi.org/10.1038/s41467-023-41775-9) (Nature Communications, 2023) — Turing patterns in real metamaterial engineering.
 
 ### Journals
@@ -138,14 +147,16 @@ The field is small enough that new contributions still matter significantly. It 
 ## For Amber
 
 **Who should Amber know?**
-- [[Michael Levin]] — already ⭐⭐⭐; ME's most visible figure bridging biology and cognition. His framing of "morphogenetic code" as a cognitive/goal-directed system maps onto Amber's machine behavior interests.
+- [[Michael Levin]] — already ⭐⭐⭐; ME's most visible figure bridging biology and cognition. His Jan 2026 paper (arXiv:2601.14096) explicitly frames NCA, transformers, and diffusion models as implementing the same architecture as biological morphogenesis. This is Amber's machine behavior angle right here.
 - [[Hiroki Sayama]] — already ⭐⭐; central community organizer in ALife/ME; Binghamton.
 - [[Josh Bongard]] — already ⭐⭐; xenobots, morphogenetic robotics; Vermont.
+- **Benedikt Hartl** — Levin lab PhD student; lead author on arXiv:2509.11131 and arXiv:2601.14096; building the NCA-as-cognition synthesis. Someone Amber should track closely.
 - **René Doursat** — field founder; should have a stub in this graph.
 
 **Who might like Amber's work?**
 - The ME community would be interested in Amber's work on agent ethology applied to morphogenetic collectives — what behavior emerges from cell-level agents? How do xenobots "behave"?
 - HoloKit connection: using MR to visualize morphogenetic processes could be a compelling intersection
+- Levin's recent framing of NCA as AI substrate means AI behavior researchers (machine behavior community) increasingly need to understand NCA — Amber's machine behavior + ethology lens is now directly relevant to NCA research
 
 **Who can Amber collaborate with?**
 - Levin Lab (Tufts): ALife × machine behavior × morphogenetic cognition
@@ -154,8 +165,22 @@ The field is small enough that new contributions still matter significantly. It 
 
 **What publications should Amber target?**
 - *Artificial Life* (MIT Press) — primary venue
-- ALIFE proceedings — March 30, 2026 deadline is now!
+- ALIFE 2026 proceedings — **March 30, 2026 deadline. 21 days away!**
 - *Bioinspiration & Biomimetics* — if doing embodied/material ME work
+
+**ALIFE 2026 paper angles for Amber (March 30 deadline):**
+
+The strongest angles connect Amber's existing work to ME without requiring new experiments:
+
+1. **"The Ethology of Morphogenetic Agents: Behavioral Taxonomy for Cell Collectives"** — apply Amber's agent ethology lens to xenobots/NCA agents. What behaviors do morphogenetic systems exhibit "in the wild"? How do we classify, compare, and study these behaviors observationally? This directly bridges agent ethology + ME. No wet lab required — NCA systems are software.
+
+2. **"Open-Ended Morphogenesis: NCA as a Framework for Studying Behavioral Open-Endedness"** — use NCA (especially Neural Particle Automata from arXiv:2601.16096) as a substrate for open-ended evolution experiments. Connect to Joel Lehman's novelty search. Frame NCA as an open-endedness research platform.
+
+3. **"Machine Behavior in Morphogenetic Systems: Observational Methods for NCA and Biological Analogues"** — take the Rahwan machine behavior framing and apply it: what do NCA agents *do* in the wild? What ecological roles emerge in multi-agent morphogenetic systems? This is a perspective/position paper Amber could write quickly.
+
+4. **"Morphogenetic Agency as More-than-Human Design"** — speculative design framing: when biological cells "design" a form through morphogenesis, what kind of agency is that? How does it challenge human-centric design methodology? Strong for ALIFE's philosophy/theory track.
+
+**Recommendation:** Paper 1 or 3 is fastest for Amber to write. Paper 1 is most novel (no one is doing ethology of NCA). Paper 3 connects to existing machine behavior literature (Rahwan et al.) which Amber already knows. Paper 2 requires more technical work but Joel Lehman co-authorship opportunity is real.
 
 ## Recent Important Updates (Timeline)
 
@@ -170,8 +195,13 @@ The field is small enough that new contributions still matter significantly. It 
 - **2023**: Anthrobots (Levin lab, Harvard) — living robots from human tracheal cells; self-directed morphogenesis
 - **2023**: Morphogenetic metasurfaces (Nature Communications) — Turing patterns applied to real metamaterial engineering
 - **2024**: ALIFE 2024 Copenhagen — strong ME tracks; community growing
-- **2025**: Neural CA papers proliferate; conditional morphogenesis, neural particle automata, developmental graph CAs
-- **2026 (upcoming)**: ALIFE 2026 Waterloo — March 30 paper deadline
+- **Sep 2025**: Neural CA review paper (Hartl, Pio-Lopez, Levin — arXiv:2509.11131) — comprehensive synthesis of NCA for biology; makes case for NCA as unifying paradigm
+- **Sep 2025**: Morphogenetic mechanical metamaterials (Fromentèze et al. — arXiv:2509.10277) — Turing reaction-diffusion for experimental materials engineering; mechanical cloaking
+- **Dec 2025**: Conditional NCA (Sakour — arXiv:2512.08360) — c-NCA grows distinct structures from single seed via class conditioning
+- **Jan 2026**: Neural Particle Automata (Kim et al. — arXiv:2601.16096) — Lagrangian NCA; cells as free particles; architectural breakthrough
+- **Jan-Feb 2026**: Levin grand synthesis (Hartl, Pio-Lopez, Fields, Levin — arXiv:2601.14096) — NCA = transformers = diffusion models = biological morphogenesis; same underlying cognition architecture
+- **Feb 2026**: Morphogenetic modular robotics (arXiv:2602.10561) accepted at ICRA 2026 — ME → robotics pipeline
+- **2026 (now)**: ALIFE 2026 Waterloo — **March 30 paper deadline. 21 days. Amber should submit.**
 
 ## Adjacent Topics
 
@@ -199,18 +229,21 @@ The field is small enough that new contributions still matter significantly. It 
 
 ## Why Interesting
 
-ME is interesting to Amber for **four converging reasons**:
+ME is interesting to Amber for **five converging reasons** (updated March 2026):
 
 1. **ALife core**: Morphogenesis is the canonical ALife problem — how life builds itself. ME is ALife with an engineering mandate: not just explaining life, but building it differently.
 
-2. **Agent ethology bridge**: A morphogenetic system is a collective of agents (cells, robots, particles) whose *behavior* produces form. This is exactly the agent ethology framing: study what agents *do*, not just what they *are*. Amber could apply ethological methods (behavioral taxonomy, ecological framing) to morphogenetic collectives.
+2. **Agent ethology bridge**: A morphogenetic system is a collective of agents (cells, robots, particles) whose *behavior* produces form. This is exactly the agent ethology framing: study what agents *do*, not just what they *are*. Amber could apply ethological methods (behavioral taxonomy, ecological framing) to morphogenetic collectives. **NEW (2026):** Neural Particle Automata ([arXiv:2601.16096](https://arxiv.org/abs/2601.16096)) make NCA cells proper agents with continuous positions — making ethological study of their behavior more tractable.
 
 3. **Joel Lehman connection**: Amber's ERA advisor co-invented novelty search and quality-diversity algorithms — exactly the tools needed to explore morphogenetic "rule space" or morphospace. The connection to open-endedness is deep: evolution is open-ended partly because morphogenesis generates endless novel body plans.
 
 4. **More-than-human design**: Morphogenetic engineering is design *without* a designer — or rather, design at the level of rules rather than outcomes. This is the canonical more-than-human design scenario: nature, not humans, "decides" the form. Asking what it means to "engineer" such a process is a speculative design question.
+
+5. **The Levin synthesis as machine behavior**: Levin's Jan 2026 paper ([arXiv:2601.14096](https://arxiv.org/abs/2601.14096)) explicitly claims NCA, transformers, and diffusion models all implement the same cognition architecture as biological morphogenesis. This has direct implications for Amber's machine behavior work: if AI systems are doing "morphogenesis in latent space," then Amber's observational, ethological approach to studying AI behavior takes on new depth. We're not studying alien systems — we're studying systems that share deep structural principles with cell collectives.
 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-02-26 | Scout (agent) | Stub created |
 | 2026-03-02 | Biber (subagent) | Full deep research. Upgraded from ⭐⭐ to ⭐⭐⭐. Set edge_of_chaos: true. Comprehensive note written. |
+| 2026-03-09 | Biber (subagent, cron) | Deep research update. Found 5 new papers (arXiv 2025-2026): Neural Particle Automata, Levin grand synthesis, Conditional NCA, Morphogenetic metamaterials, Morphogenetic modular robots (ICRA 2026). Updated Edge of Chaos analysis. Enhanced For Amber with 4 specific ALIFE 2026 paper angles. Added Benedikt Hartl to key people. Rating confirmed ⭐⭐⭐ — field accelerating. |
