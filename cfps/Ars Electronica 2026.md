@@ -6,9 +6,9 @@ based: Linz, Austria
 tags: [media-art, technology, society, ALife, interactive-art, AI, mixed-reality]
 interest: "⭐⭐⭐⭐"
 added: 2026-02-26
-last_researched: 2026-03-02
+last_researched: 2026-03-09
 revisit_weeks: 4
-next_research: 2026-03-30
+next_research: 2026-06-01
 deep_researched: true
 ---
 
@@ -17,7 +17,14 @@ deep_researched: true
 **Theme:** Future Begins  
 **Festival Dates:** September 9–13, 2026  
 **Location:** Linz, Austria — OK Quarter, Med Campus, Danube Triangle (multiple downtown hubs)  
-**Key deadline:** ~~March 4~~ → **March 9, 2026, 2 PM CET** (extended)
+**Key deadline:** ~~March 9, 2026, 2 PM CET~~ → **CLOSED**
+
+---
+
+## ⚡ Recent Updates
+- **2026-03-09 (22:56 UTC — cron monitoring, post-Prix):** 🔴 **ALL MARCH 9 DEADLINES CLOSED** — Prix Ars Electronica 2026, S+T+ARTS Prize 2026, and AI for Social Impact Initiative all closed at 2 PM CET (13:00 UTC). No submission window currently open. **New finding:** [AI for Social Impact Initiative](https://ars.electronica.art/prix/en/ai-for-social-impact-initiative/) (CARE Austria + Ars Electronica) was a parallel prize within the Prix ecosystem — 4 awards (2× €5,000 + 2× €2,500) for AI-for-social-impact projects from Global South contexts; selected automatically from Prix/S+T+ARTS submissions. Good to know for future cycles. **Campus/Campus+ program:** URL `ars.electronica.art/campus/` returns 404 — program not yet open for 2026; expected April–June. **Next Idea:** URL `ars.electronica.art/nextidea/` returns 404 — program appears discontinued or renamed. **Festival program** (Commissioned Projects, State of the ART(ist)): both pages 404 — not yet open. **Futurelab:** No open residency call; collaboration via direct contact + production budget required; year-round possibility. **Open Calls page** (`ars.electronica.art/news/en/opencalls/`) currently empty — all March 9 calls closed, nothing new listed yet. **Primary next target: Prix AL&I 2027** (returns January 2027). **Next research: June 1, 2026** to check if Campus/Festival program open calls are live.
+- **2026-03-02:** Deep research completed. AL&I category NOT available 2026 (returns 2027). Interactive Art+ and S+T+ARTS active with March 9 deadline (7 days away at time of research). Strong strategic fit for HoloKit/agent ethology work.
+- **2026-02-26:** Stub created.
 
 ---
 
@@ -233,6 +240,55 @@ Even without Prix submission, Amber could apply to present at Festival (Campus+,
 
 ---
 
+---
+
+## 🔴 POST-PRIX STATUS UPDATE — 2026-03-09
+
+**All March 9 deadlines have now CLOSED.** The Prix Ars Electronica 2026 submission window ended at 2 PM CET today (13:00 UTC). This section documents what closed and what remains open.
+
+### What Closed Today (March 9, 2 PM CET)
+1. **Prix Ars Electronica 2026** — Interactive Art+, Digital Humanity, New Animation Art, u19 categories. Jury Weekend: April 16–19, Linz. Winners announced June 22.
+2. **S+T+ARTS Prize 2026** — €20,000 per winner (2 winners = €40,000 total). Same deadline, same jury process.
+3. **AI for Social Impact Initiative** (CARE Austria + Ars Electronica) — NEW finding: a parallel prize within the Prix/S+T+ARTS ecosystem, selected from all Prix and S+T+ARTS submissions. 4 awards: 2× €5,000 + 2× €2,500. Focus: AI for tangible positive change in social/environmental/humanitarian contexts. Projects from Africa, Latin America, South Asia, Southeast Asia, MENA prioritized. This is a successor to the STARTS Prize Africa program. Also closed March 9.
+
+### What Remains Open / Future Opportunities
+
+#### 🟡 Festival Program Opportunities (April–June window expected)
+The Ars Electronica Festival 2026 (September 9–13, Linz) has additional participation paths that are **not yet open** but expected to open April–June 2026:
+- **Commissioned Projects** — site is 404 now; typically opens closer to summer
+- **State of the ART(ist)** — site is 404 now; will open later
+- **Campus / Campus+** — URL `ars.electronica.art/campus/` is 404 now; this program for student/academic projects typically opens April–June; Oxford institutional affiliation is an asset for registration
+- **Festival talks/workshops/presentations** — program announced later; not yet open for submissions
+
+**Action: Set next_research to June 1 to check Festival program open calls.**
+
+#### 🟢 Futurelab Collaboration (Ongoing, No Deadline)
+The [Ars Electronica Futurelab](https://ars.electronica.art/futurelab/en/) collaborates with universities, researchers, and artists year-round. Key facts:
+- Research areas: mixed reality, interactive tech, data visualization, creative AI, microorganisms, robotics, swarm intelligence — **directly aligned with Amber's work**
+- Futurelab explicitly says they "invite and support a creative community of artists, researchers, and innovators worldwide"
+- Lab members serve as guest lecturers at universities; students visit for workshops
+- **No formal open call** — collaboration requires production/research budget
+- They mention an "[Open Calls website](https://ars.electronica.art/news/en/opencalls/)" — checked March 9: currently empty (all March 9 deadlines just closed)
+- **Path for Amber:** Direct cold outreach email to [futurelab@ars.electronica.art](mailto:futurelab@ars.electronica.art) or contact via [futurelab/en/contact](https://ars.electronica.art/futurelab/en/contact/) — pitch HoloKit + agent ethology as collaboration topic for the festival. Oxford/ERA fellowship credentials are strong assets.
+
+#### 🟢 Next Idea — URL is Dead
+- `ars.electronica.art/nextidea/` → **404** (page does not exist). This program either no longer runs or has been folded into another program. Not a current opportunity.
+
+#### ⭐ Primary Future Target: Prix Ars Electronica AL&I 2027
+The **Artificial Life & Intelligence** category — Amber's most natural fit (ALife, agent ethology, machine consciousness, machine death) — returns in 2027. Prix 2027 will open call approximately January 2027.
+- **Start developing a dedicated ALife artwork NOW** for the 2027 Prix
+- Source material: CHI/AAAI 2026 papers, machine death research, agent ethology work
+- The matured research from 2026 papers = strong documentation for a 2027 Prix submission
+- Key categories for 2027: AI systems as autonomous organisms, behavioral ecology of agents, machine death as artistic material, more-than-human co-creation
+
+### Next Research Schedule
+- **June 1, 2026** → Check if Campus/Campus+ and Festival program open calls are live
+- **January 2027** → Prix Ars Electronica 2027 open call expected (AL&I returns!)
+
+---
+
 ## 📋 Update Log
-- 2026-02-26: Stub created
-- 2026-03-02: Deep research completed. Key finding: AL&I category NOT available 2026 (returns 2027). Interactive Art+ and S+T+ARTS are active with MARCH 9 deadline — 7 days away. Strong strategic fit for HoloKit/agent ethology work.
+| Date | Researcher | Action |
+|------|-----------|--------|
+| 2026-03-09 (22:56 UTC) | Biber (subagent, cron monitoring) | Post-Prix update. All March 9 deadlines confirmed CLOSED (Prix, S+T+ARTS, AI for Social Impact Initiative). New finding: AI for Social Impact Initiative (CARE Austria + AE) — 4 prizes €2,500–€5,000, parallel to Prix. nextidea/ URL is 404/dead. Campus URL is 404/not yet open. Futurelab has no open residency call but collaboration possible via direct contact. Festival program pages (Commissioned Projects, State of the ART(ist)) are 404 — not yet open. Updated frontmatter: last_researched 2026-03-09, next_research 2026-06-01. |
+| 2026-03-02 | Biber (agent) | Deep research completed. Key finding: AL&I category NOT available 2026 (returns 2027). Interactive Art+ and S+T+ARTS are active with MARCH 9 deadline — 7 days away. Strong strategic fit for HoloKit/agent ethology work. |
