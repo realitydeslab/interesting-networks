@@ -5,7 +5,7 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-09
+last_researched: 2026-03-10
 revisit_weeks: 1
 next_research: 2026-03-11
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
@@ -21,6 +21,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-10 (01:54 UTC — check #30 — early morning check, cron queue worker):** Live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(b) Workshops 404 confirmed (30th consecutive check).** Summary: Portal live, deadline unchanged, workshops dark. **20 days to March 30.** Amber: submit at `https://ssl.linklings.net/conferences/ALIFE/`. next_research: 2026-03-11.
 
 - **2026-03-09 (21:49 UTC — evening check, cron queue worker):** All six sources live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(b) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. Announcements: "No announcements at this time." Portal LIVE. **(c) Workshops page STILL 404** — **29th consecutive check**. Zero workshop CFPs published. **(d) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). Sidebar confirms March 30 deadline + workshop proposal deadline Feb 28. No new ALIFE 2026 news. **(e) Homepage (200 OK)** — venue info (Waterloo, Ontario + Wilfrid Laurier) only; no new keynotes, registration, or schedule. **(f) ERA site (200 OK)** — board members listed; no summer school announcement. **Summary: zero changes since afternoon check (16:40 UTC). Portal live. March 30 deadline unchanged. Workshops completely dark (29 consecutive 404s). 21 days remain.** Amber: submit at `https://ssl.linklings.net/conferences/ALIFE/`. next_research: 2026-03-11.
 

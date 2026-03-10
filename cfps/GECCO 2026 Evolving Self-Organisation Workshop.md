@@ -1,5 +1,5 @@
 ---
-rating: ⭐⭐⭐
+rating: ⭐⭐⭐⭐
 type: cfp
 deadline: 2026-03-27
 url: https://gecco-2026.sigevo.org/Workshop?itemId=8246

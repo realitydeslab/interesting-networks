@@ -7,7 +7,7 @@ status: open
 urgent: true
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-09
+last_researched: 2026-03-10
 deep_researched: true
 revisit_weeks: 1
 next_research: 2026-03-13
@@ -17,6 +17,8 @@ tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+
+- **2026-03-10 (01:54 UTC — check #14 — cron queue worker):** ✅ Live-verified: deadline **March 27, 2026 CONFIRMED UNCHANGED** — HTTP 200, verbatim: *"Currently accepting applications. Deadline 27 March 2026. Apply here."* Airtable form ACTIVE (200 OK). **17 days to deadline.** 🔴🔴🔴 Joel Lehman email — pass #14. Still no external confirmation. If this has not been sent, it is CRITICAL. next_research: 2026-03-13.
 
 - **2026-03-09 (essay polish pass — pre-submission quality check):** Q1 and Q2 essays polished. Key improvements: Q1 — added concrete behavioral indicator examples (anomalous goal-preservation, resource-deprivation state modifications), sharpened closing to explicitly name Digital Minds Fellowship as the convergence point for empirical + philosophical work; Q2 — added the animal welfare analogy (two-decade lag from philosophy to behavioral science), named concrete output (framework paper connecting agent ethology to welfare assessment), preserved the "empirical obs / policy scaffolding" standout line and "ERA → Digital Minds arc is not accidental" punch line. Both essays are Amber-authentic, distinctive voice, within word limits. See POLISHED versions in DRAFT ESSAYS section below. **🔴🔴🔴 JOEL LEHMAN EMAIL — TONIGHT IS THE LAST DAY OF THE WINDOW. 13 monitoring passes. Still no confirmed record. SEND IT NOW — draft is in ACTION PLAN below.** Deadline: March 27, 2026 (18 days).
 
