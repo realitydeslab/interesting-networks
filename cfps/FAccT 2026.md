@@ -4,7 +4,7 @@ type: cfp
 venue: "[[ACM FAccT]]"
 deadline: 2026-01-13
 url: https://facctconference.org/2026/
-status: closed
+status: revision-in-progress
 urgent: true
 added: 2026-03-10
 last_researched: 2026-03-10
@@ -23,6 +23,7 @@ tags: [critical-computing, machine-behavior, speculative-design, feminist, posth
 
 ## ⚡ Recent Updates
 
+- **2026-03-10:** 🚨 **REVISION SPRINT AUDIT** — 15 days to deadline. Full git audit of both repos completed. **CRITICAL FINDING: Sovereign Agents has zero paper edits made** (last commit Feb 26, only notes/research — no main.tex changes). **Dissociative Agents is substantially further along** (main.tex revised, DID section written, table added, mitigations section complete, bib cleaned). Consolidated 14-day sprint plan created below. Risk assessment: Dissociative Agents **MODERATE** risk; Sovereign Agents **HIGH** risk. See § REVISION SPRINT PLAN.
 - **2026-03-10:** Deep research complete. Both papers confirmed in revision window. Review scores retrieved: Sovereign Agents has 2× Weak Accept + 1× Borderline with clear revision path. Revision plans documented in both repos. Workshop details still limited (not yet published on FAccT site). Open Access transitions to new ACM model in 2026. Full community people list, related papers with DOIs, and revision guidance below.
 - **2026-03-10:** Stub created by CFP discovery sweep. Paper deadline confirmed passed. Revision process is NEW for 2026 — authors notified March 2. Final notification April 8. Amber has TWO repos targeting this conference: `Sovereign-Agents-FAccT-2026` and `Dissociative-Agents-FAccT-2026`.
 
@@ -161,6 +162,157 @@ Amber has TWO papers in the FAccT 2026 pipeline. Both were submitted and receive
 - 🔧 Remaining: clean 18 duplicate bib entries, verify cross-references, consider adding trust pipeline figure, proofread new paragraphs, abstract word count check
 
 **Review status:** Not retrieved yet from review system — check OpenReview.
+
+> **UPDATE 2026-03-10:** Dissociative Agents revision-todo.md from Feb 27 listed 18 bib duplicates to clean — this was completed in `commit 92b5376` (Feb 27). The remaining items from the old revision-todo.md are now substantially done. See full sprint audit in § REVISION SPRINT PLAN below.
+
+---
+
+## 🔥 REVISION SPRINT PLAN (March 10–24, 2026)
+
+> **Audit date: 2026-03-10. Deadline: 2026-03-25. Days remaining: 15.**
+> Created from full git audit of both repos + revision-todo.md files.
+
+---
+
+### 📊 Audit Summary
+
+| Paper | Last main.tex edit | Last commit | Revision progress | Risk |
+|-------|--------------------|-------------|-------------------|------|
+| **Sovereign Agents** | Feb 2 (original import) | Feb 26 (notes only) | **0% — no paper edits made** | 🔴 HIGH |
+| **Dissociative Agents** | Mar 3 (substantial edits) | Mar 7 (final outline) | **~65% complete** | 🟡 MODERATE |
+
+---
+
+### Paper 1: Sovereign Agents — Full Sprint Plan
+
+**Git status:** 3 commits total. `main.tex` has 355 lines, unchanged since Feb 2 Overleaf import. Notes folder has extensive revision plan and literature — but ZERO actual paper edits.
+
+**What's done (research/planning only):**
+- ✅ Full revision plan written (`notes/revision_plan.md`) — 5 phases, 21 tasks
+- ✅ Sub-agents ran literature reviews on AI safety, political theory, citation verification
+- ✅ Additional new tasks identified (TODO-N1 through N6): Agent Metabolism, Moral Crumple Zones, expanded case studies, 3 new arxiv papers, Rahwan integration, TEE/DePIN reframe
+- ✅ Review scores and reviewer analysis fully documented (`notes/review.md`, `notes/review_summary.md`)
+
+**What REMAINS (all actual paper writing):**
+
+#### Phase 1: Quick Fixes (~2 hours — Day 1)
+- [ ] **1.1** Delete duplicate paragraph (main.tex lines 228-231) — *15 min*
+- [ ] **1.2** Fix [?] citation markers, `\cite` vs `\citep` consistency throughout — *45 min*
+- [ ] **1.3** Compile + verify page count vs ACM sigconf limit — *15 min*
+
+#### Phase 2: Core Reviewer Responses — R-cFaY's 6 (~10 hours — Days 2–5)
+*These are the P1 priority. cFaY is the swing vote with conditional accept.*
+- [ ] **2.1** Add descriptive-analytic framing to Introduction (antibiotic-resistance analogy, 2-3 sentences) — *1 hr*
+- [ ] **2.2** Add consolidated definitions table at §4 start (6 terms: infrastructural sovereignty, agentic sovereignty, infrastructural hardness, non-overrideability, operational autonomy, embeddedness) — *2 hr*
+- [ ] **2.3** Add subjectivity objection + deflationary response in §4.2/4.3 (cite Floridi & Sanders 2004, Leibo et al. 2025) — *2 hr*
+- [ ] **2.4** Sharpen infrastructure vs. institution distinction in §4.5 (lex cryptographia, De Filippi & Wright 2018) — *1 hr*
+- [ ] **2.5** Define embeddedness + add agent migration paragraph ("agents as refugees") — *1 hr*
+- [ ] **2.6** New Discussion subsection: normative stakes, beneficial vs. harmful cases, Buterin counter-perspective — *2 hr*
+
+#### Phase 3: Major New Content (~18 hours — Days 5–12)
+- [ ] **3.1** New §3.5 "AI Safety and the Control Problem" (~0.5 pages: corrigibility, containment inversion, instrumental convergence realized through design, Bengio 2024, Chan 2024) — *3 hr*
+- [ ] **3.2** Expand case studies §4.4 to 10-15 cases (Truth Terminal SIM swap, Freysa DAO, Web4.ai, ai16z/ELIZA, Virtuals Protocol, Autonolas, Bittensor, Morpheus) — *4 hr*
+- [ ] **3.3** Add intuitive analogies for TEE ("sealed tamper-evident envelope"), DePIN ("decentralized cloud"), trustless in §2 — *1 hr*
+- [ ] **3.4** Add EU AI Act regulatory gap analysis in §5.4 (no agent-specific guidance 15 months post-Act) — *1 hr*
+- [ ] **3.5** Add Limitations section (~0.5 pages, 6 limitations enumerated in revision_plan.md §3.5) — *1 hr*
+- [ ] **3.6** Restructure Discussion with subsection headers (6.1 Infrastructure Design; 6.2 Pre-Deployment; 6.3 Economic Governance; 6.4 Normative Stakes; 6.5 AI Safety; 6.6 International; 6.7 Limitations) — *2 hr*
+- [ ] **3.7** Restate contribution precisely in Introduction (threefold: concept, accountability analysis, open questions) — *1 hr*
+- [ ] **3.8** Strengthen Conclusion (window closing, FAccT tools need rethinking, central paradox) — *1 hr*
+- [ ] **N1** Add Agent Metabolism concept (autopoiesis, Maturana & Varela, resource autonomy) to §4 + Discussion — *2 hr*
+- [ ] **N2** Add Moral Crumple Zones (Elish 2019) to §5 accountability — inversion of crumple zone — *1 hr*
+- [ ] **N5** Integrate Rahwan Machine Behaviour (Nature 2019) + Society-in-the-Loop across §3, 4, 5, 6 — *1 hr* (from `notes/rahwan_research.md` once available)
+- [ ] **N6** Reframe TEE/DePIN as current dominant form, not the only form — add forward-looking paragraph — *1 hr*
+
+#### Phase 4: Polish (~4 hours — Days 12–13)
+- [ ] **4.1** Add all new bib entries + final citation consistency pass — *2 hr*
+- [ ] **4.2** Trim §3.2, §3.3, repetitive Discussion paragraphs to stay within page limit — *1.5 hr*
+- [ ] **4.3** Update LLM disclosure (verify "GPT-5.2" model name meets ACM requirements) — *15 min*
+- [ ] Final compile, PDF review, page count — *30 min*
+
+**Total estimated effort:** ~34–40 hours of focused writing across 14 days ≈ **2.5–3 hrs/day minimum.**
+
+---
+
+### Paper 2: Dissociative Agents — Full Sprint Plan
+
+**Git status:** 15 commits, most recent March 7. `main.tex` has 408 lines with substantial revision content. `notes/outline-final.md` (Mar 7) has complete annotated outline with full citation mapping.
+
+**What's done:**
+- ✅ §3 restructured → "LLM-Based Agents are Ontologically Dissociative" (assemblage, fluidity, no neuroplasticity)
+- ✅ DID analogy and legal section fully written (Rodrigues, Grimsley cases, DSM-5)
+- ✅ §4 → "Why Reputation Fails Under Ontological Dissociativity" with dimension→failure mapping
+- ✅ §6 Threat Model with adversarial attack surfaces
+- ✅ Trust pipeline table (Identity→Reputation→Credibility→Trust) added
+- ✅ Technical + Institutional Mitigations sections written
+- ✅ 18 duplicate bib entries cleaned (189→171 entries), DOIs/URLs on 33 cited entries
+- ✅ Title → "Reputation" for discoverability; abstract normalized; Rahwan 2019 machine behavior positioning added
+- ✅ Final organized outline with full citation mapping (`notes/outline-final.md`, Mar 7)
+
+**What REMAINS:**
+
+#### Execution Check (~3 hours — Days 1–4)
+- [ ] **C1** Audit main.tex (408 lines) against `outline-final.md` — verify §2.1-2.5 depth matches outline spec — *2 hr*
+- [ ] **C2** Add §2.2 Humans-vs-LLM-Agents embodiment comparison table (5×6 properties, if not already in main.tex) — *1 hr*
+- [ ] **C3** Verify §3 subsection transitions link each dimension to dissociativity framing — *30 min*
+- [ ] **C4** Verify §4 subsection transitions explicitly map dimension→failure — *30 min*
+- [ ] **C5** Optional: add trust pipeline visual figure — *2 hr if pursued*
+
+#### Bibliography (~2 hours — Days 1–3)
+- [ ] **B1** Verify all `\label{}` and `\ref{}` correct after restructure — *45 min*
+- [ ] **B2** Find full legal case citations: *State v. Rodrigues*, *State v. Grimsley* — *30 min*
+- [ ] **B3** Search 2024-2025 papers on agent identity verification, LLM trust for any remaining gaps — *45 min*
+
+#### Polish (~2 hours — Days 5–8)
+- [ ] **P1** Proofread all new/rewritten paragraphs for tone consistency — *1.5 hr*
+- [ ] **P2** Check abstract word count (ACM: 150-250 words) — *15 min*
+- [ ] **P3** Final terminology pass: normalize em-dashes, smart quotes — *15 min*
+- [ ] **P4** Final compile + PDF review — *30 min*
+
+**Total estimated effort:** ~9–12 hours. Achievable in 7–10 days with buffer.
+
+---
+
+### 📅 14-Day Sprint Plan (March 11–24)
+
+> **Rule:** Sovereign Agents = morning priority. Dissociative Agents = afternoon/buffer.
+
+| Day | Date | Sovereign Agents (Priority) | Dissociative Agents |
+|-----|------|----------------------------|---------------------|
+| 1 | Mar 11 | **START NOW.** Phase 1: 1.1 duplicate, 1.2 citations, 1.3 page check | B1+B2: bib fixes + cross-refs |
+| 2 | Mar 12 | 2.1 descriptive framing + 2.2 definitions table | C1: audit main.tex vs outline |
+| 3 | Mar 13 | 2.3 subjectivity + 2.4 infra/institution distinction | C2: embodiment table |
+| 4 | Mar 14 | 2.5 embeddedness/migration + 2.6 normative Discussion | C3+C4: transitions + B3: lit search |
+| 5 | Mar 15 | 3.1 new §3.5 AI Safety subsection | P1: proofread new sections |
+| 6 | Mar 16 | 3.2 case studies expansion (start — 5-7 new cases) | P2+P3: abstract + terminology |
+| 7 | Mar 17 | 3.2 continued (remaining cases) + N1 Agent Metabolism | P4: compile → **DISSOCIATIVE AGENTS COMPLETE** ✅ |
+| 8 | Mar 18 | 3.3 analogies + 3.4 EU AI Act + 3.5 Limitations | Buffer / review Dissociative feedback |
+| 9 | Mar 19 | 3.6 Discussion restructure + 3.7 contribution restatement | Buffer |
+| 10 | Mar 20 | 3.8 Conclusion + N2 Moral Crumple + N5 Rahwan | Buffer |
+| 11 | Mar 21 | N6 TEE/DePIN reframe + mop up any remaining Phase 3 items | Buffer |
+| 12 | Mar 22 | 4.1 all new bib entries + citation pass | Buffer |
+| 13 | Mar 23 | 4.2 page limit trim + 4.3 LLM disclosure | Buffer |
+| 14 | Mar 24 | Final compile + PDF review → **SOVEREIGN AGENTS COMPLETE** ✅ | Final check |
+| — | Mar 25 | 🚨 **SUBMISSION DEADLINE — BOTH PAPERS** 🚨 | |
+
+---
+
+### ⚠️ Risk Assessment
+
+| Risk Factor | Sovereign Agents | Dissociative Agents |
+|------------|-----------------|---------------------|
+| Completion risk | 🔴 HIGH — nothing written | 🟡 MODERATE — 65% done |
+| Page limit risk | 🔴 HIGH — ~20 tasks add ~4-5 pages | 🟢 LOW — already trimmed |
+| Scope creep (N1-N6) | 🔴 HIGH — ambitious additions | 🟢 LOW |
+| Content quality | 🟡 MODERATE — plan is strong | 🟢 LOW — well-structured |
+| **Overall** | **All 14 days needed** | **Should finish by Mar 17-18** |
+
+### 🎯 Triage Rule (if time pressure)
+If Sovereign Agents falls behind schedule after Day 7 (Mar 17):
+1. **Keep Phase 2 in full** — cFaY's 6 revisions are non-negotiable (they're the swing vote)
+2. **Reduce §3.2 case studies** to 5-6 strong cases (not 10-15)
+3. **Skip N1-N6** (new additions) — address in camera-ready if accepted
+4. **Keep Phase 3.1** (AI Safety §3.5) — sUYj flagged this as a real gap
+5. **Keep Limitations** — sUYj explicitly requested this
 
 ---
 
@@ -448,5 +600,6 @@ ACM transitions to full Open Access starting January 1, 2026. This affects camer
 
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-10 | Biber (revision-sprint-audit subagent) | Full git audit of both paper repos. Critical finding: Sovereign Agents has zero paper edits (only notes). Dissociative Agents substantially revised (~65% done, last commit Mar 7). Created comprehensive 14-day sprint plan. Updated ⚡ Recent Updates + added § REVISION SPRINT PLAN section. Rating remains ⭐⭐⭐⭐⭐ — venue urgency unchanged; revision window is real and actionable. |
 | 2026-03-10 | Biber (deep-research-facct-2026 subagent) | Full deep research. Fetched CFP, author guide, blog posts, review processes. Retrieved review scores for Sovereign Agents (2×4 + 1×3). Read both paper abstracts and revision plans from local repos. Added program chairs, key community people, related papers with DOIs, acceptance stats, venue details, Montréal info, Open Access details, workshop context. Rated ⭐⭐⭐⭐⭐ (max) given active revision window. Marked `deep_researched: true`. |
 | 2026-03-10 | Biber (cfp-discovery-sweep cron) | Stub created. Paper deadline confirmed closed. Flagged revision urgency and Amber's two FAccT repos. |
