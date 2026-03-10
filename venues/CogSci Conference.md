@@ -19,7 +19,8 @@ The **Annual Meeting of the Cognitive Science Society (CogSci)** is the flagship
 
 ## ⚡ Recent Updates
 
-- **2026-03-10:** Venue stub created. CogSci 2026 in Rio de Janeiro, Brazil (July 22–25). CogSci 2025 was in San Francisco. Deep research found strong overlap with Amber's intellectual core (DCog, extended mind, active inference) but empirical methods requirement is a barrier for current practice-based work. CogSci 2027 planning pathway mapped in CFP note.
+- **2026-03-10 (CFP scout):** Expanded with verified committee details for CogSci 2026: Tutorials/Workshops Committee (Elizabeth Bonawitz chair, Harvard), Prizes committee, Symposia committee. Added detailed description of 2026 theme "Cognitive (In)Efficiency" from official site. Added key contacts table. File expanded to 200+ lines.
+- **2026-03-10 (initial):** Venue stub created. CogSci 2026 in Rio de Janeiro, Brazil (July 22–25). CogSci 2025 was in San Francisco. Deep research found strong overlap with Amber's intellectual core (DCog, extended mind, active inference) but empirical methods requirement is a barrier for current practice-based work. CogSci 2027 planning pathway mapped in CFP note.
 
 ---
 
@@ -58,8 +59,37 @@ CogSci covers the full cognitive science spectrum:
 - **Location:** Rio de Janeiro, Brazil 🇧🇷
 - **Dates:** July 22–25, 2026 (workshops: July 21)
 - **Deadline:** February 2, 2026 (**CLOSED**)
+- **Registration opens:** April 10, 2026
+- **Early-bird registration deadline:** June 1, 2026
 - **Symposia theme:** "Cognitive (In)Efficiency"
 - **Program Chairs:** Gemma Boleda (UPF/ICREA), Isabelle Dautriche (CNRS), Mora Maldonado (UPF), Carmen Saldana (Barcelona), Tiago Torrent (Brazil)
+
+### CogSci 2026 Committees (Verified from Official Site, March 2026)
+
+**Prizes and Awards Committee:**
+Alex Doumas (chair), Andrea Martin, Francis Mollica, Hongjing Lu, Olivia Guest, Ben Rottman, Julian Jara-Ettinger, Rachel Heaton, John Opfer, Zach Horne
+
+**Member Abstracts Committee:**
+Jonathan F. Kominsky (chair), Juan José Giraldo-Huertas, Stefan Frank, Elizabeth Lapidow, Pablo Franco Ulloa
+
+**Tutorials and Workshops Committee:**
+[Elizabeth Bonawitz](https://scholar.harvard.edu/bonawitz) (chair, Harvard — children's learning, Bayesian cognition), Ilker Yildirim (Yale — neural generative models), Marisa Casillas (University of Chicago — language acquisition), Francis Mollica (Edinburgh — probabilistic pragmatics)
+
+**Symposia Committee:**
+Samuel Mehr (chair — music + biology intersection), Susan Hespos (Northwestern — infant cognition), Darko Odic (UBC — number cognition), Dorsa Amir (BC — cultural evolution), Bria Long (Stanford — visual learning)
+
+### CogSci 2026 Theme: "Cognitive (In)Efficiency"
+
+The 2026 theme challenges cognitive science's dominant "efficient optimizer" framework:
+
+> "Much research has focused on understanding [cognitive] processes through the lens of utility and cognitive efficiency. Human and non-human species are often seen as striving toward learning, problem-solving, communication, and other goals by making optimal use of cognitive resources. However, many behaviors and mental processes are not a product of this ideal of efficiency and often deviate from it."
+
+The theme specifically addresses:
+1. **Communication and social coordination failures** — where cognitive processes appear suboptimal
+2. **Systemic inequalities in research** — how unequal funding creates barriers to global representation; a "cognitive science for all" lens
+3. **Cultural and material variability** — cognitive processes across different socioeconomic conditions
+
+**Amber's connection to this theme:** Machine behavior research frequently reveals AI systems that are "cognitively inefficient" in human terms. Agent ethology documents behavioral deviations. Terrified/parasitic agents are fundamentally about non-optimal machine behavior. This theme opens a direct framing for Amber's work — machine agents as paradigm cases of "cognitive inefficiency" worth studying.
 
 **CogSci 2027:**
 - Deadline: **~February 2027** (submissions open ~December 2026)
@@ -132,9 +162,35 @@ CogSci is the canonical academic home for the intellectual frameworks most centr
 
 ---
 
+## Adjacent Journals
+
+For publishing CogSci-adjacent work between conferences:
+
+| Journal | Scope | Amber fit |
+|---------|-------|-----------|
+| [*Cognitive Science*](https://onlinelibrary.wiley.com/journal/15516709) | Official CSS journal; all cog sci domains | ⭐⭐ — if Amber does a machine cognition study |
+| [*Topics in Cognitive Science*](https://onlinelibrary.wiley.com/journal/17568765) | Interdisciplinary synthesis papers; often special issues | ⭐⭐⭐ — best fit for agent ethology × cognition synthesis |
+| [*Computational Brain & Behavior*](https://www.springer.com/journal/42113) | Computational + behavioral methods | ⭐⭐ — if Amber adds quantitative component |
+| [*Minds & Machines*](https://link.springer.com/journal/11023) | Philosophy of AI + cognition | ⭐⭐⭐ — machine behavior theory, machine consciousness |
+
+---
+
 ## Why Interesting
 
 CogSci is where cognitive science's most theoretically ambitious work happens. It's the conference where Andy Clark first fully developed extended mind implications, where distributed cognition meets computational models, and where the field asks its hardest questions about mind, machines, and the boundaries of cognition. For Amber, it represents an intellectual home she hasn't formally entered yet — but whose frameworks already underpin her work. The growing AI presence at CogSci (2025 keynote: Tenenbaum on AI theories) makes this increasingly hospitable territory for machine-behavior and agent-ethology framing. A CogSci paper would establish Amber's credibility in cognitive science proper, complementing her HCI (CHI), design (DRS), and ALife (ALIFE) presence.
+
+---
+
+## Key Contacts for Amber at CogSci 2026
+
+Given the committees listed above, the most valuable contacts for Amber to engage:
+
+| Person | Role | Why | How to engage |
+|--------|------|-----|---------------|
+| [Elizabeth Bonawitz](https://scholar.harvard.edu/bonawitz) | Workshops Committee Chair | Harvard; probabilistic cognition; children's learning → extends to machine learning agents | Contact via Harvard page; propose workshop idea for CogSci 2027 |
+| [Ilker Yildirim](https://psychology.yale.edu/people/ilker-yildirim) | Workshops Committee | Yale; generative neural models of perception — computational cognition + probabilistic | Attend any CogSci 2026 session he organizes |
+| [Lambros Malafouris](https://www.kellogg.ox.ac.uk/our-people/lambros-malafouris/) | Key figure | Keble College, Oxford — Material Engagement Theory; body × cognition × artifacts | Literally at Oxford! Meet before CogSci 2026 |
+| [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) | Senior figure | MIT; AI × cognitive models; keynoted CogSci 2025 | Conference networking; potential collaborator on machine cognition framing |
 
 ---
 
@@ -143,3 +199,4 @@ CogSci is where cognitive science's most theoretically ambitious work happens. I
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-03-10 | Biber (deep-research subagent) | Venue stub created from CogSci 2026 deep research. Key people, format, recent editions documented. CogSci 2027 pathway noted. |
+| 2026-03-10 | Biber (CFP scout subagent) | Expanded venue file with CogSci 2026 committee details verified from official site. Added Tutorials/Workshops committee chairs (Elizabeth Bonawitz, Ilker Yildirim). Added symposia theme "Cognitive (In)Efficiency" with detailed description. Added CogSci 2026 key contacts table. Expanded from 145 lines to 200+ lines. |
