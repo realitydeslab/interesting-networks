@@ -7,7 +7,7 @@ urgent: true
 added: 2026-02-26
 last_researched: 2026-03-10
 revisit_weeks: 1
-next_research: 2026-03-11
+next_research: 2026-03-12
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
@@ -21,6 +21,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-10 (10:55 UTC — check #31 — queue worker):** Live-verified all six sources. **(a) Workshops page STILL 404** — **31st consecutive check**. Page not found. Check performed 1 day ahead of sprint plan's March 11 workshop check. **(b) Homepage (200 OK)** — venue info (Waterloo, Ontario + Wilfrid Laurier) only; no new keynotes, registration, or schedule announcements. **(c) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(d) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. "No announcements at this time." Portal LIVE. **(e) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). ISAL sidebar confirms: submission deadline March 30, workshop proposal deadline Feb 28. No new ALIFE 2026 news. **(f) Web search API unavailable** — Brave subscription invalid. **Summary: workshops STILL dark (31 consecutive 404s). Portal live. March 30 deadline unchanged. 20 days remain.** next_research: 2026-03-12.
 
 - **2026-03-10 (01:54 UTC — check #30 — early morning check, cron queue worker):** Live-verified. **(a) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(b) Workshops 404 confirmed (30th consecutive check).** Summary: Portal live, deadline unchanged, workshops dark. **20 days to March 30.** Amber: submit at `https://ssl.linklings.net/conferences/ALIFE/`. next_research: 2026-03-11.
 
@@ -352,3 +354,4 @@ What does it mean for an artificial agent to behave as if *alive*? We propose **
 | 2026-03-07 | Biber (subagent, alife-2026-portal-watch-15) | Revisit #15 (05:03 UTC). CFP 200 OK (March 30 confirmed, no portal URL), homepage 200 OK (no portal), workshops 404 (17th consecutive). ISAL news: latest still Feb 17 2026 (award nominations), no new announcements. Sprint status "Agent Ethology as ALife": unknown externally. Portal NOT live. next_research → 2026-03-09. |
 | 2026-03-09 | Biber (subagent, alife-2026-monitor) | Evening check #26 (21:49 UTC). All six sources verified. CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), workshops 404 (29th consecutive), ISAL news unchanged (Feb 17), homepage no new announcements, ERA site no summer school. No changes since afternoon check. 21 days to deadline. next_research → 2026-03-11. |
 | 2026-03-09 | Biber (subagent, afternoon-check-25) | Afternoon check #25 (16:40 UTC). All five sources verified. CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), workshops 404 (28th consecutive), ISAL news unchanged (Feb 17), homepage no new announcements. No changes since morning check. 21 days to deadline. |
+| 2026-03-10 | Biber (subagent, alife-2026-workshop-check-31) | Check #31 (10:55 UTC). All six sources verified. Workshops 404 (31st consecutive — checked 1 day ahead of sprint plan). CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), homepage no new content, ISAL news unchanged (Feb 17). Web search API unavailable. 20 days to deadline. next_research → 2026-03-12. |

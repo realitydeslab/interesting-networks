@@ -9,13 +9,15 @@ added: 2026-03-02
 last_researched: 2026-03-10
 revisit_weeks: 1
 next_research: 2026-03-12
-_check_number: 27
+_check_number: 31
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-10 (10:55 UTC — check #31 — queue worker):** All six sources live-verified. **(a) Workshops page STILL 404** — **31st consecutive check**. Check performed 1 day ahead of sprint plan's March 11 workshop check. **(b) Homepage (200 OK)** — venue info only; no new keynotes, registration, or schedule. **(c) CFP page (200 OK)** — March 30 deadline UNCHANGED. **(d) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" Sign In form. "No announcements at this time." Portal LIVE. **(e) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). ISAL sidebar confirms submission deadline March 30. No new ALIFE 2026 news. **(f) Web search API unavailable.** **Summary: workshops completely dark (31 consecutive 404s). Portal live. March 30 deadline unchanged. 20 days remain.** next_research: 2026-03-12.
 
 - **2026-03-10 (03:54 UTC — check #27 — early morning re-check, cron queue worker):** All five sources live-verified. **(a) Homepage (200 OK)** — venue info (Waterloo, Ontario + Wilfrid Laurier) only; no keynotes, no registration, no schedule announcements — still content-sparse. **(b) Workshops page STILL 404** — **30th consecutive check**. Zero accepted workshops published. **(c) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. "No announcements at this time." Portal LIVE. **(d) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). ISAL sidebar confirms: submission deadline March 30, workshop proposal deadline Feb 28. No new ALIFE 2026 news. **(e) CFP page (200 OK)** — March 30 deadline UNCHANGED. Workshop proposal deadline shown as Feb 20 on CFP page (not updated to reflect Feb 28 extension). Templates (Overleaf, LaTeX, MS-Word) present. **(f) Web search API unavailable** — Brave subscription invalid; could not search for unofficial keynote/program announcements. **Summary: zero changes overnight. Portal live, deadline unchanged, workshops completely dark (30 consecutive 404s). 20 days to March 30 deadline.** Rating ⭐⭐⭐⭐⭐ remains fully appropriate — ALIFE is Amber's primary submission target with active deadline. Amber: submit at `https://ssl.linklings.net/conferences/ALIFE/`. next_research: 2026-03-12.
 
@@ -327,3 +329,4 @@ Amber has TWO potential papers. Both cannot be written in 24 days. **Choose ONE:
 | 2026-03-10 | Biber (subagent, alife2026-main-check) | Check #27 (03:54 UTC, early morning). All five sources verified. Homepage 200 OK (no new content), workshops 404 (30th consecutive), portal 200 OK (live, no announcements), ISAL news unchanged (Feb 17), CFP 200 OK (March 30 confirmed). Web search API unavailable. 20 days to deadline. next_research → 2026-03-12. |
 | 2026-03-09 | Biber (subagent, alife-2026-monitor) | Check #26 (21:49 UTC, evening). All six sources verified. CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), workshops 404 (29th consecutive), ISAL news unchanged (Feb 17), homepage no new announcements, ERA no summer school. No changes since afternoon. 21 days to deadline. next_research → 2026-03-11. |
 | 2026-03-09 | Biber (subagent, afternoon-check-25) | Check #25 (16:40 UTC, afternoon). All five sources verified. CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), workshops 404 (28th consecutive), ISAL news unchanged (Feb 17), homepage no new announcements. No changes since morning check. 21 days to deadline. |
+| 2026-03-10 | Biber (subagent, alife-2026-workshop-check-31) | Check #31 (10:55 UTC). All six sources verified. Workshops 404 (31st consecutive — checked 1 day ahead of sprint plan). CFP 200 OK (March 30 confirmed), portal 200 OK (live, no announcements), homepage no new content, ISAL news unchanged (Feb 17). Web search unavailable. 20 days to deadline. Updated _check_number → 31, next_research → 2026-03-12. |
