@@ -8,6 +8,7 @@ last_researched: 2026-03-10
 revisit_weeks: 16
 next_research: 2026-06-30
 tags: [machine-behavior, embodied, active-inference, distributed-cognition, extended-mind, enactivism]
+deep_researched: true
 ---
 
 # CogSci Conference (Annual Meeting of the Cognitive Science Society)
