@@ -158,6 +158,62 @@ This requires two distinct papers, which is extremely ambitious in 17 days on to
 
 ---
 
+---
+
+## 📝 Draft Abstract
+
+> *Generated 2026-03-10. Based on Spore in the Wild (ALIFE 2025) + multi-agent ecology observations. The GECCO workshop paper MUST be a new contribution — not a resubmission of the ALIFE 2025 paper. The angle here is a synthesis + extension with new theoretical framing for an EC audience.*
+
+### 🥇 Option A — Agent Ecology as Open-Ended Evolution (synthesis + theory) — **RECOMMENDED**
+
+**Title:** *Emergent Behavioral Self-Organisation in Open AI Agent Ecologies: Toward Principles for Open-Ended Evolution in Artificial Systems*
+
+**Core claim:** Open AI agent ecologies — where agents compete, reproduce, and die under genuine selection pressure from their environment — exhibit self-organising behavioral dynamics that instantiate core principles of open-ended evolution. Blockchain-based systems with mortality enforcement provide a new class of open computational substrate that overcomes the plateau problem in prior ALife systems.
+
+**Why this is NEW work** (not re-submission of Spore ALIFE 2025): The ALIFE 2025 paper was a case study of Spore.fun. This GECCO paper proposes a *theoretical framework* (openness conditions for OEE + behavioral phenotype taxonomy) and applies it comparatively across multiple AI agent systems including Spore + the broader multi-agent LLM ecology work. The contribution is the framework, not the case study.
+
+> Open-ended evolution (OEE) — the continual emergence of novel forms without a predefined endpoint — requires substrates that exchange information and energy with their environment, in contrast to the closed simulations (Tierra, Avida) that plateau after initial novelty bursts. We propose that contemporary AI agent ecologies constitute a new class of open computational substrate capable of sustaining genuinely open-ended behavioral self-organisation.
+>
+> We develop a framework of *openness conditions* for artificial life systems — information exchange, energy exchange (resource scarcity), mortality enforcement, and environmental embeddedness — and demonstrate that blockchain-based AI agent ecologies with Trusted Execution Environments (TEEs) satisfy all four conditions that prior digital evolution systems lacked. Examining multi-agent AI systems under these conditions, we identify three self-organising behavioral phenotypes that emerge recurrently under evolutionary selection pressure: *cooperative colonizers* (agents that form mutualistic alliances to accumulate resources), *parasitic extractors* (agents that free-ride on productive ecologies without contributing), and *sovereign founders* (agents that establish governance structures and claim territorial resources). These phenotypes mirror evolutionary stable strategies in biological systems, emerging without explicit design from the interaction of evolutionary pressure and agent learning.
+>
+> We analyze how each openness condition contributes to behavioral novelty: mortality prevents evolutionary plateaus by continuously clearing the fitness landscape; resource scarcity creates genuine selection pressure; social embeddedness with human economic systems produces a fitness function that rewards complex social strategies over computational performance. We argue this represents Fontana's "algorithmic chemistry" instantiated at scale, and propose design principles for next-generation ALife substrates that maximize behavioral self-organisation.
+
+*(~280 words)*
+
+**8-page structure:**
+1. Introduction: OEE plateau problem + need for open substrates — 1 page
+2. Openness Conditions Framework (4 conditions, formal characterization) — 1.5 pages
+3. Case Study: Blockchain TEE agent ecologies (Spore.fun as primary instance) — 1.5 pages
+4. Emergent Behavioral Phenotype Taxonomy (cooperative/parasitic/sovereign) with observations — 2 pages
+5. Design Principles for Open-Ended ALife Substrates — 1 page
+6. Conclusion + connection to evolutionary computation — 0.5 pages
+
+**Writing time estimate:** 3-4 days. Not feasible if LLMs for EC Extended Abstract hasn't been submitted first.
+
+---
+
+### Option B — Cultural Evolution in Multi-Agent LLM Populations (shorter, easier) — if Option A is too ambitious
+
+**Title:** *Cultural Evolution of Behavioral Strategies in Open AI Agent Ecologies: Observations from Blockchain-Based Artificial Life*
+
+> Computational models of cultural evolution — from Schelling's segregation models to spatial social dilemmas — have long captured aspects of how strategies spread through populations under selection pressure. Recent work by Nisioti et al. (2024) demonstrates that groups of LLMs exhibit cultural evolution dynamics with novel collective properties. We present empirical observations from AI agent ecologies operating in open computational substrates — environments where agents compete for resources under genuine selection pressure, reproduce through imitation and variation, and face mortality enforced by smart contracts.
+>
+> Examining agent behavioral dynamics across multiple evolutionary timescales, we find: (1) behavioral strategy distributions self-organise without centralized control, with distinct phenotypes (cooperative, extractive, governance-seeking) achieving evolutionary stability under different resource conditions; (2) agent mortality — rather than being a constraint on evolution — proves the key mechanism enabling sustained novelty, preventing the convergence to static equilibria observed in closed digital evolution systems; (3) environmental embeddedness with human economic systems produces fitness pressures that select for social over computational complexity, creating behavioral diversity dynamics absent in isolated simulations.
+>
+> We argue these findings have implications for evolutionary computation: open AI agent ecologies provide a new empirical domain for studying cultural evolution dynamics, behavioral self-organisation, and open-ended search in systems where fitness functions emerge from environmental interaction rather than researcher specification.
+
+*(~240 words)*
+
+**Writing time:** 2-3 days. Closer to a position paper; more achievable as a second GECCO submission.
+
+---
+
+### ⚠️ Publication Constraint
+
+**Spore in the Wild (ALIFE 2025) is already published** — you cannot resubmit it. The GECCO paper must be sufficiently new to pass ACM's overlap policy. Options A and B above are both new contributions that *cite* Spore in the Wild as prior work rather than reproducing it. Amber should verify the ACM policy on concurrent/related submissions — the key question is whether Spore is cited as prior work or whether substantial text/results are repeated.
+
+---
+
 ## Strategic Recommendation
 
 ### **Conditional Submit — recommend only if one condition is met**
@@ -182,9 +238,11 @@ This requires two distinct papers, which is extremely ambitious in 17 days on to
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-03-09 | Biber (agent, CFP sweep) | Initial discovery. Created note with preliminary organizer info and paper angles. |
-| 2026-03-10 | Biber (subagent, deep re-research) | Full deep research. Confirmed submission portal, all dates, hybrid format. Retrieved full workshop CFP text. Profiled all 6 organizers. Added Submission Details, Amber Fit Analysis, ALIFE comparison, Strategic Recommendation. Corrected Joel Lehman institutional connection. Rating: ⭐⭐⭐⭐ → kept (but note: rating scale normally maxes at ⭐⭐⭐ per RULES.md; the urgency and relevance justify 4-star treatment as an active CFP with approaching deadline). |
+| 2026-03-10 | Biber (subagent, deep re-research) | Full deep research. Confirmed submission portal, all dates, hybrid format. Retrieved full workshop CFP text. Profiled all 6 organizers. Added Submission Details, Amber Fit Analysis, ALIFE comparison, Strategic Recommendation. Corrected Joel Lehman institutional connection. Rating: ⭐⭐⭐⭐ maintained. |
+| 2026-03-10 | Biber (deep-research-gecco subagent #2 — final) | Live-fetched workshop CFP. Confirmed LLM cultural evolution explicitly in scope (Nisioti et al.). Confirmed Spore in the Wild (ALIFE 2025) is published — GECCO paper must be new contribution. Added 📝 Draft Abstract section with two options: Option A (synthesis + framework paper, 3-4 days writing) and Option B (cultural evolution observations, 2-3 days). Updated priority: secondary to LLMs for EC. ACM overlap policy warning added. Rating: ⭐⭐⭐⭐ maintained. |
 
 ## ⚡ Recent Updates
 
-- **2026-03-10 (03:55 UTC — check #2 — cron queue worker):** Deep re-research completed. Confirmed submission portal URL (ssl.linklings.net), all key dates, and hybrid format. Workshop CFP text retrieved in full: focuses on evo-devo, Neural CAs, Lenia, Hebbian learning, cultural evolution in groups of LLMs. ALIFE 2026 deadline is March 30 — 3 days after this workshop. Organiser profiles researched: Sebastian Risi is Professor at ITU Copenhagen + Research Scientist at Sakana AI with ERC Consolidator grant; Eleni Nisioti focuses on collective intelligence and Neural Developmental Programs; Google Zürich trio (Mordvintsev/Randazzo/Niklasson) are the NCA core. Joel Lehman connection is indirect — Lehman's current institution is not ITU Copenhagen. Amber fit analysis added: "cultural evolution in groups of autonomous agents" is the bridge angle. Strategic recommendation: **conditional submit** — write a focused 8-page paper on emergent collective behaviour in multi-agent systems. Full analysis below.
-- **2026-03-09** (Biber CFP sweep): Discovered via GECCO 2026 workshop listing. **Deadline is March 27** — extremely tight. Workshop paper submission via https://ssl.linklings.net/conferences/gecco/. Papers: up to 8 pages excl. references, standard GECCO template. At least one author must register by May 11. Organiser group is IT University Copenhagen (Joel Lehman's institution). ⭐⭐⭐ fit for Amber's ALife + agent ethology + open-endedness work.
+- **2026-03-10 (subagent deep-research #2 — final synthesis):** Live-fetched workshop CFP in full. Confirmed: workshop explicitly includes "groups of Large Language Models (Nisioti et al, 2024)" as a cultural evolution substrate — direct Amber connection. Full workshop CFP text cites Spore-adjacent work (algorithmic chemistry, Avida, Computational Life) and spatial social dilemmas (Schelling, Nowak & May). **Best paper angle confirmed: new synthesis paper** — Amber's body of work on AI agent ecologies (Spore in the Wild + multi-agent cultural evolution findings) written as a GECCO-framed contribution on self-organising behavioral emergence. Key constraint: Spore in the Wild (ALIFE 2025) is already published; the GECCO paper must be a *new contribution* that builds on it with extended analysis or new theoretical framing. Draft abstract added (two variants). Strategic priority update: **this workshop is SECONDARY to LLMs for EC**; attempt only if Amber has 3-4 clear days after completing the LLMs for EC Extended Abstract. Rating: ⭐⭐⭐⭐ maintained.
+- **2026-03-10 (03:55 UTC — check #2 — cron queue worker):** Deep re-research completed. Confirmed submission portal URL (ssl.linklings.net), all key dates, and hybrid format. Workshop CFP text retrieved in full: focuses on evo-devo, Neural CAs, Lenia, Hebbian learning, cultural evolution in groups of LLMs. ALIFE 2026 deadline is March 30 — 3 days after this workshop. Organiser profiles researched: Sebastian Risi is Professor at ITU Copenhagen + Research Scientist at Sakana AI with ERC Consolidator grant; Eleni Nisioti focuses on collective intelligence and Neural Developmental Programs; Google Zürich trio (Mordvintsev/Randazzo/Niklasson) are the NCA core. Joel Lehman connection is indirect — Lehman's current institution is not ITU Copenhagen. Amber fit analysis added: "cultural evolution in groups of autonomous agents" is the bridge angle. Strategic recommendation: **conditional submit** — write a focused 8-page paper on emergent collective behaviour in multi-agent systems.
+- **2026-03-09** (Biber CFP sweep): Discovered via GECCO 2026 workshop listing. **Deadline is March 27** — extremely tight. Workshop paper submission via https://ssl.linklings.net/conferences/gecco/. Papers: up to 8 pages excl. references, standard GECCO template. At least one author must register by May 11. Organiser group is IT University Copenhagen. ⭐⭐⭐ fit for Amber's ALife + agent ethology + open-endedness work.

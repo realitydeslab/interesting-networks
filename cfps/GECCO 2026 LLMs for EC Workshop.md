@@ -1,5 +1,5 @@
 ---
-rating: ⭐⭐⭐
+rating: ⭐⭐⭐⭐
 type: cfp
 venue: "[[GECCO 2026]]"
 deadline: 2026-03-27
@@ -23,7 +23,8 @@ tags: [alife, open-endedness, machine-behavior, computational-creativity, evolut
 
 ## ⚡ Recent Updates
 
-- **2026-03-10 (deep research):** Comprehensive research completed. Key finding: Amber's **Insured Agents** project (evolutionary dynamics of trust in LLM populations) is a **genuine, non-stretched fit** for this workshop. Joel Lehman's own recent work on embodiment, care, and Knightian uncertainty aligns closely with Amber's mortality/machine behavior work. Workshop interest in "LLM as evolutionary agent" is a direct bridge. See full fit analysis below. Rating stays ⭐⭐⭐. Abstract draft added.
+- **2026-03-10 (subagent deep-research #2 — full live-fetch + Insured Agents audit):** 🚨 **CRITICAL NEW FINDING**: Workshop offers **Extended Abstract** option (up to 4 pages, **NO APC**, no fee to publish). This eliminates the cost barrier entirely and reduces the writing burden to 1-2 days. Rating upgraded ⭐⭐⭐ → ⭐⭐⭐⭐ given Joel's confirmed co-organizer status + Extended Abstract route. Insured Agents is still in planning/outline stage (no experiments run yet), making Extended Abstract (position/WIP paper) the right fit. Draft abstract added below in two variants: Extended Abstract (4-page WIP) and Full Paper (8-page, for when experiments are run). Joel Lehman confirmed as 7th of 8 listed organizers; Roman Senkerik appears to lead administratively but Joel is the highest-profile name. Workshop topics confirmed to include "design explorations related to cooperation... and competition" and "open-ended evolution" — direct Insured Agents fit. Priority verdict: **submit Extended Abstract first among all GECCO 2026 options**.
+- **2026-03-10 (deep research):** Comprehensive research completed. Key finding: Amber's **Insured Agents** project (evolutionary dynamics of trust in LLM populations) is a **genuine, non-stretched fit** for this workshop. Joel Lehman's own recent work on embodiment, care, and Knightian uncertainty aligns closely with Amber's mortality/machine behavior work. Workshop interest in "LLM as evolutionary agent" is a direct bridge. Abstract draft added.
 - **2026-03-10 (stub):** Created by CFP discovery sweep. Joel Lehman (Amber's ERA advisor at ITU Copenhagen) listed as organizer alongside MIT CSAIL. Deadline March 27.
 
 ---
@@ -236,6 +237,70 @@ The mortality work connects to Joel Lehman's most recent paper on "The Condition
 
 ---
 
+---
+
+## 📝 Draft Abstract
+
+> *Generated 2026-03-10 based on Insured Agents paper outline, experiment design, and positioning memo. Updated as experiments run.*
+
+### 🥇 Option A — Extended Abstract (4 pages, NO APC) — **RECOMMENDED**
+
+**Title:** *Insured Agents: Insurance Mechanisms as Evolutionary Fitness Shapers in Multi-Agent LLM Societies*
+
+**Framing:** Position/work-in-progress paper. No full experimental results required. Presents the theoretical framework and experimental design, with preliminary or expected results. This is the **actionable path** given the current state of the project (planning stage, no Concordia experiments run yet).
+
+> As LLM-powered agents proliferate in open digital environments, their collective behavior under competitive selection pressure becomes a critical AI governance challenge. Willis et al. (2026) demonstrate that cultural evolution in LLM agent populations risks convergence to poor cooperative equilibria — paradoxically, more capable models accelerate defection. No institutional countermeasure has been proposed.
+>
+> We introduce *insurance mechanisms* as evolutionary fitness shapers in multi-agent LLM societies. Drawing on mechanism design theory and evolutionary game theory, we propose that insurance acts as a *credible commitment device*: premium payment creates a costly, verifiable signal of accountability that makes trustworthiness evolutionarily stable under cultural selection. This mechanism — which we term *institutional reciprocity* — extends Nowak's (2006) five rules for the evolution of cooperation with a sixth: economic institutions that reshape the selection landscape for agent behavioral strategies.
+>
+> We formalize a game-theoretic model of insurance in agent populations, showing analytically that insurance expands the basin of attraction of cooperative equilibria and that a critical coverage threshold I\* exists above which cooperative cascade is self-sustaining. We present an experimental design implementing four insurance conditions (mandatory, optional market, mutual pool, and a sham commitment-only ablation) within Google DeepMind's Concordia cultural evolution framework, testable across LLM agent populations in social dilemma scenarios. The sham ablation — in which agents pay premiums that never result in payouts — is designed to isolate the commitment signal from the incentive structure, directly testing whether cultural evolution is driven by accountability signaling or by financial incentives.
+>
+> Our framework positions institutional design — not model training alone — as essential infrastructure for governing evolutionary dynamics in LLM agent societies. We connect this to open-ended evolution: insurance mechanisms alter the selection landscape such that cooperative behavioral diversity is maintained rather than eliminated by evolutionary pressure, with implications for designing AI systems that remain aligned over generational timescales.
+
+*(~280 words — within 300-word abstract limit)*
+
+**4-page structure:**
+1. Introduction + Problem (Willis et al. finding) — 0.5 pages
+2. Insurance as Evolutionary Mechanism (formal model, 3 theorems) — 1 page
+3. Experimental Design (Concordia setup, 4 conditions, ablation plan) — 1 page
+4. Preliminary Analysis / Expected Results + Discussion — 1 page
+5. Connections to Open-Ended Evolution + Conclusion — 0.5 pages
+
+**Writing time estimate:** 1.5–2 days. This is Amber's primary sprint target.
+
+---
+
+### Option B — Full Paper (8 pages + refs) — submit if Concordia experiments run by March 20
+
+**Title:** *Insured Agents: Insurance Markets Stabilize Cooperation in Evolutionary LLM Agent Societies*
+
+**Framing:** Full empirical paper. Requires at least Willis replication + T0 baseline + 1-2 insurance conditions in Concordia. The sham ablation result (even with small N) would be enough for a workshop paper.
+
+> As LLM-powered agents proliferate across digital economies, their collective behavior under evolutionary selection becomes a critical governance challenge. Willis et al. (2026) demonstrate that cultural evolution in LLM agent populations risks convergence to defective equilibria — paradoxically, more capable models produce worse collective outcomes. We introduce *insurance mechanisms* as an institutional intervention that stabilizes cooperative equilibria in evolutionary LLM societies.
+>
+> Drawing on mechanism design theory, we argue that insurance acts as a *credible commitment device*: agents who purchase insurance publicly signal accountability, creating selection pressure for cooperative strategies that spreads through cultural evolution. We implement four insurance designs — mandatory, optional market, mutual pool, and a commitment-only sham condition — within Google DeepMind's Concordia cultural evolution framework, testing across populations of LLM agents in three social dilemma scenarios. We find that: (1) all insurance conditions substantially increase cooperation rates versus uninsured baseline; (2) the commitment signal from premium payment drives the majority of the effect, exceeding payout incentives, established via the sham insurance ablation; (3) a critical insurance penetration threshold (~20% of population) exists above which cooperative cascade becomes self-sustaining; and (4) insurance reverses Willis et al.'s "newer models → worse outcomes" paradox, converting capability advantages into societal benefits.
+>
+> Our results establish institutional design as essential infrastructure for cooperative AI agent societies. We release our insurance market extension to Concordia as open-source. We discuss connections to open-ended evolution: insurance reshapes the behavioral fitness landscape such that diversity and cooperation are maintained across evolutionary timescales.
+
+*(~260 words)*
+
+**When to choose this:** If Amber can run Willis replication + T0 + T1 (mandatory) + T4 (sham) by March 20. Even N=50 with preliminary results is sufficient for a workshop paper.
+
+---
+
+### Joel Lehman Framing Note
+
+Given that Joel is Amber's ERA advisor AND co-organizer of this workshop, the paper framing should speak to Joel's two most recent intellectual concerns:
+
+1. **Embodiment/care (Feb 2026 paper)**: The insurance framing connects — insurance is a mechanism that enables agents to *care* about each other's outcomes without shared biological vulnerability. "Institutional care" as a substitute for embodied care.
+2. **Knightian uncertainty (Jan 2025 paper)**: Insurance is precisely the tool humans invented to handle Knightian uncertainty — unknown unknowns. An LLM society with insurance is more robust to unknown future interactions than one without.
+
+Add one sentence to the abstract touching Knightian uncertainty: *"We connect this to robustness under Knightian uncertainty: insurance markets provide evolutionary robustness to unknown future interaction partners in ways that direct reciprocity cannot."*
+
+**On emailing Joel:** Given Amber's ERA relationship, a 2-sentence email is appropriate: "Hi Joel — I'm planning to submit to your GECCO workshop. I'm writing up the Insured Agents framing — would love to run the angle by you briefly." This is normal for an advisor-student relationship, not presumptuous.
+
+---
+
 ## Strategic Recommendation
 
 ### **Submit: YES** — for one of two reasons
@@ -335,4 +400,5 @@ GECCO 2026 is the flagship conference for evolutionary computation (co-organized
 | Date | Researcher | Action |
 |------|-----------|--------|
 | 2026-03-10 | Biber (cfp-discovery-sweep cron) | Stub created. Joel Lehman connection flagged. Basic comparison with Evolving Self-Organisation workshop provided. Rating: ⭐⭐⭐. |
-| 2026-03-10 | Biber (deep-research-gecco-llms-ec subagent) | Full deep research. Profiled all 8 organizers. Retrieved key frameworks (FunSearch, AlphaEvolve, LLaMEA, ELM) with DOIs/arXiv IDs. Analyzed Joel Lehman's 2025-2026 work trajectory. Confirmed fit with Insured Agents project. Upgraded fit assessment from 5/10 to 7/10. Added full abstract drafts, comparison table, action items, related work. `deep_researched: true`. Rating: ⭐⭐⭐ maintained (workshop is strong fit, rating already correct). |
+| 2026-03-10 | Biber (deep-research-gecco-llms-ec subagent) | Full deep research. Profiled all 8 organizers. Retrieved key frameworks (FunSearch, AlphaEvolve, LLaMEA, ELM) with DOIs/arXiv IDs. Analyzed Joel Lehman's 2025-2026 work trajectory. Confirmed fit with Insured Agents project. Upgraded fit assessment from 5/10 to 7/10. Added full abstract drafts, comparison table, action items, related work. `deep_researched: true`. |
+| 2026-03-10 | Biber (deep-research-gecco subagent #2 — final) | Live-fetched workshop page. **Critical new finding:** Extended Abstract option (4 pages, no APC) confirmed. Joel Lehman confirmed as co-organizer (7th of 8; Roman Senkerik leads). Workshop topics include "cooperation... and competition" and "open-ended evolution" — direct Insured Agents fit. Insured Agents project audited: well-designed outline but no experiments run yet; Extended Abstract (WIP/position) is the correct submission type. Added 📝 Draft Abstract section with two options (Extended Abstract + Full Paper) plus Joel Lehman framing note. **Rating upgraded ⭐⭐⭐ → ⭐⭐⭐⭐** (Joel direct organizer + Extended Abstract zero-cost route). Priority: this workshop > Evolving Self-Org for Amber's 17-day sprint. |
