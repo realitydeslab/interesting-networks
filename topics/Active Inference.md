@@ -1,9 +1,9 @@
 ---
 added: 2026-02-26
-last_researched: 2026-02-27
-revisit_weeks: 6
-next_research: 2026-04-10
-rating: ⭐⭐
+last_researched: 2026-03-10
+revisit_weeks: 5
+next_research: 2026-04-14
+rating: ⭐⭐⭐
 tags: [alife, machine-behavior, more-than-human, embodied, active-inference, enactivism, social-simulation, open-endedness]
 edge_of_chaos: true
 deep_researched: true
@@ -14,8 +14,9 @@ deep_researched: true
 A unified mathematical framework for understanding how living systems — from bacteria to brains to social collectives — maintain their existence by minimizing variational "free energy" (a measure of surprise or prediction error). Proposed by Karl Friston as the Free Energy Principle (FEP), active inference holds that all biological behavior can be understood as inference: perception updates internal models of the world; action changes the world to match predictions. The agent is simultaneously a scientist (modeling its environment) and an engineer (reshaping reality to fit its model). Arguably the most ambitious unified theory in cognitive/life science — claiming to explain perception, action, learning, attention, consciousness, morphogenesis, sociality, and evolution under one formal language.
 
 ## ⚡ Recent Updates
+- **2026-03-10:** Quick refresh check. Three notable developments since Feb 27: (1) **multi-agent joint agency via active inference** (Maisto, Nuzzi, Pezzulo, arXiv Nov 2025/updated Jan 2026) — collective behavior emerging from individual FEP agents, directly relevant to agent ethology; (2) **normative active inference for AI governance** (Constant, Albarracin, Friston, Nov 2025) — FEP applied to how legal/social norms shape AI agent behavior, connects to FAccT and Sovereign Agents; (3) **active inference for multi-agent orchestration** (Beckenbauer et al., Sept 2025) — practical agentic systems using FEP. AII active with 2025 4th Quarterly Roundtable complete. **§22 re-evaluation: Upgrading to ⭐⭐⭐** — multi-agent + collective behavior angle now directly connects to Amber's agent ethology and ALIFE 2026 work. The field is generating the theoretical vocabulary for studying how AI agents behave in collectives, which is exactly what Amber needs.
 - **2026-02-27:** Deep research completed. Full topic note written.
-- **2025:** Active Inference Institute holds its 5th Applied Active Inference Symposium (Nov 12–14). pymdp transitions to JAX backend (v1 alpha).
+- **2025:** Active Inference Institute holds its 5th Applied Active Inference Symposium (Nov 12–14). pymdp transitions to JAX backend (v1 alpha). New paper: "What the flock knows that the birds do not: exploring the emergence of joint agency in multi-agent active inference" (Maisto, Nuzzi, Pezzulo — arXiv Nov 2025, updated Jan 2026) — collective intelligence via FEP.
 - **2024:** AII receives 501(c)(3) recognition. Fellows program launched. 4th Applied Symposium held.
 - **2023:** Bayesian Mechanics paper in *Interface Focus* (Ramstead et al.) formalizes connections between FEP and physics. AII publishes "Distributed Science" applying active inference to the scientific process itself.
 - **2022:** Parr, Pezzulo, Friston textbook [*Active Inference: The Free Energy Principle in Mind, Brain, and Behavior*](https://mitpress.mit.edu/9780262045353/active-inference/) published (MIT Press) — field's anchor text. pymdp Python library published (JOSS).
@@ -261,5 +262,6 @@ Active inference occupies a singular position: it's the most ambitious unifying 
 ## 📋 Update Log
 | Date | Researcher | Action |
 |------|-----------|--------|
+| 2026-03-10 | Biber (subagent) | Quick refresh. Added 3 new papers to ⚡ Recent Updates: multi-agent joint agency (Maisto/Pezzulo), normative active inference for AI governance (Constant/Albarracin/Friston), active inference for multi-agent orchestration (Beckenbauer et al.). **§22 re-evaluation: Upgraded from ⭐⭐ → ⭐⭐⭐**. Rationale: collective behavior via FEP now directly bridges to Amber's agent ethology and ALIFE 2026 work; normative AIF connects to FAccT/Sovereign Agents. Field is active, tools maturing (pymdp JAX), community growing (AII 4th Quarterly Roundtable complete). |
 | 2026-02-26 | Biber (agent) | Initial stub created. Basic frontmatter and placeholder notes. |
 | 2026-02-27 | Biber (subagent) | Full deep research completed at ⭐⭐ depth. All sections filled. Key people, institutions, papers, venues, communities, For Amber analysis, open questions, edge of chaos analysis. `deep_researched: true`. |
