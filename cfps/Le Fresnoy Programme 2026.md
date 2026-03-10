@@ -3,12 +3,12 @@ rating: ⭐⭐⭐
 venue: "[[Le Fresnoy — Studio national des arts contemporains]]"
 deadline: 2026-03-11
 url: https://www.lefresnoy.net/en/school/admissions/
-status: open
-urgent: true
+status: closed
+urgent: false
 added: 2026-02-27
-last_researched: 2026-03-08
-revisit_weeks: 1
-next_research: 2026-03-12
+last_researched: 2026-03-10
+revisit_weeks: 38
+next_research: 2026-12-01
 deep_researched: true
 tags: [art-science, computational-creativity, embodied, posthuman, more-than-human, speculative-design]
 ---
@@ -16,6 +16,7 @@ tags: [art-science, computational-creativity, embodied, posthuman, more-than-hum
 # CFP: Le Fresnoy 2-Year Programme — 2026 Intake
 
 ## ⚡ Recent Updates
+- **2026-03-10 (03:55 UTC — FINAL pre-deadline check — cron queue worker):** Live fetch of admissions page confirmed deadline **TOMORROW — Wednesday March 11, 2026 — 3pm Paris time**. Schedule unchanged. **2026 intake closes TOMORROW — Amber ineligible (age restriction: born after Dec 31, 1990). Archiving.** 2027 cycle: application form opens **December 2, 2026** (confirmed on admissions page). No dedicated visiting professor open-call or residency track found — Le Fresnoy is a school, not a residency programme; visiting professors are invited by the institution, not applied-for. Panorama 28 exhibition: Sep 18, 2026 – Jan 3, 2027 (actionable: attend for network/visibility). **Status set to `closed`. Next research: 2026-12-01 (when 2027 intake application form opens).**
 - **2026-03-08 (13:44 UTC — revisit — cron queue worker):** Live fetch of admissions page confirmed deadline **Wednesday March 11, 2026 — 3pm** — 3 days away. Schedule unchanged. Age restriction still in effect (born after Dec 31, 1990 required). Amber remains ineligible. Application portal note on site ("Access the online application form on December 2 2026") likely refers to the **2027 intake** opening — suggests the next cycle opens December 2026. No new information. **No action required for 2026 intake.** Monitor for any future age policy changes or visiting professorship openings.
 - **2026-03-04:** Re-confirmed ineligibility via live fetch of [lefresnoy.net/en/school/admissions/](https://www.lefresnoy.net/en/school/admissions/). Deadline confirmed: **Wednesday March 11, 2026 — 3pm**. Full schedule unchanged. Age restriction still in effect — Amber remains ineligible. Deadline now 7 days away. No action required.
 - **2026-03-02:** Deep research completed. **CRITICAL FINDING: Amber is almost certainly INELIGIBLE** — age limit is born after December 31, 1990 (i.e., max 35 on Jan 1, 2026). Amber born ~1989 = ineligible. Full eligibility analysis below.
@@ -273,5 +274,6 @@ The programme has no permanent faculty. All professors are visiting artists for 
 |------|-----------|--------|
 | 2026-02-27 | Biber (subagent, deep-research-le-fresnoy) | CFP note created. Deadline is 12 days away — URGENT. |
 | 2026-03-02 | Biber (subagent, deep-research-le-fresnoy-cfp) | Deep research completed. CRITICAL: Amber is ineligible (born before Jan 1, 1991). Full admissions requirements, 2025-26 faculty roster, Panorama 27 analysis, strategic assessment added. |
+| 2026-03-10 | Biber (subagent, lefresnoy-final-check) | FINAL pre-deadline check. Deadline TOMORROW March 11 confirmed. Amber ineligible. Status → closed. 2027 cycle opens Dec 2 2026. Panorama 28: Sep 18–Jan 3 2027. next_research: 2026-12-01. |
 | 2026-03-08 | Biber (subagent, lefresnoy-iccc-revisit) | Revisit check. Deadline March 11 confirmed (3 days away). Age restriction unchanged. Next cycle likely opens Dec 2 2026. No action for 2026. next_research: 2026-03-12. |
 | 2026-03-04 | Biber (scout cron) | Eligibility re-confirmed via live fetch. Deadline March 11 confirmed (7 days away). Age restriction unchanged — Amber ineligible. next_research set to 2026-03-12 (day after deadline, for final status close). |
