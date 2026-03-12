@@ -5,9 +5,9 @@ url: https://2026.alife.org/call-for-papers/
 status: open
 urgent: true
 added: 2026-02-26
-last_researched: 2026-03-10
+last_researched: 2026-03-12
 revisit_weeks: 1
-next_research: 2026-03-12
+next_research: 2026-03-14
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
@@ -21,6 +21,8 @@ tags: [alife, computational-creativity, open-endedness, machine-behavior, embodi
 ---
 
 ## ⚡ Recent Updates
+
+- **2026-03-12 (11:52 UTC — check #32 — queue worker):** 🎉 **WORKSHOPS PAGE IS LIVE!** After 31 consecutive 404s, `https://2026.alife.org/workshops-sessions/` now returns 200 OK (note: URL changed from `/workshops/` to `/workshops-sessions/`). **7 special sessions accepted:** (1) Life with Limits: ALife & Natural Resources (Munson, Duke); (2) Law as Complex-Adaptive System (Soininen, UEF + Leach, Tilburg); (3) Quantum Biology & ALife (Craddock, Waterloo); (4) Distributed Maple Leaves: CA & Intelligence (Sayama, Binghamton + Nichele, Østfold + Nehaniv, Waterloo + Medvet, Trieste + Pavone, Catania); (5) **ALife as Experimental Philosophy** (Gaskin, Sydney + McGregor, Sussex) — ⭐ RELEVANT: agency, autonomy, emergence, individuality, natural philosophy; (6) **ALife for Science & Engineering** (Nisioti + Najarro + Montero + Korte, ITU Copenhagen + Hartl, Tufts) — mentions open-endedness, intrinsic motivation, innovation networks; (7) Co-design of Robot Morphology & Control (Ellefsen + Glette + deBruin, Oslo + Luck, VU Amsterdam). **For Amber:** Sessions #5 (Experimental Philosophy) and #6 (Science & Engineering) are most relevant. #5 directly addresses agency/autonomy/emergence — core to agent ethology and machine behavior framing. CFP deadline March 30 UNCHANGED. **18 days remain.**
 
 - **2026-03-10 (10:55 UTC — check #31 — queue worker):** Live-verified all six sources. **(a) Workshops page STILL 404** — **31st consecutive check**. Page not found. Check performed 1 day ahead of sprint plan's March 11 workshop check. **(b) Homepage (200 OK)** — venue info (Waterloo, Ontario + Wilfrid Laurier) only; no new keynotes, registration, or schedule announcements. **(c) CFP page (200 OK)** — March 30 deadline UNCHANGED. Templates (Overleaf, LaTeX, MS-Word) present. **(d) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" + Sign In form. "No announcements at this time." Portal LIVE. **(e) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). ISAL sidebar confirms: submission deadline March 30, workshop proposal deadline Feb 28. No new ALIFE 2026 news. **(f) Web search API unavailable** — Brave subscription invalid. **Summary: workshops STILL dark (31 consecutive 404s). Portal live. March 30 deadline unchanged. 20 days remain.** next_research: 2026-03-12.
 

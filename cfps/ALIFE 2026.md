@@ -6,16 +6,18 @@ based: Waterloo, Ontario, Canada
 tags: [artificial-life, emergence, self-organization, open-endedness, machine-behavior, agent-behavior, alife-community]
 interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
-last_researched: 2026-03-10
+last_researched: 2026-03-12
 revisit_weeks: 1
-next_research: 2026-03-12
-_check_number: 31
+next_research: 2026-03-14
+_check_number: 32
 deep_researched: true
 ---
 
 # ALIFE 2026 — Conference on Artificial Life
 
 ## ⚡ Recent Updates
+
+- **2026-03-12 (11:52 UTC — check #32 — queue worker):** 🎉 **WORKSHOPS/SESSIONS PAGE LIVE** at `https://2026.alife.org/workshops-sessions/` (was 404 for 31 checks). 7 accepted special sessions. Most relevant for Amber: **"ALife as Experimental Philosophy"** (Gaskin/Sydney + McGregor/Sussex — agency, autonomy, emergence, individuality) and **"ALife for Science & Engineering"** (Nisioti et al., ITU Copenhagen — open-endedness, intrinsic motivation, innovation networks). Also: Life with Limits (Duke), Law as CAS (UEF/Tilburg), Quantum Biology & ALife (Waterloo), Distributed Maple Leaves/CA & Intelligence (Sayama et al.), Robot Morphology Co-design (Oslo/VU Amsterdam). March 30 deadline UNCHANGED. 18 days remain.
 
 - **2026-03-10 (10:55 UTC — check #31 — queue worker):** All six sources live-verified. **(a) Workshops page STILL 404** — **31st consecutive check**. Check performed 1 day ahead of sprint plan's March 11 workshop check. **(b) Homepage (200 OK)** — venue info only; no new keynotes, registration, or schedule. **(c) CFP page (200 OK)** — March 30 deadline UNCHANGED. **(d) Linklings portal (200 OK)** — "Welcome to the ALIFE 2026 submission site!" Sign In form. "No announcements at this time." Portal LIVE. **(e) ISAL (alife.org, 200 OK)** — latest post still Feb 17 2026 (award nominations). ISAL sidebar confirms submission deadline March 30. No new ALIFE 2026 news. **(f) Web search API unavailable.** **Summary: workshops completely dark (31 consecutive 404s). Portal live. March 30 deadline unchanged. 20 days remain.** next_research: 2026-03-12.
 
