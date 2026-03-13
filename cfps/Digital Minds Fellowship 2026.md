@@ -7,16 +7,18 @@ status: open
 urgent: true
 rating: ⭐⭐⭐⭐
 added: 2026-02-26
-last_researched: 2026-03-10
+last_researched: 2026-03-13
 deep_researched: true
 revisit_weeks: 1
-next_research: 2026-03-13
+next_research: 2026-03-17
 tags: [machine-behavior, alife, critical-computing, more-than-human, posthuman]
 ---
 
 # CFP: Digital Minds Fellowship 2026
 
 ## ⚡ Recent Updates
+
+- **2026-03-13 (09:51 UTC — check #16 — queue worker):** ✅ Live-verified: deadline **March 27, 2026 CONFIRMED UNCHANGED** — HTTP 200, verbatim: *"Currently accepting applications. Deadline 27 March 2026. Apply here."* Airtable form confirmed active. **T-14 days.** Essays previously marked READY TO SUBMIT. Final proofread with claude-opus scheduled March 23–25; submit March 26.
 
 - **2026-03-10 (10:50 UTC — check #15 — queue worker):** ✅ Live-verified: deadline **March 27, 2026 CONFIRMED UNCHANGED** — HTTP 200, verbatim: *"Currently accepting applications. Deadline 27 March 2026. Apply here."* Airtable form **ACTIVE** (HTTP 200, "Interface Form - Airtable"). **T-17 days.** Web search API unavailable (Brave 422 — consistent across all recent passes). **📝 ESSAY QUALITY ASSESSMENT COMPLETE:** Both POLISHED essays are **READY TO SUBMIT**. Q1 (~287w, within ≤300): distinctive hook, behavioral methodology argument clear, concrete behavioral indicators present (anomalous goal-preservation, resource-deprivation state mods), Caviola/Sebo/Birch citation confirmed correct, closing explicitly names the fellowship. Q2 (~191w, within ≤200): ERA→Digital Minds arc clean, animal welfare analogy (two-decade lag) well-placed, concrete framework paper output named, "empirical obs / policy scaffolding" line is standout, honest career uncertainty. One outstanding verify before submission: confirm final titles of "Spore in the Wild (ALIFE 2025)" and "Trustless Autonomy (CSCW 2026)." Final proofread with claude-opus March 23–25; submit March 26. **🔴🔴🔴 JOEL LEHMAN EMAIL — check #15. TODAY (March 10) IS THE ABSOLUTE LAST DAY OF THE WINDOW.** 15 consecutive passes with zero confirmed record of this email being sent. The application is otherwise submission-ready. This is the sole remaining blocker. Send it NOW.
 
