@@ -8,7 +8,7 @@ interest: "⭐⭐⭐⭐⭐"
 added: 2026-03-02
 last_researched: 2026-03-12
 revisit_weeks: 1
-next_research: 2026-03-14
+next_research: 2026-03-21
 _check_number: 32
 deep_researched: true
 ---

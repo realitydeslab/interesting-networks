@@ -7,7 +7,7 @@ urgent: true
 added: 2026-02-26
 last_researched: 2026-03-12
 revisit_weeks: 1
-next_research: 2026-03-14
+next_research: 2026-03-21
 submit_url: https://ssl.linklings.net/conferences/ALIFE/
 deep_researched: true
 rating: ⭐⭐⭐⭐⭐
