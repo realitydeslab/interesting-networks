@@ -10,6 +10,7 @@ last_researched: 2026-03-15
 revisit_weeks: 4
 next_research: 2026-04-12
 tags: [consciousness, mathematical-consciousness, machine-behavior, more-than-human]
+deep_researched: true
 ---
 
 # CFP: Computational Neurophenomenology Cabin Workshop 2027
