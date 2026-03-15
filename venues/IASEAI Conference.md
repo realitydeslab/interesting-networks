@@ -7,6 +7,7 @@ revisit_weeks: 4
 next_research: 2026-04-11
 frequency: annual
 tags: [critical-computing, machine-behavior, ai-safety, ai-governance]
+deep_researched: true
 ---
 
 # IASEAI Conference
